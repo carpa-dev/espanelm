@@ -6,49 +6,56 @@ import Html exposing (Html, button, div, h1, img, input, li, text, ul)
 import Html.Attributes exposing (disabled, placeholder, src, style, value)
 import Html.Events exposing (onBlur, onInput)
 import Http
-import Json.Decode exposing (Decoder, decodeString, field, list, string)
+import Json.Decode exposing (Decoder, decodeString, field, list, map2, string)
 
 
 
 ---- MODEL ----
 
 
+type alias Verb =
+    String
+
+
 type VerbOptions
     = Failure
     | Loading
-    | Success (List String)
+    | Success (List Verb)
 
 
 type alias Model =
     { verbs : String
     , options : VerbOptions
-    , unavailable: List String
+    , unavailable : List String
+    , failureCause : String
     }
 
 
 init : () -> ( Model, Cmd Msg )
 init _ =
-    ( { verbs = "", options = Loading, unavailable = [] }
+    ( { verbs = "", options = Loading, unavailable = [], failureCause = "" }
     , Http.get
-        { url = "http://localhost:8080/conjugations.json"
+        { url = "/verbs.json"
         , expect = Http.expectJson GotVerbOptions verbOptionsDecoder
         }
     )
 
 
-verbOptionsDecoder : Decoder (List String)
+verbOptionsDecoder : Decoder (List Verb)
 verbOptionsDecoder =
-    list (field "verb" string)
+    list string
 
 
 
+--verbOptionsDecoder =
+--    list (field "verb" string)
 ---- UPDATE ----
 
 
 type Msg
     = Change String
     | Blur
-    | GotVerbOptions (Result Http.Error (List String))
+    | GotVerbOptions (Result Http.Error (List Verb))
 
 
 update : Msg -> Model -> ( Model, Cmd Msg )
@@ -65,8 +72,24 @@ update msg model =
                 Ok response ->
                     ( { model | options = Success response }, Cmd.none )
 
-                Err _ ->
-                    ( { model | options = Failure }, Cmd.none )
+                Err r ->
+                    ( { model
+                        | options = Failure
+                        , failureCause =
+                            fetchErrorToString r
+                      }
+                    , Cmd.none
+                    )
+
+
+fetchErrorToString : Http.Error -> String
+fetchErrorToString error =
+    case error of
+        Http.BadBody err ->
+            err
+
+        _ ->
+            "wrong"
 
 
 
@@ -76,18 +99,16 @@ update msg model =
 view : Model -> Html Msg
 view model =
     div []
-        [ img [ src "/logo.svg" ] []
-        , h1 [] [ text "Choose your verbs" ]
+        [ h1 [] [ text "Choose your verbs" ]
         , input [ placeholder "Verbs", value model.verbs, onBlur Blur, onInput Change, style "border" (getInputBorderStyle model) ] []
         , button [ disabled (not (isValid model)) ] [ text "Submit" ]
-        -- , viewEmptyVerb model
         , viewUnavailableVerb model
-        , viewOptionList model
+        , viewVerbsList model
         ]
 
 
-viewOptionList : Model -> Html Msg
-viewOptionList model =
+viewVerbsList : Model -> Html Msg
+viewVerbsList model =
     case model.options of
         Success options ->
             ul
@@ -101,27 +122,33 @@ viewOptionList model =
 
 
 viewEmptyVerb : Model -> Html Msg
-viewEmptyVerb model = 
-    if hasEmptyVerb model then div [ style "color" "red" ] [ text "There are empty verbs on your list" ] else text ""
+viewEmptyVerb model =
+    if hasEmptyVerb model then
+        div [ style "color" "red" ] [ text "There are empty verbs on your list" ]
+
+    else
+        text ""
 
 
 viewUnavailableVerb : Model -> Html Msg
-viewUnavailableVerb model = 
+viewUnavailableVerb model =
     if not (List.isEmpty model.unavailable) then
-        div [ style "color" "red" ] [ text ("The following verbs are not available: " ++ (String.join ", " model.unavailable)) ]
-    else text ""
+        div [ style "color" "red" ] [ text ("The following verbs are not available: " ++ String.join ", " model.unavailable) ]
+
+    else
+        text ""
 
 
-viewOptionItem : String -> Html Msg
+viewOptionItem : Verb -> Html Msg
 viewOptionItem verb =
     li [] [ text verb ]
 
 
 hasEmptyVerb : Model -> Bool
-hasEmptyVerb model = 
-    model.verbs |>
-        String.split "," |>
-        List.any isVerbEmpty
+hasEmptyVerb model =
+    model.verbs
+        |> String.split ","
+        |> List.any isVerbEmpty
 
 
 isValid : Model -> Bool
@@ -154,7 +181,7 @@ getVerbList model =
 
 
 getUnavailableVerbs : Model -> List String
-getUnavailableVerbs model = 
+getUnavailableVerbs model =
     model.verbs |> String.split "," |> List.filter (\verb -> not (isVerbAvailable model.options verb))
 
 
