@@ -1,0 +1,26 @@
+{
+  "name": "espanelm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carpa-dev/espanelm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carpa-dev/espanelm/issues"
+  },
+  "homepage": "https://github.com/carpa-dev/espanelm#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
