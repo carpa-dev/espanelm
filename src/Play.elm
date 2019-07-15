@@ -2,7 +2,9 @@ module Play exposing (Model, Msg, init, update, view)
 
 import Debug
 import Game exposing (Msg(..))
-import GameCommon exposing (Conjugation, Verb)
+import Game.AvailableVerbs
+import Game.PickingSettings as PickingSettings exposing (Msg(..))
+import GameCommon exposing (Conjugation, Person, Verb)
 import Html exposing (Html, a, button, div, h1, h3, h4, img, input, label, li, text, ul)
 import Html.Attributes exposing (checked, class, disabled, for, href, id, placeholder, src, style, type_, value)
 import Html.Events exposing (onBlur, onClick, onInput)
@@ -14,118 +16,41 @@ import Json.Decode exposing (Decoder, decodeString, field, list, map2, string)
 -- Model
 
 
-type alias Round =
-    { person : GameCommon.Person, verb : Verb, conjugation : GameCommon.Conjugation }
+type alias LoadingAvailableVerbs =
+    Maybe String
 
 
 type Page
-    = PickingSettings
-    | Playing Game.Model
-
-
-type alias GameState =
-    { rounds : List Round
-    , answer : String
-    }
-
-
-type VerbOptions
-    = Failure
-    | Loading
-    | Success (List Verb)
+    = LoadingAvailableVerbs LoadingAvailableVerbs
+    | PickingSettings PickingSettings.Model
+    | PreparingGame -- Loading verbs, generating rounds
+    | Playing Game.Model -- Actually playing the game
 
 
 type alias Model =
-    { verbs : String
-    , options : VerbOptions
-    , unavailable : List String
-    , failureCause : String
-    , conjugations : List GameCommon.Conjugation
-    , page : Page
-    , availableConjugations : List GameCommon.Conjugation
-    , availablePersons : List GameCommon.Person
+    { page : Page
     }
 
 
 initialModel : Model
 initialModel =
-    { verbs = "abortar"
-    , options = Loading
-    , unavailable = []
-    , failureCause = ""
-    , conjugations = []
-    , page = PickingSettings
-    , availableConjugations = GameCommon.allConjugations
-    , availablePersons = GameCommon.allPersons
+    { page = LoadingAvailableVerbs Nothing
     }
 
 
 type Msg
-    = Change String
-    | Blur
-    | GotVerbOptions (Result Http.Error (List Verb))
-    | Play
-    | SelectConjugation GameCommon.Conjugation
+    = GotVerbOptions (Result Http.Error (List Verb))
     | GameMsg Game.Msg
+    | PickingSettingsMsg PickingSettings.Msg
 
 
 init : ( Model, Cmd Msg )
 init =
-    ( initialModel, Http.get { url = "/verbs/list.json", expect = Http.expectJson GotVerbOptions verbOptionsDecoder } )
+    ( initialModel, Game.AvailableVerbs.load GotVerbOptions )
 
 
 
 -- update
-
-
-getUnavailableVerbs : Model -> List String
-getUnavailableVerbs model =
-    model.verbs |> String.split "," |> List.filter (\verb -> not (isVerbAvailable model.options verb))
-
-
-
---startGame : Model -> Model
---startGame model =
---    let
---        rounds =
---            generateRounds model
---    in
---    { model | page = Playing { rounds = rounds, answer = "" } }
-
-
-updateConjugation : Model -> Conjugation -> Model
-updateConjugation model conjugation =
-    case List.member conjugation model.conjugations of
-        True ->
-            let
-                newConj =
-                    List.filter (\c -> c /= conjugation) model.conjugations
-            in
-            { model | conjugations = newConj }
-
-        False ->
-            { model | conjugations = conjugation :: model.conjugations }
-
-
-updateAnswer : Model -> String -> Model
-updateAnswer model answer =
-    case model.page of
-        -- in fact this should never happen
-        PickingSettings ->
-            model
-
-        Playing gameState ->
-            let
-                p =
-                    model.page
-
-                newGameState =
-                    { gameState | answer = answer }
-
-                newPage =
-                    Playing newGameState
-            in
-            { model | page = newPage }
 
 
 update : Msg -> Model -> ( Model, Cmd Msg )
@@ -133,10 +58,10 @@ update msg model =
     case ( msg, model.page ) of
         ( GameMsg gameMsg, Playing gameModel ) ->
             case gameMsg of
-                -- TODO
-                -- https://discourse.elm-lang.org/t/modifying-parent-state-from-child-page-in-an-elm-spa-example-like-architecture/2437/3
                 StopGame ->
-                    ( { model | page = PickingSettings }, Cmd.none )
+                    -- TODO
+                    -- at this point settings doesn't have the state of PickingSettings page anymore
+                    ( model, Cmd.none )
 
                 _ ->
                     let
@@ -145,211 +70,79 @@ update msg model =
                     in
                     ( { model | page = Playing pageModel }, Cmd.map GameMsg pageCmd )
 
-        -- in practice this should never happen
-        ( GameMsg gameMsg, PickingSettings ) ->
-            ( model, Cmd.none )
+        ( PickingSettingsMsg psMsg, PickingSettings psModel ) ->
+            case psMsg of
+                Start ->
+                    -- TODO: load vebs
+                    ( model, Cmd.none )
 
-        ( Change verbs, _ ) ->
-            ( { model | verbs = verbs }, Cmd.none )
-
-        ( Blur, _ ) ->
-            ( { model | unavailable = getUnavailableVerbs model }, Cmd.none )
-
-        ( Play, _ ) ->
-            let
-                ( m, cmd ) =
-                    Game.init (stringToVerbs model.verbs) model.conjugations
-            in
-            ( { model | page = Playing m }, Cmd.map GameMsg cmd )
+                _ ->
+                    let
+                        ( m, c ) =
+                            PickingSettings.update psMsg psModel
+                    in
+                    ( { model | page = PickingSettings m }, Cmd.map PickingSettingsMsg c )
 
         ( GotVerbOptions result, _ ) ->
             case result of
-                Ok response ->
-                    ( { model | options = Success response }, Cmd.none )
+                Ok availableVerbs ->
+                    let
+                        ( m, cmd ) =
+                            PickingSettings.init availableVerbs
+                    in
+                    ( { model | page = PickingSettings m }, Cmd.map PickingSettingsMsg cmd )
 
                 Err r ->
                     ( { model
-                        | options = Failure
-                        , failureCause =
-                            fetchErrorToString r
+                        | page = LoadingAvailableVerbs (Just <| fetchErrorToString r)
                       }
                     , Cmd.none
                     )
 
-        ( SelectConjugation conjugation, _ ) ->
-            ( updateConjugation model conjugation, Cmd.none )
+        -- We could use a (_, _)
+        -- but we want the compiler to tell when new Msgs are added
+        ( GameMsg gmsg, _ ) ->
+            ( model, Cmd.none )
+
+        ( PickingSettingsMsg psMsg, _ ) ->
+            ( model, Cmd.none )
 
 
 view : Model -> Html Msg
 view model =
     case model.page of
+        LoadingAvailableVerbs page ->
+            viewLoadingAvailableVerbs page
+
+        PreparingGame ->
+            viewPreparingGame model
+
         Playing m ->
             Game.view m
                 |> Html.map GameMsg
 
-        PickingSettings ->
-            viewStart model
+        PickingSettings m ->
+            PickingSettings.view m
+                |> Html.map PickingSettingsMsg
 
 
-viewStart : Model -> Html Msg
-viewStart model =
-    case model.options of
-        Failure ->
-            div [] [ text "Failed to load list of verbs" ]
-
-        Loading ->
-            div [] [ text "Loading..." ]
-
-        Success _ ->
-            div []
-                [ h1 [] [ text "Choose your verbs" ]
-                , input [ placeholder "Verbs", value model.verbs, onBlur Blur, onInput Change, style "border" (getInputBorderStyle model) ] []
-                , button [ disabled (not (isReadyToPlay model)), onClick Play ] [ text "Play" ]
-                , viewUnavailableVerb model
-                , viewConjugationList model
-                ]
+viewPreparingGame : Model -> Html Msg
+viewPreparingGame model =
+    h1 [] [ text "Preparing game..." ]
 
 
+viewLoadingAvailableVerbs : LoadingAvailableVerbs -> Html Msg
+viewLoadingAvailableVerbs msg =
+    case msg of
+        Just errorMsg ->
+            div [] [ text "Failed to load verbs :(" ]
 
--- for debugging purposes
-
-
-viewCheckedCheckbox : Model -> Conjugation -> Bool
-viewCheckedCheckbox model conjugation =
-    List.member conjugation model.conjugations
-
-
-
--- very barebones since we know what
-
-
-conjugationToID : Conjugation -> String
-conjugationToID conjugation =
-    conjugation
-        |> GameCommon.conjugationToString
-        |> String.replace " " "-"
-        |> String.toLower
-
-
-viewConjugationCheckbox : String -> Model -> Conjugation -> Html Msg
-viewConjugationCheckbox t model conjugation =
-    li []
-        [ input [ type_ "checkbox", id (conjugationToID conjugation), checked (viewCheckedCheckbox model conjugation) ] []
-        , label [ for (conjugationToID conjugation), onClick (SelectConjugation conjugation) ] [ text t ]
-        ]
-
-
-viewConjugationSettings : Model -> Conjugation -> Html Msg
-viewConjugationSettings model conjugation =
-    viewConjugationCheckbox (GameCommon.conjugationToString conjugation) model conjugation
-
-
-viewConjugationList : Model -> Html Msg
-viewConjugationList model =
-    ul []
-        (List.map
-            (viewConjugationSettings
-                model
-            )
-            model.availableConjugations
-        )
-
-
-
---ul []
---    [ li [] [ text "first" ]
---    ]
-
-
-viewVerbsList : Model -> Html Msg
-viewVerbsList model =
-    case model.options of
-        Success options ->
-            ul
-                [ style "max-width" "200px"
-                , style "margin" "16px auto"
-                ]
-                (List.map viewOptionItem options)
-
-        _ ->
-            text ""
-
-
-viewEmptyVerb : Model -> Html Msg
-viewEmptyVerb model =
-    if hasEmptyVerb model then
-        div [ style "color" "red" ] [ text "There are empty verbs on your list" ]
-
-    else
-        text ""
-
-
-viewUnavailableVerb : Model -> Html Msg
-viewUnavailableVerb model =
-    if not (List.isEmpty model.unavailable) then
-        div [ style "color" "red" ] [ text ("The following verbs are not available: " ++ String.join ", " model.unavailable) ]
-
-    else
-        text ""
-
-
-viewOptionItem : Verb -> Html Msg
-viewOptionItem verb =
-    li [] [ text verb ]
-
-
-hasEmptyVerb : Model -> Bool
-hasEmptyVerb model =
-    model.verbs
-        |> String.split ","
-        |> List.any isVerbEmpty
+        Nothing ->
+            div [] [ text "Loading verbs..." ]
 
 
 
 -- Helpers
-
-
-isReadyToPlay : Model -> Bool
-isReadyToPlay model =
-    isValid model && (List.length model.conjugations > 0)
-
-
-isValid : Model -> Bool
-isValid model =
-    (model |> getVerbList |> List.length)
-        == (model.verbs |> String.split "," |> List.length)
-
-
-isVerbEmpty : String -> Bool
-isVerbEmpty verb =
-    verb |> String.trim |> String.isEmpty
-
-
-isVerbAvailable : VerbOptions -> String -> Bool
-isVerbAvailable verb_options verb =
-    case verb_options of
-        Success options ->
-            options
-                |> List.member (String.trim verb)
-
-        _ ->
-            False
-
-
-getVerbList : Model -> List String
-getVerbList model =
-    model.verbs
-        |> String.split ","
-        |> List.filter (\verb -> not (isVerbEmpty verb) && isVerbAvailable model.options verb)
-
-
-getInputBorderStyle : Model -> String
-getInputBorderStyle model =
-    if String.isEmpty model.verbs || isValid model then
-        "1px solid grey"
-
-    else
-        "1px solid red"
 
 
 verbOptionsDecoder : Decoder (List Verb)
@@ -359,20 +152,4 @@ verbOptionsDecoder =
 
 fetchErrorToString : Http.Error -> String
 fetchErrorToString error =
-    case error of
-        Http.BadBody err ->
-            err
-
-        _ ->
-            "wrong"
-
-
-
--- TODO this method shouldn't even be necessary
-
-
-stringToVerbs : String -> List Verb
-stringToVerbs s =
-    s
-        |> String.split ","
-        |> List.map String.trim
+    "Error loading JSON"

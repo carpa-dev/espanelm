@@ -1,16 +1,13 @@
-module Game exposing (Model, Msg(..), Round, init, update, view)
+module Game exposing (Model, Msg(..), init, update, view)
 
+import Game.Round exposing (Round)
 import GameCommon exposing (Conjugation(..), Person(..), Verb)
-import Html exposing (Html, a, button, div, h1, h3, h4, img, input, label, li, text, ul)
+import Html exposing (Html, a, button, div, form, h1, h3, h4, img, input, label, li, span, text, ul)
 import Html.Attributes exposing (checked, class, disabled, for, href, id, placeholder, src, style, type_, value)
-import Html.Events exposing (onBlur, onClick, onInput)
+import Html.Events exposing (onBlur, onClick, onInput, onSubmit)
 import Http
 import Json.Decode as Decode exposing (Decoder)
 import Json.Decode.Pipeline exposing (hardcoded, required)
-
-
-type alias Round =
-    { person : GameCommon.Person, verb : Verb, conjugation : GameCommon.Conjugation, answer : String }
 
 
 type alias Model =
@@ -31,8 +28,6 @@ initialModel =
     , verbsToBeLoaded = []
     , loadedAnswers = []
     , conjugations = []
-
-    --, answerForRound = { verb = "", englishInfinitive = "", irregular = False, type_ = "", reflexive = False, common = False, indicativePresent = { firstPlural = [ "" ] } }
     }
 
 
@@ -40,6 +35,7 @@ type Msg
     = UpdateAnswer String
     | StopGame
     | GotAnswerData (Result Http.Error Answer)
+    | VerifyUserAnswer
 
 
 init : List Verb -> List GameCommon.Conjugation -> ( Model, Cmd Msg )
@@ -122,13 +118,6 @@ loadResponses verbs =
     Cmd.batch (List.map (\verb -> Http.get { url = "./verbs/" ++ verb ++ ".json", expect = Http.expectJson GotAnswerData answerDecoder }) verbs)
 
 
-
---        [ Http.get { url = "./verbs/" ++ verbs ++ ".json", expect = Http.expectJson GotAnswerData answerDecoder }
---    , Http.get { url = "./verbs/abrazar.json", expect = Http.expectJson GotAnswerData answerDecoder }
---       ]
--- update
-
-
 update : Msg -> Model -> ( Model, Cmd Msg )
 update msg model =
     case Debug.log "msg" msg of
@@ -162,6 +151,25 @@ update msg model =
                     Debug.log "failed"
             in
             ( model, Cmd.none )
+
+        VerifyUserAnswer ->
+            let
+                answer =
+                    model.answer
+
+                round =
+                    currentRound model
+            in
+            case round of
+                Just r ->
+                    if answer == r.answer then
+                        ( { model | rounds = Maybe.withDefault [] (List.tail model.rounds), answer = "" }, Cmd.none )
+
+                    else
+                        ( model, Cmd.none )
+
+                Nothing ->
+                    ( model, Cmd.none )
 
 
 findAnswerFor : Verb -> GameCommon.Conjugation -> Person -> List Answer -> String
@@ -251,22 +259,22 @@ lookupByConjugation conjugation answer =
             answer.subjunctivePresent
 
 
-generateRoundWithConjugationAndVerbAndPerson : Conjugation -> Verb -> Person -> List Answer -> Round
-generateRoundWithConjugationAndVerbAndPerson conjugation verb person answers =
+roundWithConjugationAndVerbAndPerson : Conjugation -> Verb -> Person -> List Answer -> Round
+roundWithConjugationAndVerbAndPerson conjugation verb person answers =
     { person = person, verb = verb, conjugation = conjugation, answer = findAnswerFor verb conjugation person answers }
 
 
-generateRoundWithTenseAndVerb : GameCommon.Conjugation -> Verb -> List Answer -> List Round
+generateRoundWithTenseAndVerb : Conjugation -> Verb -> List Answer -> List Round
 generateRoundWithTenseAndVerb conjugation verb answers =
-    List.map (\person -> generateRoundWithConjugationAndVerbAndPerson conjugation verb person answers) GameCommon.allPersons
+    List.map (\person -> roundWithConjugationAndVerbAndPerson conjugation verb person answers) GameCommon.allPersons
 
 
-generateRoundWithVerb : List GameCommon.Conjugation -> Verb -> List Answer -> List Round
+generateRoundWithVerb : List Conjugation -> Verb -> List Answer -> List Round
 generateRoundWithVerb conjugations verb answers =
     List.concat (List.map (\c -> generateRoundWithTenseAndVerb c verb answers) conjugations)
 
 
-generateRounds : List Verb -> List GameCommon.Conjugation -> List Answer -> List Round
+generateRounds : List Verb -> List Conjugation -> List Answer -> List Round
 generateRounds verbs conjugations answers =
     -- todo: suffle based on game strategy
     List.concat (List.map (\v -> generateRoundWithVerb conjugations v answers) verbs)
@@ -294,8 +302,35 @@ viewAllRounds model =
 
 viewCard : Model -> Html Msg
 viewCard model =
-    div [ class "card" ]
-        [--[ h3 [] [ text "i should be a verb" ]
-         --, input [ onInput UpdateAnswer, placeholder "type the conjugation" ] []
-         --      button [] [ text "confirm" ]
-        ]
+    let
+        round =
+            currentRound model
+    in
+    case round of
+        Just r ->
+            div [ class "card" ]
+                [ h3 []
+                    [ text <| r.verb ++ " (" ++ GameCommon.conjugationToString r.conjugation ++ ")" ]
+                , form [ onSubmit VerifyUserAnswer ]
+                    [ span
+                        []
+                        [ text <| GameCommon.personToSpanish r.person ]
+                    , input [ onInput UpdateAnswer, placeholder "type the conjugation", value model.answer ]
+                        []
+                    , button
+                        []
+                        [ text "confirm" ]
+                    ]
+                ]
+
+        Nothing ->
+            div [] [ text "muy bien! game is finished" ]
+
+
+
+-- helpers
+
+
+currentRound : Model -> Maybe Round
+currentRound model =
+    List.head model.rounds

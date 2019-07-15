@@ -1,4 +1,4 @@
-module GameCommon exposing (Conjugation(..), Person(..), Verb, allConjugations, allPersons, conjugationToString, personToString)
+module GameCommon exposing (Conjugation(..), Person(..), Verb, allConjugations, allPersons, conjugationToString, personToSpanish, personToString)
 
 
 type alias Verb =
@@ -18,22 +18,44 @@ personToString : Person -> String
 personToString person =
     case person of
         FirstSingular ->
-            "First Singular"
+            "First-person singular"
 
         SecondSingular ->
-            "Second singular"
+            "Second-person singular"
 
         ThirdSingular ->
-            "Third Singular"
+            "Third-person singular"
 
         FirstPlural ->
-            "First Plural"
+            "First-person plural"
 
         SecondPlural ->
-            "Second Plural"
+            "Second-person plural"
 
         ThirdPlural ->
-            "Third Plural"
+            "Third-person Plural"
+
+
+personToSpanish : Person -> String
+personToSpanish person =
+    case person of
+        FirstSingular ->
+            "Yo"
+
+        SecondSingular ->
+            "Tu"
+
+        ThirdSingular ->
+            "El/Ella/Usted"
+
+        FirstPlural ->
+            "Nosotros(as)"
+
+        SecondPlural ->
+            "Vosotros(as)"
+
+        ThirdPlural ->
+            "Nosotros(as)"
 
 
 type Conjugation
