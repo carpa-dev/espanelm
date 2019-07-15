@@ -1,0 +1,113 @@
+{
+  "verb": "sacudir",
+  "englishInfinitive": "to shake",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "sacudo",
+    "Tu": "sacudes",
+    "El": "sacude",
+    "Nosotros": "sacudimos",
+    "Vosotros": "sacudís",
+    "Ellos": "sacuden"
+  },
+  "IndicativePreterite": {
+    "Yo": "sacudí",
+    "Tu": "sacudiste",
+    "El": "sacudió",
+    "Nosotros": "sacudimos",
+    "Vosotros": "sacudisteis",
+    "Ellos": "sacudieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "sacudiré",
+    "Tu": "sacudirás",
+    "El": "sacudirá",
+    "Nosotros": "sacudiremos",
+    "Vosotros": "sacudiréis",
+    "Ellos": "sacudirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "sacudiría",
+    "Tu": "sacudirías",
+    "El": "sacudiría",
+    "Nosotros": "sacudiríamos",
+    "Vosotros": "sacudiríais",
+    "Ellos": "sacudirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "sacudía",
+    "Tu": "sacudías",
+    "El": "sacudía",
+    "Nosotros": "sacudíamos",
+    "Vosotros": "sacudíais",
+    "Ellos": "sacudían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy sacudiendo",
+    "Tu": "estás sacudiendo",
+    "El": "está sacudiendo",
+    "Nosotros": "estamos sacudiendo",
+    "Vosotros": "estáis sacudiendo",
+    "Ellos": "están sacudiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he sacudido",
+    "Tu": "has sacudido",
+    "El": "ha sacudido",
+    "Nosotros": "hemos sacudido",
+    "Vosotros": "habéis sacudido",
+    "Ellos": "han sacudido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había sacudido",
+    "Tu": "habías sacudido",
+    "El": "había sacudido",
+    "Nosotros": "habíamos sacudido",
+    "Vosotros": "habíais sacudido",
+    "Ellos": "habían sacudido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré sacudido",
+    "Tu": "habrás sacudido",
+    "El": "habrá sacudido",
+    "Nosotros": "habremos sacudido",
+    "Vosotros": "habréis sacudido",
+    "Ellos": "habrán sacudido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría sacudido",
+    "Tu": "habrías sacudido",
+    "El": "habría sacudido",
+    "Nosotros": "habríamos sacudido",
+    "Vosotros": "habríais sacudido",
+    "Ellos": "habrían sacudido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "sacuda",
+    "Tu": "sacudas",
+    "El": "sacuda",
+    "Nosotros": "sacudamos",
+    "Vosotros": "sacudáis",
+    "Ellos": "sacudan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sacude",
+    "El": "sacuda",
+    "Nosotros": "sacudamos",
+    "Vosotros": "sacudid",
+    "Ellos": "sacudan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sacudas",
+    "El": "no sacuda",
+    "Nosotros": "no sacudamos",
+    "Vosotros": "no sacudáis",
+    "Ellos": "no sacudan"
+  },
+  "ending": "ir"
+}

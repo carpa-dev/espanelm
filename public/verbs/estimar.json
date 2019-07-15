@@ -1,0 +1,113 @@
+{
+  "verb": "estimar",
+  "englishInfinitive": "to estimate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "estimo",
+    "Tu": "estimas",
+    "El": "estima",
+    "Nosotros": "estimamos",
+    "Vosotros": "estimáis",
+    "Ellos": "estiman"
+  },
+  "IndicativePreterite": {
+    "Yo": "estimé",
+    "Tu": "estimaste",
+    "El": "estimó",
+    "Nosotros": "estimamos",
+    "Vosotros": "estimasteis",
+    "Ellos": "estimaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "estimaré",
+    "Tu": "estimarás",
+    "El": "estimará",
+    "Nosotros": "estimaremos",
+    "Vosotros": "estimaréis",
+    "Ellos": "estimarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "estimaría",
+    "Tu": "estimarías",
+    "El": "estimaría",
+    "Nosotros": "estimaríamos",
+    "Vosotros": "estimaríais",
+    "Ellos": "estimarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "estimaba",
+    "Tu": "estimabas",
+    "El": "estimaba",
+    "Nosotros": "estimábamos",
+    "Vosotros": "estimabais",
+    "Ellos": "estimaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy estimando",
+    "Tu": "estás estimando",
+    "El": "está estimando",
+    "Nosotros": "estamos estimando",
+    "Vosotros": "estáis estimando",
+    "Ellos": "están estimando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he estimado",
+    "Tu": "has estimado",
+    "El": "ha estimado",
+    "Nosotros": "hemos estimado",
+    "Vosotros": "habéis estimado",
+    "Ellos": "han estimado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había estimado",
+    "Tu": "habías estimado",
+    "El": "había estimado",
+    "Nosotros": "habíamos estimado",
+    "Vosotros": "habíais estimado",
+    "Ellos": "habían estimado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré estimado",
+    "Tu": "habrás estimado",
+    "El": "habrá estimado",
+    "Nosotros": "habremos estimado",
+    "Vosotros": "habréis estimado",
+    "Ellos": "habrán estimado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría estimado",
+    "Tu": "habrías estimado",
+    "El": "habría estimado",
+    "Nosotros": "habríamos estimado",
+    "Vosotros": "habríais estimado",
+    "Ellos": "habrían estimado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "estime",
+    "Tu": "estimes",
+    "El": "estime",
+    "Nosotros": "estimemos",
+    "Vosotros": "estiméis",
+    "Ellos": "estimen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "estima",
+    "El": "estime",
+    "Nosotros": "estimemos",
+    "Vosotros": "estimad",
+    "Ellos": "estimen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no estimes",
+    "El": "no estime",
+    "Nosotros": "no estimemos",
+    "Vosotros": "no estiméis",
+    "Ellos": "no estimen"
+  },
+  "ending": "ar"
+}

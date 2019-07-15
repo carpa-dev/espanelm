@@ -1,0 +1,113 @@
+{
+  "verb": "atender",
+  "englishInfinitive": "to attend to",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "atiendo",
+    "Tu": "atiendes",
+    "El": "atiende",
+    "Nosotros": "atendemos",
+    "Vosotros": "atendéis",
+    "Ellos": "atienden"
+  },
+  "IndicativePreterite": {
+    "Yo": "atendí",
+    "Tu": "atendiste",
+    "El": "atendió",
+    "Nosotros": "atendimos",
+    "Vosotros": "atendisteis",
+    "Ellos": "atendieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "atenderé",
+    "Tu": "atenderás",
+    "El": "atenderá",
+    "Nosotros": "atenderemos",
+    "Vosotros": "atenderéis",
+    "Ellos": "atenderán"
+  },
+  "ConditionalPresent": {
+    "Yo": "atendería",
+    "Tu": "atenderías",
+    "El": "atendería",
+    "Nosotros": "atenderíamos",
+    "Vosotros": "atenderíais",
+    "Ellos": "atenderían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "atendía",
+    "Tu": "atendías",
+    "El": "atendía",
+    "Nosotros": "atendíamos",
+    "Vosotros": "atendíais",
+    "Ellos": "atendían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy atendiendo",
+    "Tu": "estás atendiendo",
+    "El": "está atendiendo",
+    "Nosotros": "estamos atendiendo",
+    "Vosotros": "estáis atendiendo",
+    "Ellos": "están atendiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he atendido",
+    "Tu": "has atendido",
+    "El": "ha atendido",
+    "Nosotros": "hemos atendido",
+    "Vosotros": "habéis atendido",
+    "Ellos": "han atendido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había atendido",
+    "Tu": "habías atendido",
+    "El": "había atendido",
+    "Nosotros": "habíamos atendido",
+    "Vosotros": "habíais atendido",
+    "Ellos": "habían atendido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré atendido",
+    "Tu": "habrás atendido",
+    "El": "habrá atendido",
+    "Nosotros": "habremos atendido",
+    "Vosotros": "habréis atendido",
+    "Ellos": "habrán atendido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría atendido",
+    "Tu": "habrías atendido",
+    "El": "habría atendido",
+    "Nosotros": "habríamos atendido",
+    "Vosotros": "habríais atendido",
+    "Ellos": "habrían atendido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "atienda",
+    "Tu": "atiendas",
+    "El": "atienda",
+    "Nosotros": "atendamos",
+    "Vosotros": "atendáis",
+    "Ellos": "atiendan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "atiende",
+    "El": "atienda",
+    "Nosotros": "atendamos",
+    "Vosotros": "atended",
+    "Ellos": "atiendan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no atiendas",
+    "El": "no atienda",
+    "Nosotros": "no atendamos",
+    "Vosotros": "no atendáis",
+    "Ellos": "no atiendan"
+  },
+  "ending": "er"
+}

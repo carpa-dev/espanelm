@@ -1,0 +1,113 @@
+{
+  "verb": "adornar",
+  "englishInfinitive": "to adorn",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "adorno",
+    "Tu": "adornas",
+    "El": "adorna",
+    "Nosotros": "adornamos",
+    "Vosotros": "adornáis",
+    "Ellos": "adornan"
+  },
+  "IndicativePreterite": {
+    "Yo": "adorné",
+    "Tu": "adornaste",
+    "El": "adornó",
+    "Nosotros": "adornamos",
+    "Vosotros": "adornasteis",
+    "Ellos": "adornaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "adornaré",
+    "Tu": "adornarás",
+    "El": "adornará",
+    "Nosotros": "adornaremos",
+    "Vosotros": "adornaréis",
+    "Ellos": "adornarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "adornaría",
+    "Tu": "adornarías",
+    "El": "adornaría",
+    "Nosotros": "adornaríamos",
+    "Vosotros": "adornaríais",
+    "Ellos": "adornarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "adornaba",
+    "Tu": "adornabas",
+    "El": "adornaba",
+    "Nosotros": "adornábamos",
+    "Vosotros": "adornabais",
+    "Ellos": "adornaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy adornando",
+    "Tu": "estás adornando",
+    "El": "está adornando",
+    "Nosotros": "estamos adornando",
+    "Vosotros": "estáis adornando",
+    "Ellos": "están adornando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he adornado",
+    "Tu": "has adornado",
+    "El": "ha adornado",
+    "Nosotros": "hemos adornado",
+    "Vosotros": "habéis adornado",
+    "Ellos": "han adornado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había adornado",
+    "Tu": "habías adornado",
+    "El": "había adornado",
+    "Nosotros": "habíamos adornado",
+    "Vosotros": "habíais adornado",
+    "Ellos": "habían adornado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré adornado",
+    "Tu": "habrás adornado",
+    "El": "habrá adornado",
+    "Nosotros": "habremos adornado",
+    "Vosotros": "habréis adornado",
+    "Ellos": "habrán adornado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría adornado",
+    "Tu": "habrías adornado",
+    "El": "habría adornado",
+    "Nosotros": "habríamos adornado",
+    "Vosotros": "habríais adornado",
+    "Ellos": "habrían adornado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "adorne",
+    "Tu": "adornes",
+    "El": "adorne",
+    "Nosotros": "adornemos",
+    "Vosotros": "adornéis",
+    "Ellos": "adornen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "adorna",
+    "El": "adorne",
+    "Nosotros": "adornemos",
+    "Vosotros": "adornad",
+    "Ellos": "adornen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no adornes",
+    "El": "no adorne",
+    "Nosotros": "no adornemos",
+    "Vosotros": "no adornéis",
+    "Ellos": "no adornen"
+  },
+  "ending": "ar"
+}

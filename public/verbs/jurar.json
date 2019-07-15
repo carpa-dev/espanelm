@@ -1,0 +1,113 @@
+{
+  "verb": "jurar",
+  "englishInfinitive": "to swear",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "juro",
+    "Tu": "juras",
+    "El": "jura",
+    "Nosotros": "juramos",
+    "Vosotros": "juráis",
+    "Ellos": "juran"
+  },
+  "IndicativePreterite": {
+    "Yo": "juré",
+    "Tu": "juraste",
+    "El": "juró",
+    "Nosotros": "juramos",
+    "Vosotros": "jurasteis",
+    "Ellos": "juraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "juraré",
+    "Tu": "jurarás",
+    "El": "jurará",
+    "Nosotros": "juraremos",
+    "Vosotros": "juraréis",
+    "Ellos": "jurarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "juraría",
+    "Tu": "jurarías",
+    "El": "juraría",
+    "Nosotros": "juraríamos",
+    "Vosotros": "juraríais",
+    "Ellos": "jurarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "juraba",
+    "Tu": "jurabas",
+    "El": "juraba",
+    "Nosotros": "jurábamos",
+    "Vosotros": "jurabais",
+    "Ellos": "juraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy jurando",
+    "Tu": "estás jurando",
+    "El": "está jurando",
+    "Nosotros": "estamos jurando",
+    "Vosotros": "estáis jurando",
+    "Ellos": "están jurando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he jurado",
+    "Tu": "has jurado",
+    "El": "ha jurado",
+    "Nosotros": "hemos jurado",
+    "Vosotros": "habéis jurado",
+    "Ellos": "han jurado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había jurado",
+    "Tu": "habías jurado",
+    "El": "había jurado",
+    "Nosotros": "habíamos jurado",
+    "Vosotros": "habíais jurado",
+    "Ellos": "habían jurado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré jurado",
+    "Tu": "habrás jurado",
+    "El": "habrá jurado",
+    "Nosotros": "habremos jurado",
+    "Vosotros": "habréis jurado",
+    "Ellos": "habrán jurado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría jurado",
+    "Tu": "habrías jurado",
+    "El": "habría jurado",
+    "Nosotros": "habríamos jurado",
+    "Vosotros": "habríais jurado",
+    "Ellos": "habrían jurado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "jure",
+    "Tu": "jures",
+    "El": "jure",
+    "Nosotros": "juremos",
+    "Vosotros": "juréis",
+    "Ellos": "juren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "jura",
+    "El": "jure",
+    "Nosotros": "juremos",
+    "Vosotros": "jurad",
+    "Ellos": "juren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no jures",
+    "El": "no jure",
+    "Nosotros": "no juremos",
+    "Vosotros": "no juréis",
+    "Ellos": "no juren"
+  },
+  "ending": "ar"
+}

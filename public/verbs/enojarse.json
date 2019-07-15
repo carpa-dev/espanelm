@@ -1,0 +1,113 @@
+{
+  "verb": "enojarse",
+  "englishInfinitive": "to get angry",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "me enojo",
+    "Tu": "te enojas",
+    "El": "se enoja",
+    "Nosotros": "nos enojamos",
+    "Vosotros": "os enojáis",
+    "Ellos": "se enojan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me enojé",
+    "Tu": "te enojaste",
+    "El": "se enojó",
+    "Nosotros": "nos enojamos",
+    "Vosotros": "os enojasteis",
+    "Ellos": "se enojaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me enojaré",
+    "Tu": "te enojarás",
+    "El": "se enojará",
+    "Nosotros": "nos enojaremos",
+    "Vosotros": "os enojaréis",
+    "Ellos": "se enojarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me enojaría",
+    "Tu": "te enojarías",
+    "El": "se enojaría",
+    "Nosotros": "nos enojaríamos",
+    "Vosotros": "os enojaríais",
+    "Ellos": "se enojarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me enojaba",
+    "Tu": "te enojabas",
+    "El": "se enojaba",
+    "Nosotros": "nos enojábamos",
+    "Vosotros": "os enojabais",
+    "Ellos": "se enojaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy enojando,estoy enojándome",
+    "Tu": "te estás enojando,estás enojándote",
+    "El": "se está enojando,está enojándose",
+    "Nosotros": "nos estamos enojando,estamos enojándonos",
+    "Vosotros": "os estáis enojando,estáis enojándoos",
+    "Ellos": "se están enojando,están enojándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he enojado",
+    "Tu": "te has enojado",
+    "El": "se ha enojado",
+    "Nosotros": "nos hemos enojado",
+    "Vosotros": "os habéis enojado",
+    "Ellos": "se han enojado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había enojado",
+    "Tu": "te habías enojado",
+    "El": "se había enojado",
+    "Nosotros": "nos habíamos enojado",
+    "Vosotros": "os habíais enojado",
+    "Ellos": "se habían enojado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré enojado",
+    "Tu": "te habrás enojado",
+    "El": "se habrá enojado",
+    "Nosotros": "nos habremos enojado",
+    "Vosotros": "os habréis enojado",
+    "Ellos": "se habrán enojado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría enojado",
+    "Tu": "te habrías enojado",
+    "El": "se habría enojado",
+    "Nosotros": "nos habríamos enojado",
+    "Vosotros": "os habríais enojado",
+    "Ellos": "se habrían enojado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me enoje",
+    "Tu": "te enojes",
+    "El": "se enoje",
+    "Nosotros": "nos enojemos",
+    "Vosotros": "os enojéis",
+    "Ellos": "se enojen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "enójate",
+    "El": "enójese",
+    "Nosotros": "enojémonos",
+    "Vosotros": "enojaos",
+    "Ellos": "enójense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te enojes",
+    "El": "no se enoje",
+    "Nosotros": "no nos enojemos",
+    "Vosotros": "no os enojéis",
+    "Ellos": "no se enojen"
+  },
+  "ending": "ar"
+}

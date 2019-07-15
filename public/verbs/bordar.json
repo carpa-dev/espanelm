@@ -1,0 +1,113 @@
+{
+  "verb": "bordar",
+  "englishInfinitive": "to embroider",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "bordo",
+    "Tu": "bordas",
+    "El": "borda",
+    "Nosotros": "bordamos",
+    "Vosotros": "bordáis",
+    "Ellos": "bordan"
+  },
+  "IndicativePreterite": {
+    "Yo": "bordé",
+    "Tu": "bordaste",
+    "El": "bordó",
+    "Nosotros": "bordamos",
+    "Vosotros": "bordasteis",
+    "Ellos": "bordaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "bordaré",
+    "Tu": "bordarás",
+    "El": "bordará",
+    "Nosotros": "bordaremos",
+    "Vosotros": "bordaréis",
+    "Ellos": "bordarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "bordaría",
+    "Tu": "bordarías",
+    "El": "bordaría",
+    "Nosotros": "bordaríamos",
+    "Vosotros": "bordaríais",
+    "Ellos": "bordarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "bordaba",
+    "Tu": "bordabas",
+    "El": "bordaba",
+    "Nosotros": "bordábamos",
+    "Vosotros": "bordabais",
+    "Ellos": "bordaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy bordando",
+    "Tu": "estás bordando",
+    "El": "está bordando",
+    "Nosotros": "estamos bordando",
+    "Vosotros": "estáis bordando",
+    "Ellos": "están bordando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he bordado",
+    "Tu": "has bordado",
+    "El": "ha bordado",
+    "Nosotros": "hemos bordado",
+    "Vosotros": "habéis bordado",
+    "Ellos": "han bordado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había bordado",
+    "Tu": "habías bordado",
+    "El": "había bordado",
+    "Nosotros": "habíamos bordado",
+    "Vosotros": "habíais bordado",
+    "Ellos": "habían bordado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré bordado",
+    "Tu": "habrás bordado",
+    "El": "habrá bordado",
+    "Nosotros": "habremos bordado",
+    "Vosotros": "habréis bordado",
+    "Ellos": "habrán bordado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría bordado",
+    "Tu": "habrías bordado",
+    "El": "habría bordado",
+    "Nosotros": "habríamos bordado",
+    "Vosotros": "habríais bordado",
+    "Ellos": "habrían bordado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "borde",
+    "Tu": "bordes",
+    "El": "borde",
+    "Nosotros": "bordemos",
+    "Vosotros": "bordéis",
+    "Ellos": "borden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "borda",
+    "El": "borde",
+    "Nosotros": "bordemos",
+    "Vosotros": "bordad",
+    "Ellos": "borden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no bordes",
+    "El": "no borde",
+    "Nosotros": "no bordemos",
+    "Vosotros": "no bordéis",
+    "Ellos": "no borden"
+  },
+  "ending": "ar"
+}

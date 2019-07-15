@@ -1,0 +1,113 @@
+{
+  "verb": "amar",
+  "englishInfinitive": "to love",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "amo",
+    "Tu": "amas",
+    "El": "ama",
+    "Nosotros": "amamos",
+    "Vosotros": "amáis",
+    "Ellos": "aman"
+  },
+  "IndicativePreterite": {
+    "Yo": "amé",
+    "Tu": "amaste",
+    "El": "amó",
+    "Nosotros": "amamos",
+    "Vosotros": "amasteis",
+    "Ellos": "amaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "amaré",
+    "Tu": "amarás",
+    "El": "amará",
+    "Nosotros": "amaremos",
+    "Vosotros": "amaréis",
+    "Ellos": "amarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "amaría",
+    "Tu": "amarías",
+    "El": "amaría",
+    "Nosotros": "amaríamos",
+    "Vosotros": "amaríais",
+    "Ellos": "amarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "amaba",
+    "Tu": "amabas",
+    "El": "amaba",
+    "Nosotros": "amábamos",
+    "Vosotros": "amabais",
+    "Ellos": "amaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy amando",
+    "Tu": "estás amando",
+    "El": "está amando",
+    "Nosotros": "estamos amando",
+    "Vosotros": "estáis amando",
+    "Ellos": "están amando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he amado",
+    "Tu": "has amado",
+    "El": "ha amado",
+    "Nosotros": "hemos amado",
+    "Vosotros": "habéis amado",
+    "Ellos": "han amado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había amado",
+    "Tu": "habías amado",
+    "El": "había amado",
+    "Nosotros": "habíamos amado",
+    "Vosotros": "habíais amado",
+    "Ellos": "habían amado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré amado",
+    "Tu": "habrás amado",
+    "El": "habrá amado",
+    "Nosotros": "habremos amado",
+    "Vosotros": "habréis amado",
+    "Ellos": "habrán amado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría amado",
+    "Tu": "habrías amado",
+    "El": "habría amado",
+    "Nosotros": "habríamos amado",
+    "Vosotros": "habríais amado",
+    "Ellos": "habrían amado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ame",
+    "Tu": "ames",
+    "El": "ame",
+    "Nosotros": "amemos",
+    "Vosotros": "améis",
+    "Ellos": "amen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ama",
+    "El": "ame",
+    "Nosotros": "amemos",
+    "Vosotros": "amad",
+    "Ellos": "amen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ames",
+    "El": "no ame",
+    "Nosotros": "no amemos",
+    "Vosotros": "no améis",
+    "Ellos": "no amen"
+  },
+  "ending": "ar"
+}

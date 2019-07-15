@@ -1,0 +1,113 @@
+{
+  "verb": "pesar",
+  "englishInfinitive": "to weigh",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "peso",
+    "Tu": "pesas",
+    "El": "pesa",
+    "Nosotros": "pesamos",
+    "Vosotros": "pesáis",
+    "Ellos": "pesan"
+  },
+  "IndicativePreterite": {
+    "Yo": "pesé",
+    "Tu": "pesaste",
+    "El": "pesó",
+    "Nosotros": "pesamos",
+    "Vosotros": "pesasteis",
+    "Ellos": "pesaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "pesaré",
+    "Tu": "pesarás",
+    "El": "pesará",
+    "Nosotros": "pesaremos",
+    "Vosotros": "pesaréis",
+    "Ellos": "pesarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "pesaría",
+    "Tu": "pesarías",
+    "El": "pesaría",
+    "Nosotros": "pesaríamos",
+    "Vosotros": "pesaríais",
+    "Ellos": "pesarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "pesaba",
+    "Tu": "pesabas",
+    "El": "pesaba",
+    "Nosotros": "pesábamos",
+    "Vosotros": "pesabais",
+    "Ellos": "pesaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy pesando",
+    "Tu": "estás pesando",
+    "El": "está pesando",
+    "Nosotros": "estamos pesando",
+    "Vosotros": "estáis pesando",
+    "Ellos": "están pesando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he pesado",
+    "Tu": "has pesado",
+    "El": "ha pesado",
+    "Nosotros": "hemos pesado",
+    "Vosotros": "habéis pesado",
+    "Ellos": "han pesado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había pesado",
+    "Tu": "habías pesado",
+    "El": "había pesado",
+    "Nosotros": "habíamos pesado",
+    "Vosotros": "habíais pesado",
+    "Ellos": "habían pesado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré pesado",
+    "Tu": "habrás pesado",
+    "El": "habrá pesado",
+    "Nosotros": "habremos pesado",
+    "Vosotros": "habréis pesado",
+    "Ellos": "habrán pesado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría pesado",
+    "Tu": "habrías pesado",
+    "El": "habría pesado",
+    "Nosotros": "habríamos pesado",
+    "Vosotros": "habríais pesado",
+    "Ellos": "habrían pesado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "pese",
+    "Tu": "peses",
+    "El": "pese",
+    "Nosotros": "pesemos",
+    "Vosotros": "peséis",
+    "Ellos": "pesen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "pesa",
+    "El": "pese",
+    "Nosotros": "pesemos",
+    "Vosotros": "pesad",
+    "Ellos": "pesen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no peses",
+    "El": "no pese",
+    "Nosotros": "no pesemos",
+    "Vosotros": "no peséis",
+    "Ellos": "no pesen"
+  },
+  "ending": "ar"
+}

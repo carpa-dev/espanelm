@@ -1,0 +1,113 @@
+{
+  "verb": "fabricar",
+  "englishInfinitive": "to manufacture",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "fabrico",
+    "Tu": "fabricas",
+    "El": "fabrica",
+    "Nosotros": "fabricamos",
+    "Vosotros": "fabricáis",
+    "Ellos": "fabrican"
+  },
+  "IndicativePreterite": {
+    "Yo": "fabriqué",
+    "Tu": "fabricaste",
+    "El": "fabricó",
+    "Nosotros": "fabricamos",
+    "Vosotros": "fabricasteis",
+    "Ellos": "fabricaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "fabricaré",
+    "Tu": "fabricarás",
+    "El": "fabricará",
+    "Nosotros": "fabricaremos",
+    "Vosotros": "fabricaréis",
+    "Ellos": "fabricarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "fabricaría",
+    "Tu": "fabricarías",
+    "El": "fabricaría",
+    "Nosotros": "fabricaríamos",
+    "Vosotros": "fabricaríais",
+    "Ellos": "fabricarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "fabricaba",
+    "Tu": "fabricabas",
+    "El": "fabricaba",
+    "Nosotros": "fabricábamos",
+    "Vosotros": "fabricabais",
+    "Ellos": "fabricaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy fabricando",
+    "Tu": "estás fabricando",
+    "El": "está fabricando",
+    "Nosotros": "estamos fabricando",
+    "Vosotros": "estáis fabricando",
+    "Ellos": "están fabricando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he fabricado",
+    "Tu": "has fabricado",
+    "El": "ha fabricado",
+    "Nosotros": "hemos fabricado",
+    "Vosotros": "habéis fabricado",
+    "Ellos": "han fabricado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había fabricado",
+    "Tu": "habías fabricado",
+    "El": "había fabricado",
+    "Nosotros": "habíamos fabricado",
+    "Vosotros": "habíais fabricado",
+    "Ellos": "habían fabricado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré fabricado",
+    "Tu": "habrás fabricado",
+    "El": "habrá fabricado",
+    "Nosotros": "habremos fabricado",
+    "Vosotros": "habréis fabricado",
+    "Ellos": "habrán fabricado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría fabricado",
+    "Tu": "habrías fabricado",
+    "El": "habría fabricado",
+    "Nosotros": "habríamos fabricado",
+    "Vosotros": "habríais fabricado",
+    "Ellos": "habrían fabricado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "fabrique",
+    "Tu": "fabriques",
+    "El": "fabrique",
+    "Nosotros": "fabriquemos",
+    "Vosotros": "fabriquéis",
+    "Ellos": "fabriquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "fabrica",
+    "El": "fabrique",
+    "Nosotros": "fabriquemos",
+    "Vosotros": "fabricad",
+    "Ellos": "fabriquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no fabriques",
+    "El": "no fabrique",
+    "Nosotros": "no fabriquemos",
+    "Vosotros": "no fabriquéis",
+    "Ellos": "no fabriquen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "gruñir",
+  "englishInfinitive": "to grunt",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "gruño",
+    "Tu": "gruñes",
+    "El": "gruñe",
+    "Nosotros": "gruñimos",
+    "Vosotros": "gruñís",
+    "Ellos": "gruñen"
+  },
+  "IndicativePreterite": {
+    "Yo": "gruñí",
+    "Tu": "gruñiste",
+    "El": "gruñó",
+    "Nosotros": "gruñimos",
+    "Vosotros": "gruñisteis",
+    "Ellos": "gruñeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "gruñiré",
+    "Tu": "gruñirás",
+    "El": "gruñirá",
+    "Nosotros": "gruñiremos",
+    "Vosotros": "gruñiréis",
+    "Ellos": "gruñirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "gruñiría",
+    "Tu": "gruñirías",
+    "El": "gruñiría",
+    "Nosotros": "gruñiríamos",
+    "Vosotros": "gruñiríais",
+    "Ellos": "gruñirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "gruñía",
+    "Tu": "gruñías",
+    "El": "gruñía",
+    "Nosotros": "gruñíamos",
+    "Vosotros": "gruñíais",
+    "Ellos": "gruñían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy gruñendo",
+    "Tu": "estás gruñendo",
+    "El": "está gruñendo",
+    "Nosotros": "estamos gruñendo",
+    "Vosotros": "estáis gruñendo",
+    "Ellos": "están gruñendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he gruñido",
+    "Tu": "has gruñido",
+    "El": "ha gruñido",
+    "Nosotros": "hemos gruñido",
+    "Vosotros": "habéis gruñido",
+    "Ellos": "han gruñido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había gruñido",
+    "Tu": "habías gruñido",
+    "El": "había gruñido",
+    "Nosotros": "habíamos gruñido",
+    "Vosotros": "habíais gruñido",
+    "Ellos": "habían gruñido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré gruñido",
+    "Tu": "habrás gruñido",
+    "El": "habrá gruñido",
+    "Nosotros": "habremos gruñido",
+    "Vosotros": "habréis gruñido",
+    "Ellos": "habrán gruñido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría gruñido",
+    "Tu": "habrías gruñido",
+    "El": "habría gruñido",
+    "Nosotros": "habríamos gruñido",
+    "Vosotros": "habríais gruñido",
+    "Ellos": "habrían gruñido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "gruña",
+    "Tu": "gruñas",
+    "El": "gruña",
+    "Nosotros": "gruñamos",
+    "Vosotros": "gruñáis",
+    "Ellos": "gruñan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "gruñe",
+    "El": "gruña",
+    "Nosotros": "gruñamos",
+    "Vosotros": "gruñed",
+    "Ellos": "gruñan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no gruñas",
+    "El": "no gruña",
+    "Nosotros": "no gruñamos",
+    "Vosotros": "no gruñáis",
+    "Ellos": "no gruñan"
+  },
+  "ending": "ir"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "perseguir",
+  "englishInfinitive": "to pursue",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "persigo",
+    "Tu": "persigues",
+    "El": "persigue",
+    "Nosotros": "perseguimos",
+    "Vosotros": "perseguís",
+    "Ellos": "persiguen"
+  },
+  "IndicativePreterite": {
+    "Yo": "perseguí",
+    "Tu": "perseguiste",
+    "El": "persiguió",
+    "Nosotros": "perseguimos",
+    "Vosotros": "perseguisteis",
+    "Ellos": "persiguieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "perseguiré",
+    "Tu": "perseguirás",
+    "El": "perseguirá",
+    "Nosotros": "perseguiremos",
+    "Vosotros": "perseguiréis",
+    "Ellos": "perseguirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "perseguiría",
+    "Tu": "perseguirías",
+    "El": "perseguiría",
+    "Nosotros": "perseguiríamos",
+    "Vosotros": "perseguiríais",
+    "Ellos": "perseguirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "perseguía",
+    "Tu": "perseguías",
+    "El": "perseguía",
+    "Nosotros": "perseguíamos",
+    "Vosotros": "perseguíais",
+    "Ellos": "perseguían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy persiguiendo",
+    "Tu": "estás persiguiendo",
+    "El": "está persiguiendo",
+    "Nosotros": "estamos persiguiendo",
+    "Vosotros": "estáis persiguiendo",
+    "Ellos": "están persiguiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he perseguido",
+    "Tu": "has perseguido",
+    "El": "ha perseguido",
+    "Nosotros": "hemos perseguido",
+    "Vosotros": "habéis perseguido",
+    "Ellos": "han perseguido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había perseguido",
+    "Tu": "habías perseguido",
+    "El": "había perseguido",
+    "Nosotros": "habíamos perseguido",
+    "Vosotros": "habíais perseguido",
+    "Ellos": "habían perseguido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré perseguido",
+    "Tu": "habrás perseguido",
+    "El": "habrá perseguido",
+    "Nosotros": "habremos perseguido",
+    "Vosotros": "habréis perseguido",
+    "Ellos": "habrán perseguido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría perseguido",
+    "Tu": "habrías perseguido",
+    "El": "habría perseguido",
+    "Nosotros": "habríamos perseguido",
+    "Vosotros": "habríais perseguido",
+    "Ellos": "habrían perseguido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "persiga",
+    "Tu": "persigas",
+    "El": "persiga",
+    "Nosotros": "persigamos",
+    "Vosotros": "persigáis",
+    "Ellos": "persigan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "persigue",
+    "El": "persiga",
+    "Nosotros": "persigamos",
+    "Vosotros": "perseguid",
+    "Ellos": "persigan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no persigas",
+    "El": "no persiga",
+    "Nosotros": "no persigamos",
+    "Vosotros": "no persigáis",
+    "Ellos": "no persigan"
+  },
+  "ending": "ir"
+}

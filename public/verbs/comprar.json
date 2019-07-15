@@ -1,0 +1,113 @@
+{
+  "verb": "comprar",
+  "englishInfinitive": "to buy",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "compro",
+    "Tu": "compras",
+    "El": "compra",
+    "Nosotros": "compramos",
+    "Vosotros": "compráis",
+    "Ellos": "compran"
+  },
+  "IndicativePreterite": {
+    "Yo": "compré",
+    "Tu": "compraste",
+    "El": "compró",
+    "Nosotros": "compramos",
+    "Vosotros": "comprasteis",
+    "Ellos": "compraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "compraré",
+    "Tu": "comprarás",
+    "El": "comprará",
+    "Nosotros": "compraremos",
+    "Vosotros": "compraréis",
+    "Ellos": "comprarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "compraría",
+    "Tu": "comprarías",
+    "El": "compraría",
+    "Nosotros": "compraríamos",
+    "Vosotros": "compraríais",
+    "Ellos": "comprarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "compraba",
+    "Tu": "comprabas",
+    "El": "compraba",
+    "Nosotros": "comprábamos",
+    "Vosotros": "comprabais",
+    "Ellos": "compraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy comprando",
+    "Tu": "estás comprando",
+    "El": "está comprando",
+    "Nosotros": "estamos comprando",
+    "Vosotros": "estáis comprando",
+    "Ellos": "están comprando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he comprado",
+    "Tu": "has comprado",
+    "El": "ha comprado",
+    "Nosotros": "hemos comprado",
+    "Vosotros": "habéis comprado",
+    "Ellos": "han comprado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había comprado",
+    "Tu": "habías comprado",
+    "El": "había comprado",
+    "Nosotros": "habíamos comprado",
+    "Vosotros": "habíais comprado",
+    "Ellos": "habían comprado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré comprado",
+    "Tu": "habrás comprado",
+    "El": "habrá comprado",
+    "Nosotros": "habremos comprado",
+    "Vosotros": "habréis comprado",
+    "Ellos": "habrán comprado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría comprado",
+    "Tu": "habrías comprado",
+    "El": "habría comprado",
+    "Nosotros": "habríamos comprado",
+    "Vosotros": "habríais comprado",
+    "Ellos": "habrían comprado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "compre",
+    "Tu": "compres",
+    "El": "compre",
+    "Nosotros": "compremos",
+    "Vosotros": "compréis",
+    "Ellos": "compren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "compra",
+    "El": "compre",
+    "Nosotros": "compremos",
+    "Vosotros": "comprad",
+    "Ellos": "compren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no compres",
+    "El": "no compre",
+    "Nosotros": "no compremos",
+    "Vosotros": "no compréis",
+    "Ellos": "no compren"
+  },
+  "ending": "ar"
+}

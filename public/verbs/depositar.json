@@ -1,0 +1,113 @@
+{
+  "verb": "depositar",
+  "englishInfinitive": "to deposit",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "deposito",
+    "Tu": "depositas",
+    "El": "deposita",
+    "Nosotros": "depositamos",
+    "Vosotros": "depositáis",
+    "Ellos": "depositan"
+  },
+  "IndicativePreterite": {
+    "Yo": "deposité",
+    "Tu": "depositaste",
+    "El": "depositó",
+    "Nosotros": "depositamos",
+    "Vosotros": "depositasteis",
+    "Ellos": "depositaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "depositaré",
+    "Tu": "depositarás",
+    "El": "depositará",
+    "Nosotros": "depositaremos",
+    "Vosotros": "depositaréis",
+    "Ellos": "depositarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "depositaría",
+    "Tu": "depositarías",
+    "El": "depositaría",
+    "Nosotros": "depositaríamos",
+    "Vosotros": "depositaríais",
+    "Ellos": "depositarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "depositaba",
+    "Tu": "depositabas",
+    "El": "depositaba",
+    "Nosotros": "depositábamos",
+    "Vosotros": "depositabais",
+    "Ellos": "depositaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy depositando",
+    "Tu": "estás depositando",
+    "El": "está depositando",
+    "Nosotros": "estamos depositando",
+    "Vosotros": "estáis depositando",
+    "Ellos": "están depositando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he depositado",
+    "Tu": "has depositado",
+    "El": "ha depositado",
+    "Nosotros": "hemos depositado",
+    "Vosotros": "habéis depositado",
+    "Ellos": "han depositado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había depositado",
+    "Tu": "habías depositado",
+    "El": "había depositado",
+    "Nosotros": "habíamos depositado",
+    "Vosotros": "habíais depositado",
+    "Ellos": "habían depositado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré depositado",
+    "Tu": "habrás depositado",
+    "El": "habrá depositado",
+    "Nosotros": "habremos depositado",
+    "Vosotros": "habréis depositado",
+    "Ellos": "habrán depositado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría depositado",
+    "Tu": "habrías depositado",
+    "El": "habría depositado",
+    "Nosotros": "habríamos depositado",
+    "Vosotros": "habríais depositado",
+    "Ellos": "habrían depositado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "deposite",
+    "Tu": "deposites",
+    "El": "deposite",
+    "Nosotros": "depositemos",
+    "Vosotros": "depositéis",
+    "Ellos": "depositen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "deposita",
+    "El": "deposite",
+    "Nosotros": "depositemos",
+    "Vosotros": "depositad",
+    "Ellos": "depositen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no deposites",
+    "El": "no deposite",
+    "Nosotros": "no depositemos",
+    "Vosotros": "no depositéis",
+    "Ellos": "no depositen"
+  },
+  "ending": "ar"
+}

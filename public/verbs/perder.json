@@ -1,0 +1,113 @@
+{
+  "verb": "perder",
+  "englishInfinitive": "to lose",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "pierdo",
+    "Tu": "pierdes",
+    "El": "pierde",
+    "Nosotros": "perdemos",
+    "Vosotros": "perdéis",
+    "Ellos": "pierden"
+  },
+  "IndicativePreterite": {
+    "Yo": "perdí",
+    "Tu": "perdiste",
+    "El": "perdió",
+    "Nosotros": "perdimos",
+    "Vosotros": "perdisteis",
+    "Ellos": "perdieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "perderé",
+    "Tu": "perderás",
+    "El": "perderá",
+    "Nosotros": "perderemos",
+    "Vosotros": "perderéis",
+    "Ellos": "perderán"
+  },
+  "ConditionalPresent": {
+    "Yo": "perdería",
+    "Tu": "perderías",
+    "El": "perdería",
+    "Nosotros": "perderíamos",
+    "Vosotros": "perderíais",
+    "Ellos": "perderían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "perdía",
+    "Tu": "perdías",
+    "El": "perdía",
+    "Nosotros": "perdíamos",
+    "Vosotros": "perdíais",
+    "Ellos": "perdían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy perdiendo",
+    "Tu": "estás perdiendo",
+    "El": "está perdiendo",
+    "Nosotros": "estamos perdiendo",
+    "Vosotros": "estáis perdiendo",
+    "Ellos": "están perdiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he perdido",
+    "Tu": "has perdido",
+    "El": "ha perdido",
+    "Nosotros": "hemos perdido",
+    "Vosotros": "habéis perdido",
+    "Ellos": "han perdido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había perdido",
+    "Tu": "habías perdido",
+    "El": "había perdido",
+    "Nosotros": "habíamos perdido",
+    "Vosotros": "habíais perdido",
+    "Ellos": "habían perdido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré perdido",
+    "Tu": "habrás perdido",
+    "El": "habrá perdido",
+    "Nosotros": "habremos perdido",
+    "Vosotros": "habréis perdido",
+    "Ellos": "habrán perdido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría perdido",
+    "Tu": "habrías perdido",
+    "El": "habría perdido",
+    "Nosotros": "habríamos perdido",
+    "Vosotros": "habríais perdido",
+    "Ellos": "habrían perdido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "pierda",
+    "Tu": "pierdas",
+    "El": "pierda",
+    "Nosotros": "perdamos",
+    "Vosotros": "perdáis",
+    "Ellos": "pierdan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "pierde",
+    "El": "pierda",
+    "Nosotros": "perdamos",
+    "Vosotros": "perded",
+    "Ellos": "pierdan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no pierdas",
+    "El": "no pierda",
+    "Nosotros": "no perdamos",
+    "Vosotros": "no perdáis",
+    "Ellos": "no pierdan"
+  },
+  "ending": "er"
+}

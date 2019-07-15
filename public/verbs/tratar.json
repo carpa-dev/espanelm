@@ -1,0 +1,113 @@
+{
+  "verb": "tratar",
+  "englishInfinitive": "to treat",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "trato",
+    "Tu": "tratas",
+    "El": "trata",
+    "Nosotros": "tratamos",
+    "Vosotros": "tratáis",
+    "Ellos": "tratan"
+  },
+  "IndicativePreterite": {
+    "Yo": "traté",
+    "Tu": "trataste",
+    "El": "trató",
+    "Nosotros": "tratamos",
+    "Vosotros": "tratasteis",
+    "Ellos": "trataron"
+  },
+  "IndicativeFuture": {
+    "Yo": "trataré",
+    "Tu": "tratarás",
+    "El": "tratará",
+    "Nosotros": "trataremos",
+    "Vosotros": "trataréis",
+    "Ellos": "tratarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "trataría",
+    "Tu": "tratarías",
+    "El": "trataría",
+    "Nosotros": "trataríamos",
+    "Vosotros": "trataríais",
+    "Ellos": "tratarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "trataba",
+    "Tu": "tratabas",
+    "El": "trataba",
+    "Nosotros": "tratábamos",
+    "Vosotros": "tratabais",
+    "Ellos": "trataban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy tratando",
+    "Tu": "estás tratando",
+    "El": "está tratando",
+    "Nosotros": "estamos tratando",
+    "Vosotros": "estáis tratando",
+    "Ellos": "están tratando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he tratado",
+    "Tu": "has tratado",
+    "El": "ha tratado",
+    "Nosotros": "hemos tratado",
+    "Vosotros": "habéis tratado",
+    "Ellos": "han tratado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había tratado",
+    "Tu": "habías tratado",
+    "El": "había tratado",
+    "Nosotros": "habíamos tratado",
+    "Vosotros": "habíais tratado",
+    "Ellos": "habían tratado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré tratado",
+    "Tu": "habrás tratado",
+    "El": "habrá tratado",
+    "Nosotros": "habremos tratado",
+    "Vosotros": "habréis tratado",
+    "Ellos": "habrán tratado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría tratado",
+    "Tu": "habrías tratado",
+    "El": "habría tratado",
+    "Nosotros": "habríamos tratado",
+    "Vosotros": "habríais tratado",
+    "Ellos": "habrían tratado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "trate",
+    "Tu": "trates",
+    "El": "trate",
+    "Nosotros": "tratemos",
+    "Vosotros": "tratéis",
+    "Ellos": "traten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "trata",
+    "El": "trate",
+    "Nosotros": "tratemos",
+    "Vosotros": "tratad",
+    "Ellos": "traten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no trates",
+    "El": "no trate",
+    "Nosotros": "no tratemos",
+    "Vosotros": "no tratéis",
+    "Ellos": "no traten"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "detestar",
+  "englishInfinitive": "to detest",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "detesto",
+    "Tu": "detestas",
+    "El": "detesta",
+    "Nosotros": "detestamos",
+    "Vosotros": "detestáis",
+    "Ellos": "detestan"
+  },
+  "IndicativePreterite": {
+    "Yo": "detesté",
+    "Tu": "detestaste",
+    "El": "detestó",
+    "Nosotros": "detestamos",
+    "Vosotros": "detestasteis",
+    "Ellos": "detestaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "detestaré",
+    "Tu": "detestarás",
+    "El": "detestará",
+    "Nosotros": "detestaremos",
+    "Vosotros": "detestaréis",
+    "Ellos": "detestarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "detestaría",
+    "Tu": "detestarías",
+    "El": "detestaría",
+    "Nosotros": "detestaríamos",
+    "Vosotros": "detestaríais",
+    "Ellos": "detestarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "detestaba",
+    "Tu": "detestabas",
+    "El": "detestaba",
+    "Nosotros": "detestábamos",
+    "Vosotros": "detestabais",
+    "Ellos": "detestaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy detestando",
+    "Tu": "estás detestando",
+    "El": "está detestando",
+    "Nosotros": "estamos detestando",
+    "Vosotros": "estáis detestando",
+    "Ellos": "están detestando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he detestado",
+    "Tu": "has detestado",
+    "El": "ha detestado",
+    "Nosotros": "hemos detestado",
+    "Vosotros": "habéis detestado",
+    "Ellos": "han detestado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había detestado",
+    "Tu": "habías detestado",
+    "El": "había detestado",
+    "Nosotros": "habíamos detestado",
+    "Vosotros": "habíais detestado",
+    "Ellos": "habían detestado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré detestado",
+    "Tu": "habrás detestado",
+    "El": "habrá detestado",
+    "Nosotros": "habremos detestado",
+    "Vosotros": "habréis detestado",
+    "Ellos": "habrán detestado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría detestado",
+    "Tu": "habrías detestado",
+    "El": "habría detestado",
+    "Nosotros": "habríamos detestado",
+    "Vosotros": "habríais detestado",
+    "Ellos": "habrían detestado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "deteste",
+    "Tu": "detestes",
+    "El": "deteste",
+    "Nosotros": "detestemos",
+    "Vosotros": "detestéis",
+    "Ellos": "detesten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "detesta",
+    "El": "deteste",
+    "Nosotros": "detestemos",
+    "Vosotros": "detestad",
+    "Ellos": "detesten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no detestes",
+    "El": "no deteste",
+    "Nosotros": "no detestemos",
+    "Vosotros": "no detestéis",
+    "Ellos": "no detesten"
+  },
+  "ending": "ar"
+}

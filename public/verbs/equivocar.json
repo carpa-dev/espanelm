@@ -1,0 +1,113 @@
+{
+  "verb": "equivocar",
+  "englishInfinitive": "to mistake",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "equivoco",
+    "Tu": "equivocas",
+    "El": "equivoca",
+    "Nosotros": "equivocamos",
+    "Vosotros": "equivocáis",
+    "Ellos": "equivocan"
+  },
+  "IndicativePreterite": {
+    "Yo": "equivoqué",
+    "Tu": "equivocaste",
+    "El": "equivocó",
+    "Nosotros": "equivocamos",
+    "Vosotros": "equivocasteis",
+    "Ellos": "equivocaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "equivocaré",
+    "Tu": "equivocarás",
+    "El": "equivocará",
+    "Nosotros": "equivocaremos",
+    "Vosotros": "equivocaréis",
+    "Ellos": "equivocarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "equivocaría",
+    "Tu": "equivocarías",
+    "El": "equivocaría",
+    "Nosotros": "equivocaríamos",
+    "Vosotros": "equivocaríais",
+    "Ellos": "equivocarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "equivocaba",
+    "Tu": "equivocabas",
+    "El": "equivocaba",
+    "Nosotros": "equivocábamos",
+    "Vosotros": "equivocabais",
+    "Ellos": "equivocaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy equivocando",
+    "Tu": "estás equivocando",
+    "El": "está equivocando",
+    "Nosotros": "estamos equivocando",
+    "Vosotros": "estáis equivocando",
+    "Ellos": "están equivocando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he equivocado",
+    "Tu": "has equivocado",
+    "El": "ha equivocado",
+    "Nosotros": "hemos equivocado",
+    "Vosotros": "habéis equivocado",
+    "Ellos": "han equivocado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había equivocado",
+    "Tu": "habías equivocado",
+    "El": "había equivocado",
+    "Nosotros": "habíamos equivocado",
+    "Vosotros": "habíais equivocado",
+    "Ellos": "habían equivocado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré equivocado",
+    "Tu": "habrás equivocado",
+    "El": "habrá equivocado",
+    "Nosotros": "habremos equivocado",
+    "Vosotros": "habréis equivocado",
+    "Ellos": "habrán equivocado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría equivocado",
+    "Tu": "habrías equivocado",
+    "El": "habría equivocado",
+    "Nosotros": "habríamos equivocado",
+    "Vosotros": "habríais equivocado",
+    "Ellos": "habrían equivocado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "equivoque",
+    "Tu": "equivoques",
+    "El": "equivoque",
+    "Nosotros": "equivoquemos",
+    "Vosotros": "equivoquéis",
+    "Ellos": "equivoquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "equivoca",
+    "El": "equivoque",
+    "Nosotros": "equivoquemos",
+    "Vosotros": "equivocad",
+    "Ellos": "equivoquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no equivoques",
+    "El": "no equivoque",
+    "Nosotros": "no equivoquemos",
+    "Vosotros": "no equivoquéis",
+    "Ellos": "no equivoquen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "planchar",
+  "englishInfinitive": "to iron",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "plancho",
+    "Tu": "planchas",
+    "El": "plancha",
+    "Nosotros": "planchamos",
+    "Vosotros": "plancháis",
+    "Ellos": "planchan"
+  },
+  "IndicativePreterite": {
+    "Yo": "planché",
+    "Tu": "planchaste",
+    "El": "planchó",
+    "Nosotros": "planchamos",
+    "Vosotros": "planchasteis",
+    "Ellos": "plancharon"
+  },
+  "IndicativeFuture": {
+    "Yo": "plancharé",
+    "Tu": "plancharás",
+    "El": "planchará",
+    "Nosotros": "plancharemos",
+    "Vosotros": "plancharéis",
+    "Ellos": "plancharán"
+  },
+  "ConditionalPresent": {
+    "Yo": "plancharía",
+    "Tu": "plancharías",
+    "El": "plancharía",
+    "Nosotros": "plancharíamos",
+    "Vosotros": "plancharíais",
+    "Ellos": "plancharían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "planchaba",
+    "Tu": "planchabas",
+    "El": "planchaba",
+    "Nosotros": "planchábamos",
+    "Vosotros": "planchabais",
+    "Ellos": "planchaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy planchando",
+    "Tu": "estás planchando",
+    "El": "está planchando",
+    "Nosotros": "estamos planchando",
+    "Vosotros": "estáis planchando",
+    "Ellos": "están planchando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he planchado",
+    "Tu": "has planchado",
+    "El": "ha planchado",
+    "Nosotros": "hemos planchado",
+    "Vosotros": "habéis planchado",
+    "Ellos": "han planchado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había planchado",
+    "Tu": "habías planchado",
+    "El": "había planchado",
+    "Nosotros": "habíamos planchado",
+    "Vosotros": "habíais planchado",
+    "Ellos": "habían planchado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré planchado",
+    "Tu": "habrás planchado",
+    "El": "habrá planchado",
+    "Nosotros": "habremos planchado",
+    "Vosotros": "habréis planchado",
+    "Ellos": "habrán planchado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría planchado",
+    "Tu": "habrías planchado",
+    "El": "habría planchado",
+    "Nosotros": "habríamos planchado",
+    "Vosotros": "habríais planchado",
+    "Ellos": "habrían planchado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "planche",
+    "Tu": "planches",
+    "El": "planche",
+    "Nosotros": "planchemos",
+    "Vosotros": "planchéis",
+    "Ellos": "planchen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "plancha",
+    "El": "planche",
+    "Nosotros": "planchemos",
+    "Vosotros": "planchad",
+    "Ellos": "planchen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no planches",
+    "El": "no planche",
+    "Nosotros": "no planchemos",
+    "Vosotros": "no planchéis",
+    "Ellos": "no planchen"
+  },
+  "ending": "ar"
+}

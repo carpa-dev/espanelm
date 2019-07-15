@@ -1,0 +1,113 @@
+{
+  "verb": "unir",
+  "englishInfinitive": "to unite",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "uno",
+    "Tu": "unes",
+    "El": "une",
+    "Nosotros": "unimos",
+    "Vosotros": "unís",
+    "Ellos": "unen"
+  },
+  "IndicativePreterite": {
+    "Yo": "uní",
+    "Tu": "uniste",
+    "El": "unió",
+    "Nosotros": "unimos",
+    "Vosotros": "unisteis",
+    "Ellos": "unieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "uniré",
+    "Tu": "unirás",
+    "El": "unirá",
+    "Nosotros": "uniremos",
+    "Vosotros": "uniréis",
+    "Ellos": "unirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "uniría",
+    "Tu": "unirías",
+    "El": "uniría",
+    "Nosotros": "uniríamos",
+    "Vosotros": "uniríais",
+    "Ellos": "unirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "unía",
+    "Tu": "unías",
+    "El": "unía",
+    "Nosotros": "uníamos",
+    "Vosotros": "uníais",
+    "Ellos": "unían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy uniendo",
+    "Tu": "estás uniendo",
+    "El": "está uniendo",
+    "Nosotros": "estamos uniendo",
+    "Vosotros": "estáis uniendo",
+    "Ellos": "están uniendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he unido",
+    "Tu": "has unido",
+    "El": "ha unido",
+    "Nosotros": "hemos unido",
+    "Vosotros": "habéis unido",
+    "Ellos": "han unido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había unido",
+    "Tu": "habías unido",
+    "El": "había unido",
+    "Nosotros": "habíamos unido",
+    "Vosotros": "habíais unido",
+    "Ellos": "habían unido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré unido",
+    "Tu": "habrás unido",
+    "El": "habrá unido",
+    "Nosotros": "habremos unido",
+    "Vosotros": "habréis unido",
+    "Ellos": "habrán unido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría unido",
+    "Tu": "habrías unido",
+    "El": "habría unido",
+    "Nosotros": "habríamos unido",
+    "Vosotros": "habríais unido",
+    "Ellos": "habrían unido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "una",
+    "Tu": "unas",
+    "El": "una",
+    "Nosotros": "unamos",
+    "Vosotros": "unáis",
+    "Ellos": "unan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "une",
+    "El": "una",
+    "Nosotros": "unamos",
+    "Vosotros": "unid",
+    "Ellos": "unan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no unas",
+    "El": "no una",
+    "Nosotros": "no unamos",
+    "Vosotros": "no unáis",
+    "Ellos": "no unan"
+  },
+  "ending": "ir"
+}

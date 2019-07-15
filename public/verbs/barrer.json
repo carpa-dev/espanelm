@@ -1,0 +1,113 @@
+{
+  "verb": "barrer",
+  "englishInfinitive": "to sweep",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "barro",
+    "Tu": "barres",
+    "El": "barre",
+    "Nosotros": "barremos",
+    "Vosotros": "barréis",
+    "Ellos": "barren"
+  },
+  "IndicativePreterite": {
+    "Yo": "barrí",
+    "Tu": "barriste",
+    "El": "barrió",
+    "Nosotros": "barrimos",
+    "Vosotros": "barristeis",
+    "Ellos": "barrieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "barreré",
+    "Tu": "barrerás",
+    "El": "barrerá",
+    "Nosotros": "barreremos",
+    "Vosotros": "barreréis",
+    "Ellos": "barrerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "barrería",
+    "Tu": "barrerías",
+    "El": "barrería",
+    "Nosotros": "barreríamos",
+    "Vosotros": "barreríais",
+    "Ellos": "barrerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "barría",
+    "Tu": "barrías",
+    "El": "barría",
+    "Nosotros": "barríamos",
+    "Vosotros": "barríais",
+    "Ellos": "barrían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy barriendo",
+    "Tu": "estás barriendo",
+    "El": "está barriendo",
+    "Nosotros": "estamos barriendo",
+    "Vosotros": "estáis barriendo",
+    "Ellos": "están barriendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he barrido",
+    "Tu": "has barrido",
+    "El": "ha barrido",
+    "Nosotros": "hemos barrido",
+    "Vosotros": "habéis barrido",
+    "Ellos": "han barrido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había barrido",
+    "Tu": "habías barrido",
+    "El": "había barrido",
+    "Nosotros": "habíamos barrido",
+    "Vosotros": "habíais barrido",
+    "Ellos": "habían barrido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré barrido",
+    "Tu": "habrás barrido",
+    "El": "habrá barrido",
+    "Nosotros": "habremos barrido",
+    "Vosotros": "habréis barrido",
+    "Ellos": "habrán barrido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría barrido",
+    "Tu": "habrías barrido",
+    "El": "habría barrido",
+    "Nosotros": "habríamos barrido",
+    "Vosotros": "habríais barrido",
+    "Ellos": "habrían barrido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "barra",
+    "Tu": "barras",
+    "El": "barra",
+    "Nosotros": "barramos",
+    "Vosotros": "barráis",
+    "Ellos": "barran"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "barre",
+    "El": "barra",
+    "Nosotros": "barramos",
+    "Vosotros": "barred",
+    "Ellos": "barran"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no barras",
+    "El": "no barra",
+    "Nosotros": "no barramos",
+    "Vosotros": "no barráis",
+    "Ellos": "no barran"
+  },
+  "ending": "er"
+}

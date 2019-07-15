@@ -1,0 +1,113 @@
+{
+  "verb": "coser",
+  "englishInfinitive": "to sew",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "coso",
+    "Tu": "coses",
+    "El": "cose",
+    "Nosotros": "cosemos",
+    "Vosotros": "coséis",
+    "Ellos": "cosen"
+  },
+  "IndicativePreterite": {
+    "Yo": "cosí",
+    "Tu": "cosiste",
+    "El": "cosió",
+    "Nosotros": "cosimos",
+    "Vosotros": "cosisteis",
+    "Ellos": "cosieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "coseré",
+    "Tu": "coserás",
+    "El": "coserá",
+    "Nosotros": "coseremos",
+    "Vosotros": "coseréis",
+    "Ellos": "coserán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cosería",
+    "Tu": "coserías",
+    "El": "cosería",
+    "Nosotros": "coseríamos",
+    "Vosotros": "coseríais",
+    "Ellos": "coserían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cosía",
+    "Tu": "cosías",
+    "El": "cosía",
+    "Nosotros": "cosíamos",
+    "Vosotros": "cosíais",
+    "Ellos": "cosían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cosiendo",
+    "Tu": "estás cosiendo",
+    "El": "está cosiendo",
+    "Nosotros": "estamos cosiendo",
+    "Vosotros": "estáis cosiendo",
+    "Ellos": "están cosiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cosido",
+    "Tu": "has cosido",
+    "El": "ha cosido",
+    "Nosotros": "hemos cosido",
+    "Vosotros": "habéis cosido",
+    "Ellos": "han cosido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cosido",
+    "Tu": "habías cosido",
+    "El": "había cosido",
+    "Nosotros": "habíamos cosido",
+    "Vosotros": "habíais cosido",
+    "Ellos": "habían cosido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cosido",
+    "Tu": "habrás cosido",
+    "El": "habrá cosido",
+    "Nosotros": "habremos cosido",
+    "Vosotros": "habréis cosido",
+    "Ellos": "habrán cosido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cosido",
+    "Tu": "habrías cosido",
+    "El": "habría cosido",
+    "Nosotros": "habríamos cosido",
+    "Vosotros": "habríais cosido",
+    "Ellos": "habrían cosido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cosa",
+    "Tu": "cosas",
+    "El": "cosa",
+    "Nosotros": "cosamos",
+    "Vosotros": "cosáis",
+    "Ellos": "cosan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cose",
+    "El": "cosa",
+    "Nosotros": "cosamos",
+    "Vosotros": "cosed",
+    "Ellos": "cosan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cosas",
+    "El": "no cosa",
+    "Nosotros": "no cosamos",
+    "Vosotros": "no cosáis",
+    "Ellos": "no cosan"
+  },
+  "ending": "er"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "acostar",
+  "englishInfinitive": "to put to bed",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "acuesto",
+    "Tu": "acuestas",
+    "El": "acuesta",
+    "Nosotros": "acostamos",
+    "Vosotros": "acostáis",
+    "Ellos": "acuestan"
+  },
+  "IndicativePreterite": {
+    "Yo": "acosté",
+    "Tu": "acostaste",
+    "El": "acostó",
+    "Nosotros": "acostamos",
+    "Vosotros": "acostasteis",
+    "Ellos": "acostaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "acostaré",
+    "Tu": "acostarás",
+    "El": "acostará",
+    "Nosotros": "acostaremos",
+    "Vosotros": "acostaréis",
+    "Ellos": "acostarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "acostaría",
+    "Tu": "acostarías",
+    "El": "acostaría",
+    "Nosotros": "acostaríamos",
+    "Vosotros": "acostaríais",
+    "Ellos": "acostarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "acostaba",
+    "Tu": "acostabas",
+    "El": "acostaba",
+    "Nosotros": "acostábamos",
+    "Vosotros": "acostabais",
+    "Ellos": "acostaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy acostando",
+    "Tu": "estás acostando",
+    "El": "está acostando",
+    "Nosotros": "estamos acostando",
+    "Vosotros": "estáis acostando",
+    "Ellos": "están acostando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he acostado",
+    "Tu": "has acostado",
+    "El": "ha acostado",
+    "Nosotros": "hemos acostado",
+    "Vosotros": "habéis acostado",
+    "Ellos": "han acostado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había acostado",
+    "Tu": "habías acostado",
+    "El": "había acostado",
+    "Nosotros": "habíamos acostado",
+    "Vosotros": "habíais acostado",
+    "Ellos": "habían acostado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré acostado",
+    "Tu": "habrás acostado",
+    "El": "habrá acostado",
+    "Nosotros": "habremos acostado",
+    "Vosotros": "habréis acostado",
+    "Ellos": "habrán acostado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría acostado",
+    "Tu": "habrías acostado",
+    "El": "habría acostado",
+    "Nosotros": "habríamos acostado",
+    "Vosotros": "habríais acostado",
+    "Ellos": "habrían acostado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "acueste",
+    "Tu": "acuestes",
+    "El": "acueste",
+    "Nosotros": "acostemos",
+    "Vosotros": "acostéis",
+    "Ellos": "acuesten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "acuesta",
+    "El": "acueste",
+    "Nosotros": "acostemos",
+    "Vosotros": "acostad",
+    "Ellos": "acuesten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no acuestes",
+    "El": "no acueste",
+    "Nosotros": "no acostemos",
+    "Vosotros": "no acostéis",
+    "Ellos": "no acuesten"
+  },
+  "ending": "ar"
+}

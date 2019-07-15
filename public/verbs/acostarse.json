@@ -1,0 +1,113 @@
+{
+  "verb": "acostarse",
+  "englishInfinitive": "to go to bed",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me acuesto",
+    "Tu": "te acuestas",
+    "El": "se acuesta",
+    "Nosotros": "nos acostamos",
+    "Vosotros": "os acostáis",
+    "Ellos": "se acuestan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me acosté",
+    "Tu": "te acostaste",
+    "El": "se acostó",
+    "Nosotros": "nos acostamos",
+    "Vosotros": "os acostasteis",
+    "Ellos": "se acostaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me acostaré",
+    "Tu": "te acostarás",
+    "El": "se acostará",
+    "Nosotros": "nos acostaremos",
+    "Vosotros": "os acostaréis",
+    "Ellos": "se acostarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me acostaría",
+    "Tu": "te acostarías",
+    "El": "se acostaría",
+    "Nosotros": "nos acostaríamos",
+    "Vosotros": "os acostaríais",
+    "Ellos": "se acostarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me acostaba",
+    "Tu": "te acostabas",
+    "El": "se acostaba",
+    "Nosotros": "nos acostábamos",
+    "Vosotros": "os acostabais",
+    "Ellos": "se acostaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy acostando,estoy acostándome",
+    "Tu": "te estás acostando,estás acostándote",
+    "El": "se está acostando,está acostándose",
+    "Nosotros": "nos estamos acostando,estamos acostándonos",
+    "Vosotros": "os estáis acostando,estáis acostándoos",
+    "Ellos": "se están acostando,están acostándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he acostado",
+    "Tu": "te has acostado",
+    "El": "se ha acostado",
+    "Nosotros": "nos hemos acostado",
+    "Vosotros": "os habéis acostado",
+    "Ellos": "se han acostado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había acostado",
+    "Tu": "te habías acostado",
+    "El": "se había acostado",
+    "Nosotros": "nos habíamos acostado",
+    "Vosotros": "os habíais acostado",
+    "Ellos": "se habían acostado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré acostado",
+    "Tu": "te habrás acostado",
+    "El": "se habrá acostado",
+    "Nosotros": "nos habremos acostado",
+    "Vosotros": "os habréis acostado",
+    "Ellos": "se habrán acostado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría acostado",
+    "Tu": "te habrías acostado",
+    "El": "se habría acostado",
+    "Nosotros": "nos habríamos acostado",
+    "Vosotros": "os habríais acostado",
+    "Ellos": "se habrían acostado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me acueste",
+    "Tu": "te acuestes",
+    "El": "se acueste",
+    "Nosotros": "nos acostemos",
+    "Vosotros": "os acostéis",
+    "Ellos": "se acuesten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "acuéstate",
+    "El": "acuéstese",
+    "Nosotros": "acostémonos",
+    "Vosotros": "acostaos",
+    "Ellos": "acuéstense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te acuestes",
+    "El": "no se acueste",
+    "Nosotros": "no nos acostemos",
+    "Vosotros": "no os acostéis",
+    "Ellos": "no se acuesten"
+  },
+  "ending": "ar"
+}

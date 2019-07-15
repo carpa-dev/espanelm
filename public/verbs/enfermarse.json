@@ -1,0 +1,113 @@
+{
+  "verb": "enfermarse",
+  "englishInfinitive": "to get sick",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me enfermo",
+    "Tu": "te enfermas",
+    "El": "se enferma",
+    "Nosotros": "nos enfermamos",
+    "Vosotros": "os enfermáis",
+    "Ellos": "se enferman"
+  },
+  "IndicativePreterite": {
+    "Yo": "me enfermé",
+    "Tu": "te enfermaste",
+    "El": "se enfermó",
+    "Nosotros": "nos enfermamos",
+    "Vosotros": "os enfermasteis",
+    "Ellos": "se enfermaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me enfermaré",
+    "Tu": "te enfermarás",
+    "El": "se enfermará",
+    "Nosotros": "nos enfermaremos",
+    "Vosotros": "os enfermaréis",
+    "Ellos": "se enfermarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me enfermaría",
+    "Tu": "te enfermarías",
+    "El": "se enfermaría",
+    "Nosotros": "nos enfermaríamos",
+    "Vosotros": "os enfermaríais",
+    "Ellos": "se enfermarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me enfermaba",
+    "Tu": "te enfermabas",
+    "El": "se enfermaba",
+    "Nosotros": "nos enfermábamos",
+    "Vosotros": "os enfermabais",
+    "Ellos": "se enfermaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy enfermando,estoy enfermándome",
+    "Tu": "te estás enfermando,estás enfermándote",
+    "El": "se está enfermando,está enfermándose",
+    "Nosotros": "nos estamos enfermando,estamos enfermándonos",
+    "Vosotros": "os estáis enfermando,estáis enfermándoos",
+    "Ellos": "se están enfermando,están enfermándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he enfermado",
+    "Tu": "te has enfermado",
+    "El": "se ha enfermado",
+    "Nosotros": "nos hemos enfermado",
+    "Vosotros": "os habéis enfermado",
+    "Ellos": "se han enfermado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había enfermado",
+    "Tu": "te habías enfermado",
+    "El": "se había enfermado",
+    "Nosotros": "nos habíamos enfermado",
+    "Vosotros": "os habíais enfermado",
+    "Ellos": "se habían enfermado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré enfermado",
+    "Tu": "te habrás enfermado",
+    "El": "se habrá enfermado",
+    "Nosotros": "nos habremos enfermado",
+    "Vosotros": "os habréis enfermado",
+    "Ellos": "se habrán enfermado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría enfermado",
+    "Tu": "te habrías enfermado",
+    "El": "se habría enfermado",
+    "Nosotros": "nos habríamos enfermado",
+    "Vosotros": "os habríais enfermado",
+    "Ellos": "se habrían enfermado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me enferme",
+    "Tu": "te enfermes",
+    "El": "se enferme",
+    "Nosotros": "nos enfermemos",
+    "Vosotros": "os enferméis",
+    "Ellos": "se enfermen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "enférmate",
+    "El": "enférmese",
+    "Nosotros": "enfermémonos",
+    "Vosotros": "enfermaos",
+    "Ellos": "enférmense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te enfermes",
+    "El": "no se enferme",
+    "Nosotros": "no nos enfermemos",
+    "Vosotros": "no os enferméis",
+    "Ellos": "no se enfermen"
+  },
+  "ending": "ar"
+}

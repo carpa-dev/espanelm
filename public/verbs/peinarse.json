@@ -1,0 +1,113 @@
+{
+  "verb": "peinarse",
+  "englishInfinitive": "to comb one's hair",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me peino",
+    "Tu": "te peinas",
+    "El": "se peina",
+    "Nosotros": "nos peinamos",
+    "Vosotros": "os peináis",
+    "Ellos": "se peinan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me peiné",
+    "Tu": "te peinaste",
+    "El": "se peinó",
+    "Nosotros": "nos peinamos",
+    "Vosotros": "os peinasteis",
+    "Ellos": "se peinaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me peinaré",
+    "Tu": "te peinarás",
+    "El": "se peinará",
+    "Nosotros": "nos peinaremos",
+    "Vosotros": "os peinaréis",
+    "Ellos": "se peinarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me peinaría",
+    "Tu": "te peinarías",
+    "El": "se peinaría",
+    "Nosotros": "nos peinaríamos",
+    "Vosotros": "os peinaríais",
+    "Ellos": "se peinarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me peinaba",
+    "Tu": "te peinabas",
+    "El": "se peinaba",
+    "Nosotros": "nos peinábamos",
+    "Vosotros": "os peinabais",
+    "Ellos": "se peinaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy peinando,estoy peinándome",
+    "Tu": "te estás peinando,estás peinándote",
+    "El": "se está peinando,está peinándose",
+    "Nosotros": "nos estamos peinando,estamos peinándonos",
+    "Vosotros": "os estáis peinando,estáis peinándoos",
+    "Ellos": "se están peinando,están peinándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he peinado",
+    "Tu": "te has peinado",
+    "El": "se ha peinado",
+    "Nosotros": "nos hemos peinado",
+    "Vosotros": "os habéis peinado",
+    "Ellos": "se han peinado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había peinado",
+    "Tu": "te habías peinado",
+    "El": "se había peinado",
+    "Nosotros": "nos habíamos peinado",
+    "Vosotros": "os habíais peinado",
+    "Ellos": "se habían peinado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré peinado",
+    "Tu": "te habrás peinado",
+    "El": "se habrá peinado",
+    "Nosotros": "nos habremos peinado",
+    "Vosotros": "os habréis peinado",
+    "Ellos": "se habrán peinado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría peinado",
+    "Tu": "te habrías peinado",
+    "El": "se habría peinado",
+    "Nosotros": "nos habríamos peinado",
+    "Vosotros": "os habríais peinado",
+    "Ellos": "se habrían peinado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me peine",
+    "Tu": "te peines",
+    "El": "se peine",
+    "Nosotros": "nos peinemos",
+    "Vosotros": "os peinéis",
+    "Ellos": "se peinen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "péinate",
+    "El": "péinese",
+    "Nosotros": "peinémonos",
+    "Vosotros": "peinaos",
+    "Ellos": "péinense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te peines",
+    "El": "no se peine",
+    "Nosotros": "no nos peinemos",
+    "Vosotros": "no os peinéis",
+    "Ellos": "no se peinen"
+  },
+  "ending": "ar"
+}

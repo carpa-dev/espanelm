@@ -1,0 +1,113 @@
+{
+  "verb": "marcar",
+  "englishInfinitive": "to mark",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "marco",
+    "Tu": "marcas",
+    "El": "marca",
+    "Nosotros": "marcamos",
+    "Vosotros": "marcáis",
+    "Ellos": "marcan"
+  },
+  "IndicativePreterite": {
+    "Yo": "marqué",
+    "Tu": "marcaste",
+    "El": "marcó",
+    "Nosotros": "marcamos",
+    "Vosotros": "marcasteis",
+    "Ellos": "marcaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "marcaré",
+    "Tu": "marcarás",
+    "El": "marcará",
+    "Nosotros": "marcaremos",
+    "Vosotros": "marcaréis",
+    "Ellos": "marcarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "marcaría",
+    "Tu": "marcarías",
+    "El": "marcaría",
+    "Nosotros": "marcaríamos",
+    "Vosotros": "marcaríais",
+    "Ellos": "marcarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "marcaba",
+    "Tu": "marcabas",
+    "El": "marcaba",
+    "Nosotros": "marcábamos",
+    "Vosotros": "marcabais",
+    "Ellos": "marcaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy marcando",
+    "Tu": "estás marcando",
+    "El": "está marcando",
+    "Nosotros": "estamos marcando",
+    "Vosotros": "estáis marcando",
+    "Ellos": "están marcando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he marcado",
+    "Tu": "has marcado",
+    "El": "ha marcado",
+    "Nosotros": "hemos marcado",
+    "Vosotros": "habéis marcado",
+    "Ellos": "han marcado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había marcado",
+    "Tu": "habías marcado",
+    "El": "había marcado",
+    "Nosotros": "habíamos marcado",
+    "Vosotros": "habíais marcado",
+    "Ellos": "habían marcado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré marcado",
+    "Tu": "habrás marcado",
+    "El": "habrá marcado",
+    "Nosotros": "habremos marcado",
+    "Vosotros": "habréis marcado",
+    "Ellos": "habrán marcado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría marcado",
+    "Tu": "habrías marcado",
+    "El": "habría marcado",
+    "Nosotros": "habríamos marcado",
+    "Vosotros": "habríais marcado",
+    "Ellos": "habrían marcado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "marque",
+    "Tu": "marques",
+    "El": "marque",
+    "Nosotros": "marquemos",
+    "Vosotros": "marquéis",
+    "Ellos": "marquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "marca",
+    "El": "marque",
+    "Nosotros": "marquemos",
+    "Vosotros": "marcad",
+    "Ellos": "marquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no marques",
+    "El": "no marque",
+    "Nosotros": "no marquemos",
+    "Vosotros": "no marquéis",
+    "Ellos": "no marquen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "guiar",
+  "englishInfinitive": "to guide",
+  "irregular": true,
+  "type": "i > í",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "guío",
+    "Tu": "guías",
+    "El": "guía",
+    "Nosotros": "guiamos",
+    "Vosotros": "guiáis",
+    "Ellos": "guían"
+  },
+  "IndicativePreterite": {
+    "Yo": "guie",
+    "Tu": "guiaste",
+    "El": "guio",
+    "Nosotros": "guiamos",
+    "Vosotros": "guiasteis",
+    "Ellos": "guiaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "guiaré",
+    "Tu": "guiarás",
+    "El": "guiará",
+    "Nosotros": "guiaremos",
+    "Vosotros": "guiaréis",
+    "Ellos": "guiarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "guiaría",
+    "Tu": "guiarías",
+    "El": "guiaría",
+    "Nosotros": "guiaríamos",
+    "Vosotros": "guiaríais",
+    "Ellos": "guiarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "guiaba",
+    "Tu": "guiabas",
+    "El": "guiaba",
+    "Nosotros": "guiábamos",
+    "Vosotros": "guiabais",
+    "Ellos": "guiaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy guiando",
+    "Tu": "estás guiando",
+    "El": "está guiando",
+    "Nosotros": "estamos guiando",
+    "Vosotros": "estáis guiando",
+    "Ellos": "están guiando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he guiado",
+    "Tu": "has guiado",
+    "El": "ha guiado",
+    "Nosotros": "hemos guiado",
+    "Vosotros": "habéis guiado",
+    "Ellos": "han guiado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había guiado",
+    "Tu": "habías guiado",
+    "El": "había guiado",
+    "Nosotros": "habíamos guiado",
+    "Vosotros": "habíais guiado",
+    "Ellos": "habían guiado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré guiado",
+    "Tu": "habrás guiado",
+    "El": "habrá guiado",
+    "Nosotros": "habremos guiado",
+    "Vosotros": "habréis guiado",
+    "Ellos": "habrán guiado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría guiado",
+    "Tu": "habrías guiado",
+    "El": "habría guiado",
+    "Nosotros": "habríamos guiado",
+    "Vosotros": "habríais guiado",
+    "Ellos": "habrían guiado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "guíe",
+    "Tu": "guíes",
+    "El": "guíe",
+    "Nosotros": "guiemos",
+    "Vosotros": "guiéis",
+    "Ellos": "guíen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "guía",
+    "El": "guíe",
+    "Nosotros": "guiemos",
+    "Vosotros": "guiad",
+    "Ellos": "guíen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no guíes",
+    "El": "no guíe",
+    "Nosotros": "no guiemos",
+    "Vosotros": "no guiéis",
+    "Ellos": "no guíen"
+  },
+  "ending": "ar"
+}

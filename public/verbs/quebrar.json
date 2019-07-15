@@ -1,0 +1,113 @@
+{
+  "verb": "quebrar",
+  "englishInfinitive": "to break",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "quiebro",
+    "Tu": "quiebras",
+    "El": "quiebra",
+    "Nosotros": "quebramos",
+    "Vosotros": "quebráis",
+    "Ellos": "quiebran"
+  },
+  "IndicativePreterite": {
+    "Yo": "quebré",
+    "Tu": "quebraste",
+    "El": "quebró",
+    "Nosotros": "quebramos",
+    "Vosotros": "quebrasteis",
+    "Ellos": "quebraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "quebraré",
+    "Tu": "quebrarás",
+    "El": "quebrará",
+    "Nosotros": "quebraremos",
+    "Vosotros": "quebraréis",
+    "Ellos": "quebrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "quebraría",
+    "Tu": "quebrarías",
+    "El": "quebraría",
+    "Nosotros": "quebraríamos",
+    "Vosotros": "quebraríais",
+    "Ellos": "quebrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "quebraba",
+    "Tu": "quebrabas",
+    "El": "quebraba",
+    "Nosotros": "quebrábamos",
+    "Vosotros": "quebrabais",
+    "Ellos": "quebraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy quebrando",
+    "Tu": "estás quebrando",
+    "El": "está quebrando",
+    "Nosotros": "estamos quebrando",
+    "Vosotros": "estáis quebrando",
+    "Ellos": "están quebrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he quebrado",
+    "Tu": "has quebrado",
+    "El": "ha quebrado",
+    "Nosotros": "hemos quebrado",
+    "Vosotros": "habéis quebrado",
+    "Ellos": "han quebrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había quebrado",
+    "Tu": "habías quebrado",
+    "El": "había quebrado",
+    "Nosotros": "habíamos quebrado",
+    "Vosotros": "habíais quebrado",
+    "Ellos": "habían quebrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré quebrado",
+    "Tu": "habrás quebrado",
+    "El": "habrá quebrado",
+    "Nosotros": "habremos quebrado",
+    "Vosotros": "habréis quebrado",
+    "Ellos": "habrán quebrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría quebrado",
+    "Tu": "habrías quebrado",
+    "El": "habría quebrado",
+    "Nosotros": "habríamos quebrado",
+    "Vosotros": "habríais quebrado",
+    "Ellos": "habrían quebrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "quiebre",
+    "Tu": "quiebres",
+    "El": "quiebre",
+    "Nosotros": "quebremos",
+    "Vosotros": "quebréis",
+    "Ellos": "quiebren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "quiebra",
+    "El": "quiebre",
+    "Nosotros": "quebremos",
+    "Vosotros": "quebrad",
+    "Ellos": "quiebren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no quiebres",
+    "El": "no quiebre",
+    "Nosotros": "no quebremos",
+    "Vosotros": "no quebréis",
+    "Ellos": "no quiebren"
+  },
+  "ending": "ar"
+}

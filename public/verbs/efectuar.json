@@ -1,0 +1,113 @@
+{
+  "verb": "efectuar",
+  "englishInfinitive": "to effect",
+  "irregular": true,
+  "type": "u > ú",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "efectúo",
+    "Tu": "efectúas",
+    "El": "efectúa",
+    "Nosotros": "efectuamos",
+    "Vosotros": "efectuáis",
+    "Ellos": "efectúan"
+  },
+  "IndicativePreterite": {
+    "Yo": "efectué",
+    "Tu": "efectuaste",
+    "El": "efectuó",
+    "Nosotros": "efectuamos",
+    "Vosotros": "efectuasteis",
+    "Ellos": "efectuaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "efectuaré",
+    "Tu": "efectuarás",
+    "El": "efectuará",
+    "Nosotros": "efectuaremos",
+    "Vosotros": "efectuaréis",
+    "Ellos": "efectuarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "efectuaría",
+    "Tu": "efectuarías",
+    "El": "efectuaría",
+    "Nosotros": "efectuaríamos",
+    "Vosotros": "efectuaríais",
+    "Ellos": "efectuarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "efectuaba",
+    "Tu": "efectuabas",
+    "El": "efectuaba",
+    "Nosotros": "efectuábamos",
+    "Vosotros": "efectuabais",
+    "Ellos": "efectuaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy efectuando",
+    "Tu": "estás efectuando",
+    "El": "está efectuando",
+    "Nosotros": "estamos efectuando",
+    "Vosotros": "estáis efectuando",
+    "Ellos": "están efectuando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he efectuado",
+    "Tu": "has efectuado",
+    "El": "ha efectuado",
+    "Nosotros": "hemos efectuado",
+    "Vosotros": "habéis efectuado",
+    "Ellos": "han efectuado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había efectuado",
+    "Tu": "habías efectuado",
+    "El": "había efectuado",
+    "Nosotros": "habíamos efectuado",
+    "Vosotros": "habíais efectuado",
+    "Ellos": "habían efectuado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré efectuado",
+    "Tu": "habrás efectuado",
+    "El": "habrá efectuado",
+    "Nosotros": "habremos efectuado",
+    "Vosotros": "habréis efectuado",
+    "Ellos": "habrán efectuado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría efectuado",
+    "Tu": "habrías efectuado",
+    "El": "habría efectuado",
+    "Nosotros": "habríamos efectuado",
+    "Vosotros": "habríais efectuado",
+    "Ellos": "habrían efectuado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "efectúe",
+    "Tu": "efectúes",
+    "El": "efectúe",
+    "Nosotros": "efectuemos",
+    "Vosotros": "efectuéis",
+    "Ellos": "efectúen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "efectúa",
+    "El": "efectúe",
+    "Nosotros": "efectuemos",
+    "Vosotros": "efectuad",
+    "Ellos": "efectúen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no efectúes",
+    "El": "no efectúe",
+    "Nosotros": "no efectuemos",
+    "Vosotros": "no efectuéis",
+    "Ellos": "no efectúen"
+  },
+  "ending": "ar"
+}

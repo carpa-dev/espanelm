@@ -1,0 +1,113 @@
+{
+  "verb": "crucificar",
+  "englishInfinitive": "to crucify",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "crucifico",
+    "Tu": "crucificas",
+    "El": "crucifica",
+    "Nosotros": "crucificamos",
+    "Vosotros": "crucificáis",
+    "Ellos": "crucifican"
+  },
+  "IndicativePreterite": {
+    "Yo": "crucifiqué",
+    "Tu": "crucificaste",
+    "El": "crucificó",
+    "Nosotros": "crucificamos",
+    "Vosotros": "crucificasteis",
+    "Ellos": "crucificaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "crucificaré",
+    "Tu": "crucificarás",
+    "El": "crucificará",
+    "Nosotros": "crucificaremos",
+    "Vosotros": "crucificaréis",
+    "Ellos": "crucificarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "crucificaría",
+    "Tu": "crucificarías",
+    "El": "crucificaría",
+    "Nosotros": "crucificaríamos",
+    "Vosotros": "crucificaríais",
+    "Ellos": "crucificarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "crucificaba",
+    "Tu": "crucificabas",
+    "El": "crucificaba",
+    "Nosotros": "crucificábamos",
+    "Vosotros": "crucificabais",
+    "Ellos": "crucificaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy crucificando",
+    "Tu": "estás crucificando",
+    "El": "está crucificando",
+    "Nosotros": "estamos crucificando",
+    "Vosotros": "estáis crucificando",
+    "Ellos": "están crucificando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he crucificado",
+    "Tu": "has crucificado",
+    "El": "ha crucificado",
+    "Nosotros": "hemos crucificado",
+    "Vosotros": "habéis crucificado",
+    "Ellos": "han crucificado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había crucificado",
+    "Tu": "habías crucificado",
+    "El": "había crucificado",
+    "Nosotros": "habíamos crucificado",
+    "Vosotros": "habíais crucificado",
+    "Ellos": "habían crucificado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré crucificado",
+    "Tu": "habrás crucificado",
+    "El": "habrá crucificado",
+    "Nosotros": "habremos crucificado",
+    "Vosotros": "habréis crucificado",
+    "Ellos": "habrán crucificado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría crucificado",
+    "Tu": "habrías crucificado",
+    "El": "habría crucificado",
+    "Nosotros": "habríamos crucificado",
+    "Vosotros": "habríais crucificado",
+    "Ellos": "habrían crucificado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "crucifique",
+    "Tu": "crucifiques",
+    "El": "crucifique",
+    "Nosotros": "crucifiquemos",
+    "Vosotros": "crucifiquéis",
+    "Ellos": "crucifiquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "crucifica",
+    "El": "crucifique",
+    "Nosotros": "crucifiquemos",
+    "Vosotros": "crucificad",
+    "Ellos": "crucifiquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no crucifiques",
+    "El": "no crucifique",
+    "Nosotros": "no crucifiquemos",
+    "Vosotros": "no crucifiquéis",
+    "Ellos": "no crucifiquen"
+  },
+  "ending": "ar"
+}

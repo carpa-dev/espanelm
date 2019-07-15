@@ -1,0 +1,113 @@
+{
+  "verb": "pertenecer",
+  "englishInfinitive": "to belong",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "pertenezco",
+    "Tu": "perteneces",
+    "El": "pertenece",
+    "Nosotros": "pertenecemos",
+    "Vosotros": "pertenecéis",
+    "Ellos": "pertenecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "pertenecí",
+    "Tu": "perteneciste",
+    "El": "perteneció",
+    "Nosotros": "pertenecimos",
+    "Vosotros": "pertenecisteis",
+    "Ellos": "pertenecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "perteneceré",
+    "Tu": "pertenecerás",
+    "El": "pertenecerá",
+    "Nosotros": "perteneceremos",
+    "Vosotros": "perteneceréis",
+    "Ellos": "pertenecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "pertenecería",
+    "Tu": "pertenecerías",
+    "El": "pertenecería",
+    "Nosotros": "perteneceríamos",
+    "Vosotros": "perteneceríais",
+    "Ellos": "pertenecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "pertenecía",
+    "Tu": "pertenecías",
+    "El": "pertenecía",
+    "Nosotros": "pertenecíamos",
+    "Vosotros": "pertenecíais",
+    "Ellos": "pertenecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy perteneciendo",
+    "Tu": "estás perteneciendo",
+    "El": "está perteneciendo",
+    "Nosotros": "estamos perteneciendo",
+    "Vosotros": "estáis perteneciendo",
+    "Ellos": "están perteneciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he pertenecido",
+    "Tu": "has pertenecido",
+    "El": "ha pertenecido",
+    "Nosotros": "hemos pertenecido",
+    "Vosotros": "habéis pertenecido",
+    "Ellos": "han pertenecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había pertenecido",
+    "Tu": "habías pertenecido",
+    "El": "había pertenecido",
+    "Nosotros": "habíamos pertenecido",
+    "Vosotros": "habíais pertenecido",
+    "Ellos": "habían pertenecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré pertenecido",
+    "Tu": "habrás pertenecido",
+    "El": "habrá pertenecido",
+    "Nosotros": "habremos pertenecido",
+    "Vosotros": "habréis pertenecido",
+    "Ellos": "habrán pertenecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría pertenecido",
+    "Tu": "habrías pertenecido",
+    "El": "habría pertenecido",
+    "Nosotros": "habríamos pertenecido",
+    "Vosotros": "habríais pertenecido",
+    "Ellos": "habrían pertenecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "pertenezca",
+    "Tu": "pertenezcas",
+    "El": "pertenezca",
+    "Nosotros": "pertenezcamos",
+    "Vosotros": "pertenezcáis",
+    "Ellos": "pertenezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "pertenece",
+    "El": "pertenezca",
+    "Nosotros": "pertenezcamos",
+    "Vosotros": "perteneced",
+    "Ellos": "pertenezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no pertenezcas",
+    "El": "no pertenezca",
+    "Nosotros": "no pertenezcamos",
+    "Vosotros": "no pertenezcáis",
+    "Ellos": "no pertenezcan"
+  },
+  "ending": "er"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "derretir",
+  "englishInfinitive": "to melt",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "derrito",
+    "Tu": "derrites",
+    "El": "derrite",
+    "Nosotros": "derretimos",
+    "Vosotros": "derretís",
+    "Ellos": "derriten"
+  },
+  "IndicativePreterite": {
+    "Yo": "derretí",
+    "Tu": "derretiste",
+    "El": "derritió",
+    "Nosotros": "derretimos",
+    "Vosotros": "derretisteis",
+    "Ellos": "derritieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "derretiré",
+    "Tu": "derretirás",
+    "El": "derretirá",
+    "Nosotros": "derretiremos",
+    "Vosotros": "derretiréis",
+    "Ellos": "derretirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "derretiría",
+    "Tu": "derretirías",
+    "El": "derretiría",
+    "Nosotros": "derretiríamos",
+    "Vosotros": "derretiríais",
+    "Ellos": "derretirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "derretía",
+    "Tu": "derretías",
+    "El": "derretía",
+    "Nosotros": "derretíamos",
+    "Vosotros": "derretíais",
+    "Ellos": "derretían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy derritiendo",
+    "Tu": "estás derritiendo",
+    "El": "está derritiendo",
+    "Nosotros": "estamos derritiendo",
+    "Vosotros": "estáis derritiendo",
+    "Ellos": "están derritiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he derretido",
+    "Tu": "has derretido",
+    "El": "ha derretido",
+    "Nosotros": "hemos derretido",
+    "Vosotros": "habéis derretido",
+    "Ellos": "han derretido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había derretido",
+    "Tu": "habías derretido",
+    "El": "había derretido",
+    "Nosotros": "habíamos derretido",
+    "Vosotros": "habíais derretido",
+    "Ellos": "habían derretido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré derretido",
+    "Tu": "habrás derretido",
+    "El": "habrá derretido",
+    "Nosotros": "habremos derretido",
+    "Vosotros": "habréis derretido",
+    "Ellos": "habrán derretido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría derretido",
+    "Tu": "habrías derretido",
+    "El": "habría derretido",
+    "Nosotros": "habríamos derretido",
+    "Vosotros": "habríais derretido",
+    "Ellos": "habrían derretido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "derrita",
+    "Tu": "derritas",
+    "El": "derrita",
+    "Nosotros": "derritamos",
+    "Vosotros": "derritáis",
+    "Ellos": "derritan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "derrite",
+    "El": "derrita",
+    "Nosotros": "derritamos",
+    "Vosotros": "derretid",
+    "Ellos": "derritan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no derritas",
+    "El": "no derrita",
+    "Nosotros": "no derritamos",
+    "Vosotros": "no derritáis",
+    "Ellos": "no derritan"
+  },
+  "ending": "ir"
+}

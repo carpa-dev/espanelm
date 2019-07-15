@@ -1,0 +1,113 @@
+{
+  "verb": "invadir",
+  "englishInfinitive": "to invade",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "invado",
+    "Tu": "invades",
+    "El": "invade",
+    "Nosotros": "invadimos",
+    "Vosotros": "invadís",
+    "Ellos": "invaden"
+  },
+  "IndicativePreterite": {
+    "Yo": "invadí",
+    "Tu": "invadiste",
+    "El": "invadió",
+    "Nosotros": "invadimos",
+    "Vosotros": "invadisteis",
+    "Ellos": "invadieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "invadiré",
+    "Tu": "invadirás",
+    "El": "invadirá",
+    "Nosotros": "invadiremos",
+    "Vosotros": "invadiréis",
+    "Ellos": "invadirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "invadiría",
+    "Tu": "invadirías",
+    "El": "invadiría",
+    "Nosotros": "invadiríamos",
+    "Vosotros": "invadiríais",
+    "Ellos": "invadirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "invadía",
+    "Tu": "invadías",
+    "El": "invadía",
+    "Nosotros": "invadíamos",
+    "Vosotros": "invadíais",
+    "Ellos": "invadían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy invadiendo",
+    "Tu": "estás invadiendo",
+    "El": "está invadiendo",
+    "Nosotros": "estamos invadiendo",
+    "Vosotros": "estáis invadiendo",
+    "Ellos": "están invadiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he invadido",
+    "Tu": "has invadido",
+    "El": "ha invadido",
+    "Nosotros": "hemos invadido",
+    "Vosotros": "habéis invadido",
+    "Ellos": "han invadido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había invadido",
+    "Tu": "habías invadido",
+    "El": "había invadido",
+    "Nosotros": "habíamos invadido",
+    "Vosotros": "habíais invadido",
+    "Ellos": "habían invadido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré invadido",
+    "Tu": "habrás invadido",
+    "El": "habrá invadido",
+    "Nosotros": "habremos invadido",
+    "Vosotros": "habréis invadido",
+    "Ellos": "habrán invadido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría invadido",
+    "Tu": "habrías invadido",
+    "El": "habría invadido",
+    "Nosotros": "habríamos invadido",
+    "Vosotros": "habríais invadido",
+    "Ellos": "habrían invadido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "invada",
+    "Tu": "invadas",
+    "El": "invada",
+    "Nosotros": "invadamos",
+    "Vosotros": "invadáis",
+    "Ellos": "invadan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "invade",
+    "El": "invada",
+    "Nosotros": "invadamos",
+    "Vosotros": "invadid",
+    "Ellos": "invadan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no invadas",
+    "El": "no invada",
+    "Nosotros": "no invadamos",
+    "Vosotros": "no invadáis",
+    "Ellos": "no invadan"
+  },
+  "ending": "ir"
+}

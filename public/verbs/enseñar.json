@@ -1,0 +1,113 @@
+{
+  "verb": "enseñar",
+  "englishInfinitive": "to teach",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "enseño",
+    "Tu": "enseñas",
+    "El": "enseña",
+    "Nosotros": "enseñamos",
+    "Vosotros": "enseñáis",
+    "Ellos": "enseñan"
+  },
+  "IndicativePreterite": {
+    "Yo": "enseñé",
+    "Tu": "enseñaste",
+    "El": "enseñó",
+    "Nosotros": "enseñamos",
+    "Vosotros": "enseñasteis",
+    "Ellos": "enseñaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "enseñaré",
+    "Tu": "enseñarás",
+    "El": "enseñará",
+    "Nosotros": "enseñaremos",
+    "Vosotros": "enseñaréis",
+    "Ellos": "enseñarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "enseñaría",
+    "Tu": "enseñarías",
+    "El": "enseñaría",
+    "Nosotros": "enseñaríamos",
+    "Vosotros": "enseñaríais",
+    "Ellos": "enseñarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "enseñaba",
+    "Tu": "enseñabas",
+    "El": "enseñaba",
+    "Nosotros": "enseñábamos",
+    "Vosotros": "enseñabais",
+    "Ellos": "enseñaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy enseñando",
+    "Tu": "estás enseñando",
+    "El": "está enseñando",
+    "Nosotros": "estamos enseñando",
+    "Vosotros": "estáis enseñando",
+    "Ellos": "están enseñando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he enseñado",
+    "Tu": "has enseñado",
+    "El": "ha enseñado",
+    "Nosotros": "hemos enseñado",
+    "Vosotros": "habéis enseñado",
+    "Ellos": "han enseñado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había enseñado",
+    "Tu": "habías enseñado",
+    "El": "había enseñado",
+    "Nosotros": "habíamos enseñado",
+    "Vosotros": "habíais enseñado",
+    "Ellos": "habían enseñado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré enseñado",
+    "Tu": "habrás enseñado",
+    "El": "habrá enseñado",
+    "Nosotros": "habremos enseñado",
+    "Vosotros": "habréis enseñado",
+    "Ellos": "habrán enseñado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría enseñado",
+    "Tu": "habrías enseñado",
+    "El": "habría enseñado",
+    "Nosotros": "habríamos enseñado",
+    "Vosotros": "habríais enseñado",
+    "Ellos": "habrían enseñado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "enseñe",
+    "Tu": "enseñes",
+    "El": "enseñe",
+    "Nosotros": "enseñemos",
+    "Vosotros": "enseñéis",
+    "Ellos": "enseñen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "enseña",
+    "El": "enseñe",
+    "Nosotros": "enseñemos",
+    "Vosotros": "enseñad",
+    "Ellos": "enseñen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no enseñes",
+    "El": "no enseñe",
+    "Nosotros": "no enseñemos",
+    "Vosotros": "no enseñéis",
+    "Ellos": "no enseñen"
+  },
+  "ending": "ar"
+}

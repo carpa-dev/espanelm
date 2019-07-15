@@ -1,0 +1,113 @@
+{
+  "verb": "abortar",
+  "englishInfinitive": "to abort",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "aborto",
+    "Tu": "abortas",
+    "El": "aborta",
+    "Nosotros": "abortamos",
+    "Vosotros": "abortáis",
+    "Ellos": "abortan"
+  },
+  "IndicativePreterite": {
+    "Yo": "aborté",
+    "Tu": "abortaste",
+    "El": "abortó",
+    "Nosotros": "abortamos",
+    "Vosotros": "abortasteis",
+    "Ellos": "abortaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "abortaré",
+    "Tu": "abortarás",
+    "El": "abortará",
+    "Nosotros": "abortaremos",
+    "Vosotros": "abortaréis",
+    "Ellos": "abortarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "abortaría",
+    "Tu": "abortarías",
+    "El": "abortaría",
+    "Nosotros": "abortaríamos",
+    "Vosotros": "abortaríais",
+    "Ellos": "abortarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "abortaba",
+    "Tu": "abortabas",
+    "El": "abortaba",
+    "Nosotros": "abortábamos",
+    "Vosotros": "abortabais",
+    "Ellos": "abortaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy abortando",
+    "Tu": "estás abortando",
+    "El": "está abortando",
+    "Nosotros": "estamos abortando",
+    "Vosotros": "estáis abortando",
+    "Ellos": "están abortando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he abortado",
+    "Tu": "has abortado",
+    "El": "ha abortado",
+    "Nosotros": "hemos abortado",
+    "Vosotros": "habéis abortado",
+    "Ellos": "han abortado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había abortado",
+    "Tu": "habías abortado",
+    "El": "había abortado",
+    "Nosotros": "habíamos abortado",
+    "Vosotros": "habíais abortado",
+    "Ellos": "habían abortado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré abortado",
+    "Tu": "habrás abortado",
+    "El": "habrá abortado",
+    "Nosotros": "habremos abortado",
+    "Vosotros": "habréis abortado",
+    "Ellos": "habrán abortado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría abortado",
+    "Tu": "habrías abortado",
+    "El": "habría abortado",
+    "Nosotros": "habríamos abortado",
+    "Vosotros": "habríais abortado",
+    "Ellos": "habrían abortado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "aborte",
+    "Tu": "abortes",
+    "El": "aborte",
+    "Nosotros": "abortemos",
+    "Vosotros": "abortéis",
+    "Ellos": "aborten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "aborta",
+    "El": "aborte",
+    "Nosotros": "abortemos",
+    "Vosotros": "abortad",
+    "Ellos": "aborten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no abortes",
+    "El": "no aborte",
+    "Nosotros": "no abortemos",
+    "Vosotros": "no abortéis",
+    "Ellos": "no aborten"
+  },
+  "ending": "ar"
+}

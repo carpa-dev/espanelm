@@ -1,0 +1,113 @@
+{
+  "verb": "sentir",
+  "englishInfinitive": "to feel",
+  "irregular": true,
+  "type": "e > i, e > ie",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "siento",
+    "Tu": "sientes",
+    "El": "siente",
+    "Nosotros": "sentimos",
+    "Vosotros": "sentís",
+    "Ellos": "sienten"
+  },
+  "IndicativePreterite": {
+    "Yo": "sentí",
+    "Tu": "sentiste",
+    "El": "sintió",
+    "Nosotros": "sentimos",
+    "Vosotros": "sentisteis",
+    "Ellos": "sintieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "sentiré",
+    "Tu": "sentirás",
+    "El": "sentirá",
+    "Nosotros": "sentiremos",
+    "Vosotros": "sentiréis",
+    "Ellos": "sentirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "sentiría",
+    "Tu": "sentirías",
+    "El": "sentiría",
+    "Nosotros": "sentiríamos",
+    "Vosotros": "sentiríais",
+    "Ellos": "sentirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "sentía",
+    "Tu": "sentías",
+    "El": "sentía",
+    "Nosotros": "sentíamos",
+    "Vosotros": "sentíais",
+    "Ellos": "sentían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy sintiendo",
+    "Tu": "estás sintiendo",
+    "El": "está sintiendo",
+    "Nosotros": "estamos sintiendo",
+    "Vosotros": "estáis sintiendo",
+    "Ellos": "están sintiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he sentido",
+    "Tu": "has sentido",
+    "El": "ha sentido",
+    "Nosotros": "hemos sentido",
+    "Vosotros": "habéis sentido",
+    "Ellos": "han sentido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había sentido",
+    "Tu": "habías sentido",
+    "El": "había sentido",
+    "Nosotros": "habíamos sentido",
+    "Vosotros": "habíais sentido",
+    "Ellos": "habían sentido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré sentido",
+    "Tu": "habrás sentido",
+    "El": "habrá sentido",
+    "Nosotros": "habremos sentido",
+    "Vosotros": "habréis sentido",
+    "Ellos": "habrán sentido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría sentido",
+    "Tu": "habrías sentido",
+    "El": "habría sentido",
+    "Nosotros": "habríamos sentido",
+    "Vosotros": "habríais sentido",
+    "Ellos": "habrían sentido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "sienta",
+    "Tu": "sientas",
+    "El": "sienta",
+    "Nosotros": "sintamos",
+    "Vosotros": "sintáis",
+    "Ellos": "sientan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "siente",
+    "El": "sienta",
+    "Nosotros": "sintamos",
+    "Vosotros": "sentid",
+    "Ellos": "sientan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sientas",
+    "El": "no sienta",
+    "Nosotros": "no sintamos",
+    "Vosotros": "no sintáis",
+    "Ellos": "no sientan"
+  },
+  "ending": "ir"
+}

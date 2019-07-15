@@ -1,0 +1,113 @@
+{
+  "verb": "merendar",
+  "englishInfinitive": "to have a[n afternoon] snack",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "meriendo",
+    "Tu": "meriendas",
+    "El": "merienda",
+    "Nosotros": "merendamos",
+    "Vosotros": "merendáis",
+    "Ellos": "meriendan"
+  },
+  "IndicativePreterite": {
+    "Yo": "merendé",
+    "Tu": "merendaste",
+    "El": "merendó",
+    "Nosotros": "merendamos",
+    "Vosotros": "merendasteis",
+    "Ellos": "merendaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "merendaré",
+    "Tu": "merendarás",
+    "El": "merendará",
+    "Nosotros": "merendaremos",
+    "Vosotros": "merendaréis",
+    "Ellos": "merendarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "merendaría",
+    "Tu": "merendarías",
+    "El": "merendaría",
+    "Nosotros": "merendaríamos",
+    "Vosotros": "merendaríais",
+    "Ellos": "merendarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "merendaba",
+    "Tu": "merendabas",
+    "El": "merendaba",
+    "Nosotros": "merendábamos",
+    "Vosotros": "merendabais",
+    "Ellos": "merendaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy merendando",
+    "Tu": "estás merendando",
+    "El": "está merendando",
+    "Nosotros": "estamos merendando",
+    "Vosotros": "estáis merendando",
+    "Ellos": "están merendando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he merendado",
+    "Tu": "has merendado",
+    "El": "ha merendado",
+    "Nosotros": "hemos merendado",
+    "Vosotros": "habéis merendado",
+    "Ellos": "han merendado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había merendado",
+    "Tu": "habías merendado",
+    "El": "había merendado",
+    "Nosotros": "habíamos merendado",
+    "Vosotros": "habíais merendado",
+    "Ellos": "habían merendado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré merendado",
+    "Tu": "habrás merendado",
+    "El": "habrá merendado",
+    "Nosotros": "habremos merendado",
+    "Vosotros": "habréis merendado",
+    "Ellos": "habrán merendado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría merendado",
+    "Tu": "habrías merendado",
+    "El": "habría merendado",
+    "Nosotros": "habríamos merendado",
+    "Vosotros": "habríais merendado",
+    "Ellos": "habrían merendado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "meriende",
+    "Tu": "meriendes",
+    "El": "meriende",
+    "Nosotros": "merendemos",
+    "Vosotros": "merendéis",
+    "Ellos": "merienden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "merienda",
+    "El": "meriende",
+    "Nosotros": "merendemos",
+    "Vosotros": "merendad",
+    "Ellos": "merienden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no meriendes",
+    "El": "no meriende",
+    "Nosotros": "no merendemos",
+    "Vosotros": "no merendéis",
+    "Ellos": "no merienden"
+  },
+  "ending": "ar"
+}

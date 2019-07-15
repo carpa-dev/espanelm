@@ -1,0 +1,113 @@
+{
+  "verb": "mudarse",
+  "englishInfinitive": "to move [=change residence]",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me mudo",
+    "Tu": "te mudas",
+    "El": "se muda",
+    "Nosotros": "nos mudamos",
+    "Vosotros": "os mudáis",
+    "Ellos": "se mudan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me mudé",
+    "Tu": "te mudaste",
+    "El": "se mudó",
+    "Nosotros": "nos mudamos",
+    "Vosotros": "os mudasteis",
+    "Ellos": "se mudaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me mudaré",
+    "Tu": "te mudarás",
+    "El": "se mudará",
+    "Nosotros": "nos mudaremos",
+    "Vosotros": "os mudaréis",
+    "Ellos": "se mudarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me mudaría",
+    "Tu": "te mudarías",
+    "El": "se mudaría",
+    "Nosotros": "nos mudaríamos",
+    "Vosotros": "os mudaríais",
+    "Ellos": "se mudarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me mudaba",
+    "Tu": "te mudabas",
+    "El": "se mudaba",
+    "Nosotros": "nos mudábamos",
+    "Vosotros": "os mudabais",
+    "Ellos": "se mudaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy mudando,estoy mudándome",
+    "Tu": "te estás mudando,estás mudándote",
+    "El": "se está mudando,está mudándose",
+    "Nosotros": "nos estamos mudando,estamos mudándonos",
+    "Vosotros": "os estáis mudando,estáis mudándoos",
+    "Ellos": "se están mudando,están mudándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he mudado",
+    "Tu": "te has mudado",
+    "El": "se ha mudado",
+    "Nosotros": "nos hemos mudado",
+    "Vosotros": "os habéis mudado",
+    "Ellos": "se han mudado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había mudado",
+    "Tu": "te habías mudado",
+    "El": "se había mudado",
+    "Nosotros": "nos habíamos mudado",
+    "Vosotros": "os habíais mudado",
+    "Ellos": "se habían mudado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré mudado",
+    "Tu": "te habrás mudado",
+    "El": "se habrá mudado",
+    "Nosotros": "nos habremos mudado",
+    "Vosotros": "os habréis mudado",
+    "Ellos": "se habrán mudado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría mudado",
+    "Tu": "te habrías mudado",
+    "El": "se habría mudado",
+    "Nosotros": "nos habríamos mudado",
+    "Vosotros": "os habríais mudado",
+    "Ellos": "se habrían mudado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me mude",
+    "Tu": "te mudes",
+    "El": "se mude",
+    "Nosotros": "nos mudemos",
+    "Vosotros": "os mudéis",
+    "Ellos": "se muden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "múdate",
+    "El": "múdese",
+    "Nosotros": "mudémonos",
+    "Vosotros": "mudaos",
+    "Ellos": "múdense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te mudes",
+    "El": "no se mude",
+    "Nosotros": "no nos mudemos",
+    "Vosotros": "no os mudéis",
+    "Ellos": "no se muden"
+  },
+  "ending": "ar"
+}

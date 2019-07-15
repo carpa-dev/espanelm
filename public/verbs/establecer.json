@@ -1,0 +1,113 @@
+{
+  "verb": "establecer",
+  "englishInfinitive": "to establish",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "establezco",
+    "Tu": "estableces",
+    "El": "establece",
+    "Nosotros": "establecemos",
+    "Vosotros": "establecéis",
+    "Ellos": "establecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "establecí",
+    "Tu": "estableciste",
+    "El": "estableció",
+    "Nosotros": "establecimos",
+    "Vosotros": "establecisteis",
+    "Ellos": "establecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "estableceré",
+    "Tu": "establecerás",
+    "El": "establecerá",
+    "Nosotros": "estableceremos",
+    "Vosotros": "estableceréis",
+    "Ellos": "establecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "establecería",
+    "Tu": "establecerías",
+    "El": "establecería",
+    "Nosotros": "estableceríamos",
+    "Vosotros": "estableceríais",
+    "Ellos": "establecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "establecía",
+    "Tu": "establecías",
+    "El": "establecía",
+    "Nosotros": "establecíamos",
+    "Vosotros": "establecíais",
+    "Ellos": "establecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy estableciendo",
+    "Tu": "estás estableciendo",
+    "El": "está estableciendo",
+    "Nosotros": "estamos estableciendo",
+    "Vosotros": "estáis estableciendo",
+    "Ellos": "están estableciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he establecido",
+    "Tu": "has establecido",
+    "El": "ha establecido",
+    "Nosotros": "hemos establecido",
+    "Vosotros": "habéis establecido",
+    "Ellos": "han establecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había establecido",
+    "Tu": "habías establecido",
+    "El": "había establecido",
+    "Nosotros": "habíamos establecido",
+    "Vosotros": "habíais establecido",
+    "Ellos": "habían establecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré establecido",
+    "Tu": "habrás establecido",
+    "El": "habrá establecido",
+    "Nosotros": "habremos establecido",
+    "Vosotros": "habréis establecido",
+    "Ellos": "habrán establecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría establecido",
+    "Tu": "habrías establecido",
+    "El": "habría establecido",
+    "Nosotros": "habríamos establecido",
+    "Vosotros": "habríais establecido",
+    "Ellos": "habrían establecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "establezca",
+    "Tu": "establezcas",
+    "El": "establezca",
+    "Nosotros": "establezcamos",
+    "Vosotros": "establezcáis",
+    "Ellos": "establezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "establece",
+    "El": "establezca",
+    "Nosotros": "establezcamos",
+    "Vosotros": "estableced",
+    "Ellos": "establezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no establezcas",
+    "El": "no establezca",
+    "Nosotros": "no establezcamos",
+    "Vosotros": "no establezcáis",
+    "Ellos": "no establezcan"
+  },
+  "ending": "er"
+}

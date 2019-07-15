@@ -1,0 +1,113 @@
+{
+  "verb": "despertar",
+  "englishInfinitive": "to awaken",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "despierto",
+    "Tu": "despiertas",
+    "El": "despierta",
+    "Nosotros": "despertamos",
+    "Vosotros": "despertáis",
+    "Ellos": "despiertan"
+  },
+  "IndicativePreterite": {
+    "Yo": "desperté",
+    "Tu": "despertaste",
+    "El": "despertó",
+    "Nosotros": "despertamos",
+    "Vosotros": "despertasteis",
+    "Ellos": "despertaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "despertaré",
+    "Tu": "despertarás",
+    "El": "despertará",
+    "Nosotros": "despertaremos",
+    "Vosotros": "despertaréis",
+    "Ellos": "despertarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "despertaría",
+    "Tu": "despertarías",
+    "El": "despertaría",
+    "Nosotros": "despertaríamos",
+    "Vosotros": "despertaríais",
+    "Ellos": "despertarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "despertaba",
+    "Tu": "despertabas",
+    "El": "despertaba",
+    "Nosotros": "despertábamos",
+    "Vosotros": "despertabais",
+    "Ellos": "despertaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy despertando",
+    "Tu": "estás despertando",
+    "El": "está despertando",
+    "Nosotros": "estamos despertando",
+    "Vosotros": "estáis despertando",
+    "Ellos": "están despertando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he despertado",
+    "Tu": "has despertado",
+    "El": "ha despertado",
+    "Nosotros": "hemos despertado",
+    "Vosotros": "habéis despertado",
+    "Ellos": "han despertado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había despertado",
+    "Tu": "habías despertado",
+    "El": "había despertado",
+    "Nosotros": "habíamos despertado",
+    "Vosotros": "habíais despertado",
+    "Ellos": "habían despertado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré despertado",
+    "Tu": "habrás despertado",
+    "El": "habrá despertado",
+    "Nosotros": "habremos despertado",
+    "Vosotros": "habréis despertado",
+    "Ellos": "habrán despertado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría despertado",
+    "Tu": "habrías despertado",
+    "El": "habría despertado",
+    "Nosotros": "habríamos despertado",
+    "Vosotros": "habríais despertado",
+    "Ellos": "habrían despertado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "despierte",
+    "Tu": "despiertes",
+    "El": "despierte",
+    "Nosotros": "despertemos",
+    "Vosotros": "despertéis",
+    "Ellos": "despierten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "despierta",
+    "El": "despierte",
+    "Nosotros": "despertemos",
+    "Vosotros": "despertad",
+    "Ellos": "despierten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no despiertes",
+    "El": "no despierte",
+    "Nosotros": "no despertemos",
+    "Vosotros": "no despertéis",
+    "Ellos": "no despierten"
+  },
+  "ending": "ar"
+}

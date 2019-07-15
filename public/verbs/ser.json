@@ -1,0 +1,113 @@
+{
+  "verb": "ser",
+  "englishInfinitive": "to be",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "soy",
+    "Tu": "eres",
+    "El": "es",
+    "Nosotros": "somos",
+    "Vosotros": "sois",
+    "Ellos": "son"
+  },
+  "IndicativePreterite": {
+    "Yo": "fui",
+    "Tu": "fuiste",
+    "El": "fue",
+    "Nosotros": "fuimos",
+    "Vosotros": "fuisteis",
+    "Ellos": "fueron"
+  },
+  "IndicativeFuture": {
+    "Yo": "seré",
+    "Tu": "serás",
+    "El": "será",
+    "Nosotros": "seremos",
+    "Vosotros": "seréis",
+    "Ellos": "serán"
+  },
+  "ConditionalPresent": {
+    "Yo": "sería",
+    "Tu": "serías",
+    "El": "sería",
+    "Nosotros": "seríamos",
+    "Vosotros": "seríais",
+    "Ellos": "serían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "era",
+    "Tu": "eras",
+    "El": "era",
+    "Nosotros": "éramos",
+    "Vosotros": "erais",
+    "Ellos": "eran"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy siendo",
+    "Tu": "estás siendo",
+    "El": "está siendo",
+    "Nosotros": "estamos siendo",
+    "Vosotros": "estáis siendo",
+    "Ellos": "están siendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he sido",
+    "Tu": "has sido",
+    "El": "ha sido",
+    "Nosotros": "hemos sido",
+    "Vosotros": "habéis sido",
+    "Ellos": "han sido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había sido",
+    "Tu": "habías sido",
+    "El": "había sido",
+    "Nosotros": "habíamos sido",
+    "Vosotros": "habíais sido",
+    "Ellos": "habían sido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré sido",
+    "Tu": "habrás sido",
+    "El": "habrá sido",
+    "Nosotros": "habremos sido",
+    "Vosotros": "habréis sido",
+    "Ellos": "habrán sido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría sido",
+    "Tu": "habrías sido",
+    "El": "habría sido",
+    "Nosotros": "habríamos sido",
+    "Vosotros": "habríais sido",
+    "Ellos": "habrían sido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "sea",
+    "Tu": "seas",
+    "El": "sea",
+    "Nosotros": "seamos",
+    "Vosotros": "seáis",
+    "Ellos": "sean"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sé",
+    "El": "sea",
+    "Nosotros": "seamos",
+    "Vosotros": "sed",
+    "Ellos": "sean"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no seas",
+    "El": "no sea",
+    "Nosotros": "no seamos",
+    "Vosotros": "no seais",
+    "Ellos": "no sean"
+  },
+  "ending": "er"
+}

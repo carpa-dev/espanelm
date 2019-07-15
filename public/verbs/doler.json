@@ -1,0 +1,113 @@
+{
+  "verb": "doler",
+  "englishInfinitive": "to hurt",
+  "irregular": true,
+  "type": "impersonal; o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "duelo",
+    "Tu": "dueles",
+    "El": "duele",
+    "Nosotros": "dolemos",
+    "Vosotros": "doléis",
+    "Ellos": "duelen"
+  },
+  "IndicativePreterite": {
+    "Yo": "dolí",
+    "Tu": "doliste",
+    "El": "dolió",
+    "Nosotros": "dolimos",
+    "Vosotros": "dolisteis",
+    "Ellos": "dolieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "doleré",
+    "Tu": "dolerás",
+    "El": "dolerá",
+    "Nosotros": "doleremos",
+    "Vosotros": "doleréis",
+    "Ellos": "dolerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "dolería",
+    "Tu": "dolerías",
+    "El": "dolería",
+    "Nosotros": "doleríamos",
+    "Vosotros": "doleríais",
+    "Ellos": "dolerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "dolía",
+    "Tu": "dolías",
+    "El": "dolía",
+    "Nosotros": "doleríamos",
+    "Vosotros": "doleríais",
+    "Ellos": "dolían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy doliendo",
+    "Tu": "estás doliendo",
+    "El": "está doliendo",
+    "Nosotros": "estamos doliendo",
+    "Vosotros": "estáis doliendo",
+    "Ellos": "están doliendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he dolido",
+    "Tu": "has dolido",
+    "El": "ha dolido",
+    "Nosotros": "hemos dolido",
+    "Vosotros": "habéis dolido",
+    "Ellos": "han dolido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había dolido",
+    "Tu": "habías dolido",
+    "El": "había dolido",
+    "Nosotros": "habíamos dolido",
+    "Vosotros": "habíais dolido",
+    "Ellos": "habían dolido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré dolido",
+    "Tu": "habrás dolido",
+    "El": "habrá dolido",
+    "Nosotros": "habremos dolido",
+    "Vosotros": "habréis dolido",
+    "Ellos": "habrán dolido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría dolido",
+    "Tu": "habrías dolido",
+    "El": "habría dolido",
+    "Nosotros": "habríamos dolido",
+    "Vosotros": "habríais dolido",
+    "Ellos": "habrían dolido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "duela",
+    "Tu": "duelas",
+    "El": "duela",
+    "Nosotros": "dolamos",
+    "Vosotros": "doláis",
+    "Ellos": "duelan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "duele",
+    "El": "duela",
+    "Nosotros": "dolamos",
+    "Vosotros": "doled",
+    "Ellos": "duelan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no duelas",
+    "El": "no duela",
+    "Nosotros": "no dolamos",
+    "Vosotros": "no doláis",
+    "Ellos": "no duelan"
+  },
+  "ending": "er"
+}

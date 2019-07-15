@@ -1,0 +1,113 @@
+{
+  "verb": "vivir",
+  "englishInfinitive": "to live",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "vivo",
+    "Tu": "vives",
+    "El": "vive",
+    "Nosotros": "vivimos",
+    "Vosotros": "vivís",
+    "Ellos": "viven"
+  },
+  "IndicativePreterite": {
+    "Yo": "viví",
+    "Tu": "viviste",
+    "El": "vivió",
+    "Nosotros": "vivimos",
+    "Vosotros": "vivisteis",
+    "Ellos": "vivieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "viviré",
+    "Tu": "vivirás",
+    "El": "vivirá",
+    "Nosotros": "viviremos",
+    "Vosotros": "viviréis",
+    "Ellos": "vivirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "viviría",
+    "Tu": "vivirías",
+    "El": "viviría",
+    "Nosotros": "viviríamos",
+    "Vosotros": "viviríais",
+    "Ellos": "vivirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "vivía",
+    "Tu": "vivías",
+    "El": "vivía",
+    "Nosotros": "vivíamos",
+    "Vosotros": "vivíais",
+    "Ellos": "vivían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy viviendo",
+    "Tu": "estás viviendo",
+    "El": "está viviendo",
+    "Nosotros": "estamos viviendo",
+    "Vosotros": "estáis viviendo",
+    "Ellos": "están viviendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he vivido",
+    "Tu": "has vivido",
+    "El": "ha vivido",
+    "Nosotros": "hemos vivido",
+    "Vosotros": "habéis vivido",
+    "Ellos": "han vivido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había vivido",
+    "Tu": "habías vivido",
+    "El": "había vivido",
+    "Nosotros": "habíamos vivido",
+    "Vosotros": "habíais vivido",
+    "Ellos": "habían vivido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré vivido",
+    "Tu": "habrás vivido",
+    "El": "habrá vivido",
+    "Nosotros": "habremos vivido",
+    "Vosotros": "habréis vivido",
+    "Ellos": "habrán vivido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría vivido",
+    "Tu": "habrías vivido",
+    "El": "habría vivido",
+    "Nosotros": "habríamos vivido",
+    "Vosotros": "habríais vivido",
+    "Ellos": "habrían vivido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "viva",
+    "Tu": "vivas",
+    "El": "viva",
+    "Nosotros": "vivamos",
+    "Vosotros": "viváis",
+    "Ellos": "vivan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "vive",
+    "El": "viva",
+    "Nosotros": "vivamos",
+    "Vosotros": "vivid",
+    "Ellos": "vivan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no vivas",
+    "El": "no viva",
+    "Nosotros": "no vivamos",
+    "Vosotros": "no viváis",
+    "Ellos": "no vivan"
+  },
+  "ending": "ir"
+}

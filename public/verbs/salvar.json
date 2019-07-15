@@ -1,0 +1,113 @@
+{
+  "verb": "salvar",
+  "englishInfinitive": "to save",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "salvo",
+    "Tu": "salvas",
+    "El": "salva",
+    "Nosotros": "salvamos",
+    "Vosotros": "salváis",
+    "Ellos": "salvan"
+  },
+  "IndicativePreterite": {
+    "Yo": "salvé",
+    "Tu": "salvaste",
+    "El": "salvó",
+    "Nosotros": "salvamos",
+    "Vosotros": "salvasteis",
+    "Ellos": "salvaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "salvaré",
+    "Tu": "salvarás",
+    "El": "salvará",
+    "Nosotros": "salvaremos",
+    "Vosotros": "salvaréis",
+    "Ellos": "salvarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "salvaría",
+    "Tu": "salvarías",
+    "El": "salvaría",
+    "Nosotros": "salvaríamos",
+    "Vosotros": "salvaríais",
+    "Ellos": "salvarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "salvaba",
+    "Tu": "salvabas",
+    "El": "salvaba",
+    "Nosotros": "salvábamos",
+    "Vosotros": "salvabais",
+    "Ellos": "salvaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy salvando",
+    "Tu": "estás salvando",
+    "El": "está salvando",
+    "Nosotros": "estamos salvando",
+    "Vosotros": "estáis salvando",
+    "Ellos": "están salvando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he salvado",
+    "Tu": "has salvado",
+    "El": "ha salvado",
+    "Nosotros": "hemos salvado",
+    "Vosotros": "habéis salvado",
+    "Ellos": "han salvado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había salvado",
+    "Tu": "habías salvado",
+    "El": "había salvado",
+    "Nosotros": "habíamos salvado",
+    "Vosotros": "habíais salvado",
+    "Ellos": "habían salvado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré salvado",
+    "Tu": "habrás salvado",
+    "El": "habrá salvado",
+    "Nosotros": "habremos salvado",
+    "Vosotros": "habréis salvado",
+    "Ellos": "habrán salvado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría salvado",
+    "Tu": "habrías salvado",
+    "El": "habría salvado",
+    "Nosotros": "habríamos salvado",
+    "Vosotros": "habríais salvado",
+    "Ellos": "habrían salvado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "salve",
+    "Tu": "salves",
+    "El": "salve",
+    "Nosotros": "salvemos",
+    "Vosotros": "salvéis",
+    "Ellos": "salven"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "salva",
+    "El": "salve",
+    "Nosotros": "salvemos",
+    "Vosotros": "salvad",
+    "Ellos": "salven"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no salves",
+    "El": "no salve",
+    "Nosotros": "no salvemos",
+    "Vosotros": "no salvéis",
+    "Ellos": "no salven"
+  },
+  "ending": "ar"
+}

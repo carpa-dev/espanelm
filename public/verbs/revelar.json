@@ -1,0 +1,113 @@
+{
+  "verb": "revelar",
+  "englishInfinitive": "to reveal",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "revelo",
+    "Tu": "revelas",
+    "El": "revela",
+    "Nosotros": "revelamos",
+    "Vosotros": "reveláis",
+    "Ellos": "revelan"
+  },
+  "IndicativePreterite": {
+    "Yo": "revelé",
+    "Tu": "revelaste",
+    "El": "reveló",
+    "Nosotros": "revelamos",
+    "Vosotros": "revelasteis",
+    "Ellos": "revelaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "revelaré",
+    "Tu": "revelarás",
+    "El": "revelará",
+    "Nosotros": "revelaremos",
+    "Vosotros": "revelaréis",
+    "Ellos": "revelarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "revelaría",
+    "Tu": "revelarías",
+    "El": "revelaría",
+    "Nosotros": "revelaríamos",
+    "Vosotros": "revelaríais",
+    "Ellos": "revelarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "revelaba",
+    "Tu": "revelabas",
+    "El": "revelaba",
+    "Nosotros": "revelábamos",
+    "Vosotros": "revelabais",
+    "Ellos": "revelaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy revelando",
+    "Tu": "estás revelando",
+    "El": "está revelando",
+    "Nosotros": "estamos revelando",
+    "Vosotros": "estáis revelando",
+    "Ellos": "están revelando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he revelado",
+    "Tu": "has revelado",
+    "El": "ha revelado",
+    "Nosotros": "hemos revelado",
+    "Vosotros": "habéis revelado",
+    "Ellos": "han revelado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había revelado",
+    "Tu": "habías revelado",
+    "El": "había revelado",
+    "Nosotros": "habíamos revelado",
+    "Vosotros": "habíais revelado",
+    "Ellos": "habían revelado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré revelado",
+    "Tu": "habrás revelado",
+    "El": "habrá revelado",
+    "Nosotros": "habremos revelado",
+    "Vosotros": "habréis revelado",
+    "Ellos": "habrán revelado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría revelado",
+    "Tu": "habrías revelado",
+    "El": "habría revelado",
+    "Nosotros": "habríamos revelado",
+    "Vosotros": "habríais revelado",
+    "Ellos": "habrían revelado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "revele",
+    "Tu": "reveles",
+    "El": "revele",
+    "Nosotros": "revelemos",
+    "Vosotros": "reveléis",
+    "Ellos": "revelen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "revela",
+    "El": "revele",
+    "Nosotros": "revelemos",
+    "Vosotros": "revelad",
+    "Ellos": "revelen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no reveles",
+    "El": "no revele",
+    "Nosotros": "no revelemos",
+    "Vosotros": "no reveléis",
+    "Ellos": "no revelen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "causar",
+  "englishInfinitive": "to cause",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "causo",
+    "Tu": "causas",
+    "El": "causa",
+    "Nosotros": "causamos",
+    "Vosotros": "causáis",
+    "Ellos": "causan"
+  },
+  "IndicativePreterite": {
+    "Yo": "causé",
+    "Tu": "causaste",
+    "El": "causó",
+    "Nosotros": "causamos",
+    "Vosotros": "causasteis",
+    "Ellos": "causaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "causaré",
+    "Tu": "causarás",
+    "El": "causará",
+    "Nosotros": "causaremos",
+    "Vosotros": "causaréis",
+    "Ellos": "causarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "causaría",
+    "Tu": "causarías",
+    "El": "causaría",
+    "Nosotros": "causaríamos",
+    "Vosotros": "causaríais",
+    "Ellos": "causarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "causaba",
+    "Tu": "causabas",
+    "El": "causaba",
+    "Nosotros": "causábamos",
+    "Vosotros": "causabais",
+    "Ellos": "causaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy causando",
+    "Tu": "estás causando",
+    "El": "está causando",
+    "Nosotros": "estamos causando",
+    "Vosotros": "estáis causando",
+    "Ellos": "están causando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he causado",
+    "Tu": "has causado",
+    "El": "ha causado",
+    "Nosotros": "hemos causado",
+    "Vosotros": "habéis causado",
+    "Ellos": "han causado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había causado",
+    "Tu": "habías causado",
+    "El": "había causado",
+    "Nosotros": "habíamos causado",
+    "Vosotros": "habíais causado",
+    "Ellos": "habían causado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré causado",
+    "Tu": "habrás causado",
+    "El": "habrá causado",
+    "Nosotros": "habremos causado",
+    "Vosotros": "habréis causado",
+    "Ellos": "habrán causado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría causado",
+    "Tu": "habrías causado",
+    "El": "habría causado",
+    "Nosotros": "habríamos causado",
+    "Vosotros": "habríais causado",
+    "Ellos": "habrían causado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cause",
+    "Tu": "causes",
+    "El": "cause",
+    "Nosotros": "causemos",
+    "Vosotros": "causéis",
+    "Ellos": "causen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "causa",
+    "El": "cause",
+    "Nosotros": "causemos",
+    "Vosotros": "causad",
+    "Ellos": "causen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no causes",
+    "El": "no cause",
+    "Nosotros": "no causemos",
+    "Vosotros": "no causéis",
+    "Ellos": "no causen"
+  },
+  "ending": "ar"
+}

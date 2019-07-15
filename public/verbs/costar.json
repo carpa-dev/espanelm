@@ -1,0 +1,113 @@
+{
+  "verb": "costar",
+  "englishInfinitive": "to cost",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "cuesto",
+    "Tu": "cuestas",
+    "El": "cuesta",
+    "Nosotros": "costamos",
+    "Vosotros": "costáis",
+    "Ellos": "cuestan"
+  },
+  "IndicativePreterite": {
+    "Yo": "costé",
+    "Tu": "costaste",
+    "El": "costó",
+    "Nosotros": "costamos",
+    "Vosotros": "costasteis",
+    "Ellos": "costaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "costaré",
+    "Tu": "costarás",
+    "El": "costará",
+    "Nosotros": "costaremos",
+    "Vosotros": "costaréis",
+    "Ellos": "costarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "costaría",
+    "Tu": "costarías",
+    "El": "costaría",
+    "Nosotros": "costaríamos",
+    "Vosotros": "costaríais",
+    "Ellos": "costarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "costaba",
+    "Tu": "costabas",
+    "El": "costaba",
+    "Nosotros": "costábamos",
+    "Vosotros": "costabais",
+    "Ellos": "costaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy costando",
+    "Tu": "estás costando",
+    "El": "está costando",
+    "Nosotros": "estamos costando",
+    "Vosotros": "estáis costando",
+    "Ellos": "están costando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he costado",
+    "Tu": "has costado",
+    "El": "ha costado",
+    "Nosotros": "hemos costado",
+    "Vosotros": "habéis costado",
+    "Ellos": "han costado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había costado",
+    "Tu": "habías costado",
+    "El": "había costado",
+    "Nosotros": "habíamos costado",
+    "Vosotros": "habíais costado",
+    "Ellos": "habían costado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré costado",
+    "Tu": "habrás costado",
+    "El": "habrá costado",
+    "Nosotros": "habremos costado",
+    "Vosotros": "habréis costado",
+    "Ellos": "habrán costado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría costado",
+    "Tu": "habrías costado",
+    "El": "habría costado",
+    "Nosotros": "habríamos costado",
+    "Vosotros": "habríais costado",
+    "Ellos": "habrían costado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cueste",
+    "Tu": "cuestes",
+    "El": "cueste",
+    "Nosotros": "costemos",
+    "Vosotros": "costéis",
+    "Ellos": "cuesten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cuesta",
+    "El": "cueste",
+    "Nosotros": "costemos",
+    "Vosotros": "costad",
+    "Ellos": "cuesten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cuestes",
+    "El": "no cueste",
+    "Nosotros": "no costemos",
+    "Vosotros": "no costéis",
+    "Ellos": "no cuesten"
+  },
+  "ending": "ar"
+}

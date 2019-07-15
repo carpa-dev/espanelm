@@ -1,0 +1,113 @@
+{
+  "verb": "aburrir",
+  "englishInfinitive": "to bore",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "aburro",
+    "Tu": "aburres",
+    "El": "aburre",
+    "Nosotros": "aburrimos",
+    "Vosotros": "aburrís",
+    "Ellos": "aburren"
+  },
+  "IndicativePreterite": {
+    "Yo": "aburrí",
+    "Tu": "aburriste",
+    "El": "aburrió",
+    "Nosotros": "aburrimos",
+    "Vosotros": "aburristeis",
+    "Ellos": "aburrieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "aburriré",
+    "Tu": "aburrirás",
+    "El": "aburrirá",
+    "Nosotros": "aburriremos",
+    "Vosotros": "aburriréis",
+    "Ellos": "aburrirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "aburriría",
+    "Tu": "aburrirías",
+    "El": "aburriría",
+    "Nosotros": "aburriríamos",
+    "Vosotros": "aburriríais",
+    "Ellos": "aburrirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "aburría",
+    "Tu": "aburrías",
+    "El": "aburría",
+    "Nosotros": "aburríamos",
+    "Vosotros": "aburríais",
+    "Ellos": "aburrían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy aburriendo",
+    "Tu": "estás aburriendo",
+    "El": "está aburriendo",
+    "Nosotros": "estamos aburriendo",
+    "Vosotros": "estáis aburriendo",
+    "Ellos": "están aburriendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he aburrido",
+    "Tu": "has aburrido",
+    "El": "ha aburrido",
+    "Nosotros": "hemos aburrido",
+    "Vosotros": "habéis aburrido",
+    "Ellos": "han aburrido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había aburrido",
+    "Tu": "habías aburrido",
+    "El": "había aburrido",
+    "Nosotros": "habíamos aburrido",
+    "Vosotros": "habíais aburrido",
+    "Ellos": "habían aburrido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré aburrido",
+    "Tu": "habrás aburrido",
+    "El": "habrá aburrido",
+    "Nosotros": "habremos aburrido",
+    "Vosotros": "habréis aburrido",
+    "Ellos": "habrán aburrido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría aburrido",
+    "Tu": "habrías aburrido",
+    "El": "habría aburrido",
+    "Nosotros": "habríamos aburrido",
+    "Vosotros": "habríais aburrido",
+    "Ellos": "habrían aburrido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "aburra",
+    "Tu": "aburras",
+    "El": "aburra",
+    "Nosotros": "aburramos",
+    "Vosotros": "aburráis",
+    "Ellos": "aburran"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "aburre",
+    "El": "aburra",
+    "Nosotros": "aburramos",
+    "Vosotros": "aburrid",
+    "Ellos": "aburran"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no aburras",
+    "El": "no aburra",
+    "Nosotros": "no aburramos",
+    "Vosotros": "no aburráis",
+    "Ellos": "no aburran"
+  },
+  "ending": "ir"
+}

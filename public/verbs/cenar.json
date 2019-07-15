@@ -1,0 +1,113 @@
+{
+  "verb": "cenar",
+  "englishInfinitive": "to eat supper",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "ceno",
+    "Tu": "cenas",
+    "El": "cena",
+    "Nosotros": "cenamos",
+    "Vosotros": "cenáis",
+    "Ellos": "cenan"
+  },
+  "IndicativePreterite": {
+    "Yo": "cené",
+    "Tu": "cenaste",
+    "El": "cenó",
+    "Nosotros": "cenamos",
+    "Vosotros": "cenasteis",
+    "Ellos": "cenaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cenaré",
+    "Tu": "cenarás",
+    "El": "cenará",
+    "Nosotros": "cenaremos",
+    "Vosotros": "cenaréis",
+    "Ellos": "cenarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cenaría",
+    "Tu": "cenarías",
+    "El": "cenaría",
+    "Nosotros": "cenaríamos",
+    "Vosotros": "cenaríais",
+    "Ellos": "cenarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cenaba",
+    "Tu": "cenabas",
+    "El": "cenaba",
+    "Nosotros": "cenábamos",
+    "Vosotros": "cenabais",
+    "Ellos": "cenaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cenando",
+    "Tu": "estás cenando",
+    "El": "está cenando",
+    "Nosotros": "estamos cenando",
+    "Vosotros": "estáis cenando",
+    "Ellos": "están cenando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cenado",
+    "Tu": "has cenado",
+    "El": "ha cenado",
+    "Nosotros": "hemos cenado",
+    "Vosotros": "habéis cenado",
+    "Ellos": "han cenado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cenado",
+    "Tu": "habías cenado",
+    "El": "había cenado",
+    "Nosotros": "habíamos cenado",
+    "Vosotros": "habíais cenado",
+    "Ellos": "habían cenado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cenado",
+    "Tu": "habrás cenado",
+    "El": "habrá cenado",
+    "Nosotros": "habremos cenado",
+    "Vosotros": "habréis cenado",
+    "Ellos": "habrán cenado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cenado",
+    "Tu": "habrías cenado",
+    "El": "habría cenado",
+    "Nosotros": "habríamos cenado",
+    "Vosotros": "habríais cenado",
+    "Ellos": "habrían cenado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cene",
+    "Tu": "cenes",
+    "El": "cene",
+    "Nosotros": "cenemos",
+    "Vosotros": "cenéis",
+    "Ellos": "cenen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cena",
+    "El": "cene",
+    "Nosotros": "cenemos",
+    "Vosotros": "cenad",
+    "Ellos": "cenen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cenes",
+    "El": "no cene",
+    "Nosotros": "no cenemos",
+    "Vosotros": "no cenéis",
+    "Ellos": "no cenen"
+  },
+  "ending": "ar"
+}

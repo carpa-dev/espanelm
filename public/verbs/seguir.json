@@ -1,0 +1,113 @@
+{
+  "verb": "seguir",
+  "englishInfinitive": "to follow",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "sigo",
+    "Tu": "sigues",
+    "El": "sigue",
+    "Nosotros": "seguimos",
+    "Vosotros": "seguís",
+    "Ellos": "siguen"
+  },
+  "IndicativePreterite": {
+    "Yo": "seguí",
+    "Tu": "seguiste",
+    "El": "siguió",
+    "Nosotros": "seguimos",
+    "Vosotros": "seguisteis",
+    "Ellos": "siguieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "seguiré",
+    "Tu": "seguirás",
+    "El": "seguirá",
+    "Nosotros": "seguiremos",
+    "Vosotros": "seguiréis",
+    "Ellos": "seguirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "seguiría",
+    "Tu": "seguirías",
+    "El": "seguiría",
+    "Nosotros": "seguiríamos",
+    "Vosotros": "seguiríais",
+    "Ellos": "seguirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "seguía",
+    "Tu": "seguías",
+    "El": "seguía",
+    "Nosotros": "seguíamos",
+    "Vosotros": "seguíais",
+    "Ellos": "seguían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy siguiendo",
+    "Tu": "estás siguiendo",
+    "El": "está siguiendo",
+    "Nosotros": "estamos siguiendo",
+    "Vosotros": "estáis siguiendo",
+    "Ellos": "están siguiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he seguido",
+    "Tu": "has seguido",
+    "El": "ha seguido",
+    "Nosotros": "hemos seguido",
+    "Vosotros": "habéis seguido",
+    "Ellos": "han seguido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había seguido",
+    "Tu": "habías seguido",
+    "El": "había seguido",
+    "Nosotros": "habíamos seguido",
+    "Vosotros": "habíais seguido",
+    "Ellos": "habían seguido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré seguido",
+    "Tu": "habrás seguido",
+    "El": "habrá seguido",
+    "Nosotros": "habremos seguido",
+    "Vosotros": "habréis seguido",
+    "Ellos": "habrán seguido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría seguido",
+    "Tu": "habrías seguido",
+    "El": "habría seguido",
+    "Nosotros": "habríamos seguido",
+    "Vosotros": "habríais seguido",
+    "Ellos": "habrían seguido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "siga",
+    "Tu": "sigas",
+    "El": "siga",
+    "Nosotros": "sigamos",
+    "Vosotros": "sigáis",
+    "Ellos": "sigan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sigue",
+    "El": "siga",
+    "Nosotros": "sigamos",
+    "Vosotros": "seguid",
+    "Ellos": "sigan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sigas",
+    "El": "no siga",
+    "Nosotros": "no sigamos",
+    "Vosotros": "no sigáis",
+    "Ellos": "no sigan"
+  },
+  "ending": "ir"
+}

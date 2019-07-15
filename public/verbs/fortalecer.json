@@ -1,0 +1,113 @@
+{
+  "verb": "fortalecer",
+  "englishInfinitive": "to fortify",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "fortalezco",
+    "Tu": "fortaleces",
+    "El": "fortalece",
+    "Nosotros": "fortalecemos",
+    "Vosotros": "fortalecéis",
+    "Ellos": "fortalecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "fortalecí",
+    "Tu": "fortaleciste",
+    "El": "fortaleció",
+    "Nosotros": "fortalecimos",
+    "Vosotros": "fortalecisteis",
+    "Ellos": "fortalecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "fortaleceré",
+    "Tu": "fortalecerás",
+    "El": "fortalecerá",
+    "Nosotros": "fortaleceremos",
+    "Vosotros": "fortaleceréis",
+    "Ellos": "fortalecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "fortalecería",
+    "Tu": "fortalecerías",
+    "El": "fortalecería",
+    "Nosotros": "fortaleceríamos",
+    "Vosotros": "fortaleceríais",
+    "Ellos": "fortalecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "fortalecía",
+    "Tu": "fortalecías",
+    "El": "fortalecía",
+    "Nosotros": "fortalecíamos",
+    "Vosotros": "fortalecíais",
+    "Ellos": "fortalecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy fortaleciendo",
+    "Tu": "estás fortaleciendo",
+    "El": "está fortaleciendo",
+    "Nosotros": "estamos fortaleciendo",
+    "Vosotros": "estáis fortaleciendo",
+    "Ellos": "están fortaleciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he fortalecido",
+    "Tu": "has fortalecido",
+    "El": "ha fortalecido",
+    "Nosotros": "hemos fortalecido",
+    "Vosotros": "habéis fortalecido",
+    "Ellos": "han fortalecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había fortalecido",
+    "Tu": "habías fortalecido",
+    "El": "había fortalecido",
+    "Nosotros": "habíamos fortalecido",
+    "Vosotros": "habíais fortalecido",
+    "Ellos": "habían fortalecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré fortalecido",
+    "Tu": "habrás fortalecido",
+    "El": "habrá fortalecido",
+    "Nosotros": "habremos fortalecido",
+    "Vosotros": "habréis fortalecido",
+    "Ellos": "habrán fortalecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría fortalecido",
+    "Tu": "habrías fortalecido",
+    "El": "habría fortalecido",
+    "Nosotros": "habríamos fortalecido",
+    "Vosotros": "habríais fortalecido",
+    "Ellos": "habrían fortalecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "fortalezca",
+    "Tu": "fortalezcas",
+    "El": "fortalezca",
+    "Nosotros": "fortalezcamos",
+    "Vosotros": "fortalezcáis",
+    "Ellos": "fortalezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "fortalece",
+    "El": "fortalezca",
+    "Nosotros": "fortalezcamos",
+    "Vosotros": "fortaleced",
+    "Ellos": "fortalezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no fortalezcas",
+    "El": "no fortalezca",
+    "Nosotros": "no fortalezcamos",
+    "Vosotros": "no fortalezcáis",
+    "Ellos": "no fortalezcan"
+  },
+  "ending": "er"
+}

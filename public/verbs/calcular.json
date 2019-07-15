@@ -1,0 +1,113 @@
+{
+  "verb": "calcular",
+  "englishInfinitive": "to calculate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "calculo",
+    "Tu": "calculas",
+    "El": "calcula",
+    "Nosotros": "calculamos",
+    "Vosotros": "calculáis",
+    "Ellos": "calculan"
+  },
+  "IndicativePreterite": {
+    "Yo": "calculé",
+    "Tu": "calculaste",
+    "El": "calculó",
+    "Nosotros": "calculamos",
+    "Vosotros": "calculasteis",
+    "Ellos": "calcularon"
+  },
+  "IndicativeFuture": {
+    "Yo": "calcularé",
+    "Tu": "calcularás",
+    "El": "calculará",
+    "Nosotros": "calcularemos",
+    "Vosotros": "calcularéis",
+    "Ellos": "calcularán"
+  },
+  "ConditionalPresent": {
+    "Yo": "calcularía",
+    "Tu": "calcularías",
+    "El": "calcularía",
+    "Nosotros": "calcularíamos",
+    "Vosotros": "calcularíais",
+    "Ellos": "calcularían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "calculaba",
+    "Tu": "calculabas",
+    "El": "calculaba",
+    "Nosotros": "calculábamos",
+    "Vosotros": "calculabais",
+    "Ellos": "calculaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy calculando",
+    "Tu": "estás calculando",
+    "El": "está calculando",
+    "Nosotros": "estamos calculando",
+    "Vosotros": "estáis calculando",
+    "Ellos": "están calculando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he calculado",
+    "Tu": "has calculado",
+    "El": "ha calculado",
+    "Nosotros": "hemos calculado",
+    "Vosotros": "habéis calculado",
+    "Ellos": "han calculado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había calculado",
+    "Tu": "habías calculado",
+    "El": "había calculado",
+    "Nosotros": "habíamos calculado",
+    "Vosotros": "habíais calculado",
+    "Ellos": "habían calculado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré calculado",
+    "Tu": "habrás calculado",
+    "El": "habrá calculado",
+    "Nosotros": "habremos calculado",
+    "Vosotros": "habréis calculado",
+    "Ellos": "habrán calculado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría calculado",
+    "Tu": "habrías calculado",
+    "El": "habría calculado",
+    "Nosotros": "habríamos calculado",
+    "Vosotros": "habríais calculado",
+    "Ellos": "habrían calculado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "calcule",
+    "Tu": "calcules",
+    "El": "calcule",
+    "Nosotros": "calculemos",
+    "Vosotros": "calculéis",
+    "Ellos": "calculen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "calcula",
+    "El": "calcule",
+    "Nosotros": "calculemos",
+    "Vosotros": "calculad",
+    "Ellos": "calculen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no calcules",
+    "El": "no calcule",
+    "Nosotros": "no calculemos",
+    "Vosotros": "no calculéis",
+    "Ellos": "no calculen"
+  },
+  "ending": "ar"
+}

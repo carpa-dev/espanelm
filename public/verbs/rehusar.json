@@ -1,0 +1,113 @@
+{
+  "verb": "rehusar",
+  "englishInfinitive": "to refuse",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "rehúso",
+    "Tu": "rehúsas",
+    "El": "rehúsa",
+    "Nosotros": "rehusamos",
+    "Vosotros": "rehusáis",
+    "Ellos": "rehúsan"
+  },
+  "IndicativePreterite": {
+    "Yo": "rehusé",
+    "Tu": "rehusaste",
+    "El": "rehusó",
+    "Nosotros": "rehusamos",
+    "Vosotros": "rehusasteis",
+    "Ellos": "rehusaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "rehusaré",
+    "Tu": "rehusarás",
+    "El": "rehusará",
+    "Nosotros": "rehusaremos",
+    "Vosotros": "rehusaréis",
+    "Ellos": "rehusarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "rehusaría",
+    "Tu": "rehusarías",
+    "El": "rehusaría",
+    "Nosotros": "rehusaríamos",
+    "Vosotros": "rehusaríais",
+    "Ellos": "rehusarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "rehusaba",
+    "Tu": "rehusabas",
+    "El": "rehusaba",
+    "Nosotros": "rehusábamos",
+    "Vosotros": "rehusabais",
+    "Ellos": "rehusaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy rehusando",
+    "Tu": "estás rehusando",
+    "El": "está rehusando",
+    "Nosotros": "estamos rehusando",
+    "Vosotros": "estáis rehusando",
+    "Ellos": "están rehusando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he rehusado",
+    "Tu": "has rehusado",
+    "El": "ha rehusado",
+    "Nosotros": "hemos rehusado",
+    "Vosotros": "habéis rehusado",
+    "Ellos": "han rehusado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había rehusado",
+    "Tu": "habías rehusado",
+    "El": "había rehusado",
+    "Nosotros": "habíamos rehusado",
+    "Vosotros": "habíais rehusado",
+    "Ellos": "habían rehusado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré rehusado",
+    "Tu": "habrás rehusado",
+    "El": "habrá rehusado",
+    "Nosotros": "habremos rehusado",
+    "Vosotros": "habréis rehusado",
+    "Ellos": "habrán rehusado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría rehusado",
+    "Tu": "habrías rehusado",
+    "El": "habría rehusado",
+    "Nosotros": "habríamos rehusado",
+    "Vosotros": "habríais rehusado",
+    "Ellos": "habrían rehusado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "rehúse",
+    "Tu": "rehúses",
+    "El": "rehúse",
+    "Nosotros": "rehusemos",
+    "Vosotros": "rehuséis",
+    "Ellos": "rehúsen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "rehúsa",
+    "El": "rehúse",
+    "Nosotros": "rehusemos",
+    "Vosotros": "rehusad",
+    "Ellos": "rehúsen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no rehúses",
+    "El": "no rehúse",
+    "Nosotros": "no rehusemos",
+    "Vosotros": "no rehuséis",
+    "Ellos": "no rehúsen"
+  },
+  "ending": "ar"
+}

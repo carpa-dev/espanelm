@@ -1,0 +1,113 @@
+{
+  "verb": "componer",
+  "englishInfinitive": "to compose",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "compongo",
+    "Tu": "compones",
+    "El": "compone",
+    "Nosotros": "componemos",
+    "Vosotros": "componéis",
+    "Ellos": "componen"
+  },
+  "IndicativePreterite": {
+    "Yo": "compuse",
+    "Tu": "compusiste",
+    "El": "compuso",
+    "Nosotros": "compusimos",
+    "Vosotros": "compusisteis",
+    "Ellos": "compusieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "compondré",
+    "Tu": "compondrás",
+    "El": "compondrá",
+    "Nosotros": "compondremos",
+    "Vosotros": "compondréis",
+    "Ellos": "compondrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "compondría",
+    "Tu": "compondrías",
+    "El": "compondría",
+    "Nosotros": "compondríamos",
+    "Vosotros": "compondríais",
+    "Ellos": "compondrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "componía",
+    "Tu": "componías",
+    "El": "componía",
+    "Nosotros": "componíamos",
+    "Vosotros": "componíais",
+    "Ellos": "componían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy componiendo",
+    "Tu": "estás componiendo",
+    "El": "está componiendo",
+    "Nosotros": "estamos componiendo",
+    "Vosotros": "estáis componiendo",
+    "Ellos": "están componiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he compuesto",
+    "Tu": "has compuesto",
+    "El": "ha compuesto",
+    "Nosotros": "hemos compuesto",
+    "Vosotros": "habéis compuesto",
+    "Ellos": "han compuesto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había compuesto",
+    "Tu": "habías compuesto",
+    "El": "había compuesto",
+    "Nosotros": "habíamos compuesto",
+    "Vosotros": "habíais compuesto",
+    "Ellos": "habían compuesto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré compuesto",
+    "Tu": "habrás compuesto",
+    "El": "habrá compuesto",
+    "Nosotros": "habremos compuesto",
+    "Vosotros": "habréis compuesto",
+    "Ellos": "habrán compuesto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría compuesto",
+    "Tu": "habrías compuesto",
+    "El": "habría compuesto",
+    "Nosotros": "habríamos compuesto",
+    "Vosotros": "habríais compuesto",
+    "Ellos": "habrían compuesto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "componga",
+    "Tu": "compongas",
+    "El": "componga",
+    "Nosotros": "compongamos",
+    "Vosotros": "compongáis",
+    "Ellos": "compongan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "compón",
+    "El": "componga",
+    "Nosotros": "compongamos",
+    "Vosotros": "componed",
+    "Ellos": "compongan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no compongas",
+    "El": "no componga",
+    "Nosotros": "no compongamos",
+    "Vosotros": "no compongáis",
+    "Ellos": "no compongan"
+  },
+  "ending": "er"
+}

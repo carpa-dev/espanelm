@@ -1,0 +1,113 @@
+{
+  "verb": "odiar",
+  "englishInfinitive": "to hate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "odio",
+    "Tu": "odias",
+    "El": "odia",
+    "Nosotros": "odiamos",
+    "Vosotros": "odiáis",
+    "Ellos": "odian"
+  },
+  "IndicativePreterite": {
+    "Yo": "odié",
+    "Tu": "odiaste",
+    "El": "odió",
+    "Nosotros": "odiamos",
+    "Vosotros": "odiasteis",
+    "Ellos": "odiaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "odiaré",
+    "Tu": "odiarás",
+    "El": "odiará",
+    "Nosotros": "odiaremos",
+    "Vosotros": "odiaréis",
+    "Ellos": "odiarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "odiaría",
+    "Tu": "odiarías",
+    "El": "odiaría",
+    "Nosotros": "odiaríamos",
+    "Vosotros": "odiaríais",
+    "Ellos": "odiarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "odiaba",
+    "Tu": "odiabas",
+    "El": "odiaba",
+    "Nosotros": "odiábamos",
+    "Vosotros": "odiabais",
+    "Ellos": "odiaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy odiando",
+    "Tu": "estás odiando",
+    "El": "está odiando",
+    "Nosotros": "estamos odiando",
+    "Vosotros": "estáis odiando",
+    "Ellos": "están odiando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he odiado",
+    "Tu": "has odiado",
+    "El": "ha odiado",
+    "Nosotros": "hemos odiado",
+    "Vosotros": "habéis odiado",
+    "Ellos": "han odiado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había odiado",
+    "Tu": "habías odiado",
+    "El": "había odiado",
+    "Nosotros": "habíamos odiado",
+    "Vosotros": "habíais odiado",
+    "Ellos": "habían odiado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré odiado",
+    "Tu": "habrás odiado",
+    "El": "habrá odiado",
+    "Nosotros": "habremos odiado",
+    "Vosotros": "habréis odiado",
+    "Ellos": "habrán odiado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría odiado",
+    "Tu": "habrías odiado",
+    "El": "habría odiado",
+    "Nosotros": "habríamos odiado",
+    "Vosotros": "habríais odiado",
+    "Ellos": "habrían odiado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "odie",
+    "Tu": "odies",
+    "El": "odie",
+    "Nosotros": "odiemos",
+    "Vosotros": "odiéis",
+    "Ellos": "odien"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "odia",
+    "El": "odie",
+    "Nosotros": "odiemos",
+    "Vosotros": "odiad",
+    "Ellos": "odien"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no odies",
+    "El": "no odie",
+    "Nosotros": "no odiemos",
+    "Vosotros": "no odiéis",
+    "Ellos": "no odien"
+  },
+  "ending": "ar"
+}

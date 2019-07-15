@@ -1,0 +1,113 @@
+{
+  "verb": "alegrar",
+  "englishInfinitive": "to make happy",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "alegro",
+    "Tu": "alegras",
+    "El": "alegra",
+    "Nosotros": "alegramos",
+    "Vosotros": "alegráis",
+    "Ellos": "alegran"
+  },
+  "IndicativePreterite": {
+    "Yo": "alegré",
+    "Tu": "alegraste",
+    "El": "alegró",
+    "Nosotros": "alegramos",
+    "Vosotros": "alegrasteis",
+    "Ellos": "alegraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "alegraré",
+    "Tu": "alegrarás",
+    "El": "alegrará",
+    "Nosotros": "alegraremos",
+    "Vosotros": "alegraréis",
+    "Ellos": "alegrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "alegraría",
+    "Tu": "alegrarías",
+    "El": "alegraría",
+    "Nosotros": "alegraríamos",
+    "Vosotros": "alegraríais",
+    "Ellos": "alegrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "alegraba",
+    "Tu": "alegrabas",
+    "El": "alegraba",
+    "Nosotros": "alegrábamos",
+    "Vosotros": "alegrabais",
+    "Ellos": "alegraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy alegrando",
+    "Tu": "estás alegrando",
+    "El": "está alegrando",
+    "Nosotros": "estamos alegrando",
+    "Vosotros": "estáis alegrando",
+    "Ellos": "están alegrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he alegrado",
+    "Tu": "has alegrado",
+    "El": "ha alegrado",
+    "Nosotros": "hemos alegrado",
+    "Vosotros": "habéis alegrado",
+    "Ellos": "han alegrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había alegrado",
+    "Tu": "habías alegrado",
+    "El": "había alegrado",
+    "Nosotros": "habíamos alegrado",
+    "Vosotros": "habíais alegrado",
+    "Ellos": "habían alegrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré alegrado",
+    "Tu": "habrás alegrado",
+    "El": "habrá alegrado",
+    "Nosotros": "habremos alegrado",
+    "Vosotros": "habréis alegrado",
+    "Ellos": "habrán alegrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría alegrado",
+    "Tu": "habrías alegrado",
+    "El": "habría alegrado",
+    "Nosotros": "habríamos alegrado",
+    "Vosotros": "habríais alegrado",
+    "Ellos": "habrían alegrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "alegre",
+    "Tu": "alegres",
+    "El": "alegre",
+    "Nosotros": "alegremos",
+    "Vosotros": "alegréis",
+    "Ellos": "alegren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "alegra",
+    "El": "alegre",
+    "Nosotros": "alegremos",
+    "Vosotros": "alegrad",
+    "Ellos": "alegren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no alegres",
+    "El": "no alegre",
+    "Nosotros": "no alegremos",
+    "Vosotros": "no alegréis",
+    "Ellos": "no alegren"
+  },
+  "ending": "ar"
+}

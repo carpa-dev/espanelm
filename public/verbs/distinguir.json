@@ -1,0 +1,113 @@
+{
+  "verb": "distinguir",
+  "englishInfinitive": "to distinguish",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "distingo",
+    "Tu": "distingues",
+    "El": "distingue",
+    "Nosotros": "distinguimos",
+    "Vosotros": "distinguís",
+    "Ellos": "distinguen"
+  },
+  "IndicativePreterite": {
+    "Yo": "distinguí",
+    "Tu": "distinguiste",
+    "El": "distinguió",
+    "Nosotros": "distinguimos",
+    "Vosotros": "distinguisteis",
+    "Ellos": "distinguieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "distinguiré",
+    "Tu": "distinguirás",
+    "El": "distinguirá",
+    "Nosotros": "distinguiremos",
+    "Vosotros": "distinguiréis",
+    "Ellos": "distinguirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "distinguiría",
+    "Tu": "distinguirías",
+    "El": "distinguiría",
+    "Nosotros": "distinguiríamos",
+    "Vosotros": "distinguiríais",
+    "Ellos": "distinguirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "distinguía",
+    "Tu": "distinguías",
+    "El": "distinguía",
+    "Nosotros": "distinguíamos",
+    "Vosotros": "distinguíais",
+    "Ellos": "distinguían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy distinguiendo",
+    "Tu": "estás distinguiendo",
+    "El": "está distinguiendo",
+    "Nosotros": "estamos distinguiendo",
+    "Vosotros": "estáis distinguiendo",
+    "Ellos": "están distinguiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he distinguido",
+    "Tu": "has distinguido",
+    "El": "ha distinguido",
+    "Nosotros": "hemos distinguido",
+    "Vosotros": "habéis distinguido",
+    "Ellos": "han distinguido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había distinguido",
+    "Tu": "habías distinguido",
+    "El": "había distinguido",
+    "Nosotros": "habíamos distinguido",
+    "Vosotros": "habíais distinguido",
+    "Ellos": "habían distinguido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré distinguido",
+    "Tu": "habrás distinguido",
+    "El": "habrá distinguido",
+    "Nosotros": "habremos distinguido",
+    "Vosotros": "habréis distinguido",
+    "Ellos": "habrán distinguido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría distinguido",
+    "Tu": "habrías distinguido",
+    "El": "habría distinguido",
+    "Nosotros": "habríamos distinguido",
+    "Vosotros": "habríais distinguido",
+    "Ellos": "habrían distinguido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "distinga",
+    "Tu": "distingas",
+    "El": "distinga",
+    "Nosotros": "distingamos",
+    "Vosotros": "distingáis",
+    "Ellos": "distingan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "distingue",
+    "El": "distinga",
+    "Nosotros": "distingamos",
+    "Vosotros": "distinguid",
+    "Ellos": "distingan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no distingas",
+    "El": "no distinga",
+    "Nosotros": "no distingamos",
+    "Vosotros": "no distingáis",
+    "Ellos": "no distingan"
+  },
+  "ending": "ir"
+}

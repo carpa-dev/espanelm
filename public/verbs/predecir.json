@@ -1,0 +1,113 @@
+{
+  "verb": "predecir",
+  "englishInfinitive": "to predict",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "predigo",
+    "Tu": "predices",
+    "El": "predice",
+    "Nosotros": "predecimos",
+    "Vosotros": "predecís",
+    "Ellos": "predicen"
+  },
+  "IndicativePreterite": {
+    "Yo": "predije",
+    "Tu": "predijiste",
+    "El": "predijo",
+    "Nosotros": "predijimos",
+    "Vosotros": "predijisteis",
+    "Ellos": "predijeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "predeciré",
+    "Tu": "predecirás",
+    "El": "predecirá",
+    "Nosotros": "predeciremos",
+    "Vosotros": "predeciréis",
+    "Ellos": "predecirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "predeciría",
+    "Tu": "predecirías",
+    "El": "predeciría",
+    "Nosotros": "predeciríamos",
+    "Vosotros": "predeciríais",
+    "Ellos": "predecirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "predecía",
+    "Tu": "predecías",
+    "El": "predecía",
+    "Nosotros": "predecíamos",
+    "Vosotros": "predecíais",
+    "Ellos": "predecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy prediciendo",
+    "Tu": "estás prediciendo",
+    "El": "está prediciendo",
+    "Nosotros": "estamos prediciendo",
+    "Vosotros": "estáis prediciendo",
+    "Ellos": "están prediciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he predicho",
+    "Tu": "has predicho",
+    "El": "ha predicho",
+    "Nosotros": "hemos predicho",
+    "Vosotros": "habéis predicho",
+    "Ellos": "han predicho"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había predicho",
+    "Tu": "habías predicho",
+    "El": "había predicho",
+    "Nosotros": "habíamos predicho",
+    "Vosotros": "habíais predicho",
+    "Ellos": "habían predicho"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré predicho",
+    "Tu": "habrás predicho",
+    "El": "habrá predicho",
+    "Nosotros": "habremos predicho",
+    "Vosotros": "habréis predicho",
+    "Ellos": "habrán predicho"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría predicho",
+    "Tu": "habrías predicho",
+    "El": "habría predicho",
+    "Nosotros": "habríamos predicho",
+    "Vosotros": "habríais predicho",
+    "Ellos": "habrían predicho"
+  },
+  "SubjunctivePresent": {
+    "Yo": "prediga",
+    "Tu": "predigas",
+    "El": "prediga",
+    "Nosotros": "predigamos",
+    "Vosotros": "predigáis",
+    "Ellos": "predigan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "predice",
+    "El": "prediga",
+    "Nosotros": "predigamos",
+    "Vosotros": "predecid",
+    "Ellos": "predigan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no predigas",
+    "El": "no prediga",
+    "Nosotros": "no predigamos",
+    "Vosotros": "no predigáis",
+    "Ellos": "no predigan"
+  },
+  "ending": "ir"
+}

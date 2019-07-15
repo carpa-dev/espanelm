@@ -1,0 +1,113 @@
+{
+  "verb": "colgar",
+  "englishInfinitive": "to hang",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "cuelgo",
+    "Tu": "cuelgas",
+    "El": "cuelga",
+    "Nosotros": "colgamos",
+    "Vosotros": "colgáis",
+    "Ellos": "cuelgan"
+  },
+  "IndicativePreterite": {
+    "Yo": "colgué",
+    "Tu": "colgaste",
+    "El": "colgó",
+    "Nosotros": "colgamos",
+    "Vosotros": "colgasteis",
+    "Ellos": "colgaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "colgaré",
+    "Tu": "colgarás",
+    "El": "colgará",
+    "Nosotros": "colgaremos",
+    "Vosotros": "colgaréis",
+    "Ellos": "colgarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "colgaría",
+    "Tu": "colgarías",
+    "El": "colgaría",
+    "Nosotros": "colgaríamos",
+    "Vosotros": "colgaríais",
+    "Ellos": "colgarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "colgaba",
+    "Tu": "colgabas",
+    "El": "colgaba",
+    "Nosotros": "colgábamos",
+    "Vosotros": "colgabais",
+    "Ellos": "colgaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy colgando",
+    "Tu": "estás colgando",
+    "El": "está colgando",
+    "Nosotros": "estamos colgando",
+    "Vosotros": "estáis colgando",
+    "Ellos": "están colgando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he colgado",
+    "Tu": "has colgado",
+    "El": "ha colgado",
+    "Nosotros": "hemos colgado",
+    "Vosotros": "habéis colgado",
+    "Ellos": "han colgado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había colgado",
+    "Tu": "habías colgado",
+    "El": "había colgado",
+    "Nosotros": "habíamos colgado",
+    "Vosotros": "habíais colgado",
+    "Ellos": "habían colgado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré colgado",
+    "Tu": "habrás colgado",
+    "El": "habrá colgado",
+    "Nosotros": "habremos colgado",
+    "Vosotros": "habréis colgado",
+    "Ellos": "habrán colgado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría colgado",
+    "Tu": "habrías colgado",
+    "El": "habría colgado",
+    "Nosotros": "habríamos colgado",
+    "Vosotros": "habríais colgado",
+    "Ellos": "habrían colgado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cuelgue",
+    "Tu": "cuelgues",
+    "El": "cuelgue",
+    "Nosotros": "colguemos",
+    "Vosotros": "colguéis",
+    "Ellos": "cuelguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cuelga",
+    "El": "cuelgue",
+    "Nosotros": "colguemos",
+    "Vosotros": "colgad",
+    "Ellos": "cuelguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cuelgues",
+    "El": "no cuelgue",
+    "Nosotros": "no colguemos",
+    "Vosotros": "no colguéis",
+    "Ellos": "no cuelguen"
+  },
+  "ending": "ar"
+}

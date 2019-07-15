@@ -1,0 +1,113 @@
+{
+  "verb": "cuidar",
+  "englishInfinitive": "to take care of",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "cuido",
+    "Tu": "cuidas",
+    "El": "cuida",
+    "Nosotros": "cuidamos",
+    "Vosotros": "cuidáis",
+    "Ellos": "cuidan"
+  },
+  "IndicativePreterite": {
+    "Yo": "cuidé",
+    "Tu": "cuidaste",
+    "El": "cuidó",
+    "Nosotros": "cuidamos",
+    "Vosotros": "cuidasteis",
+    "Ellos": "cuidaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cuidaré",
+    "Tu": "cuidarás",
+    "El": "cuidará",
+    "Nosotros": "cuidaremos",
+    "Vosotros": "cuidaréis",
+    "Ellos": "cuidarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cuidaría",
+    "Tu": "cuidarías",
+    "El": "cuidaría",
+    "Nosotros": "cuidaríamos",
+    "Vosotros": "cuidaríais",
+    "Ellos": "cuidarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cuidaba",
+    "Tu": "cuidabas",
+    "El": "cuidaba",
+    "Nosotros": "cuidábamos",
+    "Vosotros": "cuidabais",
+    "Ellos": "cuidaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cuidando",
+    "Tu": "estás cuidando",
+    "El": "está cuidando",
+    "Nosotros": "estamos cuidando",
+    "Vosotros": "estáis cuidando",
+    "Ellos": "están cuidando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cuidado",
+    "Tu": "has cuidado",
+    "El": "ha cuidado",
+    "Nosotros": "hemos cuidado",
+    "Vosotros": "habéis cuidado",
+    "Ellos": "han cuidado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cuidado",
+    "Tu": "habías cuidado",
+    "El": "había cuidado",
+    "Nosotros": "habíamos cuidado",
+    "Vosotros": "habíais cuidado",
+    "Ellos": "habían cuidado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cuidado",
+    "Tu": "habrás cuidado",
+    "El": "habrá cuidado",
+    "Nosotros": "habremos cuidado",
+    "Vosotros": "habréis cuidado",
+    "Ellos": "habrán cuidado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cuidado",
+    "Tu": "habrías cuidado",
+    "El": "habría cuidado",
+    "Nosotros": "habríamos cuidado",
+    "Vosotros": "habríais cuidado",
+    "Ellos": "habrían cuidado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cuide",
+    "Tu": "cuides",
+    "El": "cuide",
+    "Nosotros": "cuidemos",
+    "Vosotros": "cuidéis",
+    "Ellos": "cuiden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cuida",
+    "El": "cuide",
+    "Nosotros": "cuidemos",
+    "Vosotros": "cuidad",
+    "Ellos": "cuiden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cuides",
+    "El": "no cuide",
+    "Nosotros": "no cuidemos",
+    "Vosotros": "no cuidéis",
+    "Ellos": "no cuiden"
+  },
+  "ending": "ar"
+}

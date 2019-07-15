@@ -1,0 +1,113 @@
+{
+  "verb": "divorciar",
+  "englishInfinitive": "to divorce",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "divorcio",
+    "Tu": "divorcias",
+    "El": "divorcia",
+    "Nosotros": "divorciamos",
+    "Vosotros": "divorciáis",
+    "Ellos": "divorcian"
+  },
+  "IndicativePreterite": {
+    "Yo": "divorcié",
+    "Tu": "divorciaste",
+    "El": "divorció",
+    "Nosotros": "divorciamos",
+    "Vosotros": "divorciasteis",
+    "Ellos": "divorciaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "divorciaré",
+    "Tu": "divorciarás",
+    "El": "divorciará",
+    "Nosotros": "divorciaremos",
+    "Vosotros": "divorciaréis",
+    "Ellos": "divorciarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "divorciaría",
+    "Tu": "divorciarías",
+    "El": "divorciaría",
+    "Nosotros": "divorciaríamos",
+    "Vosotros": "divorciaríais",
+    "Ellos": "divorciarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "divorciaba",
+    "Tu": "divorciabas",
+    "El": "divorciaba",
+    "Nosotros": "divorciábamos",
+    "Vosotros": "divorciabais",
+    "Ellos": "divorciaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy divorciando",
+    "Tu": "estás divorciando",
+    "El": "está divorciando",
+    "Nosotros": "estamos divorciando",
+    "Vosotros": "estáis divorciando",
+    "Ellos": "están divorciando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he divorciado",
+    "Tu": "has divorciado",
+    "El": "ha divorciado",
+    "Nosotros": "hemos divorciado",
+    "Vosotros": "habéis divorciado",
+    "Ellos": "han divorciado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había divorciado",
+    "Tu": "habías divorciado",
+    "El": "había divorciado",
+    "Nosotros": "habíamos divorciado",
+    "Vosotros": "habíais divorciado",
+    "Ellos": "habían divorciado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré divorciado",
+    "Tu": "habrás divorciado",
+    "El": "habrá divorciado",
+    "Nosotros": "habremos divorciado",
+    "Vosotros": "habréis divorciado",
+    "Ellos": "habrán divorciado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría divorciado",
+    "Tu": "habrías divorciado",
+    "El": "habría divorciado",
+    "Nosotros": "habríamos divorciado",
+    "Vosotros": "habríais divorciado",
+    "Ellos": "habrían divorciado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "divorcie",
+    "Tu": "divorcies",
+    "El": "divorcie",
+    "Nosotros": "divorciemos",
+    "Vosotros": "divorciéis",
+    "Ellos": "divorcien"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "divorcia",
+    "El": "divorcie",
+    "Nosotros": "divorciemos",
+    "Vosotros": "divorciad",
+    "Ellos": "divorcien"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no divorcies",
+    "El": "no divorcie",
+    "Nosotros": "no divorciemos",
+    "Vosotros": "no divorciéis",
+    "Ellos": "no divorcien"
+  },
+  "ending": "ar"
+}

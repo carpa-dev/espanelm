@@ -1,0 +1,113 @@
+{
+  "verb": "participar",
+  "englishInfinitive": "to participate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "participo",
+    "Tu": "participas",
+    "El": "participa",
+    "Nosotros": "participamos",
+    "Vosotros": "participáis",
+    "Ellos": "participan"
+  },
+  "IndicativePreterite": {
+    "Yo": "participé",
+    "Tu": "participaste",
+    "El": "participó",
+    "Nosotros": "participamos",
+    "Vosotros": "participasteis",
+    "Ellos": "participaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "participaré",
+    "Tu": "participarás",
+    "El": "participará",
+    "Nosotros": "participaremos",
+    "Vosotros": "participaréis",
+    "Ellos": "participarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "participaría",
+    "Tu": "participarías",
+    "El": "participaría",
+    "Nosotros": "participaríamos",
+    "Vosotros": "participaríais",
+    "Ellos": "participarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "participaba",
+    "Tu": "participabas",
+    "El": "participaba",
+    "Nosotros": "participábamos",
+    "Vosotros": "participabais",
+    "Ellos": "participaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy participando",
+    "Tu": "estás participando",
+    "El": "está participando",
+    "Nosotros": "estamos participando",
+    "Vosotros": "estáis participando",
+    "Ellos": "están participando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he participado",
+    "Tu": "has participado",
+    "El": "ha participado",
+    "Nosotros": "hemos participado",
+    "Vosotros": "habéis participado",
+    "Ellos": "han participado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había participado",
+    "Tu": "habías participado",
+    "El": "había participado",
+    "Nosotros": "habíamos participado",
+    "Vosotros": "habíais participado",
+    "Ellos": "habían participado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré participado",
+    "Tu": "habrás participado",
+    "El": "habrá participado",
+    "Nosotros": "habremos participado",
+    "Vosotros": "habréis participado",
+    "Ellos": "habrán participado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría participado",
+    "Tu": "habrías participado",
+    "El": "habría participado",
+    "Nosotros": "habríamos participado",
+    "Vosotros": "habríais participado",
+    "Ellos": "habrían participado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "participe",
+    "Tu": "participes",
+    "El": "participe",
+    "Nosotros": "participemos",
+    "Vosotros": "participéis",
+    "Ellos": "participen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "participa",
+    "El": "participe",
+    "Nosotros": "participemos",
+    "Vosotros": "participad",
+    "Ellos": "participen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no participes",
+    "El": "no participe",
+    "Nosotros": "no participemos",
+    "Vosotros": "no participéis",
+    "Ellos": "no participen"
+  },
+  "ending": "ar"
+}

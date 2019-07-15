@@ -1,0 +1,113 @@
+{
+  "verb": "devorar",
+  "englishInfinitive": "to devour",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "devoro",
+    "Tu": "devoras",
+    "El": "devora",
+    "Nosotros": "devoramos",
+    "Vosotros": "devoráis",
+    "Ellos": "devoran"
+  },
+  "IndicativePreterite": {
+    "Yo": "devoré",
+    "Tu": "devoraste",
+    "El": "devoró",
+    "Nosotros": "devoramos",
+    "Vosotros": "devorasteis",
+    "Ellos": "devoraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "devoraré",
+    "Tu": "devorarás",
+    "El": "devorará",
+    "Nosotros": "devoraremos",
+    "Vosotros": "devoraréis",
+    "Ellos": "devorarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "devoraría",
+    "Tu": "devorarías",
+    "El": "devoraría",
+    "Nosotros": "devoraríamos",
+    "Vosotros": "devoraríais",
+    "Ellos": "devorarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "devoraba",
+    "Tu": "devorabas",
+    "El": "devoraba",
+    "Nosotros": "devorábamos",
+    "Vosotros": "devorabais",
+    "Ellos": "devoraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy devorando",
+    "Tu": "estás devorando",
+    "El": "está devorando",
+    "Nosotros": "estamos devorando",
+    "Vosotros": "estáis devorando",
+    "Ellos": "están devorando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he devorado",
+    "Tu": "has devorado",
+    "El": "ha devorado",
+    "Nosotros": "hemos devorado",
+    "Vosotros": "habéis devorado",
+    "Ellos": "han devorado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había devorado",
+    "Tu": "habías devorado",
+    "El": "había devorado",
+    "Nosotros": "habíamos devorado",
+    "Vosotros": "habíais devorado",
+    "Ellos": "habían devorado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré devorado",
+    "Tu": "habrás devorado",
+    "El": "habrá devorado",
+    "Nosotros": "habremos devorado",
+    "Vosotros": "habréis devorado",
+    "Ellos": "habrán devorado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría devorado",
+    "Tu": "habrías devorado",
+    "El": "habría devorado",
+    "Nosotros": "habríamos devorado",
+    "Vosotros": "habríais devorado",
+    "Ellos": "habrían devorado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "devore",
+    "Tu": "devores",
+    "El": "devore",
+    "Nosotros": "devoremos",
+    "Vosotros": "devoréis",
+    "Ellos": "devoren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "devora",
+    "El": "devore",
+    "Nosotros": "devoremos",
+    "Vosotros": "devorad",
+    "Ellos": "devoren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no devores",
+    "El": "no devore",
+    "Nosotros": "no devoremos",
+    "Vosotros": "no devoréis",
+    "Ellos": "no devoren"
+  },
+  "ending": "ar"
+}

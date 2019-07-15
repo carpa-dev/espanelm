@@ -1,0 +1,113 @@
+{
+  "verb": "distribuir",
+  "englishInfinitive": "to distribute",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "distribuyo",
+    "Tu": "distribuyes",
+    "El": "distribuye",
+    "Nosotros": "distribuimos",
+    "Vosotros": "distribuís",
+    "Ellos": "distribuyen"
+  },
+  "IndicativePreterite": {
+    "Yo": "distribuí",
+    "Tu": "distribuiste",
+    "El": "distribuyó",
+    "Nosotros": "distribuimos",
+    "Vosotros": "distribuisteis",
+    "Ellos": "distribuyeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "distribuiré",
+    "Tu": "distribuirás",
+    "El": "distribuirá",
+    "Nosotros": "distribuiremos",
+    "Vosotros": "distribuiréis",
+    "Ellos": "distribuirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "distribuiría",
+    "Tu": "distribuirías",
+    "El": "distribuiría",
+    "Nosotros": "distribuiríamos",
+    "Vosotros": "distribuiríais",
+    "Ellos": "distribuirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "distribuía",
+    "Tu": "distribuías",
+    "El": "distribuía",
+    "Nosotros": "distribuíamos",
+    "Vosotros": "distribuíais",
+    "Ellos": "distribuían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy distribuyendo",
+    "Tu": "estás distribuyendo",
+    "El": "está distribuyendo",
+    "Nosotros": "estamos distribuyendo",
+    "Vosotros": "estáis distribuyendo",
+    "Ellos": "están distribuyendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he distribuido",
+    "Tu": "has distribuido",
+    "El": "ha distribuido",
+    "Nosotros": "hemos distribuido",
+    "Vosotros": "habéis distribuido",
+    "Ellos": "han distribuido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había distribuido",
+    "Tu": "habías distribuido",
+    "El": "había distribuido",
+    "Nosotros": "habíamos distribuido",
+    "Vosotros": "habíais distribuido",
+    "Ellos": "habían distribuido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré distribuido",
+    "Tu": "habrás distribuido",
+    "El": "habrá distribuido",
+    "Nosotros": "habremos distribuido",
+    "Vosotros": "habréis distribuido",
+    "Ellos": "habrán distribuido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría distribuido",
+    "Tu": "habrías distribuido",
+    "El": "habría distribuido",
+    "Nosotros": "habríamos distribuido",
+    "Vosotros": "habríais distribuido",
+    "Ellos": "habrían distribuido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "distribuya",
+    "Tu": "distribuyas",
+    "El": "distribuya",
+    "Nosotros": "distribuyamos",
+    "Vosotros": "distribuyáis",
+    "Ellos": "distribuyan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "distribuye",
+    "El": "distribuya",
+    "Nosotros": "distribuyamos",
+    "Vosotros": "distribuid",
+    "Ellos": "distribuyan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no distribuyas",
+    "El": "no distribuya",
+    "Nosotros": "no distribuyamos",
+    "Vosotros": "no distribuyáis",
+    "Ellos": "no distribuyan"
+  },
+  "ending": "ir"
+}

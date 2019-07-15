@@ -1,0 +1,113 @@
+{
+  "verb": "agradar",
+  "englishInfinitive": "to please",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "agrado",
+    "Tu": "agradas",
+    "El": "agrada",
+    "Nosotros": "agradamos",
+    "Vosotros": "agradáis",
+    "Ellos": "agradan"
+  },
+  "IndicativePreterite": {
+    "Yo": "agradé",
+    "Tu": "agradaste",
+    "El": "agradó",
+    "Nosotros": "agradamos",
+    "Vosotros": "agradasteis",
+    "Ellos": "agradaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "agradaré",
+    "Tu": "agradarás",
+    "El": "agradará",
+    "Nosotros": "agradaremos",
+    "Vosotros": "agradaréis",
+    "Ellos": "agradarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "agradaría",
+    "Tu": "agradarías",
+    "El": "agradaría",
+    "Nosotros": "agradaríamos",
+    "Vosotros": "agradaríais",
+    "Ellos": "agradarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "agradaba",
+    "Tu": "agradabas",
+    "El": "agradaba",
+    "Nosotros": "agradábamos",
+    "Vosotros": "agradabais",
+    "Ellos": "agradaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy agradando",
+    "Tu": "estás agradando",
+    "El": "está agradando",
+    "Nosotros": "estamos agradando",
+    "Vosotros": "estáis agradando",
+    "Ellos": "están agradando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he agradado",
+    "Tu": "has agradado",
+    "El": "ha agradado",
+    "Nosotros": "hemos agradado",
+    "Vosotros": "habéis agradado",
+    "Ellos": "han agradado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había agradado",
+    "Tu": "habías agradado",
+    "El": "había agradado",
+    "Nosotros": "habíamos agradado",
+    "Vosotros": "habíais agradado",
+    "Ellos": "habían agradado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré agradado",
+    "Tu": "habrás agradado",
+    "El": "habrá agradado",
+    "Nosotros": "habremos agradado",
+    "Vosotros": "habréis agradado",
+    "Ellos": "habrán agradado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría agradado",
+    "Tu": "habrías agradado",
+    "El": "habría agradado",
+    "Nosotros": "habríamos agradado",
+    "Vosotros": "habríais agradado",
+    "Ellos": "habrían agradado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "agrade",
+    "Tu": "agrades",
+    "El": "agrade",
+    "Nosotros": "agrademos",
+    "Vosotros": "agradéis",
+    "Ellos": "agraden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "agrada",
+    "El": "agrade",
+    "Nosotros": "agrademos",
+    "Vosotros": "agradad",
+    "Ellos": "agraden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no agrades",
+    "El": "no agrade",
+    "Nosotros": "no agrademos",
+    "Vosotros": "no agradéis",
+    "Ellos": "no agraden"
+  },
+  "ending": "ar"
+}

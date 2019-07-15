@@ -1,0 +1,113 @@
+{
+  "verb": "prever",
+  "englishInfinitive": "to foresee",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "preveo",
+    "Tu": "prevés",
+    "El": "prevé",
+    "Nosotros": "prevemos",
+    "Vosotros": "prevéis",
+    "Ellos": "prevén"
+  },
+  "IndicativePreterite": {
+    "Yo": "preví",
+    "Tu": "previste",
+    "El": "previó",
+    "Nosotros": "previmos",
+    "Vosotros": "previsteis",
+    "Ellos": "previeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "preveré",
+    "Tu": "preverás",
+    "El": "preverá",
+    "Nosotros": "preveremos",
+    "Vosotros": "preveréis",
+    "Ellos": "preverán"
+  },
+  "ConditionalPresent": {
+    "Yo": "prevería",
+    "Tu": "preverías",
+    "El": "prevería",
+    "Nosotros": "preveríamos",
+    "Vosotros": "preveríais",
+    "Ellos": "preverían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "preveía",
+    "Tu": "preveías",
+    "El": "preveía",
+    "Nosotros": "preveíamos",
+    "Vosotros": "preveíais",
+    "Ellos": "preveían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy previendo",
+    "Tu": "estás previendo",
+    "El": "está previendo",
+    "Nosotros": "estamos previendo",
+    "Vosotros": "estáis previendo",
+    "Ellos": "están previendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he previsto",
+    "Tu": "has previsto",
+    "El": "ha previsto",
+    "Nosotros": "hemos previsto",
+    "Vosotros": "habéis previsto",
+    "Ellos": "han previsto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había previsto",
+    "Tu": "habías previsto",
+    "El": "había previsto",
+    "Nosotros": "habíamos previsto",
+    "Vosotros": "habíais previsto",
+    "Ellos": "habían previsto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré previsto",
+    "Tu": "habrás previsto",
+    "El": "habrá previsto",
+    "Nosotros": "habremos previsto",
+    "Vosotros": "habréis previsto",
+    "Ellos": "habrán previsto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría previsto",
+    "Tu": "habrías previsto",
+    "El": "habría previsto",
+    "Nosotros": "habríamos previsto",
+    "Vosotros": "habríais previsto",
+    "Ellos": "habrían previsto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "prevea",
+    "Tu": "preveas",
+    "El": "prevea",
+    "Nosotros": "preveamos",
+    "Vosotros": "preveáis",
+    "Ellos": "prevean"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "prevé",
+    "El": "prevea",
+    "Nosotros": "preveamos",
+    "Vosotros": "preved",
+    "Ellos": "prevean"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no preveas",
+    "El": "no prevea",
+    "Nosotros": "no preveamos",
+    "Vosotros": "no preveáis",
+    "Ellos": "no prevean"
+  },
+  "ending": "er"
+}

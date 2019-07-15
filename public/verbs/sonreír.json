@@ -1,0 +1,113 @@
+{
+  "verb": "sonreír",
+  "englishInfinitive": "to smile",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "sonrío",
+    "Tu": "sonríes",
+    "El": "sonríe",
+    "Nosotros": "sonreímos",
+    "Vosotros": "sonreís",
+    "Ellos": "sonríen"
+  },
+  "IndicativePreterite": {
+    "Yo": "sonreí",
+    "Tu": "sonreíste",
+    "El": "sonrió",
+    "Nosotros": "sonreímos",
+    "Vosotros": "sonreísteis",
+    "Ellos": "sonrieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "sonreiré",
+    "Tu": "sonreirás",
+    "El": "sonreirá",
+    "Nosotros": "sonreiremos",
+    "Vosotros": "sonreiréis",
+    "Ellos": "sonreirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "sonreiría",
+    "Tu": "sonreirías",
+    "El": "sonreiría",
+    "Nosotros": "sonreiríamos",
+    "Vosotros": "sonreiríais",
+    "Ellos": "sonreirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "sonreía",
+    "Tu": "sonreías",
+    "El": "sonreía",
+    "Nosotros": "sonreíamos",
+    "Vosotros": "sonreíais",
+    "Ellos": "sonreían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy sonriendo",
+    "Tu": "estás sonriendo",
+    "El": "está sonriendo",
+    "Nosotros": "estamos sonriendo",
+    "Vosotros": "estáis sonriendo",
+    "Ellos": "están sonriendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he sonreído",
+    "Tu": "has sonreído",
+    "El": "ha sonreído",
+    "Nosotros": "hemos sonreído",
+    "Vosotros": "habéis sonreído",
+    "Ellos": "han sonreído"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había sonreído",
+    "Tu": "habías sonreído",
+    "El": "había sonreído",
+    "Nosotros": "habíamos sonreído",
+    "Vosotros": "habíais sonreído",
+    "Ellos": "habían sonreído"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré sonreído",
+    "Tu": "habrás sonreído",
+    "El": "habrá sonreído",
+    "Nosotros": "habremos sonreído",
+    "Vosotros": "habréis sonreído",
+    "Ellos": "habrán sonreído"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría sonreído",
+    "Tu": "habrías sonreído",
+    "El": "habría sonreído",
+    "Nosotros": "habríamos sonreído",
+    "Vosotros": "habríais sonreído",
+    "Ellos": "habrían sonreído"
+  },
+  "SubjunctivePresent": {
+    "Yo": "sonría",
+    "Tu": "sonrías",
+    "El": "sonría",
+    "Nosotros": "sonriamos",
+    "Vosotros": "sonriáis",
+    "Ellos": "sonrían"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sonríe",
+    "El": "sonría",
+    "Nosotros": "sonriamos",
+    "Vosotros": "sonreíd",
+    "Ellos": "sonrían"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sonrías",
+    "El": "no sonría",
+    "Nosotros": "no sonriamos",
+    "Vosotros": "no sonriáis",
+    "Ellos": "no sonrían"
+  },
+  "ending": "ir"
+}

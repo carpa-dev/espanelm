@@ -1,0 +1,113 @@
+{
+  "verb": "montar",
+  "englishInfinitive": "to mount",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "monto",
+    "Tu": "montas",
+    "El": "monta",
+    "Nosotros": "montamos",
+    "Vosotros": "montáis",
+    "Ellos": "montan"
+  },
+  "IndicativePreterite": {
+    "Yo": "monté",
+    "Tu": "montaste",
+    "El": "montó",
+    "Nosotros": "montamos",
+    "Vosotros": "montasteis",
+    "Ellos": "montaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "montaré",
+    "Tu": "montarás",
+    "El": "montará",
+    "Nosotros": "montaremos",
+    "Vosotros": "montaréis",
+    "Ellos": "montarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "montaría",
+    "Tu": "montarías",
+    "El": "montaría",
+    "Nosotros": "montaríamos",
+    "Vosotros": "montaríais",
+    "Ellos": "montarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "montaba",
+    "Tu": "montabas",
+    "El": "montaba",
+    "Nosotros": "montábamos",
+    "Vosotros": "montabais",
+    "Ellos": "montaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy montando",
+    "Tu": "estás montando",
+    "El": "está montando",
+    "Nosotros": "estamos montando",
+    "Vosotros": "estáis montando",
+    "Ellos": "están montando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he montado",
+    "Tu": "has montado",
+    "El": "ha montado",
+    "Nosotros": "hemos montado",
+    "Vosotros": "habéis montado",
+    "Ellos": "han montado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había montado",
+    "Tu": "habías montado",
+    "El": "había montado",
+    "Nosotros": "habíamos montado",
+    "Vosotros": "habíais montado",
+    "Ellos": "habían montado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré montado",
+    "Tu": "habrás montado",
+    "El": "habrá montado",
+    "Nosotros": "habremos montado",
+    "Vosotros": "habréis montado",
+    "Ellos": "habrán montado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría montado",
+    "Tu": "habrías montado",
+    "El": "habría montado",
+    "Nosotros": "habríamos montado",
+    "Vosotros": "habríais montado",
+    "Ellos": "habrían montado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "monte",
+    "Tu": "montes",
+    "El": "monte",
+    "Nosotros": "montemos",
+    "Vosotros": "montéis",
+    "Ellos": "monten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "monta",
+    "El": "monte",
+    "Nosotros": "montemos",
+    "Vosotros": "montad",
+    "Ellos": "monten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no montes",
+    "El": "no monte",
+    "Nosotros": "no montemos",
+    "Vosotros": "no montéis",
+    "Ellos": "no monten"
+  },
+  "ending": "ar"
+}

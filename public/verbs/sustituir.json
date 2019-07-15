@@ -1,0 +1,113 @@
+{
+  "verb": "sustituir",
+  "englishInfinitive": "to substitute",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "sustituyo",
+    "Tu": "sustituyes",
+    "El": "sustituye",
+    "Nosotros": "sustituimos",
+    "Vosotros": "sustituís",
+    "Ellos": "sustituyen"
+  },
+  "IndicativePreterite": {
+    "Yo": "sustituí",
+    "Tu": "sustituiste",
+    "El": "sustituyó",
+    "Nosotros": "sustituimos",
+    "Vosotros": "sustituisteis",
+    "Ellos": "sustituyeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "sustituiré",
+    "Tu": "sustituirás",
+    "El": "sustituirá",
+    "Nosotros": "sustituiremos",
+    "Vosotros": "sustituiréis",
+    "Ellos": "sustituirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "sustituiría",
+    "Tu": "sustituirías",
+    "El": "sustituiría",
+    "Nosotros": "sustituiríamos",
+    "Vosotros": "sustituiríais",
+    "Ellos": "sustituirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "sustituía",
+    "Tu": "sustituías",
+    "El": "sustituía",
+    "Nosotros": "sustituíamos",
+    "Vosotros": "sustituíais",
+    "Ellos": "sustituían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy sustituyendo",
+    "Tu": "estás sustituyendo",
+    "El": "está sustituyendo",
+    "Nosotros": "estamos sustituyendo",
+    "Vosotros": "estáis sustituyendo",
+    "Ellos": "están sustituyendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he sustituido",
+    "Tu": "has sustituido",
+    "El": "ha sustituido",
+    "Nosotros": "hemos sustituido",
+    "Vosotros": "habéis sustituido",
+    "Ellos": "han sustituido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había sustituido",
+    "Tu": "habías sustituido",
+    "El": "había sustituido",
+    "Nosotros": "habíamos sustituido",
+    "Vosotros": "habíais sustituido",
+    "Ellos": "habían sustituido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré sustituido",
+    "Tu": "habrás sustituido",
+    "El": "habrá sustituido",
+    "Nosotros": "habremos sustituido",
+    "Vosotros": "habréis sustituido",
+    "Ellos": "habrán sustituido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría sustituido",
+    "Tu": "habrías sustituido",
+    "El": "habría sustituido",
+    "Nosotros": "habríamos sustituido",
+    "Vosotros": "habríais sustituido",
+    "Ellos": "habrían sustituido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "sustituya",
+    "Tu": "sustituyas",
+    "El": "sustituya",
+    "Nosotros": "sustituyamos",
+    "Vosotros": "sustituyáis",
+    "Ellos": "sustituyan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sustituye",
+    "El": "sustituya",
+    "Nosotros": "sustituyamos",
+    "Vosotros": "sustituid",
+    "Ellos": "sustituyan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sustituyas",
+    "El": "no sustituya",
+    "Nosotros": "no sustituyamos",
+    "Vosotros": "no sustituyáis",
+    "Ellos": "no sustituyan"
+  },
+  "ending": "ir"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "ir",
+  "englishInfinitive": "to go",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "voy",
+    "Tu": "vas",
+    "El": "va",
+    "Nosotros": "vamos",
+    "Vosotros": "vais",
+    "Ellos": "van"
+  },
+  "IndicativePreterite": {
+    "Yo": "fui",
+    "Tu": "fuiste",
+    "El": "fue",
+    "Nosotros": "fuimos",
+    "Vosotros": "fuisteis",
+    "Ellos": "fueron"
+  },
+  "IndicativeFuture": {
+    "Yo": "iré",
+    "Tu": "irás",
+    "El": "irá",
+    "Nosotros": "iremos",
+    "Vosotros": "iréis",
+    "Ellos": "irán"
+  },
+  "ConditionalPresent": {
+    "Yo": "iría",
+    "Tu": "irías",
+    "El": "iría",
+    "Nosotros": "iríamos",
+    "Vosotros": "iríais",
+    "Ellos": "irían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "iba",
+    "Tu": "ibas",
+    "El": "iba",
+    "Nosotros": "íbamos",
+    "Vosotros": "ibais",
+    "Ellos": "iban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy yendo",
+    "Tu": "estás yendo",
+    "El": "está yendo",
+    "Nosotros": "estamos yendo",
+    "Vosotros": "estáis yendo",
+    "Ellos": "están yendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he ido",
+    "Tu": "has ido",
+    "El": "ha ido",
+    "Nosotros": "hemos ido",
+    "Vosotros": "habéis ido",
+    "Ellos": "han ido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había ido",
+    "Tu": "habías ido",
+    "El": "había ido",
+    "Nosotros": "habíamos ido",
+    "Vosotros": "habíais ido",
+    "Ellos": "habían ido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré ido",
+    "Tu": "habrás ido",
+    "El": "habrá ido",
+    "Nosotros": "habremos ido",
+    "Vosotros": "habréis ido",
+    "Ellos": "habrán ido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría ido",
+    "Tu": "habrías ido",
+    "El": "habría ido",
+    "Nosotros": "habríamos ido",
+    "Vosotros": "habríais ido",
+    "Ellos": "habrían ido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "vaya",
+    "Tu": "vayas",
+    "El": "vaya",
+    "Nosotros": "vayamos",
+    "Vosotros": "vayáis",
+    "Ellos": "vayan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ve",
+    "El": "vaya",
+    "Nosotros": "vayamos",
+    "Vosotros": "id",
+    "Ellos": "vayan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no vayas",
+    "El": "no vaya",
+    "Nosotros": "no vayamos",
+    "Vosotros": "no vayáis",
+    "Ellos": "no vayan"
+  },
+  "ending": "ir"
+}

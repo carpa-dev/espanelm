@@ -1,0 +1,113 @@
+{
+  "verb": "gastar",
+  "englishInfinitive": "to spend",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "gasto",
+    "Tu": "gastas",
+    "El": "gasta",
+    "Nosotros": "gastamos",
+    "Vosotros": "gastáis",
+    "Ellos": "gastan"
+  },
+  "IndicativePreterite": {
+    "Yo": "gasté",
+    "Tu": "gastaste",
+    "El": "gastó",
+    "Nosotros": "gastamos",
+    "Vosotros": "gastasteis",
+    "Ellos": "gastaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "gastaré",
+    "Tu": "gastarás",
+    "El": "gastará",
+    "Nosotros": "gastaremos",
+    "Vosotros": "gastaréis",
+    "Ellos": "gastarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "gastaría",
+    "Tu": "gastarías",
+    "El": "gastaría",
+    "Nosotros": "gastaríamos",
+    "Vosotros": "gastaríais",
+    "Ellos": "gastarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "gastaba",
+    "Tu": "gastabas",
+    "El": "gastaba",
+    "Nosotros": "gastábamos",
+    "Vosotros": "gastabais",
+    "Ellos": "gastaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy gastando",
+    "Tu": "estás gastando",
+    "El": "está gastando",
+    "Nosotros": "estamos gastando",
+    "Vosotros": "estáis gastando",
+    "Ellos": "están gastando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he gastado",
+    "Tu": "has gastado",
+    "El": "ha gastado",
+    "Nosotros": "hemos gastado",
+    "Vosotros": "habéis gastado",
+    "Ellos": "han gastado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había gastado",
+    "Tu": "habías gastado",
+    "El": "había gastado",
+    "Nosotros": "habíamos gastado",
+    "Vosotros": "habíais gastado",
+    "Ellos": "habían gastado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré gastado",
+    "Tu": "habrás gastado",
+    "El": "habrá gastado",
+    "Nosotros": "habremos gastado",
+    "Vosotros": "habréis gastado",
+    "Ellos": "habrán gastado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría gastado",
+    "Tu": "habrías gastado",
+    "El": "habría gastado",
+    "Nosotros": "habríamos gastado",
+    "Vosotros": "habríais gastado",
+    "Ellos": "habrían gastado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "gaste",
+    "Tu": "gastes",
+    "El": "gaste",
+    "Nosotros": "gastemos",
+    "Vosotros": "gastéis",
+    "Ellos": "gasten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "gasta",
+    "El": "gaste",
+    "Nosotros": "gastemos",
+    "Vosotros": "gastad",
+    "Ellos": "gasten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no gastes",
+    "El": "no gaste",
+    "Nosotros": "no gastemos",
+    "Vosotros": "no gastéis",
+    "Ellos": "no gasten"
+  },
+  "ending": "ar"
+}

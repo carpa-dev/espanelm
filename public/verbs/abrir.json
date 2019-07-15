@@ -1,0 +1,113 @@
+{
+  "verb": "abrir",
+  "englishInfinitive": "to open",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "abro",
+    "Tu": "abres",
+    "El": "abre",
+    "Nosotros": "abrimos",
+    "Vosotros": "abrís",
+    "Ellos": "abren"
+  },
+  "IndicativePreterite": {
+    "Yo": "abrí",
+    "Tu": "abriste",
+    "El": "abrió",
+    "Nosotros": "abrimos",
+    "Vosotros": "abristeis",
+    "Ellos": "abrieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "abriré",
+    "Tu": "abrirás",
+    "El": "abrirá",
+    "Nosotros": "abriremos",
+    "Vosotros": "abriréis",
+    "Ellos": "abrirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "abriría",
+    "Tu": "abrirías",
+    "El": "abriría",
+    "Nosotros": "abriríamos",
+    "Vosotros": "abriríais",
+    "Ellos": "abrirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "abría",
+    "Tu": "abrías",
+    "El": "abría",
+    "Nosotros": "abríamos",
+    "Vosotros": "abríais",
+    "Ellos": "abrían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy abriendo",
+    "Tu": "estás abriendo",
+    "El": "está abriendo",
+    "Nosotros": "estamos abriendo",
+    "Vosotros": "estáis abriendo",
+    "Ellos": "están abriendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he abierto",
+    "Tu": "has abierto",
+    "El": "ha abierto",
+    "Nosotros": "hemos abierto",
+    "Vosotros": "habéis abierto",
+    "Ellos": "han abierto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había abierto",
+    "Tu": "habías abierto",
+    "El": "había abierto",
+    "Nosotros": "habíamos abierto",
+    "Vosotros": "habíais abierto",
+    "Ellos": "habían abierto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré abierto",
+    "Tu": "habrás abierto",
+    "El": "habrá abierto",
+    "Nosotros": "habremos abierto",
+    "Vosotros": "habréis abierto",
+    "Ellos": "habrán abierto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría abierto",
+    "Tu": "habrías abierto",
+    "El": "habría abierto",
+    "Nosotros": "habríamos abierto",
+    "Vosotros": "habríais abierto",
+    "Ellos": "habrían abierto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "abra",
+    "Tu": "abras",
+    "El": "abra",
+    "Nosotros": "abramos",
+    "Vosotros": "abráis",
+    "Ellos": "abran"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "abre",
+    "El": "abra",
+    "Nosotros": "abramos",
+    "Vosotros": "abrid",
+    "Ellos": "abran"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no abras",
+    "El": "no abra",
+    "Nosotros": "no abramos",
+    "Vosotros": "no abráis",
+    "Ellos": "no abran"
+  },
+  "ending": "ir"
+}

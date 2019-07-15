@@ -1,0 +1,113 @@
+{
+  "verb": "levantarse",
+  "englishInfinitive": "to get up",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me levanto",
+    "Tu": "te levantas",
+    "El": "se levanta",
+    "Nosotros": "nos levantamos",
+    "Vosotros": "os levantáis",
+    "Ellos": "se levantan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me levanté",
+    "Tu": "te levantaste",
+    "El": "se levantó",
+    "Nosotros": "nos levantamos",
+    "Vosotros": "levantasteis",
+    "Ellos": "se levantaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me levantaré",
+    "Tu": "te levantarás",
+    "El": "se levantará",
+    "Nosotros": "nos levantaremos",
+    "Vosotros": "os levantaréis",
+    "Ellos": "se levantarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me levantaría",
+    "Tu": "te levantarías",
+    "El": "se levantaría",
+    "Nosotros": "nos levantaríamos",
+    "Vosotros": "os levantaríais",
+    "Ellos": "se levantarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me levantaba",
+    "Tu": "te levantabas",
+    "El": "se levantaba",
+    "Nosotros": "nos levantábamos",
+    "Vosotros": "os levantabais",
+    "Ellos": "se levantaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy levantando,estoy levantándome",
+    "Tu": "te estás levantando,estás levantándote",
+    "El": "se está levantando,está levantándose",
+    "Nosotros": "nos estamos levantando,estamos levantándonos",
+    "Vosotros": "os estáis levantando,estáis levantándoos",
+    "Ellos": "se están levantando,están levantándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he levantado",
+    "Tu": "te has levantado",
+    "El": "se ha levantado",
+    "Nosotros": "nos hemos levantado",
+    "Vosotros": "os habéis levantado",
+    "Ellos": "se han levantado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había levantado",
+    "Tu": "te habías levantado",
+    "El": "se había levantado",
+    "Nosotros": "nos habíamos levantado",
+    "Vosotros": "os habíais levantado",
+    "Ellos": "se habían levantado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré levantado",
+    "Tu": "te habrás levantado",
+    "El": "se habrá levantado",
+    "Nosotros": "nos habremos levantado",
+    "Vosotros": "os habréis levantado",
+    "Ellos": "se habrán levantado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría levantado",
+    "Tu": "te habrías levantado",
+    "El": "se habría levantado",
+    "Nosotros": "nos habríamos levantado",
+    "Vosotros": "os habríais levantado",
+    "Ellos": "se habrían levantado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me levante",
+    "Tu": "te levantes",
+    "El": "se levante",
+    "Nosotros": "nos levantemos",
+    "Vosotros": "os levantéis",
+    "Ellos": "se levanten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "levántate",
+    "El": "levántese",
+    "Nosotros": "levantémonos",
+    "Vosotros": "levantaos",
+    "Ellos": "levántense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te levantes",
+    "El": "no se levante",
+    "Nosotros": "no nos levantemos",
+    "Vosotros": "no os levantéis",
+    "Ellos": "no se levanten"
+  },
+  "ending": "ar"
+}

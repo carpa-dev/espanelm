@@ -1,0 +1,113 @@
+{
+  "verb": "viajar",
+  "englishInfinitive": "to travel",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "viajo",
+    "Tu": "viajas",
+    "El": "viaja",
+    "Nosotros": "viajamos",
+    "Vosotros": "viajáis",
+    "Ellos": "viajan"
+  },
+  "IndicativePreterite": {
+    "Yo": "viajé",
+    "Tu": "viajaste",
+    "El": "viajó",
+    "Nosotros": "viajamos",
+    "Vosotros": "viajasteis",
+    "Ellos": "viajaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "viajaré",
+    "Tu": "viajarás",
+    "El": "viajará",
+    "Nosotros": "viajaremos",
+    "Vosotros": "viajaréis",
+    "Ellos": "viajarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "viajaría",
+    "Tu": "viajarías",
+    "El": "viajaría",
+    "Nosotros": "viajaríamos",
+    "Vosotros": "viajaríais",
+    "Ellos": "viajarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "viajaba",
+    "Tu": "viajabas",
+    "El": "viajaba",
+    "Nosotros": "viajábamos",
+    "Vosotros": "viajabais",
+    "Ellos": "viajaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy viajando",
+    "Tu": "estás viajando",
+    "El": "está viajando",
+    "Nosotros": "estamos viajando",
+    "Vosotros": "estáis viajando",
+    "Ellos": "están viajando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he viajado",
+    "Tu": "has viajado",
+    "El": "ha viajado",
+    "Nosotros": "hemos viajado",
+    "Vosotros": "habéis viajado",
+    "Ellos": "han viajado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había viajado",
+    "Tu": "habías viajado",
+    "El": "había viajado",
+    "Nosotros": "habíamos viajado",
+    "Vosotros": "habíais viajado",
+    "Ellos": "habían viajado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré viajado",
+    "Tu": "habrás viajado",
+    "El": "habrá viajado",
+    "Nosotros": "habremos viajado",
+    "Vosotros": "habréis viajado",
+    "Ellos": "habrán viajado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría viajado",
+    "Tu": "habrías viajado",
+    "El": "habría viajado",
+    "Nosotros": "habríamos viajado",
+    "Vosotros": "habríais viajado",
+    "Ellos": "habrían viajado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "viaje",
+    "Tu": "viajes",
+    "El": "viaje",
+    "Nosotros": "viajemos",
+    "Vosotros": "viajéis",
+    "Ellos": "viajen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "viaja",
+    "El": "viaje",
+    "Nosotros": "viajemos",
+    "Vosotros": "viajad",
+    "Ellos": "viajen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no viajes",
+    "El": "no viaje",
+    "Nosotros": "no viajemos",
+    "Vosotros": "no viajéis",
+    "Ellos": "no viajen"
+  },
+  "ending": "ar"
+}

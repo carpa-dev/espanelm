@@ -1,0 +1,113 @@
+{
+  "verb": "ver",
+  "englishInfinitive": "to see",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "veo",
+    "Tu": "ves",
+    "El": "ve",
+    "Nosotros": "vemos",
+    "Vosotros": "veis",
+    "Ellos": "ven"
+  },
+  "IndicativePreterite": {
+    "Yo": "vi",
+    "Tu": "viste",
+    "El": "vio",
+    "Nosotros": "vimos",
+    "Vosotros": "visteis",
+    "Ellos": "vieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "veré",
+    "Tu": "verás",
+    "El": "verá",
+    "Nosotros": "veremos",
+    "Vosotros": "veréis",
+    "Ellos": "verán"
+  },
+  "ConditionalPresent": {
+    "Yo": "vería",
+    "Tu": "verías",
+    "El": "vería",
+    "Nosotros": "veríamos",
+    "Vosotros": "veríais",
+    "Ellos": "verían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "veía",
+    "Tu": "veías",
+    "El": "veía",
+    "Nosotros": "veíamos",
+    "Vosotros": "veíais",
+    "Ellos": "veían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy viendo",
+    "Tu": "estás viendo",
+    "El": "está viendo",
+    "Nosotros": "estamos viendo",
+    "Vosotros": "estáis viendo",
+    "Ellos": "están viendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he visto",
+    "Tu": "has visto",
+    "El": "ha visto",
+    "Nosotros": "hemos visto",
+    "Vosotros": "habéis visto",
+    "Ellos": "han visto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había visto",
+    "Tu": "habías visto",
+    "El": "había visto",
+    "Nosotros": "habíamos visto",
+    "Vosotros": "habíais visto",
+    "Ellos": "habían visto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré visto",
+    "Tu": "habrás visto",
+    "El": "habrá visto",
+    "Nosotros": "habremos visto",
+    "Vosotros": "habréis visto",
+    "Ellos": "habrán visto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría visto",
+    "Tu": "habrías visto",
+    "El": "habría visto",
+    "Nosotros": "habríamos visto",
+    "Vosotros": "habríais visto",
+    "Ellos": "habrían visto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "vea",
+    "Tu": "veas",
+    "El": "vea",
+    "Nosotros": "veamos",
+    "Vosotros": "veáis",
+    "Ellos": "vean"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ve",
+    "El": "vea",
+    "Nosotros": "veamos",
+    "Vosotros": "ved",
+    "Ellos": "vean"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no veas",
+    "El": "no vea",
+    "Nosotros": "no veamos",
+    "Vosotros": "no veáis",
+    "Ellos": "no vean"
+  },
+  "ending": "er"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "pagar",
+  "englishInfinitive": "to pay",
+  "irregular": true,
+  "type": "g > gu (-gar)",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "pago",
+    "Tu": "pagas",
+    "El": "paga",
+    "Nosotros": "pagamos",
+    "Vosotros": "pagáis",
+    "Ellos": "pagan"
+  },
+  "IndicativePreterite": {
+    "Yo": "pagué",
+    "Tu": "pagaste",
+    "El": "pagó",
+    "Nosotros": "pagamos",
+    "Vosotros": "pagasteis",
+    "Ellos": "pagaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "pagaré",
+    "Tu": "pagarás",
+    "El": "pagará",
+    "Nosotros": "pagaremos",
+    "Vosotros": "pagaréis",
+    "Ellos": "pagarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "pagaría",
+    "Tu": "pagarías",
+    "El": "pagaría",
+    "Nosotros": "pagaríamos",
+    "Vosotros": "pagaríais",
+    "Ellos": "pagarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "pagaba",
+    "Tu": "pagabas",
+    "El": "pagaba",
+    "Nosotros": "pagábamos",
+    "Vosotros": "pagabais",
+    "Ellos": "pagaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy pagando",
+    "Tu": "estás pagando",
+    "El": "está pagando",
+    "Nosotros": "estamos pagando",
+    "Vosotros": "estáis pagando",
+    "Ellos": "están pagando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he pagado",
+    "Tu": "has pagado",
+    "El": "ha pagado",
+    "Nosotros": "hemos pagado",
+    "Vosotros": "habéis pagado",
+    "Ellos": "han pagado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había pagado",
+    "Tu": "habías pagado",
+    "El": "había pagado",
+    "Nosotros": "habíamos pagado",
+    "Vosotros": "habíais pagado",
+    "Ellos": "habían pagado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré pagado",
+    "Tu": "habrás pagado",
+    "El": "habrá pagado",
+    "Nosotros": "habremos pagado",
+    "Vosotros": "habréis pagado",
+    "Ellos": "habrán pagado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría pagado",
+    "Tu": "habrías pagado",
+    "El": "habría pagado",
+    "Nosotros": "habríamos pagado",
+    "Vosotros": "habríais pagado",
+    "Ellos": "habrían pagado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "pague",
+    "Tu": "pagues",
+    "El": "pague",
+    "Nosotros": "paguemos",
+    "Vosotros": "paguéis",
+    "Ellos": "paguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "paga",
+    "El": "pague",
+    "Nosotros": "paguemos",
+    "Vosotros": "pagad",
+    "Ellos": "paguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no pagues",
+    "El": "no pague",
+    "Nosotros": "no paguemos",
+    "Vosotros": "no paguéis",
+    "Ellos": "no paguen"
+  },
+  "ending": "ar"
+}

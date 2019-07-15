@@ -1,0 +1,113 @@
+{
+  "verb": "acordar",
+  "englishInfinitive": "to decide",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "acuerdo",
+    "Tu": "acuerdas",
+    "El": "acuerda",
+    "Nosotros": "acordamos",
+    "Vosotros": "acordáis",
+    "Ellos": "acuerdan"
+  },
+  "IndicativePreterite": {
+    "Yo": "acordé",
+    "Tu": "acordaste",
+    "El": "acordó",
+    "Nosotros": "acordamos",
+    "Vosotros": "acordasteis",
+    "Ellos": "acordaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "acordaré",
+    "Tu": "acordarás",
+    "El": "acordará",
+    "Nosotros": "acordaremos",
+    "Vosotros": "acordaréis",
+    "Ellos": "acordarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "acordaría",
+    "Tu": "acordarías",
+    "El": "acordaría",
+    "Nosotros": "acordaríamos",
+    "Vosotros": "acordaríais",
+    "Ellos": "acordarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "acordaba",
+    "Tu": "acordabas",
+    "El": "acordaba",
+    "Nosotros": "acordábamos",
+    "Vosotros": "acordabais",
+    "Ellos": "acordaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy acordando",
+    "Tu": "estás acordando",
+    "El": "está acordando",
+    "Nosotros": "estamos acordando",
+    "Vosotros": "estáis acordando",
+    "Ellos": "están acordando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he acordado",
+    "Tu": "has acordado",
+    "El": "ha acordado",
+    "Nosotros": "hemos acordado",
+    "Vosotros": "habéis acordado",
+    "Ellos": "han acordado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había acordado",
+    "Tu": "habías acordado",
+    "El": "había acordado",
+    "Nosotros": "habíamos acordado",
+    "Vosotros": "habíais acordado",
+    "Ellos": "habían acordado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré acordado",
+    "Tu": "habrás acordado",
+    "El": "habrá acordado",
+    "Nosotros": "habremos acordado",
+    "Vosotros": "habréis acordado",
+    "Ellos": "habrán acordado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría acordado",
+    "Tu": "habrías acordado",
+    "El": "habría acordado",
+    "Nosotros": "habríamos acordado",
+    "Vosotros": "habríais acordado",
+    "Ellos": "habrían acordado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "acuerde",
+    "Tu": "acuerdes",
+    "El": "acuerde",
+    "Nosotros": "acordemos",
+    "Vosotros": "acordéis",
+    "Ellos": "acuerden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "acuerda",
+    "El": "acuerde",
+    "Nosotros": "acordemos",
+    "Vosotros": "acordad",
+    "Ellos": "acuerden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no acuerdes",
+    "El": "no acuerde",
+    "Nosotros": "no acordemos",
+    "Vosotros": "no acordéis",
+    "Ellos": "no acuerden"
+  },
+  "ending": "ar"
+}

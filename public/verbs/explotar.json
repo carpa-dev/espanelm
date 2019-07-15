@@ -1,0 +1,113 @@
+{
+  "verb": "explotar",
+  "englishInfinitive": "to exploit",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "exploto",
+    "Tu": "explotas",
+    "El": "explota",
+    "Nosotros": "explotamos",
+    "Vosotros": "explotáis",
+    "Ellos": "explotan"
+  },
+  "IndicativePreterite": {
+    "Yo": "exploté",
+    "Tu": "explotaste",
+    "El": "explotó",
+    "Nosotros": "explotamos",
+    "Vosotros": "explotasteis",
+    "Ellos": "explotaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "explotaré",
+    "Tu": "explotarás",
+    "El": "explotará",
+    "Nosotros": "explotaremos",
+    "Vosotros": "explotaréis",
+    "Ellos": "explotarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "explotaría",
+    "Tu": "explotarías",
+    "El": "explotaría",
+    "Nosotros": "explotaríamos",
+    "Vosotros": "explotaríais",
+    "Ellos": "explotarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "explotaba",
+    "Tu": "explotabas",
+    "El": "explotaba",
+    "Nosotros": "explotábamos",
+    "Vosotros": "explotabais",
+    "Ellos": "explotaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy explotando",
+    "Tu": "estás explotando",
+    "El": "está explotando",
+    "Nosotros": "estamos explotando",
+    "Vosotros": "estáis explotando",
+    "Ellos": "están explotando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he explotado",
+    "Tu": "has explotado",
+    "El": "ha explotado",
+    "Nosotros": "hemos explotado",
+    "Vosotros": "habéis explotado",
+    "Ellos": "han explotado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había explotado",
+    "Tu": "habías explotado",
+    "El": "había explotado",
+    "Nosotros": "habíamos explotado",
+    "Vosotros": "habíais explotado",
+    "Ellos": "habían explotado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré explotado",
+    "Tu": "habrás explotado",
+    "El": "habrá explotado",
+    "Nosotros": "habremos explotado",
+    "Vosotros": "habréis explotado",
+    "Ellos": "habrán explotado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría explotado",
+    "Tu": "habrías explotado",
+    "El": "habría explotado",
+    "Nosotros": "habríamos explotado",
+    "Vosotros": "habríais explotado",
+    "Ellos": "habrían explotado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "explote",
+    "Tu": "explotes",
+    "El": "explote",
+    "Nosotros": "explotemos",
+    "Vosotros": "explotéis",
+    "Ellos": "exploten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "explota",
+    "El": "explote",
+    "Nosotros": "explotemos",
+    "Vosotros": "explotad",
+    "Ellos": "exploten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no explotes",
+    "El": "no explote",
+    "Nosotros": "no explotemos",
+    "Vosotros": "no explotéis",
+    "Ellos": "no exploten"
+  },
+  "ending": "ar"
+}

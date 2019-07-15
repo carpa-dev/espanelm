@@ -1,0 +1,113 @@
+{
+  "verb": "gustar",
+  "englishInfinitive": "to please",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "gusto",
+    "Tu": "gustas",
+    "El": "gusta",
+    "Nosotros": "gustamos",
+    "Vosotros": "gustáis",
+    "Ellos": "gustan"
+  },
+  "IndicativePreterite": {
+    "Yo": "gusté",
+    "Tu": "gustaste",
+    "El": "gustó",
+    "Nosotros": "gustamos",
+    "Vosotros": "gustasteis",
+    "Ellos": "gustaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "gustaré",
+    "Tu": "gustarás",
+    "El": "gustará",
+    "Nosotros": "gustaremos",
+    "Vosotros": "gustaréis",
+    "Ellos": "gustarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "gustaría",
+    "Tu": "gustarías",
+    "El": "gustaría",
+    "Nosotros": "gustaríamos",
+    "Vosotros": "gustaríais",
+    "Ellos": "gustarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "gustaba",
+    "Tu": "gustabas",
+    "El": "gustaba",
+    "Nosotros": "gustábamos",
+    "Vosotros": "gustabais",
+    "Ellos": "gustaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy gustando",
+    "Tu": "estás gustando",
+    "El": "está gustando",
+    "Nosotros": "estamos gustando",
+    "Vosotros": "estáis gustando",
+    "Ellos": "están gustando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he gustado",
+    "Tu": "has gustado",
+    "El": "ha gustado",
+    "Nosotros": "hemos gustado",
+    "Vosotros": "habéis gustado",
+    "Ellos": "han gustado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había gustado",
+    "Tu": "habías gustado",
+    "El": "había gustado",
+    "Nosotros": "habíamos gustado",
+    "Vosotros": "habíais gustado",
+    "Ellos": "habían gustado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré gustado",
+    "Tu": "habrás gustado",
+    "El": "habrá gustado",
+    "Nosotros": "habremos gustado",
+    "Vosotros": "habréis gustado",
+    "Ellos": "habrán gustado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría gustado",
+    "Tu": "habrías gustado",
+    "El": "habría gustado",
+    "Nosotros": "habríamos gustado",
+    "Vosotros": "habríais gustado",
+    "Ellos": "habrían gustado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "guste",
+    "Tu": "gustes",
+    "El": "guste",
+    "Nosotros": "gustemos",
+    "Vosotros": "gustéis",
+    "Ellos": "gusten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "gusta",
+    "El": "guste",
+    "Nosotros": "gustemos",
+    "Vosotros": "gustad",
+    "Ellos": "gusten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no gustes",
+    "El": "no guste",
+    "Nosotros": "no gustemos",
+    "Vosotros": "no gustéis",
+    "Ellos": "no gusten"
+  },
+  "ending": "ar"
+}

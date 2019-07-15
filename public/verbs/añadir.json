@@ -1,0 +1,113 @@
+{
+  "verb": "añadir",
+  "englishInfinitive": "to add",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "añado",
+    "Tu": "añades",
+    "El": "añade",
+    "Nosotros": "añadimos",
+    "Vosotros": "añadís",
+    "Ellos": "añaden"
+  },
+  "IndicativePreterite": {
+    "Yo": "añadí",
+    "Tu": "añadiste",
+    "El": "añadió",
+    "Nosotros": "añadimos",
+    "Vosotros": "añadisteis",
+    "Ellos": "añadieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "añadiré",
+    "Tu": "añadirás",
+    "El": "añadirá",
+    "Nosotros": "añadiremos",
+    "Vosotros": "añadiréis",
+    "Ellos": "añadirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "añadiría",
+    "Tu": "añadirías",
+    "El": "añadiría",
+    "Nosotros": "añadiríamos",
+    "Vosotros": "añadiríais",
+    "Ellos": "añadirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "añadía",
+    "Tu": "añadías",
+    "El": "añadía",
+    "Nosotros": "añadíamos",
+    "Vosotros": "añadíais",
+    "Ellos": "añadían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy añadiendo",
+    "Tu": "estás añadiendo",
+    "El": "está añadiendo",
+    "Nosotros": "estamos añadiendo",
+    "Vosotros": "estáis añadiendo",
+    "Ellos": "están añadiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he añadido",
+    "Tu": "has añadido",
+    "El": "ha añadido",
+    "Nosotros": "hemos añadido",
+    "Vosotros": "habéis añadido",
+    "Ellos": "han añadido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había añadido",
+    "Tu": "habías añadido",
+    "El": "había añadido",
+    "Nosotros": "habíamos añadido",
+    "Vosotros": "habíais añadido",
+    "Ellos": "habían añadido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré añadido",
+    "Tu": "habrás añadido",
+    "El": "habrá añadido",
+    "Nosotros": "habremos añadido",
+    "Vosotros": "habréis añadido",
+    "Ellos": "habrán añadido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría añadido",
+    "Tu": "habrías añadido",
+    "El": "habría añadido",
+    "Nosotros": "habríamos añadido",
+    "Vosotros": "habríais añadido",
+    "Ellos": "habrían añadido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "añada",
+    "Tu": "añadas",
+    "El": "añada",
+    "Nosotros": "añadamos",
+    "Vosotros": "añadáis",
+    "Ellos": "añadan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "añade",
+    "El": "añada",
+    "Nosotros": "añadamos",
+    "Vosotros": "añadid",
+    "Ellos": "añadan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no añadas",
+    "El": "no añada",
+    "Nosotros": "no añadamos",
+    "Vosotros": "no añadáis",
+    "Ellos": "no añadan"
+  },
+  "ending": "ir"
+}

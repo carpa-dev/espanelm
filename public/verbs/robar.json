@@ -1,0 +1,113 @@
+{
+  "verb": "robar",
+  "englishInfinitive": "to rob",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "robo",
+    "Tu": "robas",
+    "El": "roba",
+    "Nosotros": "robamos",
+    "Vosotros": "robáis",
+    "Ellos": "roban"
+  },
+  "IndicativePreterite": {
+    "Yo": "robé",
+    "Tu": "robaste",
+    "El": "robó",
+    "Nosotros": "robamos",
+    "Vosotros": "robasteis",
+    "Ellos": "robaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "robaré",
+    "Tu": "robarás",
+    "El": "robará",
+    "Nosotros": "robaremos",
+    "Vosotros": "robaréis",
+    "Ellos": "robarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "robaría",
+    "Tu": "robarías",
+    "El": "robaría",
+    "Nosotros": "robaríamos",
+    "Vosotros": "robaríais",
+    "Ellos": "robarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "robaba",
+    "Tu": "robabas",
+    "El": "robaba",
+    "Nosotros": "robábamos",
+    "Vosotros": "robabais",
+    "Ellos": "robaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy robando",
+    "Tu": "estás robando",
+    "El": "está robando",
+    "Nosotros": "estamos robando",
+    "Vosotros": "estáis robando",
+    "Ellos": "están robando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he robado",
+    "Tu": "has robado",
+    "El": "ha robado",
+    "Nosotros": "hemos robado",
+    "Vosotros": "habéis robado",
+    "Ellos": "han robado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había robado",
+    "Tu": "habías robado",
+    "El": "había robado",
+    "Nosotros": "habíamos robado",
+    "Vosotros": "habíais robado",
+    "Ellos": "habían robado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré robado",
+    "Tu": "habrás robado",
+    "El": "habrá robado",
+    "Nosotros": "habremos robado",
+    "Vosotros": "habréis robado",
+    "Ellos": "habrán robado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría robado",
+    "Tu": "habrías robado",
+    "El": "habría robado",
+    "Nosotros": "habríamos robado",
+    "Vosotros": "habríais robado",
+    "Ellos": "habrían robado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "robe",
+    "Tu": "robes",
+    "El": "robe",
+    "Nosotros": "robemos",
+    "Vosotros": "robéis",
+    "Ellos": "roben"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "roba",
+    "El": "robe",
+    "Nosotros": "robemos",
+    "Vosotros": "robad",
+    "Ellos": "roben"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no robes",
+    "El": "no robe",
+    "Nosotros": "no robemos",
+    "Vosotros": "no robéis",
+    "Ellos": "no roben"
+  },
+  "ending": "ar"
+}

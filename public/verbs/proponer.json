@@ -1,0 +1,113 @@
+{
+  "verb": "proponer",
+  "englishInfinitive": "to propose",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "propongo",
+    "Tu": "propones",
+    "El": "propone",
+    "Nosotros": "proponemos",
+    "Vosotros": "proponéis",
+    "Ellos": "proponen"
+  },
+  "IndicativePreterite": {
+    "Yo": "propuse",
+    "Tu": "propusiste",
+    "El": "propuso",
+    "Nosotros": "propusimos",
+    "Vosotros": "propusisteis",
+    "Ellos": "propusieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "propondré",
+    "Tu": "propondrás",
+    "El": "propondrá",
+    "Nosotros": "propondremos",
+    "Vosotros": "propondréis",
+    "Ellos": "propondrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "propondría",
+    "Tu": "propondrías",
+    "El": "propondría",
+    "Nosotros": "propondríamos",
+    "Vosotros": "propondríais",
+    "Ellos": "propondrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "proponía",
+    "Tu": "proponías",
+    "El": "proponía",
+    "Nosotros": "proponíamos",
+    "Vosotros": "proponíais",
+    "Ellos": "proponían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy proponiendo",
+    "Tu": "estás proponiendo",
+    "El": "está proponiendo",
+    "Nosotros": "estamos proponiendo",
+    "Vosotros": "estáis proponiendo",
+    "Ellos": "están proponiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he propuesto",
+    "Tu": "has propuesto",
+    "El": "ha propuesto",
+    "Nosotros": "hemos propuesto",
+    "Vosotros": "habéis propuesto",
+    "Ellos": "han propuesto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había propuesto",
+    "Tu": "habías propuesto",
+    "El": "había propuesto",
+    "Nosotros": "habíamos propuesto",
+    "Vosotros": "habíais propuesto",
+    "Ellos": "habían propuesto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré propuesto",
+    "Tu": "habrás propuesto",
+    "El": "habrá propuesto",
+    "Nosotros": "habremos propuesto",
+    "Vosotros": "habréis propuesto",
+    "Ellos": "habrán propuesto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría propuesto",
+    "Tu": "habrías propuesto",
+    "El": "habría propuesto",
+    "Nosotros": "habríamos propuesto",
+    "Vosotros": "habríais propuesto",
+    "Ellos": "habrían propuesto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "proponga",
+    "Tu": "propongas",
+    "El": "proponga",
+    "Nosotros": "propongamos",
+    "Vosotros": "propongáis",
+    "Ellos": "propongan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "propón",
+    "El": "proponga",
+    "Nosotros": "propongamos",
+    "Vosotros": "proponed",
+    "Ellos": "propongan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no propongas",
+    "El": "no proponga",
+    "Nosotros": "no propongamos",
+    "Vosotros": "no propongáis",
+    "Ellos": "no propongan"
+  },
+  "ending": "er"
+}

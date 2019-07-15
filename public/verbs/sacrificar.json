@@ -1,0 +1,113 @@
+{
+  "verb": "sacrificar",
+  "englishInfinitive": "to sacrifice",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "sacrifico",
+    "Tu": "sacrificas",
+    "El": "sacrifica",
+    "Nosotros": "sacrificamos",
+    "Vosotros": "sacrificáis",
+    "Ellos": "sacrifican"
+  },
+  "IndicativePreterite": {
+    "Yo": "sacrifiqué",
+    "Tu": "sacrificaste",
+    "El": "sacrificó",
+    "Nosotros": "sacrificamos",
+    "Vosotros": "sacrificasteis",
+    "Ellos": "sacrificaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "sacrificaré",
+    "Tu": "sacrificarás",
+    "El": "sacrificará",
+    "Nosotros": "sacrificaremos",
+    "Vosotros": "sacrificaréis",
+    "Ellos": "sacrificarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "sacrificaría",
+    "Tu": "sacrificarías",
+    "El": "sacrificaría",
+    "Nosotros": "sacrificaríamos",
+    "Vosotros": "sacrificaríais",
+    "Ellos": "sacrificarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "sacrificaba",
+    "Tu": "sacrificabas",
+    "El": "sacrificaba",
+    "Nosotros": "sacrificábamos",
+    "Vosotros": "sacrificabais",
+    "Ellos": "sacrificaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy sacrificando",
+    "Tu": "estás sacrificando",
+    "El": "está sacrificando",
+    "Nosotros": "estamos sacrificando",
+    "Vosotros": "estáis sacrificando",
+    "Ellos": "están sacrificando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he sacrificado",
+    "Tu": "has sacrificado",
+    "El": "ha sacrificado",
+    "Nosotros": "hemos sacrificado",
+    "Vosotros": "habéis sacrificado",
+    "Ellos": "han sacrificado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había sacrificado",
+    "Tu": "habías sacrificado",
+    "El": "había sacrificado",
+    "Nosotros": "habíamos sacrificado",
+    "Vosotros": "habíais sacrificado",
+    "Ellos": "habían sacrificado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré sacrificado",
+    "Tu": "habrás sacrificado",
+    "El": "habrá sacrificado",
+    "Nosotros": "habremos sacrificado",
+    "Vosotros": "habréis sacrificado",
+    "Ellos": "habrán sacrificado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría sacrificado",
+    "Tu": "habrías sacrificado",
+    "El": "habría sacrificado",
+    "Nosotros": "habríamos sacrificado",
+    "Vosotros": "habríais sacrificado",
+    "Ellos": "habrían sacrificado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "sacrifique",
+    "Tu": "sacrifiques",
+    "El": "sacrifique",
+    "Nosotros": "sacrifiquemos",
+    "Vosotros": "sacrifiquéis",
+    "Ellos": "sacrifiquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sacrifica",
+    "El": "sacrifique",
+    "Nosotros": "sacrifiquemos",
+    "Vosotros": "sacrificad",
+    "Ellos": "sacrifiquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sacrifiques",
+    "El": "no sacrifique",
+    "Nosotros": "no sacrifiquemos",
+    "Vosotros": "no sacrifiquéis",
+    "Ellos": "no sacrifiquen"
+  },
+  "ending": "ar"
+}

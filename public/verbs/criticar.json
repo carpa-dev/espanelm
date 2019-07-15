@@ -1,0 +1,113 @@
+{
+  "verb": "criticar",
+  "englishInfinitive": "to criticize",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "critico",
+    "Tu": "criticas",
+    "El": "critica",
+    "Nosotros": "criticamos",
+    "Vosotros": "criticáis",
+    "Ellos": "critican"
+  },
+  "IndicativePreterite": {
+    "Yo": "critiqué",
+    "Tu": "criticaste",
+    "El": "criticó",
+    "Nosotros": "criticamos",
+    "Vosotros": "criticasteis",
+    "Ellos": "criticaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "criticaré",
+    "Tu": "criticarás",
+    "El": "criticará",
+    "Nosotros": "criticaremos",
+    "Vosotros": "criticaréis",
+    "Ellos": "criticarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "criticaría",
+    "Tu": "criticarías",
+    "El": "criticaría",
+    "Nosotros": "criticaríamos",
+    "Vosotros": "criticaríais",
+    "Ellos": "criticarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "criticaba",
+    "Tu": "criticabas",
+    "El": "criticaba",
+    "Nosotros": "criticábamos",
+    "Vosotros": "criticabais",
+    "Ellos": "criticaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy criticando",
+    "Tu": "estás criticando",
+    "El": "está criticando",
+    "Nosotros": "estamos criticando",
+    "Vosotros": "estáis criticando",
+    "Ellos": "están criticando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he criticado",
+    "Tu": "has criticado",
+    "El": "ha criticado",
+    "Nosotros": "hemos criticado",
+    "Vosotros": "habéis criticado",
+    "Ellos": "han criticado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había criticado",
+    "Tu": "habías criticado",
+    "El": "había criticado",
+    "Nosotros": "habíamos criticado",
+    "Vosotros": "habíais criticado",
+    "Ellos": "habían criticado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré criticado",
+    "Tu": "habrás criticado",
+    "El": "habrá criticado",
+    "Nosotros": "habremos criticado",
+    "Vosotros": "habréis criticado",
+    "Ellos": "habrán criticado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría criticado",
+    "Tu": "habrías criticado",
+    "El": "habría criticado",
+    "Nosotros": "habríamos criticado",
+    "Vosotros": "habríais criticado",
+    "Ellos": "habrían criticado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "critique",
+    "Tu": "critiques",
+    "El": "critique",
+    "Nosotros": "critiquemos",
+    "Vosotros": "critiquéis",
+    "Ellos": "critiquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "critica",
+    "El": "critique",
+    "Nosotros": "critiquemos",
+    "Vosotros": "criticad",
+    "Ellos": "critiquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no critiques",
+    "El": "no critique",
+    "Nosotros": "no critiquemos",
+    "Vosotros": "no critiquéis",
+    "Ellos": "no critiquen"
+  },
+  "ending": "ar"
+}

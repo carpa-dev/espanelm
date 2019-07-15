@@ -1,0 +1,113 @@
+{
+  "verb": "admirar",
+  "englishInfinitive": "to admire",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "admiro",
+    "Tu": "admiras",
+    "El": "admira",
+    "Nosotros": "admiramos",
+    "Vosotros": "admiráis",
+    "Ellos": "admiran"
+  },
+  "IndicativePreterite": {
+    "Yo": "admiré",
+    "Tu": "admiraste",
+    "El": "admiró",
+    "Nosotros": "admiramos",
+    "Vosotros": "admirasteis",
+    "Ellos": "admiraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "admiraré",
+    "Tu": "admirarás",
+    "El": "admirará",
+    "Nosotros": "admiraremos",
+    "Vosotros": "admiraréis",
+    "Ellos": "admirarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "admiraría",
+    "Tu": "admirarías",
+    "El": "admiraría",
+    "Nosotros": "admiraríamos",
+    "Vosotros": "admiraríais",
+    "Ellos": "admirarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "admiraba",
+    "Tu": "admirabas",
+    "El": "admiraba",
+    "Nosotros": "admirábamos",
+    "Vosotros": "admirabais",
+    "Ellos": "admiraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy admirando",
+    "Tu": "estás admirando",
+    "El": "está admirando",
+    "Nosotros": "estamos admirando",
+    "Vosotros": "estáis admirando",
+    "Ellos": "están admirando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he admirado",
+    "Tu": "has admirado",
+    "El": "ha admirado",
+    "Nosotros": "hemos admirado",
+    "Vosotros": "habéis admirado",
+    "Ellos": "han admirado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había admirado",
+    "Tu": "habías admirado",
+    "El": "había admirado",
+    "Nosotros": "habíamos admirado",
+    "Vosotros": "habíais admirado",
+    "Ellos": "habían admirado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré admirado",
+    "Tu": "habrás admirado",
+    "El": "habrá admirado",
+    "Nosotros": "habremos admirado",
+    "Vosotros": "habréis admirado",
+    "Ellos": "habrán admirado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría admirado",
+    "Tu": "habrías admirado",
+    "El": "habría admirado",
+    "Nosotros": "habríamos admirado",
+    "Vosotros": "habríais admirado",
+    "Ellos": "habrían admirado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "admire",
+    "Tu": "admires",
+    "El": "admire",
+    "Nosotros": "admiremos",
+    "Vosotros": "admiréis",
+    "Ellos": "admiren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "admira",
+    "El": "admire",
+    "Nosotros": "admiremos",
+    "Vosotros": "admirad",
+    "Ellos": "admiren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no admires",
+    "El": "no admire",
+    "Nosotros": "no admiremos",
+    "Vosotros": "no admiréis",
+    "Ellos": "no admiren"
+  },
+  "ending": "ar"
+}

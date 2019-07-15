@@ -1,0 +1,113 @@
+{
+  "verb": "zambullirse",
+  "englishInfinitive": "to dive",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me zambullo",
+    "Tu": "te zambulles",
+    "El": "se zambulle",
+    "Nosotros": "nos zambullimos",
+    "Vosotros": "os zambullís",
+    "Ellos": "se zambullen"
+  },
+  "IndicativePreterite": {
+    "Yo": "me zambullí",
+    "Tu": "te zambulliste",
+    "El": "se zambulló",
+    "Nosotros": "nos zambullimos",
+    "Vosotros": "os zambullisteis",
+    "Ellos": "se zambulleron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me zambulliré",
+    "Tu": "te zambullirás",
+    "El": "se zambullirá",
+    "Nosotros": "nos zambulliremos",
+    "Vosotros": "os zambulliréis",
+    "Ellos": "se zambullirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me zambulliría",
+    "Tu": "te zambullirías",
+    "El": "se zambulliría",
+    "Nosotros": "nos zambulliríamos",
+    "Vosotros": "os zambulliríais",
+    "Ellos": "se zambullirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me zambullía",
+    "Tu": "te zambullías",
+    "El": "se zambullía",
+    "Nosotros": "nos zambullíamos",
+    "Vosotros": "os zambullíais",
+    "Ellos": "se zambullían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy zambullendo,estoy zambulléndome",
+    "Tu": "te estás zambullendo,estás zambulléndote",
+    "El": "se está zambullendo,está zambulléndose",
+    "Nosotros": "nos estamos zambullendo,estamos zambulléndonos",
+    "Vosotros": "os estáis zambullendo,estáis zambulléndoos",
+    "Ellos": "se están zambullendo,están zambulléndose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he zambullido",
+    "Tu": "te has zambullido",
+    "El": "se ha zambullido",
+    "Nosotros": "nos hemos zambullido",
+    "Vosotros": "os habéis zambullido",
+    "Ellos": "se han zambullido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había zambullido",
+    "Tu": "te habías zambullido",
+    "El": "se había zambullido",
+    "Nosotros": "nos habíamos zambullido",
+    "Vosotros": "os habíais zambullido",
+    "Ellos": "se habían zambullido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré zambullido",
+    "Tu": "te habrás zambullido",
+    "El": "se habrá zambullido",
+    "Nosotros": "nos habremos zambullido",
+    "Vosotros": "os habréis zambullido",
+    "Ellos": "se habrán zambullido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría zambullido",
+    "Tu": "te habrías zambullido",
+    "El": "se habría zambullido",
+    "Nosotros": "nos habríamos zambullido",
+    "Vosotros": "os habríais zambullido",
+    "Ellos": "se habrían zambullido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me zambulla",
+    "Tu": "te zambullas",
+    "El": "se zambulla",
+    "Nosotros": "nos zambullamos",
+    "Vosotros": "os zambulláis",
+    "Ellos": "se zambullan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "zambúllete",
+    "El": "zambúllase",
+    "Nosotros": "zambullámonos",
+    "Vosotros": "zambullíos",
+    "Ellos": "zambúllanse"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te zambullas",
+    "El": "no se zambulla",
+    "Nosotros": "no nos zambullamos",
+    "Vosotros": "no os zambulláis",
+    "Ellos": "no se zambullan"
+  },
+  "ending": "ir"
+}

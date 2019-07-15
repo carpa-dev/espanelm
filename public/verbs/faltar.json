@@ -1,0 +1,113 @@
+{
+  "verb": "faltar",
+  "englishInfinitive": "to lack",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "falto",
+    "Tu": "faltas",
+    "El": "falta",
+    "Nosotros": "faltamos",
+    "Vosotros": "faltáis",
+    "Ellos": "faltan"
+  },
+  "IndicativePreterite": {
+    "Yo": "falté",
+    "Tu": "faltaste",
+    "El": "faltó",
+    "Nosotros": "faltamos",
+    "Vosotros": "faltasteis",
+    "Ellos": "faltaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "faltaré",
+    "Tu": "faltarás",
+    "El": "faltará",
+    "Nosotros": "faltaremos",
+    "Vosotros": "faltaréis",
+    "Ellos": "faltarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "faltaría",
+    "Tu": "faltarías",
+    "El": "faltaría",
+    "Nosotros": "faltaríamos",
+    "Vosotros": "faltaríais",
+    "Ellos": "faltarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "faltaba",
+    "Tu": "faltabas",
+    "El": "faltaba",
+    "Nosotros": "faltábamos",
+    "Vosotros": "faltabais",
+    "Ellos": "faltaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy faltando",
+    "Tu": "estás faltando",
+    "El": "está faltando",
+    "Nosotros": "estamos faltando",
+    "Vosotros": "estáis faltando",
+    "Ellos": "están faltando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he faltado",
+    "Tu": "has faltado",
+    "El": "ha faltado",
+    "Nosotros": "hemos faltado",
+    "Vosotros": "habéis faltado",
+    "Ellos": "han faltado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había faltado",
+    "Tu": "habías faltado",
+    "El": "había faltado",
+    "Nosotros": "habíamos faltado",
+    "Vosotros": "habíais faltado",
+    "Ellos": "habían faltado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré faltado",
+    "Tu": "habrás faltado",
+    "El": "habrá faltado",
+    "Nosotros": "habremos faltado",
+    "Vosotros": "habréis faltado",
+    "Ellos": "habrán faltado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría faltado",
+    "Tu": "habrías faltado",
+    "El": "habría faltado",
+    "Nosotros": "habríamos faltado",
+    "Vosotros": "habríais faltado",
+    "Ellos": "habrían faltado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "falte",
+    "Tu": "faltes",
+    "El": "falte",
+    "Nosotros": "faltemos",
+    "Vosotros": "faltéis",
+    "Ellos": "falten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "falta",
+    "El": "falte",
+    "Nosotros": "faltemos",
+    "Vosotros": "faltad",
+    "Ellos": "falten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no faltes",
+    "El": "no falte",
+    "Nosotros": "no faltemos",
+    "Vosotros": "no faltéis",
+    "Ellos": "no falten"
+  },
+  "ending": "ar"
+}

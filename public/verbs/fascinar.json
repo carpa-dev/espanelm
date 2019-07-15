@@ -1,0 +1,113 @@
+{
+  "verb": "fascinar",
+  "englishInfinitive": "to fascinate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "fascino",
+    "Tu": "fascinas",
+    "El": "fascina",
+    "Nosotros": "fascinamos",
+    "Vosotros": "fascináis",
+    "Ellos": "fascinan"
+  },
+  "IndicativePreterite": {
+    "Yo": "fasciné",
+    "Tu": "fascinaste",
+    "El": "fascinó",
+    "Nosotros": "fascinamos",
+    "Vosotros": "fascinasteis",
+    "Ellos": "fascinaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "fascinaré",
+    "Tu": "fascinarás",
+    "El": "fascinará",
+    "Nosotros": "fascinaremos",
+    "Vosotros": "fascinaréis",
+    "Ellos": "fascinarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "fascinaría",
+    "Tu": "fascinarías",
+    "El": "fascinaría",
+    "Nosotros": "fascinaríamos",
+    "Vosotros": "fascinaríais",
+    "Ellos": "fascinarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "fascinaba",
+    "Tu": "fascinabas",
+    "El": "fascinaba",
+    "Nosotros": "fascinábamos",
+    "Vosotros": "fascinabais",
+    "Ellos": "fascinaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy fascinando",
+    "Tu": "estás fascinando",
+    "El": "está fascinando",
+    "Nosotros": "estamos fascinando",
+    "Vosotros": "estáis fascinando",
+    "Ellos": "están fascinando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he fascinado",
+    "Tu": "has fascinado",
+    "El": "ha fascinado",
+    "Nosotros": "hemos fascinado",
+    "Vosotros": "habéis fascinado",
+    "Ellos": "han fascinado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había fascinado",
+    "Tu": "habías fascinado",
+    "El": "había fascinado",
+    "Nosotros": "habíamos fascinado",
+    "Vosotros": "habíais fascinado",
+    "Ellos": "habían fascinado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré fascinado",
+    "Tu": "habrás fascinado",
+    "El": "habrá fascinado",
+    "Nosotros": "habremos fascinado",
+    "Vosotros": "habréis fascinado",
+    "Ellos": "habrán fascinado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría fascinado",
+    "Tu": "habrías fascinado",
+    "El": "habría fascinado",
+    "Nosotros": "habríamos fascinado",
+    "Vosotros": "habríais fascinado",
+    "Ellos": "habrían fascinado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "fascine",
+    "Tu": "fascines",
+    "El": "fascine",
+    "Nosotros": "fascinemos",
+    "Vosotros": "fascinéis",
+    "Ellos": "fascinen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "fascina",
+    "El": "fascine",
+    "Nosotros": "fascinemos",
+    "Vosotros": "fascinad",
+    "Ellos": "fascinen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no fascines",
+    "El": "no fascine",
+    "Nosotros": "no fascinemos",
+    "Vosotros": "no fascinéis",
+    "Ellos": "no fascinen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "asociar",
+  "englishInfinitive": "to associate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "asocio",
+    "Tu": "asocias",
+    "El": "asocia",
+    "Nosotros": "asociamos",
+    "Vosotros": "asociáis",
+    "Ellos": "asocian"
+  },
+  "IndicativePreterite": {
+    "Yo": "asocié",
+    "Tu": "asociaste",
+    "El": "asoció",
+    "Nosotros": "asociamos",
+    "Vosotros": "asociasteis",
+    "Ellos": "asociaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "asociaré",
+    "Tu": "asociarás",
+    "El": "asociará",
+    "Nosotros": "asociaremos",
+    "Vosotros": "asociaréis",
+    "Ellos": "asociarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "asociaría",
+    "Tu": "asociarías",
+    "El": "asociaría",
+    "Nosotros": "asociaríamos",
+    "Vosotros": "asociaríais",
+    "Ellos": "asociarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "asociaba",
+    "Tu": "asociabas",
+    "El": "asociaba",
+    "Nosotros": "asociábamos",
+    "Vosotros": "asociabais",
+    "Ellos": "asociaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy asociando",
+    "Tu": "estás asociando",
+    "El": "está asociando",
+    "Nosotros": "estamos asociando",
+    "Vosotros": "estáis asociando",
+    "Ellos": "están asociando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he asociado",
+    "Tu": "has asociado",
+    "El": "ha asociado",
+    "Nosotros": "hemos asociado",
+    "Vosotros": "habéis asociado",
+    "Ellos": "han asociado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había asociado",
+    "Tu": "habías asociado",
+    "El": "había asociado",
+    "Nosotros": "habíamos asociado",
+    "Vosotros": "habíais asociado",
+    "Ellos": "habían asociado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré asociado",
+    "Tu": "habrás asociado",
+    "El": "habrá asociado",
+    "Nosotros": "habremos asociado",
+    "Vosotros": "habréis asociado",
+    "Ellos": "habrán asociado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría asociado",
+    "Tu": "habrías asociado",
+    "El": "habría asociado",
+    "Nosotros": "habríamos asociado",
+    "Vosotros": "habríais asociado",
+    "Ellos": "habrían asociado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "asocie",
+    "Tu": "asocies",
+    "El": "asocie",
+    "Nosotros": "asociemos",
+    "Vosotros": "asociéis",
+    "Ellos": "asocien"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "asocia",
+    "El": "asocie",
+    "Nosotros": "asociemos",
+    "Vosotros": "asociad",
+    "Ellos": "asocien"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no asocies",
+    "El": "no asocie",
+    "Nosotros": "no asociemos",
+    "Vosotros": "no asociéis",
+    "Ellos": "no asocien"
+  },
+  "ending": "ar"
+}

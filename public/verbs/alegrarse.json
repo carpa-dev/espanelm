@@ -1,0 +1,113 @@
+{
+  "verb": "alegrarse",
+  "englishInfinitive": "to be glad",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me alegro",
+    "Tu": "te alegras",
+    "El": "se alegra",
+    "Nosotros": "nos alegramos",
+    "Vosotros": "os alegráis",
+    "Ellos": "se alegran"
+  },
+  "IndicativePreterite": {
+    "Yo": "me alegré",
+    "Tu": "te alegraste",
+    "El": "se alegró",
+    "Nosotros": "nos alegramos",
+    "Vosotros": "alegrasteis",
+    "Ellos": "se alegraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me alegraré",
+    "Tu": "te alegrarás",
+    "El": "se alegrará",
+    "Nosotros": "nos alegraremos",
+    "Vosotros": "os alegraréis",
+    "Ellos": "se alegrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me alegraría",
+    "Tu": "te alegrarías",
+    "El": "se alegraría",
+    "Nosotros": "nos alegraríamos",
+    "Vosotros": "os alegraríais",
+    "Ellos": "se alegrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me alegraba",
+    "Tu": "te alegrabas",
+    "El": "se alegraba",
+    "Nosotros": "nos alegrábamos",
+    "Vosotros": "os alegrabais",
+    "Ellos": "se alegraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy alegrando,estoy alegrándome",
+    "Tu": "te estás alegrando,estás alegrándote",
+    "El": "se está alegrando,está alegrándose",
+    "Nosotros": "nos estamos alegrando,estamos alegrándonos",
+    "Vosotros": "os estáis alegrando,estáis alegrándoos",
+    "Ellos": "se están alegrando,están alegrándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he alegrado",
+    "Tu": "te has alegrado",
+    "El": "se ha alegrado",
+    "Nosotros": "nos hemos alegrado",
+    "Vosotros": "os habéis alegrado",
+    "Ellos": "se han alegrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había alegrado",
+    "Tu": "te habías alegrado",
+    "El": "se había alegrado",
+    "Nosotros": "nos habíamos alegrado",
+    "Vosotros": "os habíais alegrado",
+    "Ellos": "se habían alegrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré alegrado",
+    "Tu": "te habrás alegrado",
+    "El": "se habrá alegrado",
+    "Nosotros": "nos habremos alegrado",
+    "Vosotros": "os habréis alegrado",
+    "Ellos": "se habrán alegrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría alegrado",
+    "Tu": "te habrías alegrado",
+    "El": "se habría alegrado",
+    "Nosotros": "nos habríamos alegrado",
+    "Vosotros": "os habríais alegrado",
+    "Ellos": "se habrían alegrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me alegre",
+    "Tu": "te alegres",
+    "El": "se alegre",
+    "Nosotros": "nos alegremos",
+    "Vosotros": "os alegréis",
+    "Ellos": "se alegren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "alégrate",
+    "El": "alégrese",
+    "Nosotros": "alegrémonos",
+    "Vosotros": "alegraos",
+    "Ellos": "alégrense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te alegres",
+    "El": "no se alegre",
+    "Nosotros": "no nos alegremos",
+    "Vosotros": "no os alegréis",
+    "Ellos": "no se alegren"
+  },
+  "ending": "ar"
+}

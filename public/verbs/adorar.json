@@ -1,0 +1,113 @@
+{
+  "verb": "adorar",
+  "englishInfinitive": "to adore",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "adoro",
+    "Tu": "adoras",
+    "El": "adora",
+    "Nosotros": "adoramos",
+    "Vosotros": "adoráis",
+    "Ellos": "adoran"
+  },
+  "IndicativePreterite": {
+    "Yo": "adoré",
+    "Tu": "adoraste",
+    "El": "adoró",
+    "Nosotros": "adoramos",
+    "Vosotros": "adorasteis",
+    "Ellos": "adoraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "adoraré",
+    "Tu": "adorarás",
+    "El": "adorará",
+    "Nosotros": "adoraremos",
+    "Vosotros": "adoraréis",
+    "Ellos": "adorarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "adoraría",
+    "Tu": "adorarías",
+    "El": "adoraría",
+    "Nosotros": "adoraríamos",
+    "Vosotros": "adoraríais",
+    "Ellos": "adorarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "adoraba",
+    "Tu": "adorabas",
+    "El": "adoraba",
+    "Nosotros": "adorábamos",
+    "Vosotros": "adorabais",
+    "Ellos": "adoraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy adorando",
+    "Tu": "estás adorando",
+    "El": "está adorando",
+    "Nosotros": "estamos adorando",
+    "Vosotros": "estáis adorando",
+    "Ellos": "están adorando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he adorado",
+    "Tu": "has adorado",
+    "El": "ha adorado",
+    "Nosotros": "hemos adorado",
+    "Vosotros": "habéis adorado",
+    "Ellos": "han adorado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había adorado",
+    "Tu": "habías adorado",
+    "El": "había adorado",
+    "Nosotros": "habíamos adorado",
+    "Vosotros": "habíais adorado",
+    "Ellos": "habían adorado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré adorado",
+    "Tu": "habrás adorado",
+    "El": "habrá adorado",
+    "Nosotros": "habremos adorado",
+    "Vosotros": "habréis adorado",
+    "Ellos": "habrán adorado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría adorado",
+    "Tu": "habrías adorado",
+    "El": "habría adorado",
+    "Nosotros": "habríamos adorado",
+    "Vosotros": "habríais adorado",
+    "Ellos": "habrían adorado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "adore",
+    "Tu": "adores",
+    "El": "adore",
+    "Nosotros": "adoremos",
+    "Vosotros": "adoréis",
+    "Ellos": "adoren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "adora",
+    "El": "adore",
+    "Nosotros": "adoremos",
+    "Vosotros": "adorad",
+    "Ellos": "adoren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no adores",
+    "El": "no adore",
+    "Nosotros": "no adoremos",
+    "Vosotros": "no adoréis",
+    "Ellos": "no adoren"
+  },
+  "ending": "ar"
+}

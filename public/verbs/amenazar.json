@@ -1,0 +1,113 @@
+{
+  "verb": "amenazar",
+  "englishInfinitive": "to threaten",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "amenazo",
+    "Tu": "amenazas",
+    "El": "amenaza",
+    "Nosotros": "amenazamos",
+    "Vosotros": "amenazáis",
+    "Ellos": "amenazan"
+  },
+  "IndicativePreterite": {
+    "Yo": "amenacé",
+    "Tu": "amenazaste",
+    "El": "amenazó",
+    "Nosotros": "amenazamos",
+    "Vosotros": "amenazasteis",
+    "Ellos": "amenazaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "amenazaré",
+    "Tu": "amenazarás",
+    "El": "amenazará",
+    "Nosotros": "amenazaremos",
+    "Vosotros": "amenazaréis",
+    "Ellos": "amenazarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "amenazaría",
+    "Tu": "amenazarías",
+    "El": "amenazaría",
+    "Nosotros": "amenazaríamos",
+    "Vosotros": "amenazaríais",
+    "Ellos": "amenazarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "amenazaba",
+    "Tu": "amenazabas",
+    "El": "amenazaba",
+    "Nosotros": "amenazábamos",
+    "Vosotros": "amenazabais",
+    "Ellos": "amenazaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy amenazando",
+    "Tu": "estás amenazando",
+    "El": "está amenazando",
+    "Nosotros": "estamos amenazando",
+    "Vosotros": "estáis amenazando",
+    "Ellos": "están amenazando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he amenazado",
+    "Tu": "has amenazado",
+    "El": "ha amenazado",
+    "Nosotros": "hemos amenazado",
+    "Vosotros": "habéis amenazado",
+    "Ellos": "han amenazado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había amenazado",
+    "Tu": "habías amenazado",
+    "El": "había amenazado",
+    "Nosotros": "habíamos amenazado",
+    "Vosotros": "habíais amenazado",
+    "Ellos": "habían amenazado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré amenazado",
+    "Tu": "habrás amenazado",
+    "El": "habrá amenazado",
+    "Nosotros": "habremos amenazado",
+    "Vosotros": "habréis amenazado",
+    "Ellos": "habrán amenazado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría amenazado",
+    "Tu": "habrías amenazado",
+    "El": "habría amenazado",
+    "Nosotros": "habríamos amenazado",
+    "Vosotros": "habríais amenazado",
+    "Ellos": "habrían amenazado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "amenace",
+    "Tu": "amenaces",
+    "El": "amenace",
+    "Nosotros": "amenacemos",
+    "Vosotros": "amenacéis",
+    "Ellos": "amenacen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "amenaza",
+    "El": "amenace",
+    "Nosotros": "amenacemos",
+    "Vosotros": "amenazad",
+    "Ellos": "amenacen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no amenaces",
+    "El": "no amenace",
+    "Nosotros": "no amenacemos",
+    "Vosotros": "no amenacéis",
+    "Ellos": "no amenacen"
+  },
+  "ending": "ar"
+}

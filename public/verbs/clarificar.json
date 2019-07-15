@@ -1,0 +1,113 @@
+{
+  "verb": "clarificar",
+  "englishInfinitive": "to clarify",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "clarifico",
+    "Tu": "clarificas",
+    "El": "clarifica",
+    "Nosotros": "clarificamos",
+    "Vosotros": "clarificáis",
+    "Ellos": "clarifican"
+  },
+  "IndicativePreterite": {
+    "Yo": "clarifiqué",
+    "Tu": "clarificaste",
+    "El": "clarificó",
+    "Nosotros": "clarificamos",
+    "Vosotros": "clarificasteis",
+    "Ellos": "clarificaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "clarificaré",
+    "Tu": "clarificarás",
+    "El": "clarificará",
+    "Nosotros": "clarificaremos",
+    "Vosotros": "clarificaréis",
+    "Ellos": "clarificarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "clarificaría",
+    "Tu": "clarificarías",
+    "El": "clarificaría",
+    "Nosotros": "clarificaríamos",
+    "Vosotros": "clarificaríais",
+    "Ellos": "clarificarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "clarificaba",
+    "Tu": "clarificabas",
+    "El": "clarificaba",
+    "Nosotros": "clarificábamos",
+    "Vosotros": "clarificabais",
+    "Ellos": "clarificaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy clarificando",
+    "Tu": "estás clarificando",
+    "El": "está clarificando",
+    "Nosotros": "estamos clarificando",
+    "Vosotros": "estáis clarificando",
+    "Ellos": "están clarificando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he clarificado",
+    "Tu": "has clarificado",
+    "El": "ha clarificado",
+    "Nosotros": "hemos clarificado",
+    "Vosotros": "habéis clarificado",
+    "Ellos": "han clarificado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había clarificado",
+    "Tu": "habías clarificado",
+    "El": "había clarificado",
+    "Nosotros": "habíamos clarificado",
+    "Vosotros": "habíais clarificado",
+    "Ellos": "habían clarificado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré clarificado",
+    "Tu": "habrás clarificado",
+    "El": "habrá clarificado",
+    "Nosotros": "habremos clarificado",
+    "Vosotros": "habréis clarificado",
+    "Ellos": "habrán clarificado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría clarificado",
+    "Tu": "habrías clarificado",
+    "El": "habría clarificado",
+    "Nosotros": "habríamos clarificado",
+    "Vosotros": "habríais clarificado",
+    "Ellos": "habrían clarificado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "clarifique",
+    "Tu": "clarifiques",
+    "El": "clarifique",
+    "Nosotros": "clarifiquemos",
+    "Vosotros": "clarifiquéis",
+    "Ellos": "clarifiquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "clarifica",
+    "El": "clarifique",
+    "Nosotros": "clarifiquemos",
+    "Vosotros": "clarificad",
+    "Ellos": "clarifiquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no clarifiques",
+    "El": "no clarifique",
+    "Nosotros": "no clarifiquemos",
+    "Vosotros": "no clarifiquéis",
+    "Ellos": "no clarifiquen"
+  },
+  "ending": "ar"
+}

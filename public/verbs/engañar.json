@@ -1,0 +1,113 @@
+{
+  "verb": "engañar",
+  "englishInfinitive": "to deceive",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "engaño",
+    "Tu": "engañas",
+    "El": "engaña",
+    "Nosotros": "engañamos",
+    "Vosotros": "engañáis",
+    "Ellos": "engañan"
+  },
+  "IndicativePreterite": {
+    "Yo": "engañé",
+    "Tu": "engañaste",
+    "El": "engañó",
+    "Nosotros": "engañamos",
+    "Vosotros": "engañasteis",
+    "Ellos": "engañaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "engañaré",
+    "Tu": "engañarás",
+    "El": "engañará",
+    "Nosotros": "engañaremos",
+    "Vosotros": "engañaréis",
+    "Ellos": "engañarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "engañaría",
+    "Tu": "engañarías",
+    "El": "engañaría",
+    "Nosotros": "engañaríamos",
+    "Vosotros": "engañaríais",
+    "Ellos": "engañarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "engañaba",
+    "Tu": "engañabas",
+    "El": "engañaba",
+    "Nosotros": "engañábamos",
+    "Vosotros": "engañabais",
+    "Ellos": "engañaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy engañando",
+    "Tu": "estás engañando",
+    "El": "está engañando",
+    "Nosotros": "estamos engañando",
+    "Vosotros": "estáis engañando",
+    "Ellos": "están engañando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he engañado",
+    "Tu": "has engañado",
+    "El": "ha engañado",
+    "Nosotros": "hemos engañado",
+    "Vosotros": "habéis engañado",
+    "Ellos": "han engañado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había engañado",
+    "Tu": "habías engañado",
+    "El": "había engañado",
+    "Nosotros": "habíamos engañado",
+    "Vosotros": "habíais engañado",
+    "Ellos": "habían engañado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré engañado",
+    "Tu": "habrás engañado",
+    "El": "habrá engañado",
+    "Nosotros": "habremos engañado",
+    "Vosotros": "habréis engañado",
+    "Ellos": "habrán engañado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría engañado",
+    "Tu": "habrías engañado",
+    "El": "habría engañado",
+    "Nosotros": "habríamos engañado",
+    "Vosotros": "habríais engañado",
+    "Ellos": "habrían engañado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "engañe",
+    "Tu": "engañes",
+    "El": "engañe",
+    "Nosotros": "engañemos",
+    "Vosotros": "engañéis",
+    "Ellos": "engañen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "engaña",
+    "El": "engañe",
+    "Nosotros": "engañemos",
+    "Vosotros": "engañad",
+    "Ellos": "engañen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no engañes",
+    "El": "no engañe",
+    "Nosotros": "no engañemos",
+    "Vosotros": "no engañéis",
+    "Ellos": "no engañen"
+  },
+  "ending": "ar"
+}

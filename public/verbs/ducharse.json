@@ -1,0 +1,113 @@
+{
+  "verb": "ducharse",
+  "englishInfinitive": "to take a shower",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "me ducho",
+    "Tu": "te duchas",
+    "El": "se ducha",
+    "Nosotros": "nos duchamos",
+    "Vosotros": "os ducháis",
+    "Ellos": "se duchan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me duché",
+    "Tu": "te duchaste",
+    "El": "se duchó",
+    "Nosotros": "nos duchamos",
+    "Vosotros": "os duchasteis",
+    "Ellos": "se ducharon"
+  },
+  "IndicativeFuture": {
+    "Yo": "me ducharé",
+    "Tu": "te ducharás",
+    "El": "se duchará",
+    "Nosotros": "nos ducharemos",
+    "Vosotros": "os ducharéis",
+    "Ellos": "se ducharán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me ducharía",
+    "Tu": "te ducharías",
+    "El": "se ducharía",
+    "Nosotros": "nos ducharíamos",
+    "Vosotros": "os ducharíais",
+    "Ellos": "se ducharían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me duchaba",
+    "Tu": "te duchabas",
+    "El": "se duchaba",
+    "Nosotros": "nos duchábamos",
+    "Vosotros": "os duchabais",
+    "Ellos": "se duchaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy duchando,estoy duchándome",
+    "Tu": "te estás duchando,estás duchándote",
+    "El": "se está duchando,está duchándose",
+    "Nosotros": "nos estamos duchando,estamos duchándonos",
+    "Vosotros": "os estáis duchando,estáis duchándoos",
+    "Ellos": "se están duchando,están duchándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he duchado",
+    "Tu": "te has duchado",
+    "El": "se ha duchado",
+    "Nosotros": "nos hemos duchado",
+    "Vosotros": "os habéis duchado",
+    "Ellos": "se han duchado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había duchado",
+    "Tu": "te habías duchado",
+    "El": "se había duchado",
+    "Nosotros": "nos habíamos duchado",
+    "Vosotros": "os habíais duchado",
+    "Ellos": "se habían duchado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré duchado",
+    "Tu": "te habrás duchado",
+    "El": "se habrá duchado",
+    "Nosotros": "nos habremos duchado",
+    "Vosotros": "os habréis duchado",
+    "Ellos": "se habrán duchado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría duchado",
+    "Tu": "te habrías duchado",
+    "El": "se habría duchado",
+    "Nosotros": "nos habríamos duchado",
+    "Vosotros": "os habríais duchado",
+    "Ellos": "se habrían duchado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me duche",
+    "Tu": "te duches",
+    "El": "se duche",
+    "Nosotros": "nos duchemos",
+    "Vosotros": "os duchéis",
+    "Ellos": "se duchen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "dúchate",
+    "El": "dúchese",
+    "Nosotros": "duchémonos",
+    "Vosotros": "duchaos",
+    "Ellos": "dúchense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te duches",
+    "El": "no se duche",
+    "Nosotros": "no nos duchemos",
+    "Vosotros": "no os duchéis",
+    "Ellos": "no se duchen"
+  },
+  "ending": "ar"
+}

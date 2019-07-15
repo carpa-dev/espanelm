@@ -1,0 +1,113 @@
+{
+  "verb": "lastimar",
+  "englishInfinitive": "to hurt",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "lastimo",
+    "Tu": "lastimas",
+    "El": "lastima",
+    "Nosotros": "lastimamos",
+    "Vosotros": "lastimáis",
+    "Ellos": "lastiman"
+  },
+  "IndicativePreterite": {
+    "Yo": "lastimé",
+    "Tu": "lastimaste",
+    "El": "lastimó",
+    "Nosotros": "lastimamos",
+    "Vosotros": "lastimasteis",
+    "Ellos": "lastimaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "lastimaré",
+    "Tu": "lastimarás",
+    "El": "lastimará",
+    "Nosotros": "lastimaremos",
+    "Vosotros": "lastimaréis",
+    "Ellos": "lastimarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "lastimaría",
+    "Tu": "lastimarías",
+    "El": "lastimaría",
+    "Nosotros": "lastimaríamos",
+    "Vosotros": "lastimaríais",
+    "Ellos": "lastimarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "lastimaba",
+    "Tu": "lastimabas",
+    "El": "lastimaba",
+    "Nosotros": "lastimábamos",
+    "Vosotros": "lastimabais",
+    "Ellos": "lastimaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy lastimando",
+    "Tu": "estás lastimando",
+    "El": "está lastimando",
+    "Nosotros": "estamos lastimando",
+    "Vosotros": "estáis lastimando",
+    "Ellos": "están lastimando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he lastimado",
+    "Tu": "has lastimado",
+    "El": "ha lastimado",
+    "Nosotros": "hemos lastimado",
+    "Vosotros": "habéis lastimado",
+    "Ellos": "han lastimado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había lastimado",
+    "Tu": "habías lastimado",
+    "El": "había lastimado",
+    "Nosotros": "habíamos lastimado",
+    "Vosotros": "habíais lastimado",
+    "Ellos": "habían lastimado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré lastimado",
+    "Tu": "habrás lastimado",
+    "El": "habrá lastimado",
+    "Nosotros": "habremos lastimado",
+    "Vosotros": "habréis lastimado",
+    "Ellos": "habrán lastimado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría lastimado",
+    "Tu": "habrías lastimado",
+    "El": "habría lastimado",
+    "Nosotros": "habríamos lastimado",
+    "Vosotros": "habríais lastimado",
+    "Ellos": "habrían lastimado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "lastime",
+    "Tu": "lastimes",
+    "El": "lastime",
+    "Nosotros": "lastimemos",
+    "Vosotros": "lastiméis",
+    "Ellos": "lastimen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "lastima",
+    "El": "lastime",
+    "Nosotros": "lastimemos",
+    "Vosotros": "lastimad",
+    "Ellos": "lastimen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no lastimes",
+    "El": "no lastime",
+    "Nosotros": "no lastimemos",
+    "Vosotros": "no lastiméis",
+    "Ellos": "no lastimen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "criar",
+  "englishInfinitive": "to raise",
+  "irregular": true,
+  "type": "i > í",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "crío",
+    "Tu": "crías",
+    "El": "cría",
+    "Nosotros": "criamos",
+    "Vosotros": "criáis",
+    "Ellos": "crían"
+  },
+  "IndicativePreterite": {
+    "Yo": "crié",
+    "Tu": "criaste",
+    "El": "crio",
+    "Nosotros": "criamos",
+    "Vosotros": "criasteis",
+    "Ellos": "criaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "criaré",
+    "Tu": "criarás",
+    "El": "criará",
+    "Nosotros": "criaremos",
+    "Vosotros": "criaréis",
+    "Ellos": "criarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "criaría",
+    "Tu": "criarías",
+    "El": "criaría",
+    "Nosotros": "criaríamos",
+    "Vosotros": "criaríais",
+    "Ellos": "criarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "criaba",
+    "Tu": "criabas",
+    "El": "criaba",
+    "Nosotros": "criábamos",
+    "Vosotros": "criabais",
+    "Ellos": "criaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy criando",
+    "Tu": "estás criando",
+    "El": "está criando",
+    "Nosotros": "estamos criando",
+    "Vosotros": "estáis criando",
+    "Ellos": "están criando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he criado",
+    "Tu": "has criado",
+    "El": "ha criado",
+    "Nosotros": "hemos criado",
+    "Vosotros": "habéis criado",
+    "Ellos": "han criado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había criado",
+    "Tu": "habías criado",
+    "El": "había criado",
+    "Nosotros": "habíamos criado",
+    "Vosotros": "habíais criado",
+    "Ellos": "habían criado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré criado",
+    "Tu": "habrás criado",
+    "El": "habrá criado",
+    "Nosotros": "habremos criado",
+    "Vosotros": "habréis criado",
+    "Ellos": "habrán criado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría criado",
+    "Tu": "habrías criado",
+    "El": "habría criado",
+    "Nosotros": "habríamos criado",
+    "Vosotros": "habríais criado",
+    "Ellos": "habrían criado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "críe",
+    "Tu": "críes",
+    "El": "críe",
+    "Nosotros": "criemos",
+    "Vosotros": "criéis",
+    "Ellos": "críen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cría",
+    "El": "críe",
+    "Nosotros": "criemos",
+    "Vosotros": "criad",
+    "Ellos": "críen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no críes",
+    "El": "no críe",
+    "Nosotros": "no criemos",
+    "Vosotros": "no criéis",
+    "Ellos": "no críen"
+  },
+  "ending": "ar"
+}

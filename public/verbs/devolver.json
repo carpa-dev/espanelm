@@ -1,0 +1,113 @@
+{
+  "verb": "devolver",
+  "englishInfinitive": "to return",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "devuelvo",
+    "Tu": "devuelves",
+    "El": "devuelve",
+    "Nosotros": "devolvemos",
+    "Vosotros": "devolvéis",
+    "Ellos": "devuelven"
+  },
+  "IndicativePreterite": {
+    "Yo": "devolví",
+    "Tu": "devolviste",
+    "El": "devolvió",
+    "Nosotros": "devolvimos",
+    "Vosotros": "devolvisteis",
+    "Ellos": "devolvieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "devolveré",
+    "Tu": "devolverás",
+    "El": "devolverá",
+    "Nosotros": "devolveremos",
+    "Vosotros": "devolveréis",
+    "Ellos": "devolverán"
+  },
+  "ConditionalPresent": {
+    "Yo": "devolvería",
+    "Tu": "devolverías",
+    "El": "devolvería",
+    "Nosotros": "devolveríamos",
+    "Vosotros": "devolveríais",
+    "Ellos": "devolverían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "devolvía",
+    "Tu": "devolvías",
+    "El": "devolvía",
+    "Nosotros": "devolvíamos",
+    "Vosotros": "devolvíais",
+    "Ellos": "devolvían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy devolviendo",
+    "Tu": "estás devolviendo",
+    "El": "está devolviendo",
+    "Nosotros": "estamos devolviendo",
+    "Vosotros": "estáis devolviendo",
+    "Ellos": "están devolviendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he devuelto",
+    "Tu": "has devuelto",
+    "El": "ha devuelto",
+    "Nosotros": "hemos devuelto",
+    "Vosotros": "habéis devuelto",
+    "Ellos": "han devuelto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había devuelto",
+    "Tu": "habías devuelto",
+    "El": "había devuelto",
+    "Nosotros": "habíamos devuelto",
+    "Vosotros": "habíais devuelto",
+    "Ellos": "habían devuelto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré devuelto",
+    "Tu": "habrás devuelto",
+    "El": "habrá devuelto",
+    "Nosotros": "habremos devuelto",
+    "Vosotros": "habréis devuelto",
+    "Ellos": "habrán devuelto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría devuelto",
+    "Tu": "habrías devuelto",
+    "El": "habría devuelto",
+    "Nosotros": "habríamos devuelto",
+    "Vosotros": "habríais devuelto",
+    "Ellos": "habrían devuelto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "devuelva",
+    "Tu": "devuelvas",
+    "El": "devuelva",
+    "Nosotros": "devolvamos",
+    "Vosotros": "devolváis",
+    "Ellos": "devuelvan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "devuelve",
+    "El": "devuelva",
+    "Nosotros": "devolvamos",
+    "Vosotros": "devolved",
+    "Ellos": "devuelvan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no devuelvas",
+    "El": "no devuelva",
+    "Nosotros": "no devolvamos",
+    "Vosotros": "no devolváis",
+    "Ellos": "no devuelvan"
+  },
+  "ending": "er"
+}

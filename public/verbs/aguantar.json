@@ -1,0 +1,113 @@
+{
+  "verb": "aguantar",
+  "englishInfinitive": "to put up with",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "aguanto",
+    "Tu": "aguantas",
+    "El": "aguanta",
+    "Nosotros": "aguantamos",
+    "Vosotros": "aguantáis",
+    "Ellos": "aguantan"
+  },
+  "IndicativePreterite": {
+    "Yo": "aguanté",
+    "Tu": "aguantaste",
+    "El": "aguantó",
+    "Nosotros": "aguantamos",
+    "Vosotros": "aguantasteis",
+    "Ellos": "aguantaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "aguantaré",
+    "Tu": "aguantarás",
+    "El": "aguantará",
+    "Nosotros": "aguantaremos",
+    "Vosotros": "aguantaréis",
+    "Ellos": "aguantarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "aguantaría",
+    "Tu": "aguantarías",
+    "El": "aguantaría",
+    "Nosotros": "aguantaríamos",
+    "Vosotros": "aguantaríais",
+    "Ellos": "aguantarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "aguantaba",
+    "Tu": "aguantabas",
+    "El": "aguantaba",
+    "Nosotros": "aguantábamos",
+    "Vosotros": "aguantabais",
+    "Ellos": "aguantaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy aguantando",
+    "Tu": "estás aguantando",
+    "El": "está aguantando",
+    "Nosotros": "estamos aguantando",
+    "Vosotros": "estáis aguantando",
+    "Ellos": "están aguantando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he aguantado",
+    "Tu": "has aguantado",
+    "El": "ha aguantado",
+    "Nosotros": "hemos aguantado",
+    "Vosotros": "habéis aguantado",
+    "Ellos": "han aguantado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había aguantado",
+    "Tu": "habías aguantado",
+    "El": "había aguantado",
+    "Nosotros": "habíamos aguantado",
+    "Vosotros": "habíais aguantado",
+    "Ellos": "habían aguantado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré aguantado",
+    "Tu": "habrás aguantado",
+    "El": "habrá aguantado",
+    "Nosotros": "habremos aguantado",
+    "Vosotros": "habréis aguantado",
+    "Ellos": "habrán aguantado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría aguantado",
+    "Tu": "habrías aguantado",
+    "El": "habría aguantado",
+    "Nosotros": "habríamos aguantado",
+    "Vosotros": "habríais aguantado",
+    "Ellos": "habrían aguantado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "aguante",
+    "Tu": "aguantes",
+    "El": "aguante",
+    "Nosotros": "aguantemos",
+    "Vosotros": "aguantéis",
+    "Ellos": "aguanten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "aguanta",
+    "El": "aguante",
+    "Nosotros": "aguantemos",
+    "Vosotros": "aguantad",
+    "Ellos": "aguanten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no aguantes",
+    "El": "no aguante",
+    "Nosotros": "no aguantemos",
+    "Vosotros": "no aguantéis",
+    "Ellos": "no aguanten"
+  },
+  "ending": "ar"
+}

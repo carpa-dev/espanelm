@@ -1,0 +1,113 @@
+{
+  "verb": "ahorrar",
+  "englishInfinitive": "to save",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "ahorro",
+    "Tu": "ahorras",
+    "El": "ahorra",
+    "Nosotros": "ahorramos",
+    "Vosotros": "ahorráis",
+    "Ellos": "ahorran"
+  },
+  "IndicativePreterite": {
+    "Yo": "ahorré",
+    "Tu": "ahorraste",
+    "El": "ahorró",
+    "Nosotros": "ahorramos",
+    "Vosotros": "ahorrasteis",
+    "Ellos": "ahorraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "ahorraré",
+    "Tu": "ahorrarás",
+    "El": "ahorrará",
+    "Nosotros": "ahorraremos",
+    "Vosotros": "ahorraréis",
+    "Ellos": "ahorrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "ahorraría",
+    "Tu": "ahorrarías",
+    "El": "ahorraría",
+    "Nosotros": "ahorraríamos",
+    "Vosotros": "ahorraríais",
+    "Ellos": "ahorrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "ahorraba",
+    "Tu": "ahorrabas",
+    "El": "ahorraba",
+    "Nosotros": "ahorrábamos",
+    "Vosotros": "ahorrabais",
+    "Ellos": "ahorraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy ahorrando",
+    "Tu": "estás ahorrando",
+    "El": "está ahorrando",
+    "Nosotros": "estamos ahorrando",
+    "Vosotros": "estáis ahorrando",
+    "Ellos": "están ahorrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he ahorrado",
+    "Tu": "has ahorrado",
+    "El": "ha ahorrado",
+    "Nosotros": "hemos ahorrado",
+    "Vosotros": "habéis ahorrado",
+    "Ellos": "han ahorrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había ahorrado",
+    "Tu": "habías ahorrado",
+    "El": "había ahorrado",
+    "Nosotros": "habíamos ahorrado",
+    "Vosotros": "habíais ahorrado",
+    "Ellos": "habían ahorrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré ahorrado",
+    "Tu": "habrás ahorrado",
+    "El": "habrá ahorrado",
+    "Nosotros": "habremos ahorrado",
+    "Vosotros": "habréis ahorrado",
+    "Ellos": "habrán ahorrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría ahorrado",
+    "Tu": "habrías ahorrado",
+    "El": "habría ahorrado",
+    "Nosotros": "habríamos ahorrado",
+    "Vosotros": "habríais ahorrado",
+    "Ellos": "habrían ahorrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ahorre",
+    "Tu": "ahorres",
+    "El": "ahorre",
+    "Nosotros": "ahorremos",
+    "Vosotros": "ahorréis",
+    "Ellos": "ahorren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ahorra",
+    "El": "ahorre",
+    "Nosotros": "ahorremos",
+    "Vosotros": "ahorrad",
+    "Ellos": "ahorren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ahorres",
+    "El": "no ahorre",
+    "Nosotros": "no ahorremos",
+    "Vosotros": "no ahorréis",
+    "Ellos": "no ahorren"
+  },
+  "ending": "ar"
+}

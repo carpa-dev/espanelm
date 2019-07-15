@@ -1,0 +1,113 @@
+{
+  "verb": "repetir",
+  "englishInfinitive": "to repeat",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "repito",
+    "Tu": "repites",
+    "El": "repite",
+    "Nosotros": "repetimos",
+    "Vosotros": "repetís",
+    "Ellos": "repiten"
+  },
+  "IndicativePreterite": {
+    "Yo": "repetí",
+    "Tu": "repetiste",
+    "El": "repitió",
+    "Nosotros": "repetimos",
+    "Vosotros": "repetisteis",
+    "Ellos": "repitieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "repetiré",
+    "Tu": "repetirás",
+    "El": "repetirá",
+    "Nosotros": "repetiremos",
+    "Vosotros": "repetiréis",
+    "Ellos": "repetirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "repetiría",
+    "Tu": "repetirías",
+    "El": "repetiría",
+    "Nosotros": "repetiríamos",
+    "Vosotros": "repetiríais",
+    "Ellos": "repetirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "repetía",
+    "Tu": "repetías",
+    "El": "repetía",
+    "Nosotros": "repetíamos",
+    "Vosotros": "repetíais",
+    "Ellos": "repetían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy repitiendo",
+    "Tu": "estás repitiendo",
+    "El": "está repitiendo",
+    "Nosotros": "estamos repitiendo",
+    "Vosotros": "estáis repitiendo",
+    "Ellos": "están repitiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he repetido",
+    "Tu": "has repetido",
+    "El": "ha repetido",
+    "Nosotros": "hemos repetido",
+    "Vosotros": "habéis repetido",
+    "Ellos": "han repetido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había repetido",
+    "Tu": "habías repetido",
+    "El": "había repetido",
+    "Nosotros": "habíamos repetido",
+    "Vosotros": "habíais repetido",
+    "Ellos": "habían repetido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré repetido",
+    "Tu": "habrás repetido",
+    "El": "habrá repetido",
+    "Nosotros": "habremos repetido",
+    "Vosotros": "habréis repetido",
+    "Ellos": "habrán repetido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría repetido",
+    "Tu": "habrías repetido",
+    "El": "habría repetido",
+    "Nosotros": "habríamos repetido",
+    "Vosotros": "habríais repetido",
+    "Ellos": "habrían repetido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "repita",
+    "Tu": "repitas",
+    "El": "repita",
+    "Nosotros": "repitamos",
+    "Vosotros": "repitáis",
+    "Ellos": "repitan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "repite",
+    "El": "repita",
+    "Nosotros": "repitamos",
+    "Vosotros": "repetid",
+    "Ellos": "repitan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no repitas",
+    "El": "no repita",
+    "Nosotros": "no repitamos",
+    "Vosotros": "no repitáis",
+    "Ellos": "no repitan"
+  },
+  "ending": "ir"
+}

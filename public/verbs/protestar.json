@@ -1,0 +1,113 @@
+{
+  "verb": "protestar",
+  "englishInfinitive": "to protest",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "protesto",
+    "Tu": "protestas",
+    "El": "protesta",
+    "Nosotros": "protestamos",
+    "Vosotros": "protestáis",
+    "Ellos": "protestan"
+  },
+  "IndicativePreterite": {
+    "Yo": "protesté",
+    "Tu": "protestaste",
+    "El": "protestó",
+    "Nosotros": "protestamos",
+    "Vosotros": "protestasteis",
+    "Ellos": "protestaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "protestaré",
+    "Tu": "protestarás",
+    "El": "protestará",
+    "Nosotros": "protestaremos",
+    "Vosotros": "protestaréis",
+    "Ellos": "protestarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "protestaría",
+    "Tu": "protestarías",
+    "El": "protestaría",
+    "Nosotros": "protestaríamos",
+    "Vosotros": "protestaríais",
+    "Ellos": "protestarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "protestaba",
+    "Tu": "protestabas",
+    "El": "protestaba",
+    "Nosotros": "protestábamos",
+    "Vosotros": "protestabais",
+    "Ellos": "protestaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy protestando",
+    "Tu": "estás protestando",
+    "El": "está protestando",
+    "Nosotros": "estamos protestando",
+    "Vosotros": "estáis protestando",
+    "Ellos": "están protestando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he protestado",
+    "Tu": "has protestado",
+    "El": "ha protestado",
+    "Nosotros": "hemos protestado",
+    "Vosotros": "habéis protestado",
+    "Ellos": "han protestado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había protestado",
+    "Tu": "habías protestado",
+    "El": "había protestado",
+    "Nosotros": "habíamos protestado",
+    "Vosotros": "habíais protestado",
+    "Ellos": "habían protestado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré protestado",
+    "Tu": "habrás protestado",
+    "El": "habrá protestado",
+    "Nosotros": "habremos protestado",
+    "Vosotros": "habréis protestado",
+    "Ellos": "habrán protestado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría protestado",
+    "Tu": "habrías protestado",
+    "El": "habría protestado",
+    "Nosotros": "habríamos protestado",
+    "Vosotros": "habríais protestado",
+    "Ellos": "habrían protestado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "proteste",
+    "Tu": "protestes",
+    "El": "proteste",
+    "Nosotros": "protestemos",
+    "Vosotros": "protestéis",
+    "Ellos": "protesten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "protesta",
+    "El": "proteste",
+    "Nosotros": "protestemos",
+    "Vosotros": "protestad",
+    "Ellos": "protesten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no protestes",
+    "El": "no proteste",
+    "Nosotros": "no protestemos",
+    "Vosotros": "no protestéis",
+    "Ellos": "no protesten"
+  },
+  "ending": "ar"
+}

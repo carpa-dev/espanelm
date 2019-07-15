@@ -1,0 +1,113 @@
+{
+  "verb": "leer",
+  "englishInfinitive": "to read",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "leo",
+    "Tu": "lees",
+    "El": "lee",
+    "Nosotros": "leemos",
+    "Vosotros": "leéis",
+    "Ellos": "leen"
+  },
+  "IndicativePreterite": {
+    "Yo": "leí",
+    "Tu": "leíste",
+    "El": "leyó",
+    "Nosotros": "leímos",
+    "Vosotros": "leísteis",
+    "Ellos": "leyeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "leeré",
+    "Tu": "leerás",
+    "El": "leerá",
+    "Nosotros": "leeremos",
+    "Vosotros": "leeréis",
+    "Ellos": "leerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "leería",
+    "Tu": "leerías",
+    "El": "leería",
+    "Nosotros": "leeríamos",
+    "Vosotros": "leeríais",
+    "Ellos": "leerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "leía",
+    "Tu": "leías",
+    "El": "leía",
+    "Nosotros": "leíamos",
+    "Vosotros": "leíais",
+    "Ellos": "leían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy leyendo",
+    "Tu": "estás leyendo",
+    "El": "está leyendo",
+    "Nosotros": "estamos leyendo",
+    "Vosotros": "estáis leyendo",
+    "Ellos": "están leyendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he leído",
+    "Tu": "has leído",
+    "El": "ha leído",
+    "Nosotros": "hemos leído",
+    "Vosotros": "habéis leído",
+    "Ellos": "han leído"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había leído",
+    "Tu": "habías leído",
+    "El": "había leído",
+    "Nosotros": "habíamos leído",
+    "Vosotros": "habíais leído",
+    "Ellos": "habían leído"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré leído",
+    "Tu": "habrás leído",
+    "El": "habrá leído",
+    "Nosotros": "habremos leído",
+    "Vosotros": "habréis leído",
+    "Ellos": "habrán leído"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría leído",
+    "Tu": "habrías leído",
+    "El": "habría leído",
+    "Nosotros": "habríamos leído",
+    "Vosotros": "habríais leído",
+    "Ellos": "habrían leído"
+  },
+  "SubjunctivePresent": {
+    "Yo": "lea",
+    "Tu": "leas",
+    "El": "lea",
+    "Nosotros": "leamos",
+    "Vosotros": "leáis",
+    "Ellos": "lean"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "lee",
+    "El": "lea",
+    "Nosotros": "leamos",
+    "Vosotros": "leed",
+    "Ellos": "lean"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no leas",
+    "El": "no lea",
+    "Nosotros": "no leamos",
+    "Vosotros": "no leáis",
+    "Ellos": "no lean"
+  },
+  "ending": "er"
+}

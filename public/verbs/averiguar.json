@@ -1,0 +1,113 @@
+{
+  "verb": "averiguar",
+  "englishInfinitive": "to find out",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "averiguo",
+    "Tu": "averiguas",
+    "El": "averigua",
+    "Nosotros": "averiguamos",
+    "Vosotros": "averiguáis",
+    "Ellos": "averiguan"
+  },
+  "IndicativePreterite": {
+    "Yo": "averigüé",
+    "Tu": "averiguaste",
+    "El": "averiguó",
+    "Nosotros": "averiguamos",
+    "Vosotros": "averiguasteis",
+    "Ellos": "averiguaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "averiguaré",
+    "Tu": "averiguarás",
+    "El": "averiguará",
+    "Nosotros": "averiguaremos",
+    "Vosotros": "averiguaréis",
+    "Ellos": "averiguarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "averiguaría",
+    "Tu": "averiguarías",
+    "El": "averiguaría",
+    "Nosotros": "averiguaríamos",
+    "Vosotros": "averiguaríais",
+    "Ellos": "averiguarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "averiguaba",
+    "Tu": "averiguabas",
+    "El": "averiguaba",
+    "Nosotros": "averiguábamos",
+    "Vosotros": "averiguabais",
+    "Ellos": "averiguaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy averiguando",
+    "Tu": "estás averiguando",
+    "El": "está averiguando",
+    "Nosotros": "estamos averiguando",
+    "Vosotros": "estáis averiguando",
+    "Ellos": "están averiguando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he averiguado",
+    "Tu": "has averiguado",
+    "El": "ha averiguado",
+    "Nosotros": "hemos averiguado",
+    "Vosotros": "habéis averiguado",
+    "Ellos": "han averiguado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había averiguado",
+    "Tu": "habías averiguado",
+    "El": "había averiguado",
+    "Nosotros": "habíamos averiguado",
+    "Vosotros": "habíais averiguado",
+    "Ellos": "habían averiguado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré averiguado",
+    "Tu": "habrás averiguado",
+    "El": "habrá averiguado",
+    "Nosotros": "habremos averiguado",
+    "Vosotros": "habréis averiguado",
+    "Ellos": "habrán averiguado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría averiguado",
+    "Tu": "habrías averiguado",
+    "El": "habría averiguado",
+    "Nosotros": "habríamos averiguado",
+    "Vosotros": "habríais averiguado",
+    "Ellos": "habrían averiguado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "averigüe",
+    "Tu": "averigües",
+    "El": "averigüe",
+    "Nosotros": "averigüemos",
+    "Vosotros": "averigüéis",
+    "Ellos": "averigüen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "averigua",
+    "El": "averigüe",
+    "Nosotros": "averigüemos",
+    "Vosotros": "averiguad",
+    "Ellos": "averigüen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no averigües",
+    "El": "no averigüe",
+    "Nosotros": "no averigüemos",
+    "Vosotros": "no averigüéis",
+    "Ellos": "no averigüen"
+  },
+  "ending": "ar"
+}

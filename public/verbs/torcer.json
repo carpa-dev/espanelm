@@ -1,0 +1,113 @@
+{
+  "verb": "torcer",
+  "englishInfinitive": "to twist",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "tuerzo",
+    "Tu": "tuerces",
+    "El": "tuerce",
+    "Nosotros": "torcemos",
+    "Vosotros": "torcéis",
+    "Ellos": "tuercen"
+  },
+  "IndicativePreterite": {
+    "Yo": "torcí",
+    "Tu": "torciste",
+    "El": "torció",
+    "Nosotros": "torcimos",
+    "Vosotros": "torcisteis",
+    "Ellos": "torcieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "torceré",
+    "Tu": "torcerás",
+    "El": "torcerá",
+    "Nosotros": "torceremos",
+    "Vosotros": "torceréis",
+    "Ellos": "torcerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "torcería",
+    "Tu": "torcerías",
+    "El": "torcería",
+    "Nosotros": "torceríamos",
+    "Vosotros": "torceríais",
+    "Ellos": "torcerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "torcía",
+    "Tu": "torcías",
+    "El": "torcía",
+    "Nosotros": "torcíamos",
+    "Vosotros": "torcíais",
+    "Ellos": "torcían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy torciendo",
+    "Tu": "estás torciendo",
+    "El": "está torciendo",
+    "Nosotros": "estamos torciendo",
+    "Vosotros": "estáis torciendo",
+    "Ellos": "están torciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he torcido",
+    "Tu": "has torcido",
+    "El": "ha torcido",
+    "Nosotros": "hemos torcido",
+    "Vosotros": "habéis torcido",
+    "Ellos": "han torcido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había torcido",
+    "Tu": "habías torcido",
+    "El": "había torcido",
+    "Nosotros": "habíamos torcido",
+    "Vosotros": "habíais torcido",
+    "Ellos": "habían torcido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré torcido",
+    "Tu": "habrás torcido",
+    "El": "habrá torcido",
+    "Nosotros": "habremos torcido",
+    "Vosotros": "habréis torcido",
+    "Ellos": "habrán torcido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría torcido",
+    "Tu": "habrías torcido",
+    "El": "habría torcido",
+    "Nosotros": "habríamos torcido",
+    "Vosotros": "habríais torcido",
+    "Ellos": "habrían torcido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "tuerza",
+    "Tu": "tuerzas",
+    "El": "tuerza",
+    "Nosotros": "torzamos",
+    "Vosotros": "torzáis",
+    "Ellos": "tuerzan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "tuerce",
+    "El": "tuerza",
+    "Nosotros": "torzamos",
+    "Vosotros": "torced",
+    "Ellos": "tuerzan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no tuerzas",
+    "El": "no tuerza",
+    "Nosotros": "no torzamos",
+    "Vosotros": "no torzáis",
+    "Ellos": "no tuerzan"
+  },
+  "ending": "er"
+}

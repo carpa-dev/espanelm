@@ -1,0 +1,113 @@
+{
+  "verb": "deshacer",
+  "englishInfinitive": "to undo",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "deshago",
+    "Tu": "deshaces",
+    "El": "deshace",
+    "Nosotros": "deshacemos",
+    "Vosotros": "deshacéis",
+    "Ellos": "deshacen"
+  },
+  "IndicativePreterite": {
+    "Yo": "deshice",
+    "Tu": "deshiciste",
+    "El": "deshizo",
+    "Nosotros": "deshicimos",
+    "Vosotros": "deshicisteis",
+    "Ellos": "deshicieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "desharé",
+    "Tu": "desharás",
+    "El": "deshará",
+    "Nosotros": "desharemos",
+    "Vosotros": "desharéis",
+    "Ellos": "desharán"
+  },
+  "ConditionalPresent": {
+    "Yo": "desharía",
+    "Tu": "desharías",
+    "El": "desharía",
+    "Nosotros": "desharíamos",
+    "Vosotros": "desharíais",
+    "Ellos": "desharían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "deshacía",
+    "Tu": "deshacías",
+    "El": "deshacía",
+    "Nosotros": "deshacíamos",
+    "Vosotros": "deshacíais",
+    "Ellos": "deshacían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy deshaciendo",
+    "Tu": "estás deshaciendo",
+    "El": "está deshaciendo",
+    "Nosotros": "estamos deshaciendo",
+    "Vosotros": "estáis deshaciendo",
+    "Ellos": "están deshaciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he deshecho",
+    "Tu": "has deshecho",
+    "El": "ha deshecho",
+    "Nosotros": "hemos deshecho",
+    "Vosotros": "habéis deshecho",
+    "Ellos": "han deshecho"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había deshecho",
+    "Tu": "habías deshecho",
+    "El": "había deshecho",
+    "Nosotros": "habíamos deshecho",
+    "Vosotros": "habíais deshecho",
+    "Ellos": "habían deshecho"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré deshecho",
+    "Tu": "habrás deshecho",
+    "El": "habrá deshecho",
+    "Nosotros": "habremos deshecho",
+    "Vosotros": "habréis deshecho",
+    "Ellos": "habrán deshecho"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría deshecho",
+    "Tu": "habrías deshecho",
+    "El": "habría deshecho",
+    "Nosotros": "habríamos deshecho",
+    "Vosotros": "habríais deshecho",
+    "Ellos": "habrían deshecho"
+  },
+  "SubjunctivePresent": {
+    "Yo": "deshaga",
+    "Tu": "deshagas",
+    "El": "deshaga",
+    "Nosotros": "deshagamos",
+    "Vosotros": "deshagáis",
+    "Ellos": "deshagan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "deshaz",
+    "El": "deshaga",
+    "Nosotros": "deshagamos",
+    "Vosotros": "deshaced",
+    "Ellos": "deshagan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no deshagas",
+    "El": "no deshaga",
+    "Nosotros": "no deshagamos",
+    "Vosotros": "no deshagáis",
+    "Ellos": "no deshagan"
+  },
+  "ending": "er"
+}

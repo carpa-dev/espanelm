@@ -1,0 +1,113 @@
+{
+  "verb": "tirar",
+  "englishInfinitive": "to throw",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "tiro",
+    "Tu": "tiras",
+    "El": "tira",
+    "Nosotros": "tiramos",
+    "Vosotros": "tiráis",
+    "Ellos": "tiran"
+  },
+  "IndicativePreterite": {
+    "Yo": "tiré",
+    "Tu": "tiraste",
+    "El": "tiró",
+    "Nosotros": "tiramos",
+    "Vosotros": "tirasteis",
+    "Ellos": "tiraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "tiraré",
+    "Tu": "tirarás",
+    "El": "tirará",
+    "Nosotros": "tiraremos",
+    "Vosotros": "tiraréis",
+    "Ellos": "tirarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "tiraría",
+    "Tu": "tirarías",
+    "El": "tiraría",
+    "Nosotros": "tiraríamos",
+    "Vosotros": "tiraríais",
+    "Ellos": "tirarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "tiraba",
+    "Tu": "tirabas",
+    "El": "tiraba",
+    "Nosotros": "tirábamos",
+    "Vosotros": "tirabais",
+    "Ellos": "tiraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy tirando",
+    "Tu": "estás tirando",
+    "El": "está tirando",
+    "Nosotros": "estamos tirando",
+    "Vosotros": "estáis tirando",
+    "Ellos": "están tirando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he tirado",
+    "Tu": "has tirado",
+    "El": "ha tirado",
+    "Nosotros": "hemos tirado",
+    "Vosotros": "habéis tirado",
+    "Ellos": "han tirado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había tirado",
+    "Tu": "habías tirado",
+    "El": "había tirado",
+    "Nosotros": "habíamos tirado",
+    "Vosotros": "habíais tirado",
+    "Ellos": "habían tirado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré tirado",
+    "Tu": "habrás tirado",
+    "El": "habrá tirado",
+    "Nosotros": "habremos tirado",
+    "Vosotros": "habréis tirado",
+    "Ellos": "habrán tirado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría tirado",
+    "Tu": "habrías tirado",
+    "El": "habría tirado",
+    "Nosotros": "habríamos tirado",
+    "Vosotros": "habríais tirado",
+    "Ellos": "habrían tirado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "tire",
+    "Tu": "tires",
+    "El": "tire",
+    "Nosotros": "tiremos",
+    "Vosotros": "tiréis",
+    "Ellos": "tiren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "tira",
+    "El": "tire",
+    "Nosotros": "tiremos",
+    "Vosotros": "tirad",
+    "Ellos": "tiren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no tires",
+    "El": "no tire",
+    "Nosotros": "no tiremos",
+    "Vosotros": "no tiréis",
+    "Ellos": "no tiren"
+  },
+  "ending": "ar"
+}

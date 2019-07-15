@@ -1,0 +1,113 @@
+{
+  "verb": "contribuir",
+  "englishInfinitive": "to contribute",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "contribuyo",
+    "Tu": "contribuyes",
+    "El": "contribuye",
+    "Nosotros": "contribuimos",
+    "Vosotros": "contribuís",
+    "Ellos": "contribuyen"
+  },
+  "IndicativePreterite": {
+    "Yo": "contribuí",
+    "Tu": "contribuiste",
+    "El": "contribuyó",
+    "Nosotros": "contribuimos",
+    "Vosotros": "contribuisteis",
+    "Ellos": "contribuyeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "contribuiré",
+    "Tu": "contribuirás",
+    "El": "contribuirá",
+    "Nosotros": "contribuiremos",
+    "Vosotros": "contribuiréis",
+    "Ellos": "contribuirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "contribuiría",
+    "Tu": "contribuirías",
+    "El": "contribuiría",
+    "Nosotros": "contribuiríamos",
+    "Vosotros": "contribuiríais",
+    "Ellos": "contribuirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "contribuía",
+    "Tu": "contribuías",
+    "El": "contribuía",
+    "Nosotros": "contribuíamos",
+    "Vosotros": "contribuíais",
+    "Ellos": "contribuían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy contribuyendo",
+    "Tu": "estás contribuyendo",
+    "El": "está contribuyendo",
+    "Nosotros": "estamos contribuyendo",
+    "Vosotros": "estáis contribuyendo",
+    "Ellos": "están contribuyendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he contribuido",
+    "Tu": "has contribuido",
+    "El": "ha contribuido",
+    "Nosotros": "hemos contribuido",
+    "Vosotros": "habéis contribuido",
+    "Ellos": "han contribuido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había contribuido",
+    "Tu": "habías contribuido",
+    "El": "había contribuido",
+    "Nosotros": "habíamos contribuido",
+    "Vosotros": "habíais contribuido",
+    "Ellos": "habían contribuido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré contribuido",
+    "Tu": "habrás contribuido",
+    "El": "habrá contribuido",
+    "Nosotros": "habremos contribuido",
+    "Vosotros": "habréis contribuido",
+    "Ellos": "habrán contribuido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría contribuido",
+    "Tu": "habrías contribuido",
+    "El": "habría contribuido",
+    "Nosotros": "habríamos contribuido",
+    "Vosotros": "habríais contribuido",
+    "Ellos": "habrían contribuido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "contribuya",
+    "Tu": "contribuyas",
+    "El": "contribuya",
+    "Nosotros": "contribuyamos",
+    "Vosotros": "contribuyáis",
+    "Ellos": "contribuyan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "contribuye",
+    "El": "contribuya",
+    "Nosotros": "contribuyamos",
+    "Vosotros": "contribuid",
+    "Ellos": "contribuyan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no contribuyas",
+    "El": "no contribuya",
+    "Nosotros": "no contribuyamos",
+    "Vosotros": "no contribuyáis",
+    "Ellos": "no contribuyan"
+  },
+  "ending": "ir"
+}

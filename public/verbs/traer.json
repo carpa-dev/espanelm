@@ -1,0 +1,113 @@
+{
+  "verb": "traer",
+  "englishInfinitive": "to bring",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "traigo",
+    "Tu": "traes",
+    "El": "trae",
+    "Nosotros": "traemos",
+    "Vosotros": "traéis",
+    "Ellos": "traen"
+  },
+  "IndicativePreterite": {
+    "Yo": "traje",
+    "Tu": "trajiste",
+    "El": "trajo",
+    "Nosotros": "trajimos",
+    "Vosotros": "trajisteis",
+    "Ellos": "trajeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "traeré",
+    "Tu": "traerás",
+    "El": "traerá",
+    "Nosotros": "traeremos",
+    "Vosotros": "traeréis",
+    "Ellos": "traerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "traería",
+    "Tu": "traerías",
+    "El": "traería",
+    "Nosotros": "traeríamos",
+    "Vosotros": "traeríais",
+    "Ellos": "traerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "traía",
+    "Tu": "traías",
+    "El": "traía",
+    "Nosotros": "traíamos",
+    "Vosotros": "traíais",
+    "Ellos": "traían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy trayendo",
+    "Tu": "estás trayendo",
+    "El": "está trayendo",
+    "Nosotros": "estamos trayendo",
+    "Vosotros": "estáis trayendo",
+    "Ellos": "están trayendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he traído",
+    "Tu": "has traído",
+    "El": "ha traído",
+    "Nosotros": "hemos traído",
+    "Vosotros": "habéis traído",
+    "Ellos": "han traído"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había traído",
+    "Tu": "habías traído",
+    "El": "había traído",
+    "Nosotros": "habíamos traído",
+    "Vosotros": "habíais traído",
+    "Ellos": "habían traído"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré traído",
+    "Tu": "habrás traído",
+    "El": "habrá traído",
+    "Nosotros": "habremos traído",
+    "Vosotros": "habréis traído",
+    "Ellos": "habrán traído"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría traído",
+    "Tu": "habrías traído",
+    "El": "habría traído",
+    "Nosotros": "habríamos traído",
+    "Vosotros": "habríais traído",
+    "Ellos": "habrían traído"
+  },
+  "SubjunctivePresent": {
+    "Yo": "traiga",
+    "Tu": "traigas",
+    "El": "traiga",
+    "Nosotros": "traigamos",
+    "Vosotros": "traigáis",
+    "Ellos": "traigan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "trae",
+    "El": "traiga",
+    "Nosotros": "traigamos",
+    "Vosotros": "traed",
+    "Ellos": "traigan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no traigas",
+    "El": "no traiga",
+    "Nosotros": "no traigamos",
+    "Vosotros": "no traigáis",
+    "Ellos": "no traigan"
+  },
+  "ending": "er"
+}

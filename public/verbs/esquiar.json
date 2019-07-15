@@ -1,0 +1,113 @@
+{
+  "verb": "esquiar",
+  "englishInfinitive": "to ski",
+  "irregular": true,
+  "type": "i > í",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "esquío",
+    "Tu": "esquías",
+    "El": "esquía",
+    "Nosotros": "esquiamos",
+    "Vosotros": "esquiáis",
+    "Ellos": "esquían"
+  },
+  "IndicativePreterite": {
+    "Yo": "esquié",
+    "Tu": "esquiaste",
+    "El": "esquió",
+    "Nosotros": "esquiamos",
+    "Vosotros": "esquiasteis",
+    "Ellos": "esquiaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "esquiaré",
+    "Tu": "esquiarás",
+    "El": "esquiará",
+    "Nosotros": "esquiaremos",
+    "Vosotros": "esquiaréis",
+    "Ellos": "esquiarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "esquiaría",
+    "Tu": "esquiarías",
+    "El": "esquiaría",
+    "Nosotros": "esquiaríamos",
+    "Vosotros": "esquiaríais",
+    "Ellos": "esquiarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "esquiaba",
+    "Tu": "esquiabas",
+    "El": "esquiaba",
+    "Nosotros": "esquiábamos",
+    "Vosotros": "esquiabais",
+    "Ellos": "esquiaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy esquiando",
+    "Tu": "estás esquiando",
+    "El": "está esquiando",
+    "Nosotros": "estamos esquiando",
+    "Vosotros": "estáis esquiando",
+    "Ellos": "están esquiando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he esquiado",
+    "Tu": "has esquiado",
+    "El": "ha esquiado",
+    "Nosotros": "hemos esquiado",
+    "Vosotros": "habéis esquiado",
+    "Ellos": "han esquiado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había esquiado",
+    "Tu": "habías esquiado",
+    "El": "había esquiado",
+    "Nosotros": "habíamos esquiado",
+    "Vosotros": "habíais esquiado",
+    "Ellos": "habían esquiado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré esquiado",
+    "Tu": "habrás esquiado",
+    "El": "habrá esquiado",
+    "Nosotros": "habremos esquiado",
+    "Vosotros": "habréis esquiado",
+    "Ellos": "habrán esquiado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría esquiado",
+    "Tu": "habrías esquiado",
+    "El": "habría esquiado",
+    "Nosotros": "habríamos esquiado",
+    "Vosotros": "habríais esquiado",
+    "Ellos": "habrían esquiado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "esquíe",
+    "Tu": "esquíes",
+    "El": "esquíe",
+    "Nosotros": "esquiemos",
+    "Vosotros": "esquiéis",
+    "Ellos": "esquíen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "esquía",
+    "El": "esquíe",
+    "Nosotros": "esquiemos",
+    "Vosotros": "esquiad",
+    "Ellos": "esquíen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no esquíes",
+    "El": "no esquíe",
+    "Nosotros": "no esquiemos",
+    "Vosotros": "no esquiéis",
+    "Ellos": "no esquíen"
+  },
+  "ending": "ar"
+}

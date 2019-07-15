@@ -1,0 +1,113 @@
+{
+  "verb": "proteger",
+  "englishInfinitive": "to protect",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "protejo",
+    "Tu": "proteges",
+    "El": "protege",
+    "Nosotros": "protegemos",
+    "Vosotros": "protegéis",
+    "Ellos": "protegen"
+  },
+  "IndicativePreterite": {
+    "Yo": "protegí",
+    "Tu": "protegiste",
+    "El": "protegió",
+    "Nosotros": "protegimos",
+    "Vosotros": "protegisteis",
+    "Ellos": "protegieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "protegeré",
+    "Tu": "protegerás",
+    "El": "protegerá",
+    "Nosotros": "protegeremos",
+    "Vosotros": "protegeréis",
+    "Ellos": "protegerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "protegería",
+    "Tu": "protegerías",
+    "El": "protegería",
+    "Nosotros": "protegeríamos",
+    "Vosotros": "protegeríais",
+    "Ellos": "protegerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "protegía",
+    "Tu": "protegías",
+    "El": "protegía",
+    "Nosotros": "protegíamos",
+    "Vosotros": "protegíais",
+    "Ellos": "protegían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy protegiendo",
+    "Tu": "estás protegiendo",
+    "El": "está protegiendo",
+    "Nosotros": "estamos protegiendo",
+    "Vosotros": "estáis protegiendo",
+    "Ellos": "están protegiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he protegido",
+    "Tu": "has protegido",
+    "El": "ha protegido",
+    "Nosotros": "hemos protegido",
+    "Vosotros": "habéis protegido",
+    "Ellos": "han protegido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había protegido",
+    "Tu": "habías protegido",
+    "El": "había protegido",
+    "Nosotros": "habíamos protegido",
+    "Vosotros": "habíais protegido",
+    "Ellos": "habían protegido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré protegido",
+    "Tu": "habrás protegido",
+    "El": "habrá protegido",
+    "Nosotros": "habremos protegido",
+    "Vosotros": "habréis protegido",
+    "Ellos": "habrán protegido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría protegido",
+    "Tu": "habrías protegido",
+    "El": "habría protegido",
+    "Nosotros": "habríamos protegido",
+    "Vosotros": "habríais protegido",
+    "Ellos": "habrían protegido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "proteja",
+    "Tu": "protejas",
+    "El": "proteja",
+    "Nosotros": "protejamos",
+    "Vosotros": "protejáis",
+    "Ellos": "protejan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "protege",
+    "El": "proteja",
+    "Nosotros": "protejamos",
+    "Vosotros": "proteged",
+    "Ellos": "protejan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no protejas",
+    "El": "no proteja",
+    "Nosotros": "no protejamos",
+    "Vosotros": "no protejáis",
+    "Ellos": "no protejan"
+  },
+  "ending": "er"
+}

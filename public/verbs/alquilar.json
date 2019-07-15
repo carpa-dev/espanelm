@@ -1,0 +1,113 @@
+{
+  "verb": "alquilar",
+  "englishInfinitive": "to rent",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "alquilo",
+    "Tu": "alquilas",
+    "El": "alquila",
+    "Nosotros": "alquilamos",
+    "Vosotros": "alquiláis",
+    "Ellos": "alquilan"
+  },
+  "IndicativePreterite": {
+    "Yo": "alquilé",
+    "Tu": "alquilaste",
+    "El": "alquiló",
+    "Nosotros": "alquilamos",
+    "Vosotros": "alquilasteis",
+    "Ellos": "alquilaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "alquilaré",
+    "Tu": "alquilarás",
+    "El": "alquilará",
+    "Nosotros": "alquilaremos",
+    "Vosotros": "alquilaréis",
+    "Ellos": "alquilarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "alquilaría",
+    "Tu": "alquilarías",
+    "El": "alquilaría",
+    "Nosotros": "alquilaríamos",
+    "Vosotros": "alquilaríais",
+    "Ellos": "alquilarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "alquilaba",
+    "Tu": "alquilabas",
+    "El": "alquilaba",
+    "Nosotros": "alquilábamos",
+    "Vosotros": "alquilabais",
+    "Ellos": "alquilaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy alquilando",
+    "Tu": "estás alquilando",
+    "El": "está alquilando",
+    "Nosotros": "estamos alquilando",
+    "Vosotros": "estáis alquilando",
+    "Ellos": "están alquilando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he alquilado",
+    "Tu": "has alquilado",
+    "El": "ha alquilado",
+    "Nosotros": "hemos alquilado",
+    "Vosotros": "habéis alquilado",
+    "Ellos": "han alquilado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había alquilado",
+    "Tu": "habías alquilado",
+    "El": "había alquilado",
+    "Nosotros": "habíamos alquilado",
+    "Vosotros": "habíais alquilado",
+    "Ellos": "habían alquilado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré alquilado",
+    "Tu": "habrás alquilado",
+    "El": "habrá alquilado",
+    "Nosotros": "habremos alquilado",
+    "Vosotros": "habréis alquilado",
+    "Ellos": "habrán alquilado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría alquilado",
+    "Tu": "habrías alquilado",
+    "El": "habría alquilado",
+    "Nosotros": "habríamos alquilado",
+    "Vosotros": "habríais alquilado",
+    "Ellos": "habrían alquilado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "alquile",
+    "Tu": "alquiles",
+    "El": "alquile",
+    "Nosotros": "alquilemos",
+    "Vosotros": "alquiléis",
+    "Ellos": "alquilen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "alquila",
+    "El": "alquile",
+    "Nosotros": "alquilemos",
+    "Vosotros": "alquilad",
+    "Ellos": "alquilen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no alquiles",
+    "El": "no alquile",
+    "Nosotros": "no alquilemos",
+    "Vosotros": "no alquiléis",
+    "Ellos": "no alquilen"
+  },
+  "ending": "ar"
+}

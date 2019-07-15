@@ -1,0 +1,113 @@
+{
+  "verb": "invitar",
+  "englishInfinitive": "to invite",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "invito",
+    "Tu": "invitas",
+    "El": "invita",
+    "Nosotros": "invitamos",
+    "Vosotros": "invitáis",
+    "Ellos": "invitan"
+  },
+  "IndicativePreterite": {
+    "Yo": "invité",
+    "Tu": "invitaste",
+    "El": "invitó",
+    "Nosotros": "invitamos",
+    "Vosotros": "invitasteis",
+    "Ellos": "invitaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "invitaré",
+    "Tu": "invitarás",
+    "El": "invitará",
+    "Nosotros": "invitaremos",
+    "Vosotros": "invitaréis",
+    "Ellos": "invitarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "invitaría",
+    "Tu": "invitarías",
+    "El": "invitaría",
+    "Nosotros": "invitaríamos",
+    "Vosotros": "invitaríais",
+    "Ellos": "invitarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "invitaba",
+    "Tu": "invitabas",
+    "El": "invitaba",
+    "Nosotros": "invitábamos",
+    "Vosotros": "invitabais",
+    "Ellos": "invitaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy invitando",
+    "Tu": "estás invitando",
+    "El": "está invitando",
+    "Nosotros": "estamos invitando",
+    "Vosotros": "estáis invitando",
+    "Ellos": "están invitando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he invitado",
+    "Tu": "has invitado",
+    "El": "ha invitado",
+    "Nosotros": "hemos invitado",
+    "Vosotros": "habéis invitado",
+    "Ellos": "han invitado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había invitado",
+    "Tu": "habías invitado",
+    "El": "había invitado",
+    "Nosotros": "habíamos invitado",
+    "Vosotros": "habíais invitado",
+    "Ellos": "habían invitado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré invitado",
+    "Tu": "habrás invitado",
+    "El": "habrá invitado",
+    "Nosotros": "habremos invitado",
+    "Vosotros": "habréis invitado",
+    "Ellos": "habrán invitado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría invitado",
+    "Tu": "habrías invitado",
+    "El": "habría invitado",
+    "Nosotros": "habríamos invitado",
+    "Vosotros": "habríais invitado",
+    "Ellos": "habrían invitado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "invite",
+    "Tu": "invites",
+    "El": "invite",
+    "Nosotros": "invitemos",
+    "Vosotros": "invitéis",
+    "Ellos": "inviten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "invita",
+    "El": "invite",
+    "Nosotros": "invitemos",
+    "Vosotros": "invitad",
+    "Ellos": "inviten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no invites",
+    "El": "no invite",
+    "Nosotros": "no invitemos",
+    "Vosotros": "no invitéis",
+    "Ellos": "no inviten"
+  },
+  "ending": "ar"
+}

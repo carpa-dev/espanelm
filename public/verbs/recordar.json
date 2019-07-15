@@ -1,0 +1,113 @@
+{
+  "verb": "recordar",
+  "englishInfinitive": "to remember",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "recuerdo",
+    "Tu": "recuerdas",
+    "El": "recuerda",
+    "Nosotros": "recordamos",
+    "Vosotros": "recordáis",
+    "Ellos": "recuerdan"
+  },
+  "IndicativePreterite": {
+    "Yo": "recordé",
+    "Tu": "recordaste",
+    "El": "recordó",
+    "Nosotros": "recordamos",
+    "Vosotros": "recordasteis",
+    "Ellos": "recordaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "recordaré",
+    "Tu": "recordarás",
+    "El": "recordará",
+    "Nosotros": "recordaremos",
+    "Vosotros": "recordaréis",
+    "Ellos": "recordarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "recordaría",
+    "Tu": "recordarías",
+    "El": "recordaría",
+    "Nosotros": "recordaríamos",
+    "Vosotros": "recordaríais",
+    "Ellos": "recordarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "recordaba",
+    "Tu": "recordabas",
+    "El": "recordaba",
+    "Nosotros": "recordábamos",
+    "Vosotros": "recordabais",
+    "Ellos": "recordaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy recordando",
+    "Tu": "estás recordando",
+    "El": "está recordando",
+    "Nosotros": "estamos recordando",
+    "Vosotros": "estáis recordando",
+    "Ellos": "están recordando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he recordado",
+    "Tu": "has recordado",
+    "El": "ha recordado",
+    "Nosotros": "hemos recordado",
+    "Vosotros": "habéis recordado",
+    "Ellos": "han recordado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había recordado",
+    "Tu": "habías recordado",
+    "El": "había recordado",
+    "Nosotros": "habíamos recordado",
+    "Vosotros": "habíais recordado",
+    "Ellos": "habían recordado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré recordado",
+    "Tu": "habrás recordado",
+    "El": "habrá recordado",
+    "Nosotros": "habremos recordado",
+    "Vosotros": "habréis recordado",
+    "Ellos": "habrán recordado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría recordado",
+    "Tu": "habrías recordado",
+    "El": "habría recordado",
+    "Nosotros": "habríamos recordado",
+    "Vosotros": "habríais recordado",
+    "Ellos": "habrían recordado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "recuerde",
+    "Tu": "recuerdes",
+    "El": "recuerde",
+    "Nosotros": "recordemos",
+    "Vosotros": "recordéis",
+    "Ellos": "recuerden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "recuerda",
+    "El": "recuerde",
+    "Nosotros": "recordemos",
+    "Vosotros": "recordad",
+    "Ellos": "recuerden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no recuerdes",
+    "El": "no recuerde",
+    "Nosotros": "no recordemos",
+    "Vosotros": "no recordéis",
+    "Ellos": "no recuerden"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "diseñar",
+  "englishInfinitive": "to design",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "diseño",
+    "Tu": "diseñas",
+    "El": "diseña",
+    "Nosotros": "diseñamos",
+    "Vosotros": "diseñáis",
+    "Ellos": "diseñan"
+  },
+  "IndicativePreterite": {
+    "Yo": "diseñé",
+    "Tu": "diseñaste",
+    "El": "diseñó",
+    "Nosotros": "diseñamos",
+    "Vosotros": "diseñasteis",
+    "Ellos": "diseñaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "diseñaré",
+    "Tu": "diseñarás",
+    "El": "diseñará",
+    "Nosotros": "diseñaremos",
+    "Vosotros": "diseñaréis",
+    "Ellos": "diseñarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "diseñaría",
+    "Tu": "diseñarías",
+    "El": "diseñaría",
+    "Nosotros": "diseñaríamos",
+    "Vosotros": "diseñaríais",
+    "Ellos": "diseñarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "diseñaba",
+    "Tu": "diseñabas",
+    "El": "diseñaba",
+    "Nosotros": "diseñábamos",
+    "Vosotros": "diseñabais",
+    "Ellos": "diseñaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy diseñando",
+    "Tu": "estás diseñando",
+    "El": "está diseñando",
+    "Nosotros": "estamos diseñando",
+    "Vosotros": "estáis diseñando",
+    "Ellos": "están diseñando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he diseñado",
+    "Tu": "has diseñado",
+    "El": "ha diseñado",
+    "Nosotros": "hemos diseñado",
+    "Vosotros": "habéis diseñado",
+    "Ellos": "han diseñado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había diseñado",
+    "Tu": "habías diseñado",
+    "El": "había diseñado",
+    "Nosotros": "habíamos diseñado",
+    "Vosotros": "habíais diseñado",
+    "Ellos": "habían diseñado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré diseñado",
+    "Tu": "habrás diseñado",
+    "El": "habrá diseñado",
+    "Nosotros": "habremos diseñado",
+    "Vosotros": "habréis diseñado",
+    "Ellos": "habrán diseñado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría diseñado",
+    "Tu": "habrías diseñado",
+    "El": "habría diseñado",
+    "Nosotros": "habríamos diseñado",
+    "Vosotros": "habríais diseñado",
+    "Ellos": "habrían diseñado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "diseñe",
+    "Tu": "diseñes",
+    "El": "diseñe",
+    "Nosotros": "diseñemos",
+    "Vosotros": "diseñéis",
+    "Ellos": "diseñen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "diseña",
+    "El": "diseñe",
+    "Nosotros": "diseñemos",
+    "Vosotros": "diseñad",
+    "Ellos": "diseñen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no diseñes",
+    "El": "no diseñe",
+    "Nosotros": "no diseñemos",
+    "Vosotros": "no diseñéis",
+    "Ellos": "no diseñen"
+  },
+  "ending": "ar"
+}

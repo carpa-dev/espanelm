@@ -1,0 +1,113 @@
+{
+  "verb": "regatear",
+  "englishInfinitive": "to haggle (over)",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "regateo",
+    "Tu": "regateas",
+    "El": "regatea",
+    "Nosotros": "regateamos",
+    "Vosotros": "regateáis",
+    "Ellos": "regatean"
+  },
+  "IndicativePreterite": {
+    "Yo": "regateé",
+    "Tu": "regateaste",
+    "El": "regateó",
+    "Nosotros": "regateamos",
+    "Vosotros": "regateasteis",
+    "Ellos": "regatearon"
+  },
+  "IndicativeFuture": {
+    "Yo": "regatearé",
+    "Tu": "regatearás",
+    "El": "regateará",
+    "Nosotros": "regatearemos",
+    "Vosotros": "regatearéis",
+    "Ellos": "regatearán"
+  },
+  "ConditionalPresent": {
+    "Yo": "regatearía",
+    "Tu": "regatearías",
+    "El": "regatearía",
+    "Nosotros": "regatearíamos",
+    "Vosotros": "regatearíais",
+    "Ellos": "regatearían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "regateaba",
+    "Tu": "regateabas",
+    "El": "regateaba",
+    "Nosotros": "regateábamos",
+    "Vosotros": "regateabais",
+    "Ellos": "regateaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy regateando",
+    "Tu": "estás regateando",
+    "El": "está regateando",
+    "Nosotros": "estamos regateando",
+    "Vosotros": "estáis regateando",
+    "Ellos": "están regateando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he regateado",
+    "Tu": "has regateado",
+    "El": "ha regateado",
+    "Nosotros": "hemos regateado",
+    "Vosotros": "habéis regateado",
+    "Ellos": "han regateado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había regateado",
+    "Tu": "habías regateado",
+    "El": "había regateado",
+    "Nosotros": "habíamos regateado",
+    "Vosotros": "habíais regateado",
+    "Ellos": "habían regateado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré regateado",
+    "Tu": "habrás regateado",
+    "El": "habrá regateado",
+    "Nosotros": "habremos regateado",
+    "Vosotros": "habréis regateado",
+    "Ellos": "habrán regateado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría regateado",
+    "Tu": "habrías regateado",
+    "El": "habría regateado",
+    "Nosotros": "habríamos regateado",
+    "Vosotros": "habríais regateado",
+    "Ellos": "habrían regateado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "regatee",
+    "Tu": "regatees",
+    "El": "regatee",
+    "Nosotros": "regateemos",
+    "Vosotros": "regateéis",
+    "Ellos": "regateen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "regatea",
+    "El": "regatee",
+    "Nosotros": "regateemos",
+    "Vosotros": "regatead",
+    "Ellos": "regateen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no regatees",
+    "El": "no regatee",
+    "Nosotros": "no regateemos",
+    "Vosotros": "no regateéis",
+    "Ellos": "no regateen"
+  },
+  "ending": "ar"
+}

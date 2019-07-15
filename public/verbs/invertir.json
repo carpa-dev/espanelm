@@ -1,0 +1,113 @@
+{
+  "verb": "invertir",
+  "englishInfinitive": "to invest",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "invierto",
+    "Tu": "inviertes",
+    "El": "invierte",
+    "Nosotros": "invertimos",
+    "Vosotros": "invertís",
+    "Ellos": "invierten"
+  },
+  "IndicativePreterite": {
+    "Yo": "invertí",
+    "Tu": "invertiste",
+    "El": "invirtió",
+    "Nosotros": "invertimos",
+    "Vosotros": "invertisteis",
+    "Ellos": "invirtieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "invertiré",
+    "Tu": "invertirás",
+    "El": "invertirá",
+    "Nosotros": "invertiremos",
+    "Vosotros": "invertiréis",
+    "Ellos": "invertirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "invertiría",
+    "Tu": "invertirías",
+    "El": "invertiría",
+    "Nosotros": "invertiríamos",
+    "Vosotros": "invertiríais",
+    "Ellos": "invertirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "invertía",
+    "Tu": "invertías",
+    "El": "invertía",
+    "Nosotros": "invertíamos",
+    "Vosotros": "invertíais",
+    "Ellos": "invertían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy invirtiendo",
+    "Tu": "estás invirtiendo",
+    "El": "está invirtiendo",
+    "Nosotros": "estamos invirtiendo",
+    "Vosotros": "estáis invirtiendo",
+    "Ellos": "están invirtiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he invertido",
+    "Tu": "has invertido",
+    "El": "ha invertido",
+    "Nosotros": "hemos invertido",
+    "Vosotros": "habéis invertido",
+    "Ellos": "han invertido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había invertido",
+    "Tu": "habías invertido",
+    "El": "había invertido",
+    "Nosotros": "habíamos invertido",
+    "Vosotros": "habíais invertido",
+    "Ellos": "habían invertido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré invertido",
+    "Tu": "habrás invertido",
+    "El": "habrá invertido",
+    "Nosotros": "habremos invertido",
+    "Vosotros": "habréis invertido",
+    "Ellos": "habrán invertido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría invertido",
+    "Tu": "habrías invertido",
+    "El": "habría invertido",
+    "Nosotros": "habríamos invertido",
+    "Vosotros": "habríais invertido",
+    "Ellos": "habrían invertido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "invierta",
+    "Tu": "inviertas",
+    "El": "invierta",
+    "Nosotros": "invirtamos",
+    "Vosotros": "invirtáis",
+    "Ellos": "inviertan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "invierte",
+    "El": "invierta",
+    "Nosotros": "invirtamos",
+    "Vosotros": "invertid",
+    "Ellos": "inviertan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no inviertas",
+    "El": "no invierta",
+    "Nosotros": "no invirtamos",
+    "Vosotros": "no invirtáis",
+    "Ellos": "no inviertan"
+  },
+  "ending": "ir"
+}

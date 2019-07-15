@@ -1,0 +1,113 @@
+{
+  "verb": "acercarse",
+  "englishInfinitive": "to approach",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me acerco",
+    "Tu": "te acercas",
+    "El": "se acerca",
+    "Nosotros": "nos acercamos",
+    "Vosotros": "os acercáis",
+    "Ellos": "se acercan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me acerqué",
+    "Tu": "te acercaste",
+    "El": "se acercó",
+    "Nosotros": "nos acercamos",
+    "Vosotros": "acercasteis",
+    "Ellos": "se acercaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me acercaré",
+    "Tu": "te acercarás",
+    "El": "se acercará",
+    "Nosotros": "nos acercaremos",
+    "Vosotros": "os acercaréis",
+    "Ellos": "se acercarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me acercaría",
+    "Tu": "te acercarías",
+    "El": "se acercaría",
+    "Nosotros": "nos acercaríamos",
+    "Vosotros": "os acercaríais",
+    "Ellos": "se acercarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me acercaba",
+    "Tu": "te acercabas",
+    "El": "se acercaba",
+    "Nosotros": "nos acercábamos",
+    "Vosotros": "os acercabais",
+    "Ellos": "se acercaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy acercando,estoy acercándome",
+    "Tu": "te estás acercando,estás acercándote",
+    "El": "se está acercando,está acercándose",
+    "Nosotros": "nos estamos acercando,estamos acercándonos",
+    "Vosotros": "os estáis acercando,estáis acercándoos",
+    "Ellos": "se están acercando,están acercándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he acercado",
+    "Tu": "te has acercado",
+    "El": "se ha acercado",
+    "Nosotros": "nos hemos acercado",
+    "Vosotros": "os habéis acercado",
+    "Ellos": "se han acercado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había acercado",
+    "Tu": "te habías acercado",
+    "El": "se había acercado",
+    "Nosotros": "nos habíamos acercado",
+    "Vosotros": "os habíais acercado",
+    "Ellos": "se habían acercado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré acercado",
+    "Tu": "te habrás acercado",
+    "El": "se habrá acercado",
+    "Nosotros": "nos habremos acercado",
+    "Vosotros": "os habréis acercado",
+    "Ellos": "se habrán acercado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría acercado",
+    "Tu": "te habrías acercado",
+    "El": "se habría acercado",
+    "Nosotros": "nos habríamos acercado",
+    "Vosotros": "os habríais acercado",
+    "Ellos": "se habrían acercado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me acerque",
+    "Tu": "te acerques",
+    "El": "se acerque",
+    "Nosotros": "nos acerquemos",
+    "Vosotros": "os acerquéis",
+    "Ellos": "se acerquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "acércate",
+    "El": "acérquese",
+    "Nosotros": "acerquémonos",
+    "Vosotros": "acercaos",
+    "Ellos": "acérquense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te acerques",
+    "El": "no se acerque",
+    "Nosotros": "no nos acerquemos",
+    "Vosotros": "no os acerquéis",
+    "Ellos": "no se acerquen"
+  },
+  "ending": "ar"
+}

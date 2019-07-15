@@ -1,0 +1,113 @@
+{
+  "verb": "insultar",
+  "englishInfinitive": "to insult",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "insulto",
+    "Tu": "insultas",
+    "El": "insulta",
+    "Nosotros": "insultamos",
+    "Vosotros": "insultáis",
+    "Ellos": "insultan"
+  },
+  "IndicativePreterite": {
+    "Yo": "insulté",
+    "Tu": "insultaste",
+    "El": "insultó",
+    "Nosotros": "insultamos",
+    "Vosotros": "insultasteis",
+    "Ellos": "insultaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "insultaré",
+    "Tu": "insultarás",
+    "El": "insultará",
+    "Nosotros": "insultaremos",
+    "Vosotros": "insultaréis",
+    "Ellos": "insultarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "insultaría",
+    "Tu": "insultarías",
+    "El": "insultaría",
+    "Nosotros": "insultaríamos",
+    "Vosotros": "insultaríais",
+    "Ellos": "insultarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "insultaba",
+    "Tu": "insultabas",
+    "El": "insultaba",
+    "Nosotros": "insultábamos",
+    "Vosotros": "insultabais",
+    "Ellos": "insultaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy insultando",
+    "Tu": "estás insultando",
+    "El": "está insultando",
+    "Nosotros": "estamos insultando",
+    "Vosotros": "estáis insultando",
+    "Ellos": "están insultando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he insultado",
+    "Tu": "has insultado",
+    "El": "ha insultado",
+    "Nosotros": "hemos insultado",
+    "Vosotros": "habéis insultado",
+    "Ellos": "han insultado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había insultado",
+    "Tu": "habías insultado",
+    "El": "había insultado",
+    "Nosotros": "habíamos insultado",
+    "Vosotros": "habíais insultado",
+    "Ellos": "habían insultado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré insultado",
+    "Tu": "habrás insultado",
+    "El": "habrá insultado",
+    "Nosotros": "habremos insultado",
+    "Vosotros": "habréis insultado",
+    "Ellos": "habrán insultado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría insultado",
+    "Tu": "habrías insultado",
+    "El": "habría insultado",
+    "Nosotros": "habríamos insultado",
+    "Vosotros": "habríais insultado",
+    "Ellos": "habrían insultado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "insulte",
+    "Tu": "insultes",
+    "El": "insulte",
+    "Nosotros": "insultemos",
+    "Vosotros": "insultéis",
+    "Ellos": "insulten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "insulta",
+    "El": "insulte",
+    "Nosotros": "insultemos",
+    "Vosotros": "insultad",
+    "Ellos": "insulten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no insultes",
+    "El": "no insulte",
+    "Nosotros": "no insultemos",
+    "Vosotros": "no insultéis",
+    "Ellos": "no insulten"
+  },
+  "ending": "ar"
+}

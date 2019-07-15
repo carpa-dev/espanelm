@@ -1,0 +1,113 @@
+{
+  "verb": "depender",
+  "englishInfinitive": "to depend",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "dependo",
+    "Tu": "dependes",
+    "El": "depende",
+    "Nosotros": "dependemos",
+    "Vosotros": "dependéis",
+    "Ellos": "dependen"
+  },
+  "IndicativePreterite": {
+    "Yo": "dependí",
+    "Tu": "dependiste",
+    "El": "dependió",
+    "Nosotros": "dependimos",
+    "Vosotros": "dependisteis",
+    "Ellos": "dependieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "dependeré",
+    "Tu": "dependerás",
+    "El": "dependerá",
+    "Nosotros": "dependeremos",
+    "Vosotros": "dependeréis",
+    "Ellos": "dependerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "dependería",
+    "Tu": "dependerías",
+    "El": "dependería",
+    "Nosotros": "dependeríamos",
+    "Vosotros": "dependeríais",
+    "Ellos": "dependerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "dependía",
+    "Tu": "dependías",
+    "El": "dependía",
+    "Nosotros": "dependíamos",
+    "Vosotros": "dependíais",
+    "Ellos": "dependían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy dependiendo",
+    "Tu": "estás dependiendo",
+    "El": "está dependiendo",
+    "Nosotros": "estamos dependiendo",
+    "Vosotros": "estáis dependiendo",
+    "Ellos": "están dependiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he dependido",
+    "Tu": "has dependido",
+    "El": "ha dependido",
+    "Nosotros": "hemos dependido",
+    "Vosotros": "habéis dependido",
+    "Ellos": "han dependido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había dependido",
+    "Tu": "habías dependido",
+    "El": "había dependido",
+    "Nosotros": "habíamos dependido",
+    "Vosotros": "habíais dependido",
+    "Ellos": "habían dependido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré dependido",
+    "Tu": "habrás dependido",
+    "El": "habrá dependido",
+    "Nosotros": "habremos dependido",
+    "Vosotros": "habréis dependido",
+    "Ellos": "habrán dependido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría dependido",
+    "Tu": "habrías dependido",
+    "El": "habría dependido",
+    "Nosotros": "habríamos dependido",
+    "Vosotros": "habríais dependido",
+    "Ellos": "habrían dependido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "dependa",
+    "Tu": "dependas",
+    "El": "dependa",
+    "Nosotros": "dependamos",
+    "Vosotros": "dependáis",
+    "Ellos": "dependan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "depende",
+    "El": "dependa",
+    "Nosotros": "dependamos",
+    "Vosotros": "depended",
+    "Ellos": "dependan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no dependas",
+    "El": "no dependa",
+    "Nosotros": "no dependamos",
+    "Vosotros": "no dependáis",
+    "Ellos": "no dependan"
+  },
+  "ending": "er"
+}

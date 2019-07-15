@@ -1,0 +1,113 @@
+{
+  "verb": "pedir",
+  "englishInfinitive": "to request",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "pido",
+    "Tu": "pides",
+    "El": "pide",
+    "Nosotros": "pedimos",
+    "Vosotros": "pedís",
+    "Ellos": "piden"
+  },
+  "IndicativePreterite": {
+    "Yo": "pedí",
+    "Tu": "pediste",
+    "El": "pidió",
+    "Nosotros": "pedimos",
+    "Vosotros": "pedisteis",
+    "Ellos": "pidieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "pediré",
+    "Tu": "pedirás",
+    "El": "pedirá",
+    "Nosotros": "pediremos",
+    "Vosotros": "pediréis",
+    "Ellos": "pedirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "pediría",
+    "Tu": "pedirías",
+    "El": "pediría",
+    "Nosotros": "pediríamos",
+    "Vosotros": "pediríais",
+    "Ellos": "pedirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "pedía",
+    "Tu": "pedías",
+    "El": "pedía",
+    "Nosotros": "pedíamos",
+    "Vosotros": "pedíais",
+    "Ellos": "pedían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy pidiendo",
+    "Tu": "estás pidiendo",
+    "El": "está pidiendo",
+    "Nosotros": "estamos pidiendo",
+    "Vosotros": "estáis pidiendo",
+    "Ellos": "están pidiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he pedido",
+    "Tu": "has pedido",
+    "El": "ha pedido",
+    "Nosotros": "hemos pedido",
+    "Vosotros": "habéis pedido",
+    "Ellos": "han pedido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había pedido",
+    "Tu": "habías pedido",
+    "El": "había pedido",
+    "Nosotros": "habíamos pedido",
+    "Vosotros": "habíais pedido",
+    "Ellos": "habían pedido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré pedido",
+    "Tu": "habrás pedido",
+    "El": "habrá pedido",
+    "Nosotros": "habremos pedido",
+    "Vosotros": "habréis pedido",
+    "Ellos": "habrán pedido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría pedido",
+    "Tu": "habrías pedido",
+    "El": "habría pedido",
+    "Nosotros": "habríamos pedido",
+    "Vosotros": "habríais pedido",
+    "Ellos": "habrían pedido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "pida",
+    "Tu": "pidas",
+    "El": "pida",
+    "Nosotros": "pidamos",
+    "Vosotros": "pidáis",
+    "Ellos": "pidan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "pide",
+    "El": "pida",
+    "Nosotros": "pidamos",
+    "Vosotros": "pedid",
+    "Ellos": "pidan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no pidas",
+    "El": "no pida",
+    "Nosotros": "no pidamos",
+    "Vosotros": "no pidáis",
+    "Ellos": "no pidan"
+  },
+  "ending": "ir"
+}

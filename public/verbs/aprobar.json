@@ -1,0 +1,113 @@
+{
+  "verb": "aprobar",
+  "englishInfinitive": "to pass",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "apruebo",
+    "Tu": "apruebas",
+    "El": "aprueba",
+    "Nosotros": "aprobamos",
+    "Vosotros": "aprobáis",
+    "Ellos": "aprueban"
+  },
+  "IndicativePreterite": {
+    "Yo": "aprobé",
+    "Tu": "aprobaste",
+    "El": "aprobó",
+    "Nosotros": "aprobamos",
+    "Vosotros": "aprobasteis",
+    "Ellos": "aprobaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "aprobaré",
+    "Tu": "aprobarás",
+    "El": "aprobará",
+    "Nosotros": "aprobaremos",
+    "Vosotros": "aprobaréis",
+    "Ellos": "aprobarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "aprobaría",
+    "Tu": "aprobarías",
+    "El": "aprobaría",
+    "Nosotros": "aprobaríamos",
+    "Vosotros": "aprobaríais",
+    "Ellos": "aprobarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "aprobaba",
+    "Tu": "aprobabas",
+    "El": "aprobaba",
+    "Nosotros": "aprobábamos",
+    "Vosotros": "aprobabais",
+    "Ellos": "aprobaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy aprobando",
+    "Tu": "estás aprobando",
+    "El": "está aprobando",
+    "Nosotros": "estamos aprobando",
+    "Vosotros": "estáis aprobando",
+    "Ellos": "están aprobando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he aprobado",
+    "Tu": "has aprobado",
+    "El": "ha aprobado",
+    "Nosotros": "hemos aprobado",
+    "Vosotros": "habéis aprobado",
+    "Ellos": "han aprobado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había aprobado",
+    "Tu": "habías aprobado",
+    "El": "había aprobado",
+    "Nosotros": "habíamos aprobado",
+    "Vosotros": "habíais aprobado",
+    "Ellos": "habían aprobado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré aprobado",
+    "Tu": "habrás aprobado",
+    "El": "habrá aprobado",
+    "Nosotros": "habremos aprobado",
+    "Vosotros": "habréis aprobado",
+    "Ellos": "habrán aprobado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría aprobado",
+    "Tu": "habrías aprobado",
+    "El": "habría aprobado",
+    "Nosotros": "habríamos aprobado",
+    "Vosotros": "habríais aprobado",
+    "Ellos": "habrían aprobado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "apruebe",
+    "Tu": "apruebes",
+    "El": "apruebe",
+    "Nosotros": "aprobemos",
+    "Vosotros": "aprobéis",
+    "Ellos": "aprueben"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "aprueba",
+    "El": "apruebe",
+    "Nosotros": "aprobemos",
+    "Vosotros": "aprobad",
+    "Ellos": "aprueben"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no apruebes",
+    "El": "no apruebe",
+    "Nosotros": "no aprobemos",
+    "Vosotros": "no aprobéis",
+    "Ellos": "no aprueben"
+  },
+  "ending": "ar"
+}

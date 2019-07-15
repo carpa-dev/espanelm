@@ -1,0 +1,113 @@
+{
+  "verb": "explorar",
+  "englishInfinitive": "to explore",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "exploro",
+    "Tu": "exploras",
+    "El": "explora",
+    "Nosotros": "exploramos",
+    "Vosotros": "exploráis",
+    "Ellos": "exploran"
+  },
+  "IndicativePreterite": {
+    "Yo": "exploré",
+    "Tu": "exploraste",
+    "El": "exploró",
+    "Nosotros": "exploramos",
+    "Vosotros": "explorasteis",
+    "Ellos": "exploraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "exploraré",
+    "Tu": "explorarás",
+    "El": "explorará",
+    "Nosotros": "exploraremos",
+    "Vosotros": "exploraréis",
+    "Ellos": "explorarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "exploraría",
+    "Tu": "explorarías",
+    "El": "exploraría",
+    "Nosotros": "exploraríamos",
+    "Vosotros": "exploraríais",
+    "Ellos": "explorarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "exploraba",
+    "Tu": "explorabas",
+    "El": "exploraba",
+    "Nosotros": "explorábamos",
+    "Vosotros": "explorabais",
+    "Ellos": "exploraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy explorando",
+    "Tu": "estás explorando",
+    "El": "está explorando",
+    "Nosotros": "estamos explorando",
+    "Vosotros": "estáis explorando",
+    "Ellos": "están explorando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he explorado",
+    "Tu": "has explorado",
+    "El": "ha explorado",
+    "Nosotros": "hemos explorado",
+    "Vosotros": "habéis explorado",
+    "Ellos": "han explorado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había explorado",
+    "Tu": "habías explorado",
+    "El": "había explorado",
+    "Nosotros": "habíamos explorado",
+    "Vosotros": "habíais explorado",
+    "Ellos": "habían explorado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré explorado",
+    "Tu": "habrás explorado",
+    "El": "habrá explorado",
+    "Nosotros": "habremos explorado",
+    "Vosotros": "habréis explorado",
+    "Ellos": "habrán explorado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría explorado",
+    "Tu": "habrías explorado",
+    "El": "habría explorado",
+    "Nosotros": "habríamos explorado",
+    "Vosotros": "habríais explorado",
+    "Ellos": "habrían explorado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "explore",
+    "Tu": "explores",
+    "El": "explore",
+    "Nosotros": "exploremos",
+    "Vosotros": "exploréis",
+    "Ellos": "exploren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "explora",
+    "El": "explore",
+    "Nosotros": "exploremos",
+    "Vosotros": "explorad",
+    "Ellos": "exploren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no explores",
+    "El": "no explore",
+    "Nosotros": "no exploremos",
+    "Vosotros": "no exploréis",
+    "Ellos": "no exploren"
+  },
+  "ending": "ar"
+}

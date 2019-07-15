@@ -1,0 +1,113 @@
+{
+  "verb": "reñir",
+  "englishInfinitive": "to quarrel",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "riño",
+    "Tu": "riñes",
+    "El": "riñe",
+    "Nosotros": "reñimos",
+    "Vosotros": "reñís",
+    "Ellos": "riñen"
+  },
+  "IndicativePreterite": {
+    "Yo": "reñí",
+    "Tu": "reñiste",
+    "El": "riñó",
+    "Nosotros": "reñimos",
+    "Vosotros": "reñisteis",
+    "Ellos": "riñeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "reñiré",
+    "Tu": "reñirás",
+    "El": "reñirá",
+    "Nosotros": "reñiremos",
+    "Vosotros": "reñiréis",
+    "Ellos": "reñirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "reñiría",
+    "Tu": "reñirías",
+    "El": "reñiría",
+    "Nosotros": "reñiríamos",
+    "Vosotros": "reñiríais",
+    "Ellos": "reñirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "reñía",
+    "Tu": "reñías",
+    "El": "reñía",
+    "Nosotros": "reñíamos",
+    "Vosotros": "reñíais",
+    "Ellos": "reñían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy riñendo",
+    "Tu": "estás riñendo",
+    "El": "está riñendo",
+    "Nosotros": "estamos riñendo",
+    "Vosotros": "estáis riñendo",
+    "Ellos": "están riñendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he reñido",
+    "Tu": "has reñido",
+    "El": "ha reñido",
+    "Nosotros": "hemos reñido",
+    "Vosotros": "habéis reñido",
+    "Ellos": "han reñido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había reñido",
+    "Tu": "habías reñido",
+    "El": "había reñido",
+    "Nosotros": "habíamos reñido",
+    "Vosotros": "habíais reñido",
+    "Ellos": "habían reñido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré reñido",
+    "Tu": "habrás reñido",
+    "El": "habrá reñido",
+    "Nosotros": "habremos reñido",
+    "Vosotros": "habréis reñido",
+    "Ellos": "habrán reñido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría reñido",
+    "Tu": "habrías reñido",
+    "El": "habría reñido",
+    "Nosotros": "habríamos reñido",
+    "Vosotros": "habríais reñido",
+    "Ellos": "habrían reñido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "riña",
+    "Tu": "riñas",
+    "El": "riña",
+    "Nosotros": "riñamos",
+    "Vosotros": "riñáis",
+    "Ellos": "riñan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "riñe",
+    "El": "riña",
+    "Nosotros": "riñamos",
+    "Vosotros": "reñid",
+    "Ellos": "riñan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no riñas",
+    "El": "no riña",
+    "Nosotros": "no riñamos",
+    "Vosotros": "no riñáis",
+    "Ellos": "no riñan"
+  },
+  "ending": "ir"
+}

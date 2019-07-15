@@ -1,0 +1,113 @@
+{
+  "verb": "dar",
+  "englishInfinitive": "to give",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "doy",
+    "Tu": "das",
+    "El": "da",
+    "Nosotros": "damos",
+    "Vosotros": "dais",
+    "Ellos": "dan"
+  },
+  "IndicativePreterite": {
+    "Yo": "di",
+    "Tu": "diste",
+    "El": "dio",
+    "Nosotros": "dimos",
+    "Vosotros": "disteis",
+    "Ellos": "dieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "daré",
+    "Tu": "darás",
+    "El": "dará",
+    "Nosotros": "daremos",
+    "Vosotros": "daréis",
+    "Ellos": "darán"
+  },
+  "ConditionalPresent": {
+    "Yo": "daría",
+    "Tu": "darías",
+    "El": "daría",
+    "Nosotros": "daríamos",
+    "Vosotros": "daríais",
+    "Ellos": "darían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "daba",
+    "Tu": "dabas",
+    "El": "daba",
+    "Nosotros": "dábamos",
+    "Vosotros": "dabais",
+    "Ellos": "daban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy dando",
+    "Tu": "estás dando",
+    "El": "está dando",
+    "Nosotros": "estamos dando",
+    "Vosotros": "estáis dando",
+    "Ellos": "están dando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he dado",
+    "Tu": "has dado",
+    "El": "ha dado",
+    "Nosotros": "hemos dado",
+    "Vosotros": "habéis dado",
+    "Ellos": "han dado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había dado",
+    "Tu": "habías dado",
+    "El": "había dado",
+    "Nosotros": "habíamos dado",
+    "Vosotros": "habíais dado",
+    "Ellos": "habían dado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré dado",
+    "Tu": "habrás dado",
+    "El": "habrá dado",
+    "Nosotros": "habremos dado",
+    "Vosotros": "habréis dado",
+    "Ellos": "habrán dado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría dado",
+    "Tu": "habrías dado",
+    "El": "habría dado",
+    "Nosotros": "habríamos dado",
+    "Vosotros": "habríais dado",
+    "Ellos": "habrían dado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "dé",
+    "Tu": "des",
+    "El": "dé",
+    "Nosotros": "demos",
+    "Vosotros": "deis",
+    "Ellos": "den"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "da",
+    "El": "dé",
+    "Nosotros": "demos",
+    "Vosotros": "dad",
+    "Ellos": "den"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no des",
+    "El": "no dé",
+    "Nosotros": "no demos",
+    "Vosotros": "no deis",
+    "Ellos": "no den"
+  },
+  "ending": "ar"
+}

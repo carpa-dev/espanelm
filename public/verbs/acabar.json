@@ -1,0 +1,113 @@
+{
+  "verb": "acabar",
+  "englishInfinitive": "to finish",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "acabo",
+    "Tu": "acabas",
+    "El": "acaba",
+    "Nosotros": "acabamos",
+    "Vosotros": "acabáis",
+    "Ellos": "acaban"
+  },
+  "IndicativePreterite": {
+    "Yo": "acabé",
+    "Tu": "acabaste",
+    "El": "acabó",
+    "Nosotros": "acabamos",
+    "Vosotros": "acabasteis",
+    "Ellos": "acabaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "acabaré",
+    "Tu": "acabarás",
+    "El": "acabará",
+    "Nosotros": "acabaremos",
+    "Vosotros": "acabaréis",
+    "Ellos": "acabarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "acabaría",
+    "Tu": "acabarías",
+    "El": "acabaría",
+    "Nosotros": "acabaríamos",
+    "Vosotros": "acabaríais",
+    "Ellos": "acabarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "acababa",
+    "Tu": "acababas",
+    "El": "acababa",
+    "Nosotros": "acabábamos",
+    "Vosotros": "acababais",
+    "Ellos": "acababan"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy acabando",
+    "Tu": "estás acabando",
+    "El": "está acabando",
+    "Nosotros": "estamos acabando",
+    "Vosotros": "estáis acabando",
+    "Ellos": "están acabando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he acabado",
+    "Tu": "has acabado",
+    "El": "ha acabado",
+    "Nosotros": "hemos acabado",
+    "Vosotros": "habéis acabado",
+    "Ellos": "han acabado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había acabado",
+    "Tu": "habías acabado",
+    "El": "había acabado",
+    "Nosotros": "habíamos acabado",
+    "Vosotros": "habíais acabado",
+    "Ellos": "habían acabado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré acabado",
+    "Tu": "habrás acabado",
+    "El": "habrá acabado",
+    "Nosotros": "habremos acabado",
+    "Vosotros": "habréis acabado",
+    "Ellos": "habrán acabado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría acabado",
+    "Tu": "habrías acabado",
+    "El": "habría acabado",
+    "Nosotros": "habríamos acabado",
+    "Vosotros": "habríais acabado",
+    "Ellos": "habrían acabado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "acabe",
+    "Tu": "acabes",
+    "El": "acabe",
+    "Nosotros": "acabemos",
+    "Vosotros": "acabéis",
+    "Ellos": "acaben"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "acaba",
+    "El": "acabe",
+    "Nosotros": "acabemos",
+    "Vosotros": "acabad",
+    "Ellos": "acaben"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no acabes",
+    "El": "no acabe",
+    "Nosotros": "no acabemos",
+    "Vosotros": "no acabéis",
+    "Ellos": "no acaben"
+  },
+  "ending": "ar"
+}

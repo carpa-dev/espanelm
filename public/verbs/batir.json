@@ -1,0 +1,113 @@
+{
+  "verb": "batir",
+  "englishInfinitive": "to beat",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "bato",
+    "Tu": "bates",
+    "El": "bate",
+    "Nosotros": "batimos",
+    "Vosotros": "batís",
+    "Ellos": "baten"
+  },
+  "IndicativePreterite": {
+    "Yo": "batí",
+    "Tu": "batiste",
+    "El": "batió",
+    "Nosotros": "batimos",
+    "Vosotros": "batisteis",
+    "Ellos": "batieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "batiré",
+    "Tu": "batirás",
+    "El": "batirá",
+    "Nosotros": "batiremos",
+    "Vosotros": "batiréis",
+    "Ellos": "batirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "batiría",
+    "Tu": "batirías",
+    "El": "batiría",
+    "Nosotros": "batiríamos",
+    "Vosotros": "batiríais",
+    "Ellos": "batirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "batía",
+    "Tu": "batías",
+    "El": "batía",
+    "Nosotros": "batíamos",
+    "Vosotros": "batíais",
+    "Ellos": "batían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy batiendo",
+    "Tu": "estás batiendo",
+    "El": "está batiendo",
+    "Nosotros": "estamos batiendo",
+    "Vosotros": "estáis batiendo",
+    "Ellos": "están batiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he batido",
+    "Tu": "has batido",
+    "El": "ha batido",
+    "Nosotros": "hemos batido",
+    "Vosotros": "habéis batido",
+    "Ellos": "han batido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había batido",
+    "Tu": "habías batido",
+    "El": "había batido",
+    "Nosotros": "habíamos batido",
+    "Vosotros": "habíais batido",
+    "Ellos": "habían batido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré batido",
+    "Tu": "habrás batido",
+    "El": "habrá batido",
+    "Nosotros": "habremos batido",
+    "Vosotros": "habréis batido",
+    "Ellos": "habrán batido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría batido",
+    "Tu": "habrías batido",
+    "El": "habría batido",
+    "Nosotros": "habríamos batido",
+    "Vosotros": "habríais batido",
+    "Ellos": "habrían batido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "bata",
+    "Tu": "batas",
+    "El": "bata",
+    "Nosotros": "batamos",
+    "Vosotros": "batáis",
+    "Ellos": "batan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "bate",
+    "El": "bata",
+    "Nosotros": "batamos",
+    "Vosotros": "batid",
+    "Ellos": "batan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no batas",
+    "El": "no bata",
+    "Nosotros": "no batamos",
+    "Vosotros": "no batáis",
+    "Ellos": "no batan"
+  },
+  "ending": "ir"
+}

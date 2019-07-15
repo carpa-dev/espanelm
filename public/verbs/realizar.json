@@ -1,0 +1,113 @@
+{
+  "verb": "realizar",
+  "englishInfinitive": "to achieve",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "realizo",
+    "Tu": "realizas",
+    "El": "realiza",
+    "Nosotros": "realizamos",
+    "Vosotros": "realizáis",
+    "Ellos": "realizan"
+  },
+  "IndicativePreterite": {
+    "Yo": "realicé",
+    "Tu": "realizaste",
+    "El": "realizó",
+    "Nosotros": "realizamos",
+    "Vosotros": "realizasteis",
+    "Ellos": "realizaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "realizaré",
+    "Tu": "realizarás",
+    "El": "realizará",
+    "Nosotros": "realizaremos",
+    "Vosotros": "realizaréis",
+    "Ellos": "realizarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "realizaría",
+    "Tu": "realizarías",
+    "El": "realizaría",
+    "Nosotros": "realizaríamos",
+    "Vosotros": "realizaríais",
+    "Ellos": "realizarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "realizaba",
+    "Tu": "realizabas",
+    "El": "realizaba",
+    "Nosotros": "realizábamos",
+    "Vosotros": "realizabais",
+    "Ellos": "realizaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy realizando",
+    "Tu": "estás realizando",
+    "El": "está realizando",
+    "Nosotros": "estamos realizando",
+    "Vosotros": "estáis realizando",
+    "Ellos": "están realizando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he realizado",
+    "Tu": "has realizado",
+    "El": "ha realizado",
+    "Nosotros": "hemos realizado",
+    "Vosotros": "habéis realizado",
+    "Ellos": "han realizado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había realizado",
+    "Tu": "habías realizado",
+    "El": "había realizado",
+    "Nosotros": "habíamos realizado",
+    "Vosotros": "habíais realizado",
+    "Ellos": "habían realizado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré realizado",
+    "Tu": "habrás realizado",
+    "El": "habrá realizado",
+    "Nosotros": "habremos realizado",
+    "Vosotros": "habréis realizado",
+    "Ellos": "habrán realizado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría realizado",
+    "Tu": "habrías realizado",
+    "El": "habría realizado",
+    "Nosotros": "habríamos realizado",
+    "Vosotros": "habríais realizado",
+    "Ellos": "habrían realizado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "realice",
+    "Tu": "realices",
+    "El": "realice",
+    "Nosotros": "realicemos",
+    "Vosotros": "realicéis",
+    "Ellos": "realicen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "realiza",
+    "El": "realice",
+    "Nosotros": "realicemos",
+    "Vosotros": "realizad",
+    "Ellos": "realicen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no realices",
+    "El": "no realice",
+    "Nosotros": "no realicemos",
+    "Vosotros": "no realicéis",
+    "Ellos": "no realicen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "madurar",
+  "englishInfinitive": "to mature",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "maduro",
+    "Tu": "maduras",
+    "El": "madura",
+    "Nosotros": "maduramos",
+    "Vosotros": "maduráis",
+    "Ellos": "maduran"
+  },
+  "IndicativePreterite": {
+    "Yo": "maduré",
+    "Tu": "maduraste",
+    "El": "maduró",
+    "Nosotros": "maduramos",
+    "Vosotros": "madurasteis",
+    "Ellos": "maduraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "maduraré",
+    "Tu": "madurarás",
+    "El": "madurará",
+    "Nosotros": "maduraremos",
+    "Vosotros": "maduraréis",
+    "Ellos": "madurarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "maduraría",
+    "Tu": "madurarías",
+    "El": "maduraría",
+    "Nosotros": "maduraríamos",
+    "Vosotros": "maduraríais",
+    "Ellos": "madurarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "maduraba",
+    "Tu": "madurabas",
+    "El": "maduraba",
+    "Nosotros": "madurábamos",
+    "Vosotros": "madurabais",
+    "Ellos": "maduraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy madurando",
+    "Tu": "estás madurando",
+    "El": "está madurando",
+    "Nosotros": "estamos madurando",
+    "Vosotros": "estáis madurando",
+    "Ellos": "están madurando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he madurado",
+    "Tu": "has madurado",
+    "El": "ha madurado",
+    "Nosotros": "hemos madurado",
+    "Vosotros": "habéis madurado",
+    "Ellos": "han madurado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había madurado",
+    "Tu": "habías madurado",
+    "El": "había madurado",
+    "Nosotros": "habíamos madurado",
+    "Vosotros": "habíais madurado",
+    "Ellos": "habían madurado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré madurado",
+    "Tu": "habrás madurado",
+    "El": "habrá madurado",
+    "Nosotros": "habremos madurado",
+    "Vosotros": "habréis madurado",
+    "Ellos": "habrán madurado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría madurado",
+    "Tu": "habrías madurado",
+    "El": "habría madurado",
+    "Nosotros": "habríamos madurado",
+    "Vosotros": "habríais madurado",
+    "Ellos": "habrían madurado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "madure",
+    "Tu": "madures",
+    "El": "madure",
+    "Nosotros": "maduremos",
+    "Vosotros": "maduréis",
+    "Ellos": "maduren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "madura",
+    "El": "madure",
+    "Nosotros": "maduremos",
+    "Vosotros": "madurad",
+    "Ellos": "maduren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no madures",
+    "El": "no madure",
+    "Nosotros": "no maduremos",
+    "Vosotros": "no maduréis",
+    "Ellos": "no maduren"
+  },
+  "ending": "ar"
+}

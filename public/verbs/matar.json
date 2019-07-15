@@ -1,0 +1,113 @@
+{
+  "verb": "matar",
+  "englishInfinitive": "to kill",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "mato",
+    "Tu": "matas",
+    "El": "mata",
+    "Nosotros": "matamos",
+    "Vosotros": "matáis",
+    "Ellos": "matan"
+  },
+  "IndicativePreterite": {
+    "Yo": "maté",
+    "Tu": "mataste",
+    "El": "mató",
+    "Nosotros": "matamos",
+    "Vosotros": "matasteis",
+    "Ellos": "mataron"
+  },
+  "IndicativeFuture": {
+    "Yo": "mataré",
+    "Tu": "matarás",
+    "El": "matará",
+    "Nosotros": "mataremos",
+    "Vosotros": "mataréis",
+    "Ellos": "matarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "mataría",
+    "Tu": "matarías",
+    "El": "mataría",
+    "Nosotros": "mataríamos",
+    "Vosotros": "mataríais",
+    "Ellos": "matarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "mataba",
+    "Tu": "matabas",
+    "El": "mataba",
+    "Nosotros": "matábamos",
+    "Vosotros": "matabais",
+    "Ellos": "mataban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy matando",
+    "Tu": "estás matando",
+    "El": "está matando",
+    "Nosotros": "estamos matando",
+    "Vosotros": "estáis matando",
+    "Ellos": "están matando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he matado",
+    "Tu": "has matado",
+    "El": "ha matado",
+    "Nosotros": "hemos matado",
+    "Vosotros": "habéis matado",
+    "Ellos": "han matado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había matado",
+    "Tu": "habías matado",
+    "El": "había matado",
+    "Nosotros": "habíamos matado",
+    "Vosotros": "habíais matado",
+    "Ellos": "habían matado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré matado",
+    "Tu": "habrás matado",
+    "El": "habrá matado",
+    "Nosotros": "habremos matado",
+    "Vosotros": "habréis matado",
+    "Ellos": "habrán matado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría matado",
+    "Tu": "habrías matado",
+    "El": "habría matado",
+    "Nosotros": "habríamos matado",
+    "Vosotros": "habríais matado",
+    "Ellos": "habrían matado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "mate",
+    "Tu": "mates",
+    "El": "mate",
+    "Nosotros": "matemos",
+    "Vosotros": "matéis",
+    "Ellos": "maten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "mata",
+    "El": "mate",
+    "Nosotros": "matemos",
+    "Vosotros": "matad",
+    "Ellos": "maten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no mates",
+    "El": "no mate",
+    "Nosotros": "no matemos",
+    "Vosotros": "no matéis",
+    "Ellos": "no maten"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "triunfar",
+  "englishInfinitive": "to triumph",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "triunfo",
+    "Tu": "triunfas",
+    "El": "triunfa",
+    "Nosotros": "triunfamos",
+    "Vosotros": "triunfáis",
+    "Ellos": "triunfan"
+  },
+  "IndicativePreterite": {
+    "Yo": "triunfé",
+    "Tu": "triunfaste",
+    "El": "triunfó",
+    "Nosotros": "triunfamos",
+    "Vosotros": "triunfasteis",
+    "Ellos": "triunfaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "triunfaré",
+    "Tu": "triunfarás",
+    "El": "triunfará",
+    "Nosotros": "triunfaremos",
+    "Vosotros": "triunfaréis",
+    "Ellos": "triunfarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "triunfaría",
+    "Tu": "triunfarías",
+    "El": "triunfaría",
+    "Nosotros": "triunfaríamos",
+    "Vosotros": "triunfaríais",
+    "Ellos": "triunfarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "triunfaba",
+    "Tu": "triunfabas",
+    "El": "triunfaba",
+    "Nosotros": "triunfábamos",
+    "Vosotros": "triunfabais",
+    "Ellos": "triunfaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy triunfando",
+    "Tu": "estás triunfando",
+    "El": "está triunfando",
+    "Nosotros": "estamos triunfando",
+    "Vosotros": "estáis triunfando",
+    "Ellos": "están triunfando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he triunfado",
+    "Tu": "has triunfado",
+    "El": "ha triunfado",
+    "Nosotros": "hemos triunfado",
+    "Vosotros": "habéis triunfado",
+    "Ellos": "han triunfado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había triunfado",
+    "Tu": "habías triunfado",
+    "El": "había triunfado",
+    "Nosotros": "habíamos triunfado",
+    "Vosotros": "habíais triunfado",
+    "Ellos": "habían triunfado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré triunfado",
+    "Tu": "habrás triunfado",
+    "El": "habrá triunfado",
+    "Nosotros": "habremos triunfado",
+    "Vosotros": "habréis triunfado",
+    "Ellos": "habrán triunfado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría triunfado",
+    "Tu": "habrías triunfado",
+    "El": "habría triunfado",
+    "Nosotros": "habríamos triunfado",
+    "Vosotros": "habríais triunfado",
+    "Ellos": "habrían triunfado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "triunfe",
+    "Tu": "triunfes",
+    "El": "triunfe",
+    "Nosotros": "triunfemos",
+    "Vosotros": "triunféis",
+    "Ellos": "triunfen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "triunfa",
+    "El": "triunfe",
+    "Nosotros": "triunfemos",
+    "Vosotros": "triunfad",
+    "Ellos": "triunfen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no triunfes",
+    "El": "no triunfe",
+    "Nosotros": "no triunfemos",
+    "Vosotros": "no triunféis",
+    "Ellos": "no triunfen"
+  },
+  "ending": "ar"
+}

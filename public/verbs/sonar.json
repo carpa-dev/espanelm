@@ -1,0 +1,113 @@
+{
+  "verb": "sonar",
+  "englishInfinitive": "to sound",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "sueno",
+    "Tu": "suenas",
+    "El": "suena",
+    "Nosotros": "sonamos",
+    "Vosotros": "sonáis",
+    "Ellos": "suenan"
+  },
+  "IndicativePreterite": {
+    "Yo": "soné",
+    "Tu": "sonaste",
+    "El": "sonó",
+    "Nosotros": "sonamos",
+    "Vosotros": "sonasteis",
+    "Ellos": "sonaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "sonaré",
+    "Tu": "sonarás",
+    "El": "sonará",
+    "Nosotros": "sonaremos",
+    "Vosotros": "sonaréis",
+    "Ellos": "sonarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "sonaría",
+    "Tu": "sonarías",
+    "El": "sonaría",
+    "Nosotros": "sonaríamos",
+    "Vosotros": "sonaríais",
+    "Ellos": "sonarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "sonaba",
+    "Tu": "sonabas",
+    "El": "sonaba",
+    "Nosotros": "sonábamos",
+    "Vosotros": "sonabais",
+    "Ellos": "sonaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy sonando",
+    "Tu": "estás sonando",
+    "El": "está sonando",
+    "Nosotros": "estamos sonando",
+    "Vosotros": "estáis sonando",
+    "Ellos": "están sonando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he sonado",
+    "Tu": "has sonado",
+    "El": "ha sonado",
+    "Nosotros": "hemos sonado",
+    "Vosotros": "habéis sonado",
+    "Ellos": "han sonado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había sonado",
+    "Tu": "habías sonado",
+    "El": "había sonado",
+    "Nosotros": "habíamos sonado",
+    "Vosotros": "habíais sonado",
+    "Ellos": "habían sonado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré sonado",
+    "Tu": "habrás sonado",
+    "El": "habrá sonado",
+    "Nosotros": "habremos sonado",
+    "Vosotros": "habréis sonado",
+    "Ellos": "habrán sonado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría sonado",
+    "Tu": "habrías sonado",
+    "El": "habría sonado",
+    "Nosotros": "habríamos sonado",
+    "Vosotros": "habríais sonado",
+    "Ellos": "habrían sonado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "suene",
+    "Tu": "suenes",
+    "El": "suene",
+    "Nosotros": "sonemos",
+    "Vosotros": "sonéis",
+    "Ellos": "suenen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "suena",
+    "El": "suene",
+    "Nosotros": "sonemos",
+    "Vosotros": "sonad",
+    "Ellos": "suenen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no suenes",
+    "El": "no suene",
+    "Nosotros": "no sonemos",
+    "Vosotros": "no sonéis",
+    "Ellos": "no suenen"
+  },
+  "ending": "ar"
+}

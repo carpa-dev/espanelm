@@ -1,0 +1,113 @@
+{
+  "verb": "combatir",
+  "englishInfinitive": "to combat",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "combato",
+    "Tu": "combates",
+    "El": "combate",
+    "Nosotros": "combatimos",
+    "Vosotros": "combatís",
+    "Ellos": "combaten"
+  },
+  "IndicativePreterite": {
+    "Yo": "combatí",
+    "Tu": "combatiste",
+    "El": "combatió",
+    "Nosotros": "combatimos",
+    "Vosotros": "combatisteis",
+    "Ellos": "combatieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "combatiré",
+    "Tu": "combatirás",
+    "El": "combatirá",
+    "Nosotros": "combatiremos",
+    "Vosotros": "combatiréis",
+    "Ellos": "combatirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "combatiría",
+    "Tu": "combatirías",
+    "El": "combatiría",
+    "Nosotros": "combatiríamos",
+    "Vosotros": "combatiríais",
+    "Ellos": "combatirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "combatía",
+    "Tu": "combatías",
+    "El": "combatía",
+    "Nosotros": "combatíamos",
+    "Vosotros": "combatíais",
+    "Ellos": "combatían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy combatiendo",
+    "Tu": "estás combatiendo",
+    "El": "está combatiendo",
+    "Nosotros": "estamos combatiendo",
+    "Vosotros": "estáis combatiendo",
+    "Ellos": "están combatiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he combatido",
+    "Tu": "has combatido",
+    "El": "ha combatido",
+    "Nosotros": "hemos combatido",
+    "Vosotros": "habéis combatido",
+    "Ellos": "han combatido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había combatido",
+    "Tu": "habías combatido",
+    "El": "había combatido",
+    "Nosotros": "habíamos combatido",
+    "Vosotros": "habíais combatido",
+    "Ellos": "habían combatido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré combatido",
+    "Tu": "habrás combatido",
+    "El": "habrá combatido",
+    "Nosotros": "habremos combatido",
+    "Vosotros": "habréis combatido",
+    "Ellos": "habrán combatido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría combatido",
+    "Tu": "habrías combatido",
+    "El": "habría combatido",
+    "Nosotros": "habríamos combatido",
+    "Vosotros": "habríais combatido",
+    "Ellos": "habrían combatido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "combata",
+    "Tu": "combatas",
+    "El": "combata",
+    "Nosotros": "combatamos",
+    "Vosotros": "combatáis",
+    "Ellos": "combatan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "combate",
+    "El": "combata",
+    "Nosotros": "combatamos",
+    "Vosotros": "combatid",
+    "Ellos": "combatan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no combatas",
+    "El": "no combata",
+    "Nosotros": "no combatamos",
+    "Vosotros": "no combatáis",
+    "Ellos": "no combatan"
+  },
+  "ending": "ir"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "organizar",
+  "englishInfinitive": "to organize",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "organizo",
+    "Tu": "organizas",
+    "El": "organiza",
+    "Nosotros": "organizamos",
+    "Vosotros": "organizáis",
+    "Ellos": "organizan"
+  },
+  "IndicativePreterite": {
+    "Yo": "organicé",
+    "Tu": "organizaste",
+    "El": "organizó",
+    "Nosotros": "organizamos",
+    "Vosotros": "organizasteis",
+    "Ellos": "organizaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "organizaré",
+    "Tu": "organizarás",
+    "El": "organizará",
+    "Nosotros": "organizaremos",
+    "Vosotros": "organizaréis",
+    "Ellos": "organizarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "organizaría",
+    "Tu": "organizarías",
+    "El": "organizaría",
+    "Nosotros": "organizaríamos",
+    "Vosotros": "organizaríais",
+    "Ellos": "organizarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "organizaba",
+    "Tu": "organizabas",
+    "El": "organizaba",
+    "Nosotros": "organizábamos",
+    "Vosotros": "organizabais",
+    "Ellos": "organizaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy organizando",
+    "Tu": "estás organizando",
+    "El": "está organizando",
+    "Nosotros": "estamos organizando",
+    "Vosotros": "estáis organizando",
+    "Ellos": "están organizando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he organizado",
+    "Tu": "has organizado",
+    "El": "ha organizado",
+    "Nosotros": "hemos organizado",
+    "Vosotros": "habéis organizado",
+    "Ellos": "han organizado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había organizado",
+    "Tu": "habías organizado",
+    "El": "había organizado",
+    "Nosotros": "habíamos organizado",
+    "Vosotros": "habíais organizado",
+    "Ellos": "habían organizado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré organizado",
+    "Tu": "habrás organizado",
+    "El": "habrá organizado",
+    "Nosotros": "habremos organizado",
+    "Vosotros": "habréis organizado",
+    "Ellos": "habrán organizado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría organizado",
+    "Tu": "habrías organizado",
+    "El": "habría organizado",
+    "Nosotros": "habríamos organizado",
+    "Vosotros": "habríais organizado",
+    "Ellos": "habrían organizado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "organice",
+    "Tu": "organices",
+    "El": "organice",
+    "Nosotros": "organicemos",
+    "Vosotros": "organicéis",
+    "Ellos": "organicen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "organiza",
+    "El": "organice",
+    "Nosotros": "organicemos",
+    "Vosotros": "organizad",
+    "Ellos": "organicen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no organices",
+    "El": "no organice",
+    "Nosotros": "no organicemos",
+    "Vosotros": "no organicéis",
+    "Ellos": "no organicen"
+  },
+  "ending": "ar"
+}

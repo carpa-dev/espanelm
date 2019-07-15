@@ -1,0 +1,113 @@
+{
+  "verb": "divertir",
+  "englishInfinitive": "to amuse",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "divierto",
+    "Tu": "diviertes",
+    "El": "divierte",
+    "Nosotros": "divertimos",
+    "Vosotros": "divertís",
+    "Ellos": "divierten"
+  },
+  "IndicativePreterite": {
+    "Yo": "divertí",
+    "Tu": "divertiste",
+    "El": "divirtió",
+    "Nosotros": "divertimos",
+    "Vosotros": "divertisteis",
+    "Ellos": "divirtieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "divertiré",
+    "Tu": "divertirás",
+    "El": "divertirá",
+    "Nosotros": "divertiremos",
+    "Vosotros": "divertiréis",
+    "Ellos": "divertirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "divertiría",
+    "Tu": "divertirías",
+    "El": "divertiría",
+    "Nosotros": "divertiríamos",
+    "Vosotros": "divertiríais",
+    "Ellos": "divertirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "divertía",
+    "Tu": "divertías",
+    "El": "divertía",
+    "Nosotros": "divertíamos",
+    "Vosotros": "divertíais",
+    "Ellos": "divertían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy divirtiendo",
+    "Tu": "estás divirtiendo",
+    "El": "está divirtiendo",
+    "Nosotros": "estamos divirtiendo",
+    "Vosotros": "estáis divirtiendo",
+    "Ellos": "están divirtiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he divertido",
+    "Tu": "has divertido",
+    "El": "ha divertido",
+    "Nosotros": "hemos divertido",
+    "Vosotros": "habéis divertido",
+    "Ellos": "han divertido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había divertido",
+    "Tu": "habías divertido",
+    "El": "había divertido",
+    "Nosotros": "habíamos divertido",
+    "Vosotros": "habíais divertido",
+    "Ellos": "habían divertido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré divertido",
+    "Tu": "habrás divertido",
+    "El": "habrá divertido",
+    "Nosotros": "habremos divertido",
+    "Vosotros": "habréis divertido",
+    "Ellos": "habrán divertido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría divertido",
+    "Tu": "habrías divertido",
+    "El": "habría divertido",
+    "Nosotros": "habríamos divertido",
+    "Vosotros": "habríais divertido",
+    "Ellos": "habrían divertido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "divierta",
+    "Tu": "diviertas",
+    "El": "divierta",
+    "Nosotros": "divirtamos",
+    "Vosotros": "divirtáis",
+    "Ellos": "diviertan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "divierte",
+    "El": "divierta",
+    "Nosotros": "divirtamos",
+    "Vosotros": "divertid",
+    "Ellos": "diviertan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no diviertas",
+    "El": "no divierta",
+    "Nosotros": "no divirtamos",
+    "Vosotros": "no divirtáis",
+    "Ellos": "no diviertan"
+  },
+  "ending": "ir"
+}

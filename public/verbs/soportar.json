@@ -1,0 +1,113 @@
+{
+  "verb": "soportar",
+  "englishInfinitive": "to support",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "soporto",
+    "Tu": "soportas",
+    "El": "soporta",
+    "Nosotros": "soportamos",
+    "Vosotros": "soportáis",
+    "Ellos": "soportan"
+  },
+  "IndicativePreterite": {
+    "Yo": "soporté",
+    "Tu": "soportaste",
+    "El": "soportó",
+    "Nosotros": "soportamos",
+    "Vosotros": "soportasteis",
+    "Ellos": "soportaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "soportaré",
+    "Tu": "soportarás",
+    "El": "soportará",
+    "Nosotros": "soportaremos",
+    "Vosotros": "soportaréis",
+    "Ellos": "soportarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "soportaría",
+    "Tu": "soportarías",
+    "El": "soportaría",
+    "Nosotros": "soportaríamos",
+    "Vosotros": "soportaríais",
+    "Ellos": "soportarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "soportaba",
+    "Tu": "soportabas",
+    "El": "soportaba",
+    "Nosotros": "soportábamos",
+    "Vosotros": "soportabais",
+    "Ellos": "soportaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy soportando",
+    "Tu": "estás soportando",
+    "El": "está soportando",
+    "Nosotros": "estamos soportando",
+    "Vosotros": "estáis soportando",
+    "Ellos": "están soportando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he soportado",
+    "Tu": "has soportado",
+    "El": "ha soportado",
+    "Nosotros": "hemos soportado",
+    "Vosotros": "habéis soportado",
+    "Ellos": "han soportado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había soportado",
+    "Tu": "habías soportado",
+    "El": "había soportado",
+    "Nosotros": "habíamos soportado",
+    "Vosotros": "habíais soportado",
+    "Ellos": "habían soportado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré soportado",
+    "Tu": "habrás soportado",
+    "El": "habrá soportado",
+    "Nosotros": "habremos soportado",
+    "Vosotros": "habréis soportado",
+    "Ellos": "habrán soportado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría soportado",
+    "Tu": "habrías soportado",
+    "El": "habría soportado",
+    "Nosotros": "habríamos soportado",
+    "Vosotros": "habríais soportado",
+    "Ellos": "habrían soportado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "soporte",
+    "Tu": "soportes",
+    "El": "soporte",
+    "Nosotros": "soportemos",
+    "Vosotros": "soportéis",
+    "Ellos": "soporten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "soporta",
+    "El": "soporte",
+    "Nosotros": "soportemos",
+    "Vosotros": "soportad",
+    "Ellos": "soporten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no soportes",
+    "El": "no soporte",
+    "Nosotros": "no soportemos",
+    "Vosotros": "no soportéis",
+    "Ellos": "no soporten"
+  },
+  "ending": "ar"
+}

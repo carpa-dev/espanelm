@@ -1,0 +1,113 @@
+{
+  "verb": "atreverse",
+  "englishInfinitive": "to dare",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me atrevo",
+    "Tu": "te atreves",
+    "El": "se atreve",
+    "Nosotros": "nos atrevemos",
+    "Vosotros": "os atrevéis",
+    "Ellos": "se atreven"
+  },
+  "IndicativePreterite": {
+    "Yo": "me atreví",
+    "Tu": "te atreviste",
+    "El": "se atrevió",
+    "Nosotros": "nos atrevimos",
+    "Vosotros": "os atrevisteis",
+    "Ellos": "se atrevieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me atreveré",
+    "Tu": "te atreverás",
+    "El": "se atreverá",
+    "Nosotros": "nos atreveremos",
+    "Vosotros": "os atreveréis",
+    "Ellos": "se atreverán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me atrevería",
+    "Tu": "te atreverías",
+    "El": "se atrevería",
+    "Nosotros": "nos atreveríamos",
+    "Vosotros": "os atreveríais",
+    "Ellos": "se atreverían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me atrevía",
+    "Tu": "te atrevías",
+    "El": "se atrevía",
+    "Nosotros": "nos atrevíamos",
+    "Vosotros": "os atrevíais",
+    "Ellos": "se atrevían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy atreviendo,estoy atreviéndome",
+    "Tu": "te estás atreviendo,estás atreviéndote",
+    "El": "se está atreviendo,está atreviéndose",
+    "Nosotros": "nos estamos atreviendo,estamos atreviéndonos",
+    "Vosotros": "os estáis atreviendo,estáis atreviéndoos",
+    "Ellos": "se están atreviendo,están atreviéndose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he atrevido",
+    "Tu": "te has atrevido",
+    "El": "se ha atrevido",
+    "Nosotros": "nos hemos atrevido",
+    "Vosotros": "os habéis atrevido",
+    "Ellos": "se han atrevido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había atrevido",
+    "Tu": "te habías atrevido",
+    "El": "se había atrevido",
+    "Nosotros": "nos habíamos atrevido",
+    "Vosotros": "os habíais atrevido",
+    "Ellos": "se habían atrevido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré atrevido",
+    "Tu": "te habrás atrevido",
+    "El": "se habrá atrevido",
+    "Nosotros": "nos habremos atrevido",
+    "Vosotros": "os habréis atrevido",
+    "Ellos": "se habrán atrevido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría atrevido",
+    "Tu": "te habrías atrevido",
+    "El": "se habría atrevido",
+    "Nosotros": "nos habríamos atrevido",
+    "Vosotros": "os habríais atrevido",
+    "Ellos": "se habrían atrevido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me atreva",
+    "Tu": "te atrevas",
+    "El": "se atreva",
+    "Nosotros": "nos atrevamos",
+    "Vosotros": "os atreváis",
+    "Ellos": "se atrevan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "atrévete",
+    "El": "atrévase",
+    "Nosotros": "atrevámonos",
+    "Vosotros": "atreveos",
+    "Ellos": "atrévanse"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te atrevas",
+    "El": "no se atreva",
+    "Nosotros": "no nos atrevamos",
+    "Vosotros": "no os atreváis",
+    "Ellos": "no se atrevan"
+  },
+  "ending": "er"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "bailar",
+  "englishInfinitive": "dance",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "bailo",
+    "Tu": "bailas",
+    "El": "baila",
+    "Nosotros": "bailamos",
+    "Vosotros": "bailáis",
+    "Ellos": "bailan"
+  },
+  "IndicativePreterite": {
+    "Yo": "bailé",
+    "Tu": "bailaste",
+    "El": "bailó",
+    "Nosotros": "bailamos",
+    "Vosotros": "bailasteis",
+    "Ellos": "bailaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "bailaré",
+    "Tu": "bailarás",
+    "El": "bailará",
+    "Nosotros": "bailaremos",
+    "Vosotros": "bailaréis",
+    "Ellos": "bailarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "bailaría",
+    "Tu": "bailarías",
+    "El": "bailaría",
+    "Nosotros": "bailaríamos",
+    "Vosotros": "bailaríais",
+    "Ellos": "bailarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "bailaba",
+    "Tu": "bailabas",
+    "El": "bailaba",
+    "Nosotros": "bailábamos",
+    "Vosotros": "bailabais",
+    "Ellos": "bailaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy bailando",
+    "Tu": "estás bailando",
+    "El": "está bailando",
+    "Nosotros": "estamos bailando",
+    "Vosotros": "estáis bailando",
+    "Ellos": "están bailando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he bailado",
+    "Tu": "has bailado",
+    "El": "ha bailado",
+    "Nosotros": "hemos bailado",
+    "Vosotros": "habéis bailado",
+    "Ellos": "han bailado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había bailado",
+    "Tu": "habías bailado",
+    "El": "había bailado",
+    "Nosotros": "habíamos bailado",
+    "Vosotros": "habíais bailado",
+    "Ellos": "habían bailado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré bailado",
+    "Tu": "habrás bailado",
+    "El": "habrá bailado",
+    "Nosotros": "habremos bailado",
+    "Vosotros": "habréis bailado",
+    "Ellos": "habrán bailado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría bailado",
+    "Tu": "habrías bailado",
+    "El": "habría bailado",
+    "Nosotros": "habríamos bailado",
+    "Vosotros": "habríais bailado",
+    "Ellos": "habrían bailado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "baile",
+    "Tu": "bailes",
+    "El": "baile",
+    "Nosotros": "bailemos",
+    "Vosotros": "bailéis",
+    "Ellos": "bailen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "baila",
+    "El": "baile",
+    "Nosotros": "bailemos",
+    "Vosotros": "bailad",
+    "Ellos": "bailen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no bailes",
+    "El": "no baile",
+    "Nosotros": "no bailemos",
+    "Vosotros": "no bailéis",
+    "Ellos": "no bailen"
+  },
+  "ending": "ar"
+}

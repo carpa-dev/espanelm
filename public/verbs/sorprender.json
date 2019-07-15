@@ -1,0 +1,113 @@
+{
+  "verb": "sorprender",
+  "englishInfinitive": "to surprise",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "sorprendo",
+    "Tu": "sorprendes",
+    "El": "sorprende",
+    "Nosotros": "sorprendemos",
+    "Vosotros": "sorprendéis",
+    "Ellos": "sorprenden"
+  },
+  "IndicativePreterite": {
+    "Yo": "sorprendí",
+    "Tu": "sorprendiste",
+    "El": "sorprendió",
+    "Nosotros": "sorprendimos",
+    "Vosotros": "sorprendisteis",
+    "Ellos": "sorprendieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "sorprenderé",
+    "Tu": "sorprenderás",
+    "El": "sorprenderá",
+    "Nosotros": "sorprenderemos",
+    "Vosotros": "sorprenderéis",
+    "Ellos": "sorprenderán"
+  },
+  "ConditionalPresent": {
+    "Yo": "sorprendería",
+    "Tu": "sorprenderías",
+    "El": "sorprendería",
+    "Nosotros": "sorprenderíamos",
+    "Vosotros": "sorprenderíais",
+    "Ellos": "sorprenderían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "sorprendía",
+    "Tu": "sorprendías",
+    "El": "sorprendía",
+    "Nosotros": "sorprendíamos",
+    "Vosotros": "sorprendíais",
+    "Ellos": "sorprendían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy sorprendiendo",
+    "Tu": "estás sorprendiendo",
+    "El": "está sorprendiendo",
+    "Nosotros": "estamos sorprendiendo",
+    "Vosotros": "estáis sorprendiendo",
+    "Ellos": "están sorprendiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he sorprendido",
+    "Tu": "has sorprendido",
+    "El": "ha sorprendido",
+    "Nosotros": "hemos sorprendido",
+    "Vosotros": "habéis sorprendido",
+    "Ellos": "han sorprendido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había sorprendido",
+    "Tu": "habías sorprendido",
+    "El": "había sorprendido",
+    "Nosotros": "habíamos sorprendido",
+    "Vosotros": "habíais sorprendido",
+    "Ellos": "habían sorprendido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré sorprendido",
+    "Tu": "habrás sorprendido",
+    "El": "habrá sorprendido",
+    "Nosotros": "habremos sorprendido",
+    "Vosotros": "habréis sorprendido",
+    "Ellos": "habrán sorprendido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría sorprendido",
+    "Tu": "habrías sorprendido",
+    "El": "habría sorprendido",
+    "Nosotros": "habríamos sorprendido",
+    "Vosotros": "habríais sorprendido",
+    "Ellos": "habrían sorprendido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "sorprenda",
+    "Tu": "sorprendas",
+    "El": "sorprenda",
+    "Nosotros": "sorprendamos",
+    "Vosotros": "sorprendáis",
+    "Ellos": "sorprendan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sorprende",
+    "El": "sorprenda",
+    "Nosotros": "sorprendamos",
+    "Vosotros": "sorprended",
+    "Ellos": "sorprendan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sorprendas",
+    "El": "no sorprenda",
+    "Nosotros": "no sorprendamos",
+    "Vosotros": "no sorprendáis",
+    "Ellos": "no sorprendan"
+  },
+  "ending": "er"
+}

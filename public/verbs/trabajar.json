@@ -1,0 +1,113 @@
+{
+  "verb": "trabajar",
+  "englishInfinitive": "to work",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "trabajo",
+    "Tu": "trabajas",
+    "El": "trabaja",
+    "Nosotros": "trabajamos",
+    "Vosotros": "trabajáis",
+    "Ellos": "trabajan"
+  },
+  "IndicativePreterite": {
+    "Yo": "trabajé",
+    "Tu": "trabajaste",
+    "El": "trabajó",
+    "Nosotros": "trabajamos",
+    "Vosotros": "trabajasteis",
+    "Ellos": "trabajaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "trabajaré",
+    "Tu": "trabajarás",
+    "El": "trabajará",
+    "Nosotros": "trabajaremos",
+    "Vosotros": "trabajaréis",
+    "Ellos": "trabajarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "trabajaría",
+    "Tu": "trabajarías",
+    "El": "trabajaría",
+    "Nosotros": "trabajaríamos",
+    "Vosotros": "trabajaríais",
+    "Ellos": "trabajarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "trabajaba",
+    "Tu": "trabajabas",
+    "El": "trabajaba",
+    "Nosotros": "trabajábamos",
+    "Vosotros": "trabajabais",
+    "Ellos": "trabajaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy trabajando",
+    "Tu": "estás trabajando",
+    "El": "está trabajando",
+    "Nosotros": "estamos trabajando",
+    "Vosotros": "estáis trabajando",
+    "Ellos": "están trabajando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he trabajado",
+    "Tu": "has trabajado",
+    "El": "ha trabajado",
+    "Nosotros": "hemos trabajado",
+    "Vosotros": "habéis trabajado",
+    "Ellos": "han trabajado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había trabajado",
+    "Tu": "habías trabajado",
+    "El": "había trabajado",
+    "Nosotros": "habíamos trabajado",
+    "Vosotros": "habíais trabajado",
+    "Ellos": "habían trabajado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré trabajado",
+    "Tu": "habrás trabajado",
+    "El": "habrá trabajado",
+    "Nosotros": "habremos trabajado",
+    "Vosotros": "habréis trabajado",
+    "Ellos": "habrán trabajado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría trabajado",
+    "Tu": "habrías trabajado",
+    "El": "habría trabajado",
+    "Nosotros": "habríamos trabajado",
+    "Vosotros": "habríais trabajado",
+    "Ellos": "habrían trabajado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "trabaje",
+    "Tu": "trabajes",
+    "El": "trabaje",
+    "Nosotros": "trabajemos",
+    "Vosotros": "trabajéis",
+    "Ellos": "trabajen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "trabaja",
+    "El": "trabaje",
+    "Nosotros": "trabajemos",
+    "Vosotros": "trabajad",
+    "Ellos": "trabajen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no trabajes",
+    "El": "no trabaje",
+    "Nosotros": "no trabajemos",
+    "Vosotros": "no trabajéis",
+    "Ellos": "no trabajen"
+  },
+  "ending": "ar"
+}

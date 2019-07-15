@@ -1,0 +1,113 @@
+{
+  "verb": "mantener",
+  "englishInfinitive": "to maintain",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "mantengo",
+    "Tu": "mantienes",
+    "El": "mantiene",
+    "Nosotros": "mantenemos",
+    "Vosotros": "mantenéis",
+    "Ellos": "mantienen"
+  },
+  "IndicativePreterite": {
+    "Yo": "mantuve",
+    "Tu": "mantuviste",
+    "El": "mantuvo",
+    "Nosotros": "mantuvimos",
+    "Vosotros": "mantuvisteis",
+    "Ellos": "mantuvieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "mantendré",
+    "Tu": "mantendrás",
+    "El": "mantendrá",
+    "Nosotros": "mantendremos",
+    "Vosotros": "mantendréis",
+    "Ellos": "mantendrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "mantendría",
+    "Tu": "mantendrías",
+    "El": "mantendría",
+    "Nosotros": "mantendríamos",
+    "Vosotros": "mantendríais",
+    "Ellos": "mantendrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "mantenía",
+    "Tu": "mantenías",
+    "El": "mantenía",
+    "Nosotros": "manteníamos",
+    "Vosotros": "manteníais",
+    "Ellos": "mantenían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy manteniendo",
+    "Tu": "estás manteniendo",
+    "El": "está manteniendo",
+    "Nosotros": "estamos manteniendo",
+    "Vosotros": "estáis manteniendo",
+    "Ellos": "están manteniendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he mantenido",
+    "Tu": "has mantenido",
+    "El": "ha mantenido",
+    "Nosotros": "hemos mantenido",
+    "Vosotros": "habéis mantenido",
+    "Ellos": "han mantenido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había mantenido",
+    "Tu": "habías mantenido",
+    "El": "había mantenido",
+    "Nosotros": "habíamos mantenido",
+    "Vosotros": "habíais mantenido",
+    "Ellos": "habían mantenido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré mantenido",
+    "Tu": "habrás mantenido",
+    "El": "habrá mantenido",
+    "Nosotros": "habremos mantenido",
+    "Vosotros": "habréis mantenido",
+    "Ellos": "habrán mantenido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría mantenido",
+    "Tu": "habrías mantenido",
+    "El": "habría mantenido",
+    "Nosotros": "habríamos mantenido",
+    "Vosotros": "habríais mantenido",
+    "Ellos": "habrían mantenido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "mantenga",
+    "Tu": "mantengas",
+    "El": "mantenga",
+    "Nosotros": "mantengamos",
+    "Vosotros": "mantengáis",
+    "Ellos": "mantengan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "mantén",
+    "El": "mantenga",
+    "Nosotros": "mantengamos",
+    "Vosotros": "mantened",
+    "Ellos": "mantengan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no mantengas",
+    "El": "no mantenga",
+    "Nosotros": "no mantengamos",
+    "Vosotros": "no mantengáis",
+    "Ellos": "no mantengan"
+  },
+  "ending": "er"
+}

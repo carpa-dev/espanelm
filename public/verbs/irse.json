@@ -1,0 +1,113 @@
+{
+  "verb": "irse",
+  "englishInfinitive": "to go away",
+  "irregular": true,
+  "type": "",
+  "reflexive": true,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "me voy",
+    "Tu": "te vas",
+    "El": "se va",
+    "Nosotros": "nos vamos",
+    "Vosotros": "os vais",
+    "Ellos": "se van"
+  },
+  "IndicativePreterite": {
+    "Yo": "me fui",
+    "Tu": "te fuiste",
+    "El": "se fue",
+    "Nosotros": "nos fuimos",
+    "Vosotros": "os fuisteis",
+    "Ellos": "se fueron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me iré",
+    "Tu": "te irás",
+    "El": "se irá",
+    "Nosotros": "nos iremos",
+    "Vosotros": "os iréis",
+    "Ellos": "se irán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me iría",
+    "Tu": "te irías",
+    "El": "se iría",
+    "Nosotros": "nos iríamos",
+    "Vosotros": "os iríais",
+    "Ellos": "se irían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me iba",
+    "Tu": "te ibas",
+    "El": "se iba",
+    "Nosotros": "nos íbamos",
+    "Vosotros": "os ibais",
+    "Ellos": "se iban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy yendo,estoy yéndome",
+    "Tu": "te estás yendo,estás yéndote",
+    "El": "se está yendo,está yéndose",
+    "Nosotros": "nos estamos yendo,estamos yéndonos",
+    "Vosotros": "os estáis yendo,estáis yéndoos",
+    "Ellos": "se están yendo,están yéndose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he ido",
+    "Tu": "te has ido",
+    "El": "se ha ido",
+    "Nosotros": "nos hemos ido",
+    "Vosotros": "os habéis ido",
+    "Ellos": "se han ido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había ido",
+    "Tu": "te habías ido",
+    "El": "se había ido",
+    "Nosotros": "nos habíamos ido",
+    "Vosotros": "os habíais ido",
+    "Ellos": "se habían ido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré ido",
+    "Tu": "te habrás ido",
+    "El": "se habrá ido",
+    "Nosotros": "nos habremos ido",
+    "Vosotros": "os habréis ido",
+    "Ellos": "se habrán ido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría ido",
+    "Tu": "te habrías ido",
+    "El": "se habría ido",
+    "Nosotros": "nos habríamos ido",
+    "Vosotros": "os habríais ido",
+    "Ellos": "se habrían ido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me vaya",
+    "Tu": "te vayas",
+    "El": "se vaya",
+    "Nosotros": "nos vayamos",
+    "Vosotros": "os vayáis",
+    "Ellos": "se vayan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "vete",
+    "El": "váyase",
+    "Nosotros": "vayámonos",
+    "Vosotros": "idos",
+    "Ellos": "váyanse"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te vayas",
+    "El": "no se vaya",
+    "Nosotros": "no nos vayamos",
+    "Vosotros": "no os vayáis",
+    "Ellos": "no se vayan"
+  },
+  "ending": "ir"
+}

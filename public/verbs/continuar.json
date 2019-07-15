@@ -1,0 +1,113 @@
+{
+  "verb": "continuar",
+  "englishInfinitive": "to continue",
+  "irregular": true,
+  "type": "u > ú",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "continúo",
+    "Tu": "continúas",
+    "El": "continúa",
+    "Nosotros": "continuamos",
+    "Vosotros": "continuáis",
+    "Ellos": "continúan"
+  },
+  "IndicativePreterite": {
+    "Yo": "continué",
+    "Tu": "continuaste",
+    "El": "continuó",
+    "Nosotros": "continuamos",
+    "Vosotros": "continuasteis",
+    "Ellos": "continuaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "continuaré",
+    "Tu": "continuarás",
+    "El": "continuará",
+    "Nosotros": "continuaremos",
+    "Vosotros": "continuaréis",
+    "Ellos": "continuarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "continuaría",
+    "Tu": "continuarías",
+    "El": "continuaría",
+    "Nosotros": "continuaríamos",
+    "Vosotros": "continuaríais",
+    "Ellos": "continuarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "continuaba",
+    "Tu": "continuabas",
+    "El": "continuaba",
+    "Nosotros": "continuábamos",
+    "Vosotros": "continuabais",
+    "Ellos": "continuaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy continuando",
+    "Tu": "estás continuando",
+    "El": "está continuando",
+    "Nosotros": "estamos continuando",
+    "Vosotros": "estáis continuando",
+    "Ellos": "están continuando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he continuado",
+    "Tu": "has continuado",
+    "El": "ha continuado",
+    "Nosotros": "hemos continuado",
+    "Vosotros": "habéis continuado",
+    "Ellos": "han continuado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había continuado",
+    "Tu": "habías continuado",
+    "El": "había continuado",
+    "Nosotros": "habíamos continuado",
+    "Vosotros": "habíais continuado",
+    "Ellos": "habían continuado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré continuado",
+    "Tu": "habrás continuado",
+    "El": "habrá continuado",
+    "Nosotros": "habremos continuado",
+    "Vosotros": "habréis continuado",
+    "Ellos": "habrán continuado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría continuado",
+    "Tu": "habrías continuado",
+    "El": "habría continuado",
+    "Nosotros": "habríamos continuado",
+    "Vosotros": "habríais continuado",
+    "Ellos": "habrían continuado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "continúe",
+    "Tu": "continúes",
+    "El": "continúe",
+    "Nosotros": "continuemos",
+    "Vosotros": "continuéis",
+    "Ellos": "continúen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "continúa",
+    "El": "continúe",
+    "Nosotros": "continuemos",
+    "Vosotros": "continuad",
+    "Ellos": "continúen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no continúes",
+    "El": "no continúe",
+    "Nosotros": "no continuemos",
+    "Vosotros": "no continuéis",
+    "Ellos": "no continúen"
+  },
+  "ending": "ar"
+}

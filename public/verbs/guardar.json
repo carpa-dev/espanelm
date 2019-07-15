@@ -1,0 +1,113 @@
+{
+  "verb": "guardar",
+  "englishInfinitive": "to guard",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "guardo",
+    "Tu": "guardas",
+    "El": "guarda",
+    "Nosotros": "guardamos",
+    "Vosotros": "guardáis",
+    "Ellos": "guardan"
+  },
+  "IndicativePreterite": {
+    "Yo": "guardé",
+    "Tu": "guardaste",
+    "El": "guardó",
+    "Nosotros": "guardamos",
+    "Vosotros": "guardasteis",
+    "Ellos": "guardaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "guardaré",
+    "Tu": "guardarás",
+    "El": "guardará",
+    "Nosotros": "guardaremos",
+    "Vosotros": "guardaréis",
+    "Ellos": "guardarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "guardaría",
+    "Tu": "guardarías",
+    "El": "guardaría",
+    "Nosotros": "guardaríamos",
+    "Vosotros": "guardaríais",
+    "Ellos": "guardarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "guardaba",
+    "Tu": "guardabas",
+    "El": "guardaba",
+    "Nosotros": "guardábamos",
+    "Vosotros": "guardabais",
+    "Ellos": "guardaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy guardando",
+    "Tu": "estás guardando",
+    "El": "está guardando",
+    "Nosotros": "estamos guardando",
+    "Vosotros": "estáis guardando",
+    "Ellos": "están guardando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he guardado",
+    "Tu": "has guardado",
+    "El": "ha guardado",
+    "Nosotros": "hemos guardado",
+    "Vosotros": "habéis guardado",
+    "Ellos": "han guardado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había guardado",
+    "Tu": "habías guardado",
+    "El": "había guardado",
+    "Nosotros": "habíamos guardado",
+    "Vosotros": "habíais guardado",
+    "Ellos": "habían guardado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré guardado",
+    "Tu": "habrás guardado",
+    "El": "habrá guardado",
+    "Nosotros": "habremos guardado",
+    "Vosotros": "habréis guardado",
+    "Ellos": "habrán guardado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría guardado",
+    "Tu": "habrías guardado",
+    "El": "habría guardado",
+    "Nosotros": "habríamos guardado",
+    "Vosotros": "habríais guardado",
+    "Ellos": "habrían guardado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "guarde",
+    "Tu": "guardes",
+    "El": "guarde",
+    "Nosotros": "guardemos",
+    "Vosotros": "guardéis",
+    "Ellos": "guarden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "guarda",
+    "El": "guarde",
+    "Nosotros": "guardemos",
+    "Vosotros": "guardad",
+    "Ellos": "guarden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no guardes",
+    "El": "no guarde",
+    "Nosotros": "no guardemos",
+    "Vosotros": "no guardéis",
+    "Ellos": "no guarden"
+  },
+  "ending": "ar"
+}

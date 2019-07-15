@@ -1,0 +1,113 @@
+{
+  "verb": "llenar",
+  "englishInfinitive": "to fill",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "lleno",
+    "Tu": "llenas",
+    "El": "llena",
+    "Nosotros": "llenamos",
+    "Vosotros": "llenáis",
+    "Ellos": "llenan"
+  },
+  "IndicativePreterite": {
+    "Yo": "llené",
+    "Tu": "llenaste",
+    "El": "llenó",
+    "Nosotros": "llenamos",
+    "Vosotros": "llenasteis",
+    "Ellos": "llenaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "llenaré",
+    "Tu": "llenarás",
+    "El": "llenará",
+    "Nosotros": "llenaremos",
+    "Vosotros": "llenaréis",
+    "Ellos": "llenarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "llenaría",
+    "Tu": "llenarías",
+    "El": "llenaría",
+    "Nosotros": "llenaríamos",
+    "Vosotros": "llenaríais",
+    "Ellos": "llenarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "llenaba",
+    "Tu": "llenabas",
+    "El": "llenaba",
+    "Nosotros": "llenábamos",
+    "Vosotros": "llenabais",
+    "Ellos": "llenaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy llenando",
+    "Tu": "estás llenando",
+    "El": "está llenando",
+    "Nosotros": "estamos llenando",
+    "Vosotros": "estáis llenando",
+    "Ellos": "están llenando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he llenado",
+    "Tu": "has llenado",
+    "El": "ha llenado",
+    "Nosotros": "hemos llenado",
+    "Vosotros": "habéis llenado",
+    "Ellos": "han llenado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había llenado",
+    "Tu": "habías llenado",
+    "El": "había llenado",
+    "Nosotros": "habíamos llenado",
+    "Vosotros": "habíais llenado",
+    "Ellos": "habían llenado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré llenado",
+    "Tu": "habrás llenado",
+    "El": "habrá llenado",
+    "Nosotros": "habremos llenado",
+    "Vosotros": "habréis llenado",
+    "Ellos": "habrán llenado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría llenado",
+    "Tu": "habrías llenado",
+    "El": "habría llenado",
+    "Nosotros": "habríamos llenado",
+    "Vosotros": "habríais llenado",
+    "Ellos": "habrían llenado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "llene",
+    "Tu": "llenes",
+    "El": "llene",
+    "Nosotros": "llenemos",
+    "Vosotros": "llenéis",
+    "Ellos": "llenen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "llena",
+    "El": "llene",
+    "Nosotros": "llenemos",
+    "Vosotros": "llenad",
+    "Ellos": "llenen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no llenes",
+    "El": "no llene",
+    "Nosotros": "no llenemos",
+    "Vosotros": "no llenéis",
+    "Ellos": "no llenen"
+  },
+  "ending": "ar"
+}

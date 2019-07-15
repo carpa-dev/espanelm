@@ -1,0 +1,113 @@
+{
+  "verb": "disminuir",
+  "englishInfinitive": "to diminish",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "disminuyo",
+    "Tu": "disminuyes",
+    "El": "disminuye",
+    "Nosotros": "disminuimos",
+    "Vosotros": "disminuís",
+    "Ellos": "disminuyen"
+  },
+  "IndicativePreterite": {
+    "Yo": "disminuí",
+    "Tu": "disminuiste",
+    "El": "disminuyó",
+    "Nosotros": "disminuimos",
+    "Vosotros": "disminuisteis",
+    "Ellos": "disminuyeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "disminuiré",
+    "Tu": "disminuirás",
+    "El": "disminuirá",
+    "Nosotros": "disminuiremos",
+    "Vosotros": "disminuiréis",
+    "Ellos": "disminuirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "disminuiría",
+    "Tu": "disminuirías",
+    "El": "disminuiría",
+    "Nosotros": "disminuiríamos",
+    "Vosotros": "disminuiríais",
+    "Ellos": "disminuirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "disminuía",
+    "Tu": "disminuías",
+    "El": "disminuía",
+    "Nosotros": "disminuíamos",
+    "Vosotros": "disminuíais",
+    "Ellos": "disminuían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy disminuyendo",
+    "Tu": "estás disminuyendo",
+    "El": "está disminuyendo",
+    "Nosotros": "estamos disminuyendo",
+    "Vosotros": "estáis disminuyendo",
+    "Ellos": "están disminuyendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he disminuido",
+    "Tu": "has disminuido",
+    "El": "ha disminuido",
+    "Nosotros": "hemos disminuido",
+    "Vosotros": "habéis disminuido",
+    "Ellos": "han disminuido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había disminuido",
+    "Tu": "habías disminuido",
+    "El": "había disminuido",
+    "Nosotros": "habíamos disminuido",
+    "Vosotros": "habíais disminuido",
+    "Ellos": "habían disminuido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré disminuido",
+    "Tu": "habrás disminuido",
+    "El": "habrá disminuido",
+    "Nosotros": "habremos disminuido",
+    "Vosotros": "habréis disminuido",
+    "Ellos": "habrán disminuido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría disminuido",
+    "Tu": "habrías disminuido",
+    "El": "habría disminuido",
+    "Nosotros": "habríamos disminuido",
+    "Vosotros": "habríais disminuido",
+    "Ellos": "habrían disminuido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "disminuya",
+    "Tu": "disminuyas",
+    "El": "disminuya",
+    "Nosotros": "disminuyamos",
+    "Vosotros": "disminuyáis",
+    "Ellos": "disminuyan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "disminuye",
+    "El": "disminuya",
+    "Nosotros": "disminuyamos",
+    "Vosotros": "disminuid",
+    "Ellos": "disminuyan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no disminuyas",
+    "El": "no disminuya",
+    "Nosotros": "no disminuyamos",
+    "Vosotros": "no disminuyáis",
+    "Ellos": "no disminuyan"
+  },
+  "ending": "ir"
+}

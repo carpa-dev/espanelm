@@ -1,0 +1,113 @@
+{
+  "verb": "beber",
+  "englishInfinitive": "to drink",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "bebo",
+    "Tu": "bebes",
+    "El": "bebe",
+    "Nosotros": "bebemos",
+    "Vosotros": "bebéis",
+    "Ellos": "beben"
+  },
+  "IndicativePreterite": {
+    "Yo": "bebí",
+    "Tu": "bebiste",
+    "El": "bebió",
+    "Nosotros": "bebimos",
+    "Vosotros": "bebisteis",
+    "Ellos": "bebieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "beberé",
+    "Tu": "beberás",
+    "El": "beberá",
+    "Nosotros": "beberemos",
+    "Vosotros": "beberéis",
+    "Ellos": "beberán"
+  },
+  "ConditionalPresent": {
+    "Yo": "bebería",
+    "Tu": "beberías",
+    "El": "bebería",
+    "Nosotros": "beberíamos",
+    "Vosotros": "beberíais",
+    "Ellos": "beberían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "bebía",
+    "Tu": "bebías",
+    "El": "bebía",
+    "Nosotros": "bebíamos",
+    "Vosotros": "bebíais",
+    "Ellos": "bebían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy bebiendo",
+    "Tu": "estás bebiendo",
+    "El": "está bebiendo",
+    "Nosotros": "estamos bebiendo",
+    "Vosotros": "estáis bebiendo",
+    "Ellos": "están bebiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he bebido",
+    "Tu": "has bebido",
+    "El": "ha bebido",
+    "Nosotros": "hemos bebido",
+    "Vosotros": "habéis bebido",
+    "Ellos": "han bebido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había bebido",
+    "Tu": "habías bebido",
+    "El": "había bebido",
+    "Nosotros": "habíamos bebido",
+    "Vosotros": "habíais bebido",
+    "Ellos": "habían bebido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré bebido",
+    "Tu": "habrás bebido",
+    "El": "habrá bebido",
+    "Nosotros": "habremos bebido",
+    "Vosotros": "habréis bebido",
+    "Ellos": "habrán bebido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría bebido",
+    "Tu": "habrías bebido",
+    "El": "habría bebido",
+    "Nosotros": "habríamos bebido",
+    "Vosotros": "habríais bebido",
+    "Ellos": "habrían bebido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "beba",
+    "Tu": "bebas",
+    "El": "beba",
+    "Nosotros": "bebamos",
+    "Vosotros": "bebáis",
+    "Ellos": "beban"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "bebe",
+    "El": "beba",
+    "Nosotros": "bebamos",
+    "Vosotros": "bebed",
+    "Ellos": "beban"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no bebas",
+    "El": "no beba",
+    "Nosotros": "no bebamos",
+    "Vosotros": "no bebáis",
+    "Ellos": "no beban"
+  },
+  "ending": "er"
+}

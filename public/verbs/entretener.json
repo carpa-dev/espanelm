@@ -1,0 +1,113 @@
+{
+  "verb": "entretener",
+  "englishInfinitive": "to entertain",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "entretengo",
+    "Tu": "entretienes",
+    "El": "entretiene",
+    "Nosotros": "entretenemos",
+    "Vosotros": "entretenéis",
+    "Ellos": "entretienen"
+  },
+  "IndicativePreterite": {
+    "Yo": "entretuve",
+    "Tu": "entretuviste",
+    "El": "entretuvo",
+    "Nosotros": "entretuvimos",
+    "Vosotros": "entretuvisteis",
+    "Ellos": "entretuvieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "entretendré",
+    "Tu": "entretendrás",
+    "El": "entretendrá",
+    "Nosotros": "entretendremos",
+    "Vosotros": "entretendréis",
+    "Ellos": "entretendrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "entretendría",
+    "Tu": "entretendrías",
+    "El": "entretendría",
+    "Nosotros": "entretendríamos",
+    "Vosotros": "entretendríais",
+    "Ellos": "entretendrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "entretenía",
+    "Tu": "entretenías",
+    "El": "entretenía",
+    "Nosotros": "entreteníamos",
+    "Vosotros": "entreteníais",
+    "Ellos": "entretenían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy entreteniendo",
+    "Tu": "estás entreteniendo",
+    "El": "está entreteniendo",
+    "Nosotros": "estamos entreteniendo",
+    "Vosotros": "estáis entreteniendo",
+    "Ellos": "están entreteniendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he entretenido",
+    "Tu": "has entretenido",
+    "El": "ha entretenido",
+    "Nosotros": "hemos entretenido",
+    "Vosotros": "habéis entretenido",
+    "Ellos": "han entretenido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había entretenido",
+    "Tu": "habías entretenido",
+    "El": "había entretenido",
+    "Nosotros": "habíamos entretenido",
+    "Vosotros": "habíais entretenido",
+    "Ellos": "habían entretenido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré entretenido",
+    "Tu": "habrás entretenido",
+    "El": "habrá entretenido",
+    "Nosotros": "habremos entretenido",
+    "Vosotros": "habréis entretenido",
+    "Ellos": "habrán entretenido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría entretenido",
+    "Tu": "habrías entretenido",
+    "El": "habría entretenido",
+    "Nosotros": "habríamos entretenido",
+    "Vosotros": "habríais entretenido",
+    "Ellos": "habrían entretenido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "entretenga",
+    "Tu": "entretengas",
+    "El": "entretenga",
+    "Nosotros": "entretengamos",
+    "Vosotros": "entretengáis",
+    "Ellos": "entretengan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "entretén",
+    "El": "entretenga",
+    "Nosotros": "entretengamos",
+    "Vosotros": "entretened",
+    "Ellos": "entretengan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no entretengas",
+    "El": "no entretenga",
+    "Nosotros": "no entretengamos",
+    "Vosotros": "no entretengáis",
+    "Ellos": "no entretengan"
+  },
+  "ending": "er"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "invocar",
+  "englishInfinitive": "to invoke",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "invoco",
+    "Tu": "invocas",
+    "El": "invoca",
+    "Nosotros": "invocamos",
+    "Vosotros": "invocáis",
+    "Ellos": "invocan"
+  },
+  "IndicativePreterite": {
+    "Yo": "invoqué",
+    "Tu": "invocaste",
+    "El": "invocó",
+    "Nosotros": "invocamos",
+    "Vosotros": "invocasteis",
+    "Ellos": "invocaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "invocaré",
+    "Tu": "invocarás",
+    "El": "invocará",
+    "Nosotros": "invocaremos",
+    "Vosotros": "invocaréis",
+    "Ellos": "invocarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "invocaría",
+    "Tu": "invocarías",
+    "El": "invocaría",
+    "Nosotros": "invocaríamos",
+    "Vosotros": "invocaríais",
+    "Ellos": "invocarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "invocaba",
+    "Tu": "invocabas",
+    "El": "invocaba",
+    "Nosotros": "invocábamos",
+    "Vosotros": "invocabais",
+    "Ellos": "invocaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy invocando",
+    "Tu": "estás invocando",
+    "El": "está invocando",
+    "Nosotros": "estamos invocando",
+    "Vosotros": "estáis invocando",
+    "Ellos": "están invocando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he invocado",
+    "Tu": "has invocado",
+    "El": "ha invocado",
+    "Nosotros": "hemos invocado",
+    "Vosotros": "habéis invocado",
+    "Ellos": "han invocado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había invocado",
+    "Tu": "habías invocado",
+    "El": "había invocado",
+    "Nosotros": "habíamos invocado",
+    "Vosotros": "habíais invocado",
+    "Ellos": "habían invocado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré invocado",
+    "Tu": "habrás invocado",
+    "El": "habrá invocado",
+    "Nosotros": "habremos invocado",
+    "Vosotros": "habréis invocado",
+    "Ellos": "habrán invocado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría invocado",
+    "Tu": "habrías invocado",
+    "El": "habría invocado",
+    "Nosotros": "habríamos invocado",
+    "Vosotros": "habríais invocado",
+    "Ellos": "habrían invocado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "invoque",
+    "Tu": "invoques",
+    "El": "invoque",
+    "Nosotros": "invoquemos",
+    "Vosotros": "invoquéis",
+    "Ellos": "invoquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "invoca",
+    "El": "invoque",
+    "Nosotros": "invoquemos",
+    "Vosotros": "invocad",
+    "Ellos": "invoquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no invoques",
+    "El": "no invoque",
+    "Nosotros": "no invoquemos",
+    "Vosotros": "no invoquéis",
+    "Ellos": "no invoquen"
+  },
+  "ending": "ar"
+}

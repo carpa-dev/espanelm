@@ -1,0 +1,113 @@
+{
+  "verb": "respetar",
+  "englishInfinitive": "to respect",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "respeto",
+    "Tu": "respetas",
+    "El": "respeta",
+    "Nosotros": "respetamos",
+    "Vosotros": "respetáis",
+    "Ellos": "respetan"
+  },
+  "IndicativePreterite": {
+    "Yo": "respeté",
+    "Tu": "respetaste",
+    "El": "respetó",
+    "Nosotros": "respetamos",
+    "Vosotros": "respetasteis",
+    "Ellos": "respetaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "respetaré",
+    "Tu": "respetarás",
+    "El": "respetará",
+    "Nosotros": "respetaremos",
+    "Vosotros": "respetaréis",
+    "Ellos": "respetarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "respetaría",
+    "Tu": "respetarías",
+    "El": "respetaría",
+    "Nosotros": "respetaríamos",
+    "Vosotros": "respetaríais",
+    "Ellos": "respetarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "respetaba",
+    "Tu": "respetabas",
+    "El": "respetaba",
+    "Nosotros": "respetábamos",
+    "Vosotros": "respetabais",
+    "Ellos": "respetaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy respetando",
+    "Tu": "estás respetando",
+    "El": "está respetando",
+    "Nosotros": "estamos respetando",
+    "Vosotros": "estáis respetando",
+    "Ellos": "están respetando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he respetado",
+    "Tu": "has respetado",
+    "El": "ha respetado",
+    "Nosotros": "hemos respetado",
+    "Vosotros": "habéis respetado",
+    "Ellos": "han respetado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había respetado",
+    "Tu": "habías respetado",
+    "El": "había respetado",
+    "Nosotros": "habíamos respetado",
+    "Vosotros": "habíais respetado",
+    "Ellos": "habían respetado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré respetado",
+    "Tu": "habrás respetado",
+    "El": "habrá respetado",
+    "Nosotros": "habremos respetado",
+    "Vosotros": "habréis respetado",
+    "Ellos": "habrán respetado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría respetado",
+    "Tu": "habrías respetado",
+    "El": "habría respetado",
+    "Nosotros": "habríamos respetado",
+    "Vosotros": "habríais respetado",
+    "Ellos": "habrían respetado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "respete",
+    "Tu": "respetes",
+    "El": "respete",
+    "Nosotros": "respetemos",
+    "Vosotros": "respetéis",
+    "Ellos": "respeten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "respeta",
+    "El": "respete",
+    "Nosotros": "respetemos",
+    "Vosotros": "respetad",
+    "Ellos": "respeten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no respetes",
+    "El": "no respete",
+    "Nosotros": "no respetemos",
+    "Vosotros": "no respetéis",
+    "Ellos": "no respeten"
+  },
+  "ending": "ar"
+}

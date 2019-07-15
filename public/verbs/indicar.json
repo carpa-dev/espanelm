@@ -1,0 +1,113 @@
+{
+  "verb": "indicar",
+  "englishInfinitive": "to indicate",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "indico",
+    "Tu": "indicas",
+    "El": "indica",
+    "Nosotros": "indicamos",
+    "Vosotros": "indicáis",
+    "Ellos": "indican"
+  },
+  "IndicativePreterite": {
+    "Yo": "indiqué",
+    "Tu": "indicaste",
+    "El": "indicó",
+    "Nosotros": "indicamos",
+    "Vosotros": "indicasteis",
+    "Ellos": "indicaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "indicaré",
+    "Tu": "indicarás",
+    "El": "indicará",
+    "Nosotros": "indicaremos",
+    "Vosotros": "indicaréis",
+    "Ellos": "indicarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "indicaría",
+    "Tu": "indicarías",
+    "El": "indicaría",
+    "Nosotros": "indicaríamos",
+    "Vosotros": "indicaríais",
+    "Ellos": "indicarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "indicaba",
+    "Tu": "indicabas",
+    "El": "indicaba",
+    "Nosotros": "indicábamos",
+    "Vosotros": "indicabais",
+    "Ellos": "indicaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy indicando",
+    "Tu": "estás indicando",
+    "El": "está indicando",
+    "Nosotros": "estamos indicando",
+    "Vosotros": "estáis indicando",
+    "Ellos": "están indicando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he indicado",
+    "Tu": "has indicado",
+    "El": "ha indicado",
+    "Nosotros": "hemos indicado",
+    "Vosotros": "habéis indicado",
+    "Ellos": "han indicado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había indicado",
+    "Tu": "habías indicado",
+    "El": "había indicado",
+    "Nosotros": "habíamos indicado",
+    "Vosotros": "habíais indicado",
+    "Ellos": "habían indicado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré indicado",
+    "Tu": "habrás indicado",
+    "El": "habrá indicado",
+    "Nosotros": "habremos indicado",
+    "Vosotros": "habréis indicado",
+    "Ellos": "habrán indicado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría indicado",
+    "Tu": "habrías indicado",
+    "El": "habría indicado",
+    "Nosotros": "habríamos indicado",
+    "Vosotros": "habríais indicado",
+    "Ellos": "habrían indicado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "indique",
+    "Tu": "indiques",
+    "El": "indique",
+    "Nosotros": "indiquemos",
+    "Vosotros": "indiquéis",
+    "Ellos": "indiquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "indica",
+    "El": "indique",
+    "Nosotros": "indiquemos",
+    "Vosotros": "indicad",
+    "Ellos": "indiquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no indiques",
+    "El": "no indique",
+    "Nosotros": "no indiquemos",
+    "Vosotros": "no indiquéis",
+    "Ellos": "no indiquen"
+  },
+  "ending": "ar"
+}

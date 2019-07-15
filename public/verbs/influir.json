@@ -1,0 +1,113 @@
+{
+  "verb": "influir",
+  "englishInfinitive": "to influence",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "influyo",
+    "Tu": "influyes",
+    "El": "influye",
+    "Nosotros": "influimos",
+    "Vosotros": "influís",
+    "Ellos": "influyen"
+  },
+  "IndicativePreterite": {
+    "Yo": "influí",
+    "Tu": "influiste",
+    "El": "influyó",
+    "Nosotros": "influimos",
+    "Vosotros": "influisteis",
+    "Ellos": "influyeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "influiré",
+    "Tu": "influirás",
+    "El": "influirá",
+    "Nosotros": "influiremos",
+    "Vosotros": "influiréis",
+    "Ellos": "influirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "influiría",
+    "Tu": "influirías",
+    "El": "influiría",
+    "Nosotros": "influiríamos",
+    "Vosotros": "influiríais",
+    "Ellos": "influirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "influía",
+    "Tu": "influías",
+    "El": "influía",
+    "Nosotros": "influíamos",
+    "Vosotros": "influíais",
+    "Ellos": "influían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy influyendo",
+    "Tu": "estás influyendo",
+    "El": "está influyendo",
+    "Nosotros": "estamos influyendo",
+    "Vosotros": "estáis influyendo",
+    "Ellos": "están influyendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he influido",
+    "Tu": "has influido",
+    "El": "ha influido",
+    "Nosotros": "hemos influido",
+    "Vosotros": "habéis influido",
+    "Ellos": "han influido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había influido",
+    "Tu": "habías influido",
+    "El": "había influido",
+    "Nosotros": "habíamos influido",
+    "Vosotros": "habíais influido",
+    "Ellos": "habían influido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré influido",
+    "Tu": "habrás influido",
+    "El": "habrá influido",
+    "Nosotros": "habremos influido",
+    "Vosotros": "habréis influido",
+    "Ellos": "habrán influido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría influido",
+    "Tu": "habrías influido",
+    "El": "habría influido",
+    "Nosotros": "habríamos influido",
+    "Vosotros": "habríais influido",
+    "Ellos": "habrían influido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "influya",
+    "Tu": "influyas",
+    "El": "influya",
+    "Nosotros": "influyamos",
+    "Vosotros": "influyáis",
+    "Ellos": "influyan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "influye",
+    "El": "influya",
+    "Nosotros": "influyamos",
+    "Vosotros": "influid",
+    "Ellos": "influyan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no influyas",
+    "El": "no influya",
+    "Nosotros": "no influyamos",
+    "Vosotros": "no influyáis",
+    "Ellos": "no influyan"
+  },
+  "ending": "ir"
+}

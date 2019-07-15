@@ -1,0 +1,113 @@
+{
+  "verb": "demostrar",
+  "englishInfinitive": "to demonstrate",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "demuestro",
+    "Tu": "demuestras",
+    "El": "demuestra",
+    "Nosotros": "demostramos",
+    "Vosotros": "demostráis",
+    "Ellos": "demuestran"
+  },
+  "IndicativePreterite": {
+    "Yo": "demostré",
+    "Tu": "demostraste",
+    "El": "demostró",
+    "Nosotros": "demostramos",
+    "Vosotros": "demostrasteis",
+    "Ellos": "demostraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "demostraré",
+    "Tu": "demostrarás",
+    "El": "demostrará",
+    "Nosotros": "demostraremos",
+    "Vosotros": "demostraréis",
+    "Ellos": "demostrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "demostraría",
+    "Tu": "demostrarías",
+    "El": "demostraría",
+    "Nosotros": "demostraríamos",
+    "Vosotros": "demostraríais",
+    "Ellos": "demostrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "demostraba",
+    "Tu": "demostrabas",
+    "El": "demostraba",
+    "Nosotros": "demostrábamos",
+    "Vosotros": "demostrabais",
+    "Ellos": "demostraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy demostrando",
+    "Tu": "estás demostrando",
+    "El": "está demostrando",
+    "Nosotros": "estamos demostrando",
+    "Vosotros": "estáis demostrando",
+    "Ellos": "están demostrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he demostrado",
+    "Tu": "has demostrado",
+    "El": "ha demostrado",
+    "Nosotros": "hemos demostrado",
+    "Vosotros": "habéis demostrado",
+    "Ellos": "han demostrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había demostrado",
+    "Tu": "habías demostrado",
+    "El": "había demostrado",
+    "Nosotros": "habíamos demostrado",
+    "Vosotros": "habíais demostrado",
+    "Ellos": "habían demostrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré demostrado",
+    "Tu": "habrás demostrado",
+    "El": "habrá demostrado",
+    "Nosotros": "habremos demostrado",
+    "Vosotros": "habréis demostrado",
+    "Ellos": "habrán demostrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría demostrado",
+    "Tu": "habrías demostrado",
+    "El": "habría demostrado",
+    "Nosotros": "habríamos demostrado",
+    "Vosotros": "habríais demostrado",
+    "Ellos": "habrían demostrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "demuestre",
+    "Tu": "demuestres",
+    "El": "demuestre",
+    "Nosotros": "demostremos",
+    "Vosotros": "demostréis",
+    "Ellos": "demuestren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "demuestra",
+    "El": "demuestre",
+    "Nosotros": "demostremos",
+    "Vosotros": "demostrad",
+    "Ellos": "demuestren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no demuestres",
+    "El": "no demuestre",
+    "Nosotros": "no demostremos",
+    "Vosotros": "no demostréis",
+    "Ellos": "no demuestren"
+  },
+  "ending": "ar"
+}

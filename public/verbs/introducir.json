@@ -1,0 +1,113 @@
+{
+  "verb": "introducir",
+  "englishInfinitive": "to introduce",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "introduzco",
+    "Tu": "introduces",
+    "El": "introduce",
+    "Nosotros": "introducimos",
+    "Vosotros": "introducís",
+    "Ellos": "introducen"
+  },
+  "IndicativePreterite": {
+    "Yo": "introduje",
+    "Tu": "introdujiste",
+    "El": "introdujo",
+    "Nosotros": "introdujimos",
+    "Vosotros": "introdujisteis",
+    "Ellos": "introdujeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "introduciré",
+    "Tu": "introducirás",
+    "El": "introducirá",
+    "Nosotros": "introduciremos",
+    "Vosotros": "introduciréis",
+    "Ellos": "introducirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "introduciría",
+    "Tu": "introducirías",
+    "El": "introduciría",
+    "Nosotros": "introduciríamos",
+    "Vosotros": "introduciríais",
+    "Ellos": "introducirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "introducía",
+    "Tu": "introducías",
+    "El": "introducía",
+    "Nosotros": "introducíamos",
+    "Vosotros": "introducíais",
+    "Ellos": "introducían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy introduciendo",
+    "Tu": "estás introduciendo",
+    "El": "está introduciendo",
+    "Nosotros": "estamos introduciendo",
+    "Vosotros": "estáis introduciendo",
+    "Ellos": "están introduciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he introducido",
+    "Tu": "has introducido",
+    "El": "ha introducido",
+    "Nosotros": "hemos introducido",
+    "Vosotros": "habéis introducido",
+    "Ellos": "han introducido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había introducido",
+    "Tu": "habías introducido",
+    "El": "había introducido",
+    "Nosotros": "habíamos introducido",
+    "Vosotros": "habíais introducido",
+    "Ellos": "habían introducido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré introducido",
+    "Tu": "habrás introducido",
+    "El": "habrá introducido",
+    "Nosotros": "habremos introducido",
+    "Vosotros": "habréis introducido",
+    "Ellos": "habrán introducido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría introducido",
+    "Tu": "habrías introducido",
+    "El": "habría introducido",
+    "Nosotros": "habríamos introducido",
+    "Vosotros": "habríais introducido",
+    "Ellos": "habrían introducido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "introduzca",
+    "Tu": "introduzcas",
+    "El": "introduzca",
+    "Nosotros": "introduzcamos",
+    "Vosotros": "introduzcáis",
+    "Ellos": "introduzcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "introduce",
+    "El": "introduzca",
+    "Nosotros": "introduzcamos",
+    "Vosotros": "introducid",
+    "Ellos": "introduzcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no introduzcas",
+    "El": "no introduzca",
+    "Nosotros": "no introduzcamos",
+    "Vosotros": "no introduzcáis",
+    "Ellos": "no introduzcan"
+  },
+  "ending": "ir"
+}

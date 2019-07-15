@@ -1,0 +1,113 @@
+{
+  "verb": "vestir",
+  "englishInfinitive": "to dress",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "visto",
+    "Tu": "vistes",
+    "El": "viste",
+    "Nosotros": "vestimos",
+    "Vosotros": "vestís",
+    "Ellos": "visten"
+  },
+  "IndicativePreterite": {
+    "Yo": "vestí",
+    "Tu": "vestiste",
+    "El": "vistió",
+    "Nosotros": "vestimos",
+    "Vosotros": "vestisteis",
+    "Ellos": "vistieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "vestiré",
+    "Tu": "vestirás",
+    "El": "vestirá",
+    "Nosotros": "vestiremos",
+    "Vosotros": "vestiréis",
+    "Ellos": "vestirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "vestiría",
+    "Tu": "vestirías",
+    "El": "vestiría",
+    "Nosotros": "vestiríamos",
+    "Vosotros": "vestiríais",
+    "Ellos": "vestirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "vestía",
+    "Tu": "vestías",
+    "El": "vestía",
+    "Nosotros": "vestíamos",
+    "Vosotros": "vestíais",
+    "Ellos": "vestían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy vistiendo",
+    "Tu": "estás vistiendo",
+    "El": "está vistiendo",
+    "Nosotros": "estamos vistiendo",
+    "Vosotros": "estáis vistiendo",
+    "Ellos": "están vistiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he vestido",
+    "Tu": "has vestido",
+    "El": "ha vestido",
+    "Nosotros": "hemos vestido",
+    "Vosotros": "habéis vestido",
+    "Ellos": "han vestido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había vestido",
+    "Tu": "habías vestido",
+    "El": "había vestido",
+    "Nosotros": "habíamos vestido",
+    "Vosotros": "habíais vestido",
+    "Ellos": "habían vestido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré vestido",
+    "Tu": "habrás vestido",
+    "El": "habrá vestido",
+    "Nosotros": "habremos vestido",
+    "Vosotros": "habréis vestido",
+    "Ellos": "habrán vestido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría vestido",
+    "Tu": "habrías vestido",
+    "El": "habría vestido",
+    "Nosotros": "habríamos vestido",
+    "Vosotros": "habríais vestido",
+    "Ellos": "habrían vestido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "vista",
+    "Tu": "vistas",
+    "El": "vista",
+    "Nosotros": "vistamos",
+    "Vosotros": "vistáis",
+    "Ellos": "vistan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "viste",
+    "El": "vista",
+    "Nosotros": "vistamos",
+    "Vosotros": "vestid",
+    "Ellos": "vistan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no vistas",
+    "El": "no vista",
+    "Nosotros": "no vistamos",
+    "Vosotros": "no vistáis",
+    "Ellos": "no vistan"
+  },
+  "ending": "ir"
+}

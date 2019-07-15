@@ -1,0 +1,113 @@
+{
+  "verb": "eliminar",
+  "englishInfinitive": "to eliminate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "elimino",
+    "Tu": "eliminas",
+    "El": "elimina",
+    "Nosotros": "eliminamos",
+    "Vosotros": "elimináis",
+    "Ellos": "eliminan"
+  },
+  "IndicativePreterite": {
+    "Yo": "eliminé",
+    "Tu": "eliminaste",
+    "El": "eliminó",
+    "Nosotros": "eliminamos",
+    "Vosotros": "eliminasteis",
+    "Ellos": "eliminaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "eliminaré",
+    "Tu": "eliminarás",
+    "El": "eliminará",
+    "Nosotros": "eliminaremos",
+    "Vosotros": "eliminaréis",
+    "Ellos": "eliminarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "eliminaría",
+    "Tu": "eliminarías",
+    "El": "eliminaría",
+    "Nosotros": "eliminaríamos",
+    "Vosotros": "eliminaríais",
+    "Ellos": "eliminarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "eliminaba",
+    "Tu": "eliminabas",
+    "El": "eliminaba",
+    "Nosotros": "eliminábamos",
+    "Vosotros": "eliminabais",
+    "Ellos": "eliminaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy eliminando",
+    "Tu": "estás eliminando",
+    "El": "está eliminando",
+    "Nosotros": "estamos eliminando",
+    "Vosotros": "estáis eliminando",
+    "Ellos": "están eliminando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he eliminado",
+    "Tu": "has eliminado",
+    "El": "ha eliminado",
+    "Nosotros": "hemos eliminado",
+    "Vosotros": "habéis eliminado",
+    "Ellos": "han eliminado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había eliminado",
+    "Tu": "habías eliminado",
+    "El": "había eliminado",
+    "Nosotros": "habíamos eliminado",
+    "Vosotros": "habíais eliminado",
+    "Ellos": "habían eliminado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré eliminado",
+    "Tu": "habrás eliminado",
+    "El": "habrá eliminado",
+    "Nosotros": "habremos eliminado",
+    "Vosotros": "habréis eliminado",
+    "Ellos": "habrán eliminado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría eliminado",
+    "Tu": "habrías eliminado",
+    "El": "habría eliminado",
+    "Nosotros": "habríamos eliminado",
+    "Vosotros": "habríais eliminado",
+    "Ellos": "habrían eliminado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "elimine",
+    "Tu": "elimines",
+    "El": "elimine",
+    "Nosotros": "eliminemos",
+    "Vosotros": "eliminéis",
+    "Ellos": "eliminen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "elimina",
+    "El": "elimine",
+    "Nosotros": "eliminemos",
+    "Vosotros": "eliminad",
+    "Ellos": "eliminen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no elimines",
+    "El": "no elimine",
+    "Nosotros": "no eliminemos",
+    "Vosotros": "no eliminéis",
+    "Ellos": "no eliminen"
+  },
+  "ending": "ar"
+}

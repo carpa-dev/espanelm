@@ -1,0 +1,113 @@
+{
+  "verb": "esconder",
+  "englishInfinitive": "to hide",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "escondo",
+    "Tu": "escondes",
+    "El": "esconde",
+    "Nosotros": "escondemos",
+    "Vosotros": "escondéis",
+    "Ellos": "esconden"
+  },
+  "IndicativePreterite": {
+    "Yo": "escondí",
+    "Tu": "escondiste",
+    "El": "escondió",
+    "Nosotros": "escondimos",
+    "Vosotros": "escondisteis",
+    "Ellos": "escondieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "esconderé",
+    "Tu": "esconderás",
+    "El": "esconderá",
+    "Nosotros": "esconderemos",
+    "Vosotros": "esconderéis",
+    "Ellos": "esconderán"
+  },
+  "ConditionalPresent": {
+    "Yo": "escondería",
+    "Tu": "esconderías",
+    "El": "escondería",
+    "Nosotros": "esconderíamos",
+    "Vosotros": "esconderíais",
+    "Ellos": "esconderían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "escondía",
+    "Tu": "escondías",
+    "El": "escondía",
+    "Nosotros": "escondíamos",
+    "Vosotros": "escondíais",
+    "Ellos": "escondían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy escondiendo",
+    "Tu": "estás escondiendo",
+    "El": "está escondiendo",
+    "Nosotros": "estamos escondiendo",
+    "Vosotros": "estáis escondiendo",
+    "Ellos": "están escondiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he escondido",
+    "Tu": "has escondido",
+    "El": "ha escondido",
+    "Nosotros": "hemos escondido",
+    "Vosotros": "habéis escondido",
+    "Ellos": "han escondido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había escondido",
+    "Tu": "habías escondido",
+    "El": "había escondido",
+    "Nosotros": "habíamos escondido",
+    "Vosotros": "habíais escondido",
+    "Ellos": "habían escondido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré escondido",
+    "Tu": "habrás escondido",
+    "El": "habrá escondido",
+    "Nosotros": "habremos escondido",
+    "Vosotros": "habréis escondido",
+    "Ellos": "habrán escondido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría escondido",
+    "Tu": "habrías escondido",
+    "El": "habría escondido",
+    "Nosotros": "habríamos escondido",
+    "Vosotros": "habríais escondido",
+    "Ellos": "habrían escondido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "esconda",
+    "Tu": "escondas",
+    "El": "esconda",
+    "Nosotros": "escondamos",
+    "Vosotros": "escondáis",
+    "Ellos": "escondan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "esconde",
+    "El": "esconda",
+    "Nosotros": "escondamos",
+    "Vosotros": "esconded",
+    "Ellos": "escondan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no escondas",
+    "El": "no esconda",
+    "Nosotros": "no escondamos",
+    "Vosotros": "no escondáis",
+    "Ellos": "no escondan"
+  },
+  "ending": "er"
+}

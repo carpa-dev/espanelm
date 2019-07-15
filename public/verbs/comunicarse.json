@@ -1,0 +1,113 @@
+{
+  "verb": "comunicarse",
+  "englishInfinitive": "to communicate [e.g.",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me comunico",
+    "Tu": "te comunicas",
+    "El": "se comunica",
+    "Nosotros": "nos comunicamos",
+    "Vosotros": "os comunicáis",
+    "Ellos": "se comunican"
+  },
+  "IndicativePreterite": {
+    "Yo": "me comuniqué",
+    "Tu": "te comunicaste",
+    "El": "se comunicó",
+    "Nosotros": "nos comunicamos",
+    "Vosotros": "os comunicasteis",
+    "Ellos": "se comunicaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me comunicaré",
+    "Tu": "te comunicarás",
+    "El": "se comunicará",
+    "Nosotros": "nos comunicaremos",
+    "Vosotros": "os comunicaréis",
+    "Ellos": "se comunicarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me comunicaría",
+    "Tu": "te comunicarías",
+    "El": "se comunicaría",
+    "Nosotros": "nos comunicaríamos",
+    "Vosotros": "os comunicaríais",
+    "Ellos": "se comunicarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me comunicaba",
+    "Tu": "te comunicabas",
+    "El": "se comunicaba",
+    "Nosotros": "nos comunicábamos",
+    "Vosotros": "os comunicabais",
+    "Ellos": "se comunicaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy comunicando,estoy comunicándome",
+    "Tu": "te estás comunicando,estás comunicándote",
+    "El": "se está comunicando,está comunicándose",
+    "Nosotros": "nos estamos comunicando,estamos comunicándonos",
+    "Vosotros": "os estáis comunicando,estáis comunicándoos",
+    "Ellos": "se están comunicando,están comunicándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he comunicado",
+    "Tu": "te has comunicado",
+    "El": "se ha comunicado",
+    "Nosotros": "nos hemos comunicado",
+    "Vosotros": "os habéis comunicado",
+    "Ellos": "se han comunicado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había comunicado",
+    "Tu": "te habías comunicado",
+    "El": "se había comunicado",
+    "Nosotros": "nos habíamos comunicado",
+    "Vosotros": "os habíais comunicado",
+    "Ellos": "se habían comunicado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré comunicado",
+    "Tu": "te habrás comunicado",
+    "El": "se habrá comunicado",
+    "Nosotros": "nos habremos comunicado",
+    "Vosotros": "os habréis comunicado",
+    "Ellos": "se habrán comunicado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría comunicado",
+    "Tu": "te habrías comunicado",
+    "El": "se habría comunicado",
+    "Nosotros": "nos habríamos comunicado",
+    "Vosotros": "os habríais comunicado",
+    "Ellos": "se habrían comunicado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me comunique",
+    "Tu": "te comuniques",
+    "El": "se comunique",
+    "Nosotros": "nos comuniquemos",
+    "Vosotros": "os comuniquéis",
+    "Ellos": "se comuniquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "comunícate",
+    "El": "comuníquese",
+    "Nosotros": "comuniquémonos",
+    "Vosotros": "comunicaos",
+    "Ellos": "comuníquense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te comuniques",
+    "El": "no se comunique",
+    "Nosotros": "no nos comuniquemos",
+    "Vosotros": "no os comuniquéis",
+    "Ellos": "no se comuniquen"
+  },
+  "ending": "ar"
+}

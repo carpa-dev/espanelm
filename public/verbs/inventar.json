@@ -1,0 +1,113 @@
+{
+  "verb": "inventar",
+  "englishInfinitive": "to invent",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "invento",
+    "Tu": "inventas",
+    "El": "inventa",
+    "Nosotros": "inventamos",
+    "Vosotros": "inventáis",
+    "Ellos": "inventan"
+  },
+  "IndicativePreterite": {
+    "Yo": "inventé",
+    "Tu": "inventaste",
+    "El": "inventó",
+    "Nosotros": "inventamos",
+    "Vosotros": "inventasteis",
+    "Ellos": "inventaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "inventaré",
+    "Tu": "inventarás",
+    "El": "inventará",
+    "Nosotros": "inventaremos",
+    "Vosotros": "inventaréis",
+    "Ellos": "inventarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "inventaría",
+    "Tu": "inventarías",
+    "El": "inventaría",
+    "Nosotros": "inventaríamos",
+    "Vosotros": "inventaríais",
+    "Ellos": "inventarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "inventaba",
+    "Tu": "inventabas",
+    "El": "inventaba",
+    "Nosotros": "inventábamos",
+    "Vosotros": "inventabais",
+    "Ellos": "inventaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy inventando",
+    "Tu": "estás inventando",
+    "El": "está inventando",
+    "Nosotros": "estamos inventando",
+    "Vosotros": "estáis inventando",
+    "Ellos": "están inventando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he inventado",
+    "Tu": "has inventado",
+    "El": "ha inventado",
+    "Nosotros": "hemos inventado",
+    "Vosotros": "habéis inventado",
+    "Ellos": "han inventado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había inventado",
+    "Tu": "habías inventado",
+    "El": "había inventado",
+    "Nosotros": "habíamos inventado",
+    "Vosotros": "habíais inventado",
+    "Ellos": "habían inventado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré inventado",
+    "Tu": "habrás inventado",
+    "El": "habrá inventado",
+    "Nosotros": "habremos inventado",
+    "Vosotros": "habréis inventado",
+    "Ellos": "habrán inventado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría inventado",
+    "Tu": "habrías inventado",
+    "El": "habría inventado",
+    "Nosotros": "habríamos inventado",
+    "Vosotros": "habríais inventado",
+    "Ellos": "habrían inventado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "invente",
+    "Tu": "inventes",
+    "El": "invente",
+    "Nosotros": "inventemos",
+    "Vosotros": "inventéis",
+    "Ellos": "inventen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "inventa",
+    "El": "invente",
+    "Nosotros": "inventemos",
+    "Vosotros": "inventad",
+    "Ellos": "inventen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no inventes",
+    "El": "no invente",
+    "Nosotros": "no inventemos",
+    "Vosotros": "no inventéis",
+    "Ellos": "no inventen"
+  },
+  "ending": "ar"
+}

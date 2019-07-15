@@ -1,0 +1,113 @@
+{
+  "verb": "conjugar",
+  "englishInfinitive": "to conjugate",
+  "irregular": true,
+  "type": "g > gu (-gar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "conjugo",
+    "Tu": "conjugas",
+    "El": "conjuga",
+    "Nosotros": "conjugamos",
+    "Vosotros": "conjugáis",
+    "Ellos": "conjugan"
+  },
+  "IndicativePreterite": {
+    "Yo": "conjugué",
+    "Tu": "conjugaste",
+    "El": "conjugó",
+    "Nosotros": "conjugamos",
+    "Vosotros": "conjugasteis",
+    "Ellos": "conjugaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "conjugaré",
+    "Tu": "conjugarás",
+    "El": "conjugará",
+    "Nosotros": "conjugaremos",
+    "Vosotros": "conjugaréis",
+    "Ellos": "conjugarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "conjugaría",
+    "Tu": "conjugarías",
+    "El": "conjugaría",
+    "Nosotros": "conjugaríamos",
+    "Vosotros": "conjugaríais",
+    "Ellos": "conjugarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "conjugaba",
+    "Tu": "conjugabas",
+    "El": "conjugaba",
+    "Nosotros": "conjugábamos",
+    "Vosotros": "conjugabais",
+    "Ellos": "conjugaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy conjugando",
+    "Tu": "estás conjugando",
+    "El": "está conjugando",
+    "Nosotros": "estamos conjugando",
+    "Vosotros": "estáis conjugando",
+    "Ellos": "están conjugando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he conjugado",
+    "Tu": "has conjugado",
+    "El": "ha conjugado",
+    "Nosotros": "hemos conjugado",
+    "Vosotros": "habéis conjugado",
+    "Ellos": "han conjugado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había conjugado",
+    "Tu": "habías conjugado",
+    "El": "había conjugado",
+    "Nosotros": "habíamos conjugado",
+    "Vosotros": "habíais conjugado",
+    "Ellos": "habían conjugado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré conjugado",
+    "Tu": "habrás conjugado",
+    "El": "habrá conjugado",
+    "Nosotros": "habremos conjugado",
+    "Vosotros": "habréis conjugado",
+    "Ellos": "habrán conjugado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría conjugado",
+    "Tu": "habrías conjugado",
+    "El": "habría conjugado",
+    "Nosotros": "habríamos conjugado",
+    "Vosotros": "habríais conjugado",
+    "Ellos": "habrían conjugado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "conjugue",
+    "Tu": "conjugues",
+    "El": "conjugue",
+    "Nosotros": "conjuguemos",
+    "Vosotros": "conjuguéis",
+    "Ellos": "conjuguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "conjuga",
+    "El": "conjugue",
+    "Nosotros": "conjuguemos",
+    "Vosotros": "conjugad",
+    "Ellos": "conjuguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no conjugues",
+    "El": "no conjugue",
+    "Nosotros": "no conjuguemos",
+    "Vosotros": "no conjuguéis",
+    "Ellos": "no conjuguen"
+  },
+  "ending": "ar"
+}

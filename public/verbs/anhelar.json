@@ -1,0 +1,113 @@
+{
+  "verb": "anhelar",
+  "englishInfinitive": "to be eager for/to",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "anhelo",
+    "Tu": "anhelas",
+    "El": "anhela",
+    "Nosotros": "anhelamos",
+    "Vosotros": "anheláis",
+    "Ellos": "anhelan"
+  },
+  "IndicativePreterite": {
+    "Yo": "anhelé",
+    "Tu": "anhelaste",
+    "El": "anheló",
+    "Nosotros": "anhelamos",
+    "Vosotros": "anhelasteis",
+    "Ellos": "anhelaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "anhelaré",
+    "Tu": "anhelarás",
+    "El": "anhelará",
+    "Nosotros": "anhelaremos",
+    "Vosotros": "anhelaréis",
+    "Ellos": "anhelarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "anhelaría",
+    "Tu": "anhelarías",
+    "El": "anhelaría",
+    "Nosotros": "anhelaríamos",
+    "Vosotros": "anhelaríais",
+    "Ellos": "anhelarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "anhelaba",
+    "Tu": "anhelabas",
+    "El": "anhelaba",
+    "Nosotros": "anhelábamos",
+    "Vosotros": "anhelabais",
+    "Ellos": "anhelaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy anhelando",
+    "Tu": "estás anhelando",
+    "El": "está anhelando",
+    "Nosotros": "estamos anhelando",
+    "Vosotros": "estáis anhelando",
+    "Ellos": "están anhelando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he anhelado",
+    "Tu": "has anhelado",
+    "El": "ha anhelado",
+    "Nosotros": "hemos anhelado",
+    "Vosotros": "habéis anhelado",
+    "Ellos": "han anhelado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había anhelado",
+    "Tu": "habías anhelado",
+    "El": "había anhelado",
+    "Nosotros": "habíamos anhelado",
+    "Vosotros": "habíais anhelado",
+    "Ellos": "habían anhelado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré anhelado",
+    "Tu": "habrás anhelado",
+    "El": "habrá anhelado",
+    "Nosotros": "habremos anhelado",
+    "Vosotros": "habréis anhelado",
+    "Ellos": "habrán anhelado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría anhelado",
+    "Tu": "habrías anhelado",
+    "El": "habría anhelado",
+    "Nosotros": "habríamos anhelado",
+    "Vosotros": "habríais anhelado",
+    "Ellos": "habrían anhelado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "anhele",
+    "Tu": "anheles",
+    "El": "anhele",
+    "Nosotros": "anhelemos",
+    "Vosotros": "anheléis",
+    "Ellos": "anhelen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "anhela",
+    "El": "anhele",
+    "Nosotros": "anhelemos",
+    "Vosotros": "anhelad",
+    "Ellos": "anhelen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no anheles",
+    "El": "no anhele",
+    "Nosotros": "no anhelemos",
+    "Vosotros": "no anheléis",
+    "Ellos": "no anhelen"
+  },
+  "ending": "ar"
+}

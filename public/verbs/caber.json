@@ -1,0 +1,113 @@
+{
+  "verb": "caber",
+  "englishInfinitive": "to fit",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "quepo",
+    "Tu": "cabes",
+    "El": "cabe",
+    "Nosotros": "cabemos",
+    "Vosotros": "cabéis",
+    "Ellos": "caben"
+  },
+  "IndicativePreterite": {
+    "Yo": "cupe",
+    "Tu": "cupiste",
+    "El": "cupo",
+    "Nosotros": "cupimos",
+    "Vosotros": "cupisteis",
+    "Ellos": "cupieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cabré",
+    "Tu": "cabrás",
+    "El": "cabrá",
+    "Nosotros": "cabremos",
+    "Vosotros": "cabréis",
+    "Ellos": "cabrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cabría",
+    "Tu": "cabrías",
+    "El": "cabría",
+    "Nosotros": "cabríamos",
+    "Vosotros": "cabríais",
+    "Ellos": "cabrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cabía",
+    "Tu": "cabías",
+    "El": "cabía",
+    "Nosotros": "cabíamos",
+    "Vosotros": "cabíais",
+    "Ellos": "cabían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cabiendo",
+    "Tu": "estás cabiendo",
+    "El": "está cabiendo",
+    "Nosotros": "estamos cabiendo",
+    "Vosotros": "estáis cabiendo",
+    "Ellos": "están cabiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cabido",
+    "Tu": "has cabido",
+    "El": "ha cabido",
+    "Nosotros": "hemos cabido",
+    "Vosotros": "habéis cabido",
+    "Ellos": "han cabido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cabido",
+    "Tu": "habías cabido",
+    "El": "había cabido",
+    "Nosotros": "habíamos cabido",
+    "Vosotros": "habíais cabido",
+    "Ellos": "habían cabido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cabido",
+    "Tu": "habrás cabido",
+    "El": "habrá cabido",
+    "Nosotros": "habremos cabido",
+    "Vosotros": "habréis cabido",
+    "Ellos": "habrán cabido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cabido",
+    "Tu": "habrías cabido",
+    "El": "habría cabido",
+    "Nosotros": "habríamos cabido",
+    "Vosotros": "habríais cabido",
+    "Ellos": "habrían cabido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "quepa",
+    "Tu": "quepas",
+    "El": "quepa",
+    "Nosotros": "quepamos",
+    "Vosotros": "quepáis",
+    "Ellos": "quepan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cabe",
+    "El": "quepa",
+    "Nosotros": "quepamos",
+    "Vosotros": "cabed",
+    "Ellos": "quepan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no quepas",
+    "El": "no quepa",
+    "Nosotros": "no quepamos",
+    "Vosotros": "no quepáis",
+    "Ellos": "no quepan"
+  },
+  "ending": "er"
+}

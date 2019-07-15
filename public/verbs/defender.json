@@ -1,0 +1,113 @@
+{
+  "verb": "defender",
+  "englishInfinitive": "to defend",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "defiendo",
+    "Tu": "defiendes",
+    "El": "defiende",
+    "Nosotros": "defendemos",
+    "Vosotros": "defendéis",
+    "Ellos": "defienden"
+  },
+  "IndicativePreterite": {
+    "Yo": "defendí",
+    "Tu": "defendiste",
+    "El": "defendió",
+    "Nosotros": "defendimos",
+    "Vosotros": "defendisteis",
+    "Ellos": "defendieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "defenderé",
+    "Tu": "defenderás",
+    "El": "defenderá",
+    "Nosotros": "defenderemos",
+    "Vosotros": "defenderéis",
+    "Ellos": "defenderán"
+  },
+  "ConditionalPresent": {
+    "Yo": "defendería",
+    "Tu": "defenderías",
+    "El": "defendería",
+    "Nosotros": "defenderíamos",
+    "Vosotros": "defenderíais",
+    "Ellos": "defenderían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "defendía",
+    "Tu": "defendías",
+    "El": "defendía",
+    "Nosotros": "defendíamos",
+    "Vosotros": "defendíais",
+    "Ellos": "defendían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy defendiendo",
+    "Tu": "estás defendiendo",
+    "El": "está defendiendo",
+    "Nosotros": "estamos defendiendo",
+    "Vosotros": "estáis defendiendo",
+    "Ellos": "están defendiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he defendido",
+    "Tu": "has defendido",
+    "El": "ha defendido",
+    "Nosotros": "hemos defendido",
+    "Vosotros": "habéis defendido",
+    "Ellos": "han defendido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había defendido",
+    "Tu": "habías defendido",
+    "El": "había defendido",
+    "Nosotros": "habíamos defendido",
+    "Vosotros": "habíais defendido",
+    "Ellos": "habían defendido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré defendido",
+    "Tu": "habrás defendido",
+    "El": "habrá defendido",
+    "Nosotros": "habremos defendido",
+    "Vosotros": "habréis defendido",
+    "Ellos": "habrán defendido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría defendido",
+    "Tu": "habrías defendido",
+    "El": "habría defendido",
+    "Nosotros": "habríamos defendido",
+    "Vosotros": "habríais defendido",
+    "Ellos": "habrían defendido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "defienda",
+    "Tu": "defiendas",
+    "El": "defienda",
+    "Nosotros": "defendamos",
+    "Vosotros": "defendáis",
+    "Ellos": "defiendan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "defiende",
+    "El": "defienda",
+    "Nosotros": "defendamos",
+    "Vosotros": "defended",
+    "Ellos": "defiendan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no defiendas",
+    "El": "no defienda",
+    "Nosotros": "no defendamos",
+    "Vosotros": "no defendáis",
+    "Ellos": "no defiendan"
+  },
+  "ending": "er"
+}

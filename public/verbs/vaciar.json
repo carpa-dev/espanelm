@@ -1,0 +1,113 @@
+{
+  "verb": "vaciar",
+  "englishInfinitive": "to empty",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "vacío",
+    "Tu": "vacías",
+    "El": "vacía",
+    "Nosotros": "vaciamos",
+    "Vosotros": "vaciáis",
+    "Ellos": "vacían"
+  },
+  "IndicativePreterite": {
+    "Yo": "vacié",
+    "Tu": "vaciaste",
+    "El": "vació",
+    "Nosotros": "vaciamos",
+    "Vosotros": "vaciasteis",
+    "Ellos": "vaciaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "vaciaré",
+    "Tu": "vaciarás",
+    "El": "vaciará",
+    "Nosotros": "vaciaremos",
+    "Vosotros": "vaciaréis",
+    "Ellos": "vaciarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "vaciaría",
+    "Tu": "vaciarías",
+    "El": "vaciaría",
+    "Nosotros": "vaciaríamos",
+    "Vosotros": "vaciaríais",
+    "Ellos": "vaciarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "vaciaba",
+    "Tu": "vaciabas",
+    "El": "vaciaba",
+    "Nosotros": "vaciábamos",
+    "Vosotros": "vaciabais",
+    "Ellos": "vaciaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy vaciando",
+    "Tu": "estás vaciando",
+    "El": "está vaciando",
+    "Nosotros": "estamos vaciando",
+    "Vosotros": "estáis vaciando",
+    "Ellos": "están vaciando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he vaciado",
+    "Tu": "has vaciado",
+    "El": "ha vaciado",
+    "Nosotros": "hemos vaciado",
+    "Vosotros": "habéis vaciado",
+    "Ellos": "han vaciado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había vaciado",
+    "Tu": "habías vaciado",
+    "El": "había vaciado",
+    "Nosotros": "habíamos vaciado",
+    "Vosotros": "habíais vaciado",
+    "Ellos": "habían vaciado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré vaciado",
+    "Tu": "habrás vaciado",
+    "El": "habrá vaciado",
+    "Nosotros": "habremos vaciado",
+    "Vosotros": "habréis vaciado",
+    "Ellos": "habrán vaciado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría vaciado",
+    "Tu": "habrías vaciado",
+    "El": "habría vaciado",
+    "Nosotros": "habríamos vaciado",
+    "Vosotros": "habríais vaciado",
+    "Ellos": "habrían vaciado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "vacíe",
+    "Tu": "vacíes",
+    "El": "vacíe",
+    "Nosotros": "vaciemos",
+    "Vosotros": "vaciéis",
+    "Ellos": "vacíen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "vacía",
+    "El": "vacíe",
+    "Nosotros": "vaciemos",
+    "Vosotros": "vaciad",
+    "Ellos": "vacíen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no vacíes",
+    "El": "no vacíe",
+    "Nosotros": "no vaciemos",
+    "Vosotros": "no vaciéis",
+    "Ellos": "no vacíen"
+  },
+  "ending": "ar"
+}

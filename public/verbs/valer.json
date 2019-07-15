@@ -1,0 +1,113 @@
+{
+  "verb": "valer",
+  "englishInfinitive": "to be worth",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "valgo",
+    "Tu": "vales",
+    "El": "vale",
+    "Nosotros": "valemos",
+    "Vosotros": "valéis",
+    "Ellos": "valen"
+  },
+  "IndicativePreterite": {
+    "Yo": "valí",
+    "Tu": "valiste",
+    "El": "valió",
+    "Nosotros": "valimos",
+    "Vosotros": "valisteis",
+    "Ellos": "valieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "valdré",
+    "Tu": "valdrás",
+    "El": "valdrá",
+    "Nosotros": "valdremos",
+    "Vosotros": "valdréis",
+    "Ellos": "valdrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "valdría",
+    "Tu": "valdrías",
+    "El": "valdría",
+    "Nosotros": "valdríamos",
+    "Vosotros": "valdríais",
+    "Ellos": "valdrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "valía",
+    "Tu": "valías",
+    "El": "valía",
+    "Nosotros": "valíamos",
+    "Vosotros": "valíais",
+    "Ellos": "valían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy valiendo",
+    "Tu": "estás valiendo",
+    "El": "está valiendo",
+    "Nosotros": "estamos valiendo",
+    "Vosotros": "estáis valiendo",
+    "Ellos": "están valiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he valido",
+    "Tu": "has valido",
+    "El": "ha valido",
+    "Nosotros": "hemos valido",
+    "Vosotros": "habéis valido",
+    "Ellos": "han valido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había valido",
+    "Tu": "habías valido",
+    "El": "había valido",
+    "Nosotros": "habíamos valido",
+    "Vosotros": "habíais valido",
+    "Ellos": "habían valido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré valido",
+    "Tu": "habrás valido",
+    "El": "habrá valido",
+    "Nosotros": "habremos valido",
+    "Vosotros": "habréis valido",
+    "Ellos": "habrán valido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría valido",
+    "Tu": "habrías valido",
+    "El": "habría valido",
+    "Nosotros": "habríamos valido",
+    "Vosotros": "habríais valido",
+    "Ellos": "habrían valido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "valga",
+    "Tu": "valgas",
+    "El": "valga",
+    "Nosotros": "valgamos",
+    "Vosotros": "valgáis",
+    "Ellos": "valgan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "vale",
+    "El": "valga",
+    "Nosotros": "valgamos",
+    "Vosotros": "valed",
+    "Ellos": "valgan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no valgas",
+    "El": "no valga",
+    "Nosotros": "no valgamos",
+    "Vosotros": "no valgáis",
+    "Ellos": "no valgan"
+  },
+  "ending": "er"
+}

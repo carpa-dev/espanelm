@@ -1,0 +1,113 @@
+{
+  "verb": "bañarse",
+  "englishInfinitive": "to take a bath",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me baño",
+    "Tu": "te bañas",
+    "El": "se baña",
+    "Nosotros": "nos bañamos",
+    "Vosotros": "os bañáis",
+    "Ellos": "se bañan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me bañé",
+    "Tu": "te bañaste",
+    "El": "se bañó",
+    "Nosotros": "nos bañamos",
+    "Vosotros": "os bañasteis",
+    "Ellos": "se bañaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me bañaré",
+    "Tu": "te bañarás",
+    "El": "se bañará",
+    "Nosotros": "nos bañaremos",
+    "Vosotros": "os bañaréis",
+    "Ellos": "se bañarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me bañaría",
+    "Tu": "te bañarías",
+    "El": "se bañaría",
+    "Nosotros": "nos bañaríamos",
+    "Vosotros": "os bañaríais",
+    "Ellos": "se bañarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me bañaba",
+    "Tu": "te bañabas",
+    "El": "se bañaba",
+    "Nosotros": "nos bañábamos",
+    "Vosotros": "os bañabais",
+    "Ellos": "se bañaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy bañando,estoy bañándome",
+    "Tu": "te estás bañando,estás bañándote",
+    "El": "se está bañando,está bañándose",
+    "Nosotros": "nos estamos bañando,estamos bañándonos",
+    "Vosotros": "os estáis bañando,estáis bañándoos",
+    "Ellos": "se están bañando,están bañándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he bañado",
+    "Tu": "te has bañado",
+    "El": "se ha bañado",
+    "Nosotros": "nos hemos bañado",
+    "Vosotros": "os habéis bañado",
+    "Ellos": "se han bañado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había bañado",
+    "Tu": "te habías bañado",
+    "El": "se había bañado",
+    "Nosotros": "nos habíamos bañado",
+    "Vosotros": "os habíais bañado",
+    "Ellos": "se habían bañado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré bañado",
+    "Tu": "te habrás bañado",
+    "El": "se habrá bañado",
+    "Nosotros": "nos habremos bañado",
+    "Vosotros": "os habréis bañado",
+    "Ellos": "se habrán bañado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría bañado",
+    "Tu": "te habrías bañado",
+    "El": "se habría bañado",
+    "Nosotros": "nos habríamos bañado",
+    "Vosotros": "os habríais bañado",
+    "Ellos": "se habrían bañado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me bañe",
+    "Tu": "te bañes",
+    "El": "se bañe",
+    "Nosotros": "nos bañemos",
+    "Vosotros": "os bañéis",
+    "Ellos": "se bañen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "báñate",
+    "El": "báñese",
+    "Nosotros": "bañémonos",
+    "Vosotros": "bañaos",
+    "Ellos": "báñense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te bañes",
+    "El": "no se bañe",
+    "Nosotros": "no nos bañemos",
+    "Vosotros": "no os bañéis",
+    "Ellos": "no se bañen"
+  },
+  "ending": "ar"
+}

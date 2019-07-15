@@ -1,0 +1,113 @@
+{
+  "verb": "provocar",
+  "englishInfinitive": "to provoke",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "provoco",
+    "Tu": "provocas",
+    "El": "provoca",
+    "Nosotros": "provocamos",
+    "Vosotros": "provocáis",
+    "Ellos": "provocan"
+  },
+  "IndicativePreterite": {
+    "Yo": "provoqué",
+    "Tu": "provocaste",
+    "El": "provocó",
+    "Nosotros": "provocamos",
+    "Vosotros": "provocasteis",
+    "Ellos": "provocaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "provocaré",
+    "Tu": "provocarás",
+    "El": "provocará",
+    "Nosotros": "provocaremos",
+    "Vosotros": "provocaréis",
+    "Ellos": "provocarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "provocaría",
+    "Tu": "provocarías",
+    "El": "provocaría",
+    "Nosotros": "provocaríamos",
+    "Vosotros": "provocaríais",
+    "Ellos": "provocarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "provocaba",
+    "Tu": "provocabas",
+    "El": "provocaba",
+    "Nosotros": "provocábamos",
+    "Vosotros": "provocabais",
+    "Ellos": "provocaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy provocando",
+    "Tu": "estás provocando",
+    "El": "está provocando",
+    "Nosotros": "estamos provocando",
+    "Vosotros": "estáis provocando",
+    "Ellos": "están provocando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he provocado",
+    "Tu": "has provocado",
+    "El": "ha provocado",
+    "Nosotros": "hemos provocado",
+    "Vosotros": "habéis provocado",
+    "Ellos": "han provocado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había provocado",
+    "Tu": "habías provocado",
+    "El": "había provocado",
+    "Nosotros": "habíamos provocado",
+    "Vosotros": "habíais provocado",
+    "Ellos": "habían provocado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré provocado",
+    "Tu": "habrás provocado",
+    "El": "habrá provocado",
+    "Nosotros": "habremos provocado",
+    "Vosotros": "habréis provocado",
+    "Ellos": "habrán provocado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría provocado",
+    "Tu": "habrías provocado",
+    "El": "habría provocado",
+    "Nosotros": "habríamos provocado",
+    "Vosotros": "habríais provocado",
+    "Ellos": "habrían provocado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "provoque",
+    "Tu": "provoques",
+    "El": "provoque",
+    "Nosotros": "provoquemos",
+    "Vosotros": "provoquéis",
+    "Ellos": "provoquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "provoca",
+    "El": "provoque",
+    "Nosotros": "provoquemos",
+    "Vosotros": "provocad",
+    "Ellos": "provoquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no provoques",
+    "El": "no provoque",
+    "Nosotros": "no provoquemos",
+    "Vosotros": "no provoquéis",
+    "Ellos": "no provoquen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "toser",
+  "englishInfinitive": "to cough",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "toso",
+    "Tu": "toses",
+    "El": "tose",
+    "Nosotros": "tosemos",
+    "Vosotros": "toséis",
+    "Ellos": "tosen"
+  },
+  "IndicativePreterite": {
+    "Yo": "tosí",
+    "Tu": "tosiste",
+    "El": "tosió",
+    "Nosotros": "tosimos",
+    "Vosotros": "tosisteis",
+    "Ellos": "tosieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "toseré",
+    "Tu": "toserás",
+    "El": "toserá",
+    "Nosotros": "toseremos",
+    "Vosotros": "toseréis",
+    "Ellos": "toserán"
+  },
+  "ConditionalPresent": {
+    "Yo": "tosería",
+    "Tu": "toserías",
+    "El": "tosería",
+    "Nosotros": "toseríamos",
+    "Vosotros": "toseríais",
+    "Ellos": "toserían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "tosía",
+    "Tu": "tosías",
+    "El": "tosía",
+    "Nosotros": "tosíamos",
+    "Vosotros": "tosíais",
+    "Ellos": "tosían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy tosiendo",
+    "Tu": "estás tosiendo",
+    "El": "está tosiendo",
+    "Nosotros": "estamos tosiendo",
+    "Vosotros": "estáis tosiendo",
+    "Ellos": "están tosiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he tosido",
+    "Tu": "has tosido",
+    "El": "ha tosido",
+    "Nosotros": "hemos tosido",
+    "Vosotros": "habéis tosido",
+    "Ellos": "han tosido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había tosido",
+    "Tu": "habías tosido",
+    "El": "había tosido",
+    "Nosotros": "habíamos tosido",
+    "Vosotros": "habíais tosido",
+    "Ellos": "habían tosido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré tosido",
+    "Tu": "habrás tosido",
+    "El": "habrá tosido",
+    "Nosotros": "habremos tosido",
+    "Vosotros": "habréis tosido",
+    "Ellos": "habrán tosido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría tosido",
+    "Tu": "habrías tosido",
+    "El": "habría tosido",
+    "Nosotros": "habríamos tosido",
+    "Vosotros": "habríais tosido",
+    "Ellos": "habrían tosido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "tosa",
+    "Tu": "tosas",
+    "El": "tosa",
+    "Nosotros": "tosamos",
+    "Vosotros": "tosáis",
+    "Ellos": "tosan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "tose",
+    "El": "tosa",
+    "Nosotros": "tosamos",
+    "Vosotros": "tosed",
+    "Ellos": "tosan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no tosas",
+    "El": "no tosa",
+    "Nosotros": "no tosamos",
+    "Vosotros": "no tosáis",
+    "Ellos": "no tosan"
+  },
+  "ending": "er"
+}

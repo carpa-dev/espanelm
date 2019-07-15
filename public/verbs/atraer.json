@@ -1,0 +1,113 @@
+{
+  "verb": "atraer",
+  "englishInfinitive": "to attract",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "atraigo",
+    "Tu": "atraes",
+    "El": "atrae",
+    "Nosotros": "atraemos",
+    "Vosotros": "atraéis",
+    "Ellos": "atraen"
+  },
+  "IndicativePreterite": {
+    "Yo": "atraje",
+    "Tu": "atrajiste",
+    "El": "atrajo",
+    "Nosotros": "atrajimos",
+    "Vosotros": "atrajisteis",
+    "Ellos": "atrajeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "atraeré",
+    "Tu": "atraerás",
+    "El": "atraerá",
+    "Nosotros": "atraeremos",
+    "Vosotros": "atraeréis",
+    "Ellos": "atraerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "atraería",
+    "Tu": "atraerías",
+    "El": "atraería",
+    "Nosotros": "atraeríamos",
+    "Vosotros": "atraeríais",
+    "Ellos": "atraerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "atraía",
+    "Tu": "atraías",
+    "El": "atraía",
+    "Nosotros": "atraíamos",
+    "Vosotros": "atraíais",
+    "Ellos": "atraían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy atrayendo",
+    "Tu": "estás atrayendo",
+    "El": "está atrayendo",
+    "Nosotros": "estamos atrayendo",
+    "Vosotros": "estáis atrayendo",
+    "Ellos": "están atrayendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he atraído",
+    "Tu": "has atraído",
+    "El": "ha atraído",
+    "Nosotros": "hemos atraído",
+    "Vosotros": "habéis atraído",
+    "Ellos": "han atraído"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había atraído",
+    "Tu": "habías atraído",
+    "El": "había atraído",
+    "Nosotros": "habíamos atraído",
+    "Vosotros": "habíais atraído",
+    "Ellos": "habían atraído"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré atraído",
+    "Tu": "habrás atraído",
+    "El": "habrá atraído",
+    "Nosotros": "habremos atraído",
+    "Vosotros": "habréis atraído",
+    "Ellos": "habrán atraído"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría atraído",
+    "Tu": "habrías atraído",
+    "El": "habría atraído",
+    "Nosotros": "habríamos atraído",
+    "Vosotros": "habríais atraído",
+    "Ellos": "habrían atraído"
+  },
+  "SubjunctivePresent": {
+    "Yo": "atraiga",
+    "Tu": "atraigas",
+    "El": "atraiga",
+    "Nosotros": "atraigamos",
+    "Vosotros": "atraigáis",
+    "Ellos": "atraigan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "atrae",
+    "El": "atraiga",
+    "Nosotros": "atraigamos",
+    "Vosotros": "atraed",
+    "Ellos": "atraigan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no atraigas",
+    "El": "no atraiga",
+    "Nosotros": "no atraigamos",
+    "Vosotros": "no atraigáis",
+    "Ellos": "no atraigan"
+  },
+  "ending": "er"
+}

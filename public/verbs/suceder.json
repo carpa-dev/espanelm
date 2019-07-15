@@ -1,0 +1,113 @@
+{
+  "verb": "suceder",
+  "englishInfinitive": "to happen",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "sucedo",
+    "Tu": "sucedes",
+    "El": "sucede",
+    "Nosotros": "sucedemos",
+    "Vosotros": "sucedéis",
+    "Ellos": "suceden"
+  },
+  "IndicativePreterite": {
+    "Yo": "sucedí",
+    "Tu": "sucediste",
+    "El": "sucedió",
+    "Nosotros": "sucedimos",
+    "Vosotros": "sucedisteis",
+    "Ellos": "sucedieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "sucederé",
+    "Tu": "sucederás",
+    "El": "sucederá",
+    "Nosotros": "sucederemos",
+    "Vosotros": "sucederéis",
+    "Ellos": "sucederán"
+  },
+  "ConditionalPresent": {
+    "Yo": "sucedería",
+    "Tu": "sucederías",
+    "El": "sucedería",
+    "Nosotros": "sucederíamos",
+    "Vosotros": "sucederíais",
+    "Ellos": "sucederían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "sucedía",
+    "Tu": "sucedías",
+    "El": "sucedía",
+    "Nosotros": "sucedíamos",
+    "Vosotros": "sucedíais",
+    "Ellos": "sucedían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy sucediendo",
+    "Tu": "estás sucediendo",
+    "El": "está sucediendo",
+    "Nosotros": "estamos sucediendo",
+    "Vosotros": "estáis sucediendo",
+    "Ellos": "están sucediendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he sucedido",
+    "Tu": "has sucedido",
+    "El": "ha sucedido",
+    "Nosotros": "hemos sucedido",
+    "Vosotros": "habéis sucedido",
+    "Ellos": "han sucedido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había sucedido",
+    "Tu": "habías sucedido",
+    "El": "había sucedido",
+    "Nosotros": "habíamos sucedido",
+    "Vosotros": "habíais sucedido",
+    "Ellos": "habían sucedido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré sucedido",
+    "Tu": "habrás sucedido",
+    "El": "habrá sucedido",
+    "Nosotros": "habremos sucedido",
+    "Vosotros": "habréis sucedido",
+    "Ellos": "habrán sucedido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría sucedido",
+    "Tu": "habrías sucedido",
+    "El": "habría sucedido",
+    "Nosotros": "habríamos sucedido",
+    "Vosotros": "habríais sucedido",
+    "Ellos": "habrían sucedido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "suceda",
+    "Tu": "sucedas",
+    "El": "suceda",
+    "Nosotros": "sucedamos",
+    "Vosotros": "sucedáis",
+    "Ellos": "sucedan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sucede",
+    "El": "suceda",
+    "Nosotros": "sucedamos",
+    "Vosotros": "suceded",
+    "Ellos": "sucedan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sucedas",
+    "El": "no suceda",
+    "Nosotros": "no sucedamos",
+    "Vosotros": "no sucedáis",
+    "Ellos": "no sucedan"
+  },
+  "ending": "er"
+}

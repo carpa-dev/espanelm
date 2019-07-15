@@ -1,0 +1,113 @@
+{
+  "verb": "sentirse",
+  "englishInfinitive": "to feel",
+  "irregular": true,
+  "type": "e > i, e > ie",
+  "reflexive": true,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "me siento",
+    "Tu": "te sientes",
+    "El": "se siente",
+    "Nosotros": "nos sentimos",
+    "Vosotros": "os sentís",
+    "Ellos": "se sienten"
+  },
+  "IndicativePreterite": {
+    "Yo": "me sentí",
+    "Tu": "te sentiste",
+    "El": "se sintió",
+    "Nosotros": "nos sentimos",
+    "Vosotros": "os sentisteis",
+    "Ellos": "se sintieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me sentiré",
+    "Tu": "te sentirás",
+    "El": "se sentirá",
+    "Nosotros": "nos sentiremos",
+    "Vosotros": "os sentiréis",
+    "Ellos": "se sentirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me sentiría",
+    "Tu": "te sentirías",
+    "El": "se sentiría",
+    "Nosotros": "nos sentiríamos",
+    "Vosotros": "os sentiríais",
+    "Ellos": "se sentirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me sentía",
+    "Tu": "te sentías",
+    "El": "se sentía",
+    "Nosotros": "nos sentíamos",
+    "Vosotros": "os sentíais",
+    "Ellos": "se sentían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy sintiendo,estoy sintiéndome",
+    "Tu": "te estás sintiendo,estás sintiéndote",
+    "El": "se está sintiendo,está sintiéndose",
+    "Nosotros": "nos estamos sintiendo,estamos sintiéndonos",
+    "Vosotros": "os estáis sintiendo,estáis sintiéndoos",
+    "Ellos": "se están sintiendo,están sintiéndose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he sentido",
+    "Tu": "te has sentido",
+    "El": "se ha sentido",
+    "Nosotros": "nos hemos sentido",
+    "Vosotros": "os habéis sentido",
+    "Ellos": "se han sentido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había sentido",
+    "Tu": "te habías sentido",
+    "El": "se había sentido",
+    "Nosotros": "nos habíamos sentido",
+    "Vosotros": "os habíais sentido",
+    "Ellos": "se habían sentido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré sentido",
+    "Tu": "te habrás sentido",
+    "El": "se habrá sentido",
+    "Nosotros": "nos habremos sentido",
+    "Vosotros": "os habréis sentido",
+    "Ellos": "se habrán sentido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría sentido",
+    "Tu": "te habrías sentido",
+    "El": "se habría sentido",
+    "Nosotros": "nos habríamos sentido",
+    "Vosotros": "os habríais sentido",
+    "Ellos": "se habrían sentido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me sienta",
+    "Tu": "te sientas",
+    "El": "se sienta",
+    "Nosotros": "nos sintamos",
+    "Vosotros": "os sintáis",
+    "Ellos": "se sientan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "siéntete",
+    "El": "siéntase",
+    "Nosotros": "sintámonos",
+    "Vosotros": "sentíos",
+    "Ellos": "siéntanse"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te sientas",
+    "El": "no se sienta",
+    "Nosotros": "no nos sintamos",
+    "Vosotros": "no os sentáis",
+    "Ellos": "no se sientan"
+  },
+  "ending": "ir"
+}

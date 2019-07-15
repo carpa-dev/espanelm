@@ -1,0 +1,113 @@
+{
+  "verb": "negociar",
+  "englishInfinitive": "to negotiate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "negocio",
+    "Tu": "negocias",
+    "El": "negocia",
+    "Nosotros": "negociamos",
+    "Vosotros": "negociáis",
+    "Ellos": "negocian"
+  },
+  "IndicativePreterite": {
+    "Yo": "negocié",
+    "Tu": "negociaste",
+    "El": "negoció",
+    "Nosotros": "negociamos",
+    "Vosotros": "negociasteis",
+    "Ellos": "negociaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "negociaré",
+    "Tu": "negociarás",
+    "El": "negociará",
+    "Nosotros": "negociaremos",
+    "Vosotros": "negociaréis",
+    "Ellos": "negociarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "negociaría",
+    "Tu": "negociarías",
+    "El": "negociaría",
+    "Nosotros": "negociaríamos",
+    "Vosotros": "negociaríais",
+    "Ellos": "negociarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "negociaba",
+    "Tu": "negociabas",
+    "El": "negociaba",
+    "Nosotros": "negociábamos",
+    "Vosotros": "negociabais",
+    "Ellos": "negociaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy negociando",
+    "Tu": "estás negociando",
+    "El": "está negociando",
+    "Nosotros": "estamos negociando",
+    "Vosotros": "estáis negociando",
+    "Ellos": "están negociando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he negociado",
+    "Tu": "has negociado",
+    "El": "ha negociado",
+    "Nosotros": "hemos negociado",
+    "Vosotros": "habéis negociado",
+    "Ellos": "han negociado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había negociado",
+    "Tu": "habías negociado",
+    "El": "había negociado",
+    "Nosotros": "habíamos negociado",
+    "Vosotros": "habíais negociado",
+    "Ellos": "habían negociado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré negociado",
+    "Tu": "habrás negociado",
+    "El": "habrá negociado",
+    "Nosotros": "habremos negociado",
+    "Vosotros": "habréis negociado",
+    "Ellos": "habrán negociado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría negociado",
+    "Tu": "habrías negociado",
+    "El": "habría negociado",
+    "Nosotros": "habríamos negociado",
+    "Vosotros": "habríais negociado",
+    "Ellos": "habrían negociado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "negocie",
+    "Tu": "negocies",
+    "El": "negocie",
+    "Nosotros": "negociemos",
+    "Vosotros": "negociéis",
+    "Ellos": "negocien"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "negocia",
+    "El": "negocie",
+    "Nosotros": "negociemos",
+    "Vosotros": "negociad",
+    "Ellos": "negocien"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no negocies",
+    "El": "no negocie",
+    "Nosotros": "no negociemos",
+    "Vosotros": "no negociéis",
+    "Ellos": "no negocien"
+  },
+  "ending": "ar"
+}

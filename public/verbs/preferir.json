@@ -1,0 +1,113 @@
+{
+  "verb": "preferir",
+  "englishInfinitive": "to prefer",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "prefiero",
+    "Tu": "prefieres",
+    "El": "prefiere",
+    "Nosotros": "preferimos",
+    "Vosotros": "preferís",
+    "Ellos": "prefieren"
+  },
+  "IndicativePreterite": {
+    "Yo": "preferí",
+    "Tu": "preferiste",
+    "El": "prefirió",
+    "Nosotros": "preferimos",
+    "Vosotros": "preferisteis",
+    "Ellos": "prefirieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "preferiré",
+    "Tu": "preferirás",
+    "El": "preferirá",
+    "Nosotros": "preferiremos",
+    "Vosotros": "preferiréis",
+    "Ellos": "preferirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "preferiría",
+    "Tu": "preferirías",
+    "El": "preferiría",
+    "Nosotros": "preferiríamos",
+    "Vosotros": "preferiríais",
+    "Ellos": "preferirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "prefería",
+    "Tu": "preferías",
+    "El": "prefería",
+    "Nosotros": "preferíamos",
+    "Vosotros": "preferíais",
+    "Ellos": "preferían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy prefiriendo",
+    "Tu": "estás prefiriendo",
+    "El": "está prefiriendo",
+    "Nosotros": "estamos prefiriendo",
+    "Vosotros": "estáis prefiriendo",
+    "Ellos": "están prefiriendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he preferido",
+    "Tu": "has preferido",
+    "El": "ha preferido",
+    "Nosotros": "hemos preferido",
+    "Vosotros": "habéis preferido",
+    "Ellos": "han preferido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había preferido",
+    "Tu": "habías preferido",
+    "El": "había preferido",
+    "Nosotros": "habíamos preferido",
+    "Vosotros": "habíais preferido",
+    "Ellos": "habían preferido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré preferido",
+    "Tu": "habrás preferido",
+    "El": "habrá preferido",
+    "Nosotros": "habremos preferido",
+    "Vosotros": "habréis preferido",
+    "Ellos": "habrán preferido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría preferido",
+    "Tu": "habrías preferido",
+    "El": "habría preferido",
+    "Nosotros": "habríamos preferido",
+    "Vosotros": "habríais preferido",
+    "Ellos": "habrían preferido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "prefiera",
+    "Tu": "prefieras",
+    "El": "prefiera",
+    "Nosotros": "prefiramos",
+    "Vosotros": "prefiráis",
+    "Ellos": "prefieran"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "prefiere",
+    "El": "prefiera",
+    "Nosotros": "prefiramos",
+    "Vosotros": "preferid",
+    "Ellos": "prefieran"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no prefieras",
+    "El": "no prefiera",
+    "Nosotros": "no prefiramos",
+    "Vosotros": "no prefiráis",
+    "Ellos": "no prefieran"
+  },
+  "ending": "ir"
+}

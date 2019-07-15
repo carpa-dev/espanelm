@@ -1,0 +1,113 @@
+{
+  "verb": "purificar",
+  "englishInfinitive": "to purify",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "purifico",
+    "Tu": "purificas",
+    "El": "purifica",
+    "Nosotros": "purificamos",
+    "Vosotros": "purificáis",
+    "Ellos": "purifican"
+  },
+  "IndicativePreterite": {
+    "Yo": "purifiqué",
+    "Tu": "purificaste",
+    "El": "purificó",
+    "Nosotros": "purificamos",
+    "Vosotros": "purificasteis",
+    "Ellos": "purificaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "purificaré",
+    "Tu": "purificarás",
+    "El": "purificará",
+    "Nosotros": "purificaremos",
+    "Vosotros": "purificaréis",
+    "Ellos": "purificarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "purificaría",
+    "Tu": "purificarías",
+    "El": "purificaría",
+    "Nosotros": "purificaríamos",
+    "Vosotros": "purificaríais",
+    "Ellos": "purificarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "purificaba",
+    "Tu": "purificabas",
+    "El": "purificaba",
+    "Nosotros": "purificábamos",
+    "Vosotros": "purificabais",
+    "Ellos": "purificaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy purificando",
+    "Tu": "estás purificando",
+    "El": "está purificando",
+    "Nosotros": "estamos purificando",
+    "Vosotros": "estáis purificando",
+    "Ellos": "están purificando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he purificado",
+    "Tu": "has purificado",
+    "El": "ha purificado",
+    "Nosotros": "hemos purificado",
+    "Vosotros": "habéis purificado",
+    "Ellos": "han purificado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había purificado",
+    "Tu": "habías purificado",
+    "El": "había purificado",
+    "Nosotros": "habíamos purificado",
+    "Vosotros": "habíais purificado",
+    "Ellos": "habían purificado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré purificado",
+    "Tu": "habrás purificado",
+    "El": "habrá purificado",
+    "Nosotros": "habremos purificado",
+    "Vosotros": "habréis purificado",
+    "Ellos": "habrán purificado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría purificado",
+    "Tu": "habrías purificado",
+    "El": "habría purificado",
+    "Nosotros": "habríamos purificado",
+    "Vosotros": "habríais purificado",
+    "Ellos": "habrían purificado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "purifique",
+    "Tu": "purifiques",
+    "El": "purifique",
+    "Nosotros": "purifiquemos",
+    "Vosotros": "purifiquéis",
+    "Ellos": "purifiquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "purifica",
+    "El": "purifique",
+    "Nosotros": "purifiquemos",
+    "Vosotros": "purificad",
+    "Ellos": "purifiquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no purifiques",
+    "El": "no purifique",
+    "Nosotros": "no purifiquemos",
+    "Vosotros": "no purifiquéis",
+    "Ellos": "no purifiquen"
+  },
+  "ending": "ar"
+}

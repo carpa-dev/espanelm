@@ -1,0 +1,113 @@
+{
+  "verb": "reparar",
+  "englishInfinitive": "to repair",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "reparo",
+    "Tu": "reparas",
+    "El": "repara",
+    "Nosotros": "reparamos",
+    "Vosotros": "reparáis",
+    "Ellos": "reparan"
+  },
+  "IndicativePreterite": {
+    "Yo": "reparé",
+    "Tu": "reparaste",
+    "El": "reparó",
+    "Nosotros": "reparamos",
+    "Vosotros": "reparasteis",
+    "Ellos": "repararon"
+  },
+  "IndicativeFuture": {
+    "Yo": "repararé",
+    "Tu": "repararás",
+    "El": "reparará",
+    "Nosotros": "repararemos",
+    "Vosotros": "repararéis",
+    "Ellos": "repararán"
+  },
+  "ConditionalPresent": {
+    "Yo": "repararía",
+    "Tu": "repararías",
+    "El": "repararía",
+    "Nosotros": "repararíamos",
+    "Vosotros": "repararíais",
+    "Ellos": "repararían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "reparaba",
+    "Tu": "reparabas",
+    "El": "reparaba",
+    "Nosotros": "reparábamos",
+    "Vosotros": "reparabais",
+    "Ellos": "reparaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy reparando",
+    "Tu": "estás reparando",
+    "El": "está reparando",
+    "Nosotros": "estamos reparando",
+    "Vosotros": "estáis reparando",
+    "Ellos": "están reparando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he reparado",
+    "Tu": "has reparado",
+    "El": "ha reparado",
+    "Nosotros": "hemos reparado",
+    "Vosotros": "habéis reparado",
+    "Ellos": "han reparado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había reparado",
+    "Tu": "habías reparado",
+    "El": "había reparado",
+    "Nosotros": "habíamos reparado",
+    "Vosotros": "habíais reparado",
+    "Ellos": "habían reparado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré reparado",
+    "Tu": "habrás reparado",
+    "El": "habrá reparado",
+    "Nosotros": "habremos reparado",
+    "Vosotros": "habréis reparado",
+    "Ellos": "habrán reparado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría reparado",
+    "Tu": "habrías reparado",
+    "El": "habría reparado",
+    "Nosotros": "habríamos reparado",
+    "Vosotros": "habríais reparado",
+    "Ellos": "habrían reparado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "repare",
+    "Tu": "repares",
+    "El": "repare",
+    "Nosotros": "reparemos",
+    "Vosotros": "reparéis",
+    "Ellos": "reparen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "repara",
+    "El": "repare",
+    "Nosotros": "reparemos",
+    "Vosotros": "reparad",
+    "Ellos": "reparen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no repares",
+    "El": "no repare",
+    "Nosotros": "no reparemos",
+    "Vosotros": "no reparéis",
+    "Ellos": "no reparen"
+  },
+  "ending": "ar"
+}

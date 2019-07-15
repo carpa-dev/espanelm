@@ -1,0 +1,113 @@
+{
+  "verb": "convenir",
+  "englishInfinitive": "to agree",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "convengo",
+    "Tu": "convienes",
+    "El": "conviene",
+    "Nosotros": "convenimos",
+    "Vosotros": "convenís",
+    "Ellos": "convienen"
+  },
+  "IndicativePreterite": {
+    "Yo": "convine",
+    "Tu": "conviniste",
+    "El": "convino",
+    "Nosotros": "convinimos",
+    "Vosotros": "convinisteis",
+    "Ellos": "convinieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "convendré",
+    "Tu": "convendrás",
+    "El": "convendrá",
+    "Nosotros": "convendremos",
+    "Vosotros": "convendréis",
+    "Ellos": "convendrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "convendría",
+    "Tu": "convendrías",
+    "El": "convendría",
+    "Nosotros": "convendríamos",
+    "Vosotros": "convendríais",
+    "Ellos": "convendrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "convenía",
+    "Tu": "convenías",
+    "El": "convenía",
+    "Nosotros": "conveníamos",
+    "Vosotros": "conveníais",
+    "Ellos": "convenían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy conviniendo",
+    "Tu": "estás conviniendo",
+    "El": "está conviniendo",
+    "Nosotros": "estamos conviniendo",
+    "Vosotros": "estáis conviniendo",
+    "Ellos": "están conviniendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he convenido",
+    "Tu": "has convenido",
+    "El": "ha convenido",
+    "Nosotros": "hemos convenido",
+    "Vosotros": "habéis convenido",
+    "Ellos": "han convenido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había convenido",
+    "Tu": "habías convenido",
+    "El": "había convenido",
+    "Nosotros": "habíamos convenido",
+    "Vosotros": "habíais convenido",
+    "Ellos": "habían convenido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré convenido",
+    "Tu": "habrás convenido",
+    "El": "habrá convenido",
+    "Nosotros": "habremos convenido",
+    "Vosotros": "habréis convenido",
+    "Ellos": "habrán convenido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría convenido",
+    "Tu": "habrías convenido",
+    "El": "habría convenido",
+    "Nosotros": "habríamos convenido",
+    "Vosotros": "habríais convenido",
+    "Ellos": "habrían convenido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "convenga",
+    "Tu": "convengas",
+    "El": "convenga",
+    "Nosotros": "convengamos",
+    "Vosotros": "convengáis",
+    "Ellos": "convengan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "convén",
+    "El": "convenga",
+    "Nosotros": "convengamos",
+    "Vosotros": "convenid",
+    "Ellos": "convengan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no convengas",
+    "El": "no convenga",
+    "Nosotros": "no convengamos",
+    "Vosotros": "no convengáis",
+    "Ellos": "no convengan"
+  },
+  "ending": "ir"
+}

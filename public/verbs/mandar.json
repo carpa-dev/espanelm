@@ -1,0 +1,113 @@
+{
+  "verb": "mandar",
+  "englishInfinitive": "to order",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "mando",
+    "Tu": "mandas",
+    "El": "manda",
+    "Nosotros": "mandamos",
+    "Vosotros": "mandáis",
+    "Ellos": "mandan"
+  },
+  "IndicativePreterite": {
+    "Yo": "mandé",
+    "Tu": "mandaste",
+    "El": "mandó",
+    "Nosotros": "mandamos",
+    "Vosotros": "mandasteis",
+    "Ellos": "mandaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "mandaré",
+    "Tu": "mandarás",
+    "El": "mandará",
+    "Nosotros": "mandaremos",
+    "Vosotros": "mandaréis",
+    "Ellos": "mandarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "mandaría",
+    "Tu": "mandarías",
+    "El": "mandaría",
+    "Nosotros": "mandaríamos",
+    "Vosotros": "mandaríais",
+    "Ellos": "mandarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "mandaba",
+    "Tu": "mandabas",
+    "El": "mandaba",
+    "Nosotros": "mandábamos",
+    "Vosotros": "mandabais",
+    "Ellos": "mandaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy mandando",
+    "Tu": "estás mandando",
+    "El": "está mandando",
+    "Nosotros": "estamos mandando",
+    "Vosotros": "estáis mandando",
+    "Ellos": "están mandando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he mandado",
+    "Tu": "has mandado",
+    "El": "ha mandado",
+    "Nosotros": "hemos mandado",
+    "Vosotros": "habéis mandado",
+    "Ellos": "han mandado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había mandado",
+    "Tu": "habías mandado",
+    "El": "había mandado",
+    "Nosotros": "habíamos mandado",
+    "Vosotros": "habíais mandado",
+    "Ellos": "habían mandado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré mandado",
+    "Tu": "habrás mandado",
+    "El": "habrá mandado",
+    "Nosotros": "habremos mandado",
+    "Vosotros": "habréis mandado",
+    "Ellos": "habrán mandado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría mandado",
+    "Tu": "habrías mandado",
+    "El": "habría mandado",
+    "Nosotros": "habríamos mandado",
+    "Vosotros": "habríais mandado",
+    "Ellos": "habrían mandado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "mande",
+    "Tu": "mandes",
+    "El": "mande",
+    "Nosotros": "mandemos",
+    "Vosotros": "mandéis",
+    "Ellos": "manden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "manda",
+    "El": "mande",
+    "Nosotros": "mandemos",
+    "Vosotros": "mandad",
+    "Ellos": "manden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no mandes",
+    "El": "no mande",
+    "Nosotros": "no mandemos",
+    "Vosotros": "no mandéis",
+    "Ellos": "no manden"
+  },
+  "ending": "ar"
+}

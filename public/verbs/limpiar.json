@@ -1,0 +1,113 @@
+{
+  "verb": "limpiar",
+  "englishInfinitive": "to clean",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "limpio",
+    "Tu": "limpias",
+    "El": "limpia",
+    "Nosotros": "limpiamos",
+    "Vosotros": "limpiáis",
+    "Ellos": "limpian"
+  },
+  "IndicativePreterite": {
+    "Yo": "limpié",
+    "Tu": "limpiaste",
+    "El": "limpió",
+    "Nosotros": "limpiamos",
+    "Vosotros": "limpiasteis",
+    "Ellos": "limpiaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "limpiaré",
+    "Tu": "limpiarás",
+    "El": "limpiará",
+    "Nosotros": "limpiaremos",
+    "Vosotros": "limpiaréis",
+    "Ellos": "limpiarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "limpiaría",
+    "Tu": "limpiarías",
+    "El": "limpiaría",
+    "Nosotros": "limpiaríamos",
+    "Vosotros": "limpiaríais",
+    "Ellos": "limpiarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "limpiaba",
+    "Tu": "limpiabas",
+    "El": "limpiaba",
+    "Nosotros": "limpiábamos",
+    "Vosotros": "limpiabais",
+    "Ellos": "limpiaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy limpiando",
+    "Tu": "estás limpiando",
+    "El": "está limpiando",
+    "Nosotros": "estamos limpiando",
+    "Vosotros": "estáis limpiando",
+    "Ellos": "están limpiando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he limpiado",
+    "Tu": "has limpiado",
+    "El": "ha limpiado",
+    "Nosotros": "hemos limpiado",
+    "Vosotros": "habéis limpiado",
+    "Ellos": "han limpiado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había limpiado",
+    "Tu": "habías limpiado",
+    "El": "había limpiado",
+    "Nosotros": "habíamos limpiado",
+    "Vosotros": "habíais limpiado",
+    "Ellos": "habían limpiado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré limpiado",
+    "Tu": "habrás limpiado",
+    "El": "habrá limpiado",
+    "Nosotros": "habremos limpiado",
+    "Vosotros": "habréis limpiado",
+    "Ellos": "habrán limpiado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría limpiado",
+    "Tu": "habrías limpiado",
+    "El": "habría limpiado",
+    "Nosotros": "habríamos limpiado",
+    "Vosotros": "habríais limpiado",
+    "Ellos": "habrían limpiado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "limpie",
+    "Tu": "limpies",
+    "El": "limpie",
+    "Nosotros": "limpiemos",
+    "Vosotros": "limpiéis",
+    "Ellos": "limpien"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "limpia",
+    "El": "limpie",
+    "Nosotros": "limpiemos",
+    "Vosotros": "limpiad",
+    "Ellos": "limpien"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no limpies",
+    "El": "no limpie",
+    "Nosotros": "no limpiemos",
+    "Vosotros": "no limpiéis",
+    "Ellos": "no limpien"
+  },
+  "ending": "ar"
+}

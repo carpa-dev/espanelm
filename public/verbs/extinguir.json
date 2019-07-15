@@ -1,0 +1,113 @@
+{
+  "verb": "extinguir",
+  "englishInfinitive": "to extinguish",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "extingo",
+    "Tu": "extingues",
+    "El": "extingue",
+    "Nosotros": "extinguimos",
+    "Vosotros": "extinguís",
+    "Ellos": "extinguen"
+  },
+  "IndicativePreterite": {
+    "Yo": "extinguí",
+    "Tu": "extinguiste",
+    "El": "extinguió",
+    "Nosotros": "extinguimos",
+    "Vosotros": "extinguisteis",
+    "Ellos": "extinguieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "extinguiré",
+    "Tu": "extinguirás",
+    "El": "extinguirá",
+    "Nosotros": "extinguiremos",
+    "Vosotros": "extinguiréis",
+    "Ellos": "extinguirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "extinguiría",
+    "Tu": "extinguirías",
+    "El": "extinguiría",
+    "Nosotros": "extinguiríamos",
+    "Vosotros": "extinguiríais",
+    "Ellos": "extinguirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "extinguía",
+    "Tu": "extinguías",
+    "El": "extinguía",
+    "Nosotros": "extinguíamos",
+    "Vosotros": "extinguíais",
+    "Ellos": "extinguían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy extinguiendo",
+    "Tu": "estás extinguiendo",
+    "El": "está extinguiendo",
+    "Nosotros": "estamos extinguiendo",
+    "Vosotros": "estáis extinguiendo",
+    "Ellos": "están extinguiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he extinguido",
+    "Tu": "has extinguido",
+    "El": "ha extinguido",
+    "Nosotros": "hemos extinguido",
+    "Vosotros": "habéis extinguido",
+    "Ellos": "han extinguido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había extinguido",
+    "Tu": "habías extinguido",
+    "El": "había extinguido",
+    "Nosotros": "habíamos extinguido",
+    "Vosotros": "habíais extinguido",
+    "Ellos": "habían extinguido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré extinguido",
+    "Tu": "habrás extinguido",
+    "El": "habrá extinguido",
+    "Nosotros": "habremos extinguido",
+    "Vosotros": "habréis extinguido",
+    "Ellos": "habrán extinguido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría extinguido",
+    "Tu": "habrías extinguido",
+    "El": "habría extinguido",
+    "Nosotros": "habríamos extinguido",
+    "Vosotros": "habríais extinguido",
+    "Ellos": "habrían extinguido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "extinga",
+    "Tu": "extingas",
+    "El": "extinga",
+    "Nosotros": "extingamos",
+    "Vosotros": "extingáis",
+    "Ellos": "extingan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "extingue",
+    "El": "extinga",
+    "Nosotros": "extingamos",
+    "Vosotros": "extinguid",
+    "Ellos": "extingan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no extingas",
+    "El": "no extinga",
+    "Nosotros": "no extingamos",
+    "Vosotros": "no extingáis",
+    "Ellos": "no extingan"
+  },
+  "ending": "ir"
+}

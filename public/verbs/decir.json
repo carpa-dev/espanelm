@@ -1,0 +1,113 @@
+{
+  "verb": "decir",
+  "englishInfinitive": "to say",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "digo",
+    "Tu": "dices",
+    "El": "dice",
+    "Nosotros": "decimos",
+    "Vosotros": "decís",
+    "Ellos": "dicen"
+  },
+  "IndicativePreterite": {
+    "Yo": "dije",
+    "Tu": "dijiste",
+    "El": "dijo",
+    "Nosotros": "dijimos",
+    "Vosotros": "dijisteis",
+    "Ellos": "dijeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "diré",
+    "Tu": "dirás",
+    "El": "dirá",
+    "Nosotros": "diremos",
+    "Vosotros": "diréis",
+    "Ellos": "dirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "diría",
+    "Tu": "dirías",
+    "El": "diría",
+    "Nosotros": "diríamos",
+    "Vosotros": "diríais",
+    "Ellos": "dirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "decía",
+    "Tu": "decías",
+    "El": "decía",
+    "Nosotros": "decíamos",
+    "Vosotros": "decíais",
+    "Ellos": "decían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy diciendo",
+    "Tu": "estás diciendo",
+    "El": "está diciendo",
+    "Nosotros": "estamos diciendo",
+    "Vosotros": "estáis diciendo",
+    "Ellos": "están diciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he dicho",
+    "Tu": "has dicho",
+    "El": "ha dicho",
+    "Nosotros": "hemos dicho",
+    "Vosotros": "habéis dicho",
+    "Ellos": "han dicho"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había dicho",
+    "Tu": "habías dicho",
+    "El": "había dicho",
+    "Nosotros": "habíamos dicho",
+    "Vosotros": "habíais dicho",
+    "Ellos": "habían dicho"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré dicho",
+    "Tu": "habrás dicho",
+    "El": "habrá dicho",
+    "Nosotros": "habremos dicho",
+    "Vosotros": "habréis dicho",
+    "Ellos": "habrán dicho"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría dicho",
+    "Tu": "habrías dicho",
+    "El": "habría dicho",
+    "Nosotros": "habríamos dicho",
+    "Vosotros": "habríais dicho",
+    "Ellos": "habrían dicho"
+  },
+  "SubjunctivePresent": {
+    "Yo": "diga",
+    "Tu": "digas",
+    "El": "diga",
+    "Nosotros": "digamos",
+    "Vosotros": "digáis",
+    "Ellos": "digan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "di",
+    "El": "diga",
+    "Nosotros": "digamos",
+    "Vosotros": "decid",
+    "Ellos": "digan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no digas",
+    "El": "no diga",
+    "Nosotros": "no digamos",
+    "Vosotros": "no digáis",
+    "Ellos": "no digan"
+  },
+  "ending": "ir"
+}

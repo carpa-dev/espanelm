@@ -1,0 +1,113 @@
+{
+  "verb": "ganar",
+  "englishInfinitive": "to win",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "gano",
+    "Tu": "ganas",
+    "El": "gana",
+    "Nosotros": "ganamos",
+    "Vosotros": "ganáis",
+    "Ellos": "ganan"
+  },
+  "IndicativePreterite": {
+    "Yo": "gané",
+    "Tu": "ganaste",
+    "El": "ganó",
+    "Nosotros": "ganamos",
+    "Vosotros": "ganasteis",
+    "Ellos": "ganaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "ganaré",
+    "Tu": "ganarás",
+    "El": "ganará",
+    "Nosotros": "ganaremos",
+    "Vosotros": "ganaréis",
+    "Ellos": "ganarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "ganaría",
+    "Tu": "ganarías",
+    "El": "ganaría",
+    "Nosotros": "ganaríamos",
+    "Vosotros": "ganaríais",
+    "Ellos": "ganarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "ganaba",
+    "Tu": "ganabas",
+    "El": "ganaba",
+    "Nosotros": "ganábamos",
+    "Vosotros": "ganabais",
+    "Ellos": "ganaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy ganando",
+    "Tu": "estás ganando",
+    "El": "está ganando",
+    "Nosotros": "estamos ganando",
+    "Vosotros": "estáis ganando",
+    "Ellos": "están ganando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he ganado",
+    "Tu": "has ganado",
+    "El": "ha ganado",
+    "Nosotros": "hemos ganado",
+    "Vosotros": "habéis ganado",
+    "Ellos": "han ganado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había ganado",
+    "Tu": "habías ganado",
+    "El": "había ganado",
+    "Nosotros": "habíamos ganado",
+    "Vosotros": "habíais ganado",
+    "Ellos": "habían ganado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré ganado",
+    "Tu": "habrás ganado",
+    "El": "habrá ganado",
+    "Nosotros": "habremos ganado",
+    "Vosotros": "habréis ganado",
+    "Ellos": "habrán ganado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría ganado",
+    "Tu": "habrías ganado",
+    "El": "habría ganado",
+    "Nosotros": "habríamos ganado",
+    "Vosotros": "habríais ganado",
+    "Ellos": "habrían ganado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "gane",
+    "Tu": "ganes",
+    "El": "gane",
+    "Nosotros": "ganemos",
+    "Vosotros": "ganéis",
+    "Ellos": "ganen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "gana",
+    "El": "gane",
+    "Nosotros": "ganemos",
+    "Vosotros": "ganad",
+    "Ellos": "ganen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ganes",
+    "El": "no gane",
+    "Nosotros": "no ganemos",
+    "Vosotros": "no ganéis",
+    "Ellos": "no ganen"
+  },
+  "ending": "ar"
+}

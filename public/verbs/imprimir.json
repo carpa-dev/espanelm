@@ -1,0 +1,113 @@
+{
+  "verb": "imprimir",
+  "englishInfinitive": "to print",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "imprimo",
+    "Tu": "imprimes",
+    "El": "imprime",
+    "Nosotros": "imprimimos",
+    "Vosotros": "imprimís",
+    "Ellos": "imprimen"
+  },
+  "IndicativePreterite": {
+    "Yo": "imprimí",
+    "Tu": "imprimiste",
+    "El": "imprimió",
+    "Nosotros": "imprimimos",
+    "Vosotros": "imprimisteis",
+    "Ellos": "imprimieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "imprimiré",
+    "Tu": "imprimirás",
+    "El": "imprimirá",
+    "Nosotros": "imprimiremos",
+    "Vosotros": "imprimiréis",
+    "Ellos": "imprimirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "imprimiría",
+    "Tu": "imprimirías",
+    "El": "imprimiría",
+    "Nosotros": "imprimiríamos",
+    "Vosotros": "imprimiríais",
+    "Ellos": "imprimirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "imprimía",
+    "Tu": "imprimías",
+    "El": "imprimía",
+    "Nosotros": "imprimíamos",
+    "Vosotros": "imprimíais",
+    "Ellos": "imprimían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy imprimiendo",
+    "Tu": "estás imprimiendo",
+    "El": "está imprimiendo",
+    "Nosotros": "estamos imprimiendo",
+    "Vosotros": "estáis imprimiendo",
+    "Ellos": "están imprimiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he imprimido",
+    "Tu": "has imprimido",
+    "El": "ha imprimido",
+    "Nosotros": "hemos imprimido",
+    "Vosotros": "habéis imprimido",
+    "Ellos": "han imprimido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había imprimido",
+    "Tu": "habías imprimido",
+    "El": "había imprimido",
+    "Nosotros": "habíamos imprimido",
+    "Vosotros": "habíais imprimido",
+    "Ellos": "habían imprimido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré imprimido",
+    "Tu": "habrás imprimido",
+    "El": "habrá imprimido",
+    "Nosotros": "habremos imprimido",
+    "Vosotros": "habréis imprimido",
+    "Ellos": "habrán imprimido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría imprimido",
+    "Tu": "habrías imprimido",
+    "El": "habría imprimido",
+    "Nosotros": "habríamos imprimido",
+    "Vosotros": "habríais imprimido",
+    "Ellos": "habrían imprimido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "imprima",
+    "Tu": "imprimas",
+    "El": "imprima",
+    "Nosotros": "imprimamos",
+    "Vosotros": "imprimáis",
+    "Ellos": "impriman"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "imprime",
+    "El": "imprima",
+    "Nosotros": "imprimamos",
+    "Vosotros": "imprimid",
+    "Ellos": "impriman"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no imprimas",
+    "El": "no imprima",
+    "Nosotros": "no imprimamos",
+    "Vosotros": "no imprimáis",
+    "Ellos": "no impriman"
+  },
+  "ending": "ir"
+}

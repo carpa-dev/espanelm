@@ -1,0 +1,113 @@
+{
+  "verb": "enamorar",
+  "englishInfinitive": "to inspire love in",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "enamoro",
+    "Tu": "enamoras",
+    "El": "enamora",
+    "Nosotros": "enamoramos",
+    "Vosotros": "enamoráis",
+    "Ellos": "enamoran"
+  },
+  "IndicativePreterite": {
+    "Yo": "enamoré",
+    "Tu": "enamoraste",
+    "El": "enamoró",
+    "Nosotros": "enamoramos",
+    "Vosotros": "enamorasteis",
+    "Ellos": "enamoraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "enamoraré",
+    "Tu": "enamorarás",
+    "El": "enamorará",
+    "Nosotros": "enamoraremos",
+    "Vosotros": "enamoraréis",
+    "Ellos": "enamorarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "enamoraría",
+    "Tu": "enamorarías",
+    "El": "enamoraría",
+    "Nosotros": "enamoraríamos",
+    "Vosotros": "enamoraríais",
+    "Ellos": "enamorarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "enamoraba",
+    "Tu": "enamorabas",
+    "El": "enamoraba",
+    "Nosotros": "enamorábamos",
+    "Vosotros": "enamorabais",
+    "Ellos": "enamoraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy enamorando",
+    "Tu": "estás enamorando",
+    "El": "está enamorando",
+    "Nosotros": "estamos enamorando",
+    "Vosotros": "estáis enamorando",
+    "Ellos": "están enamorando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he enamorado",
+    "Tu": "has enamorado",
+    "El": "ha enamorado",
+    "Nosotros": "hemos enamorado",
+    "Vosotros": "habéis enamorado",
+    "Ellos": "han enamorado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había enamorado",
+    "Tu": "habías enamorado",
+    "El": "había enamorado",
+    "Nosotros": "habíamos enamorado",
+    "Vosotros": "habíais enamorado",
+    "Ellos": "habían enamorado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré enamorado",
+    "Tu": "habrás enamorado",
+    "El": "habrá enamorado",
+    "Nosotros": "habremos enamorado",
+    "Vosotros": "habréis enamorado",
+    "Ellos": "habrán enamorado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría enamorado",
+    "Tu": "habrías enamorado",
+    "El": "habría enamorado",
+    "Nosotros": "habríamos enamorado",
+    "Vosotros": "habríais enamorado",
+    "Ellos": "habrían enamorado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "enamore",
+    "Tu": "enamores",
+    "El": "enamore",
+    "Nosotros": "enamoremos",
+    "Vosotros": "enamoréis",
+    "Ellos": "enamoren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "enamora",
+    "El": "enamore",
+    "Nosotros": "enamoremos",
+    "Vosotros": "enamorad",
+    "Ellos": "enamoren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no enamores",
+    "El": "no enamore",
+    "Nosotros": "no enamoremos",
+    "Vosotros": "no enamoréis",
+    "Ellos": "no enamoren"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "preparar",
+  "englishInfinitive": "to prepare",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "preparo",
+    "Tu": "preparas",
+    "El": "prepara",
+    "Nosotros": "preparamos",
+    "Vosotros": "preparáis",
+    "Ellos": "preparan"
+  },
+  "IndicativePreterite": {
+    "Yo": "preparé",
+    "Tu": "preparaste",
+    "El": "preparó",
+    "Nosotros": "preparamos",
+    "Vosotros": "preparasteis",
+    "Ellos": "prepararon"
+  },
+  "IndicativeFuture": {
+    "Yo": "prepararé",
+    "Tu": "prepararás",
+    "El": "preparará",
+    "Nosotros": "prepararemos",
+    "Vosotros": "prepararéis",
+    "Ellos": "prepararán"
+  },
+  "ConditionalPresent": {
+    "Yo": "prepararía",
+    "Tu": "prepararías",
+    "El": "prepararía",
+    "Nosotros": "prepararíamos",
+    "Vosotros": "prepararíais",
+    "Ellos": "prepararían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "preparaba",
+    "Tu": "preparabas",
+    "El": "preparaba",
+    "Nosotros": "preparábamos",
+    "Vosotros": "preparabais",
+    "Ellos": "preparaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy preparando",
+    "Tu": "estás preparando",
+    "El": "está preparando",
+    "Nosotros": "estamos preparando",
+    "Vosotros": "estáis preparando",
+    "Ellos": "están preparando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he preparado",
+    "Tu": "has preparado",
+    "El": "ha preparado",
+    "Nosotros": "hemos preparado",
+    "Vosotros": "habéis preparado",
+    "Ellos": "han preparado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había preparado",
+    "Tu": "habías preparado",
+    "El": "había preparado",
+    "Nosotros": "habíamos preparado",
+    "Vosotros": "habíais preparado",
+    "Ellos": "habían preparado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré preparado",
+    "Tu": "habrás preparado",
+    "El": "habrá preparado",
+    "Nosotros": "habremos preparado",
+    "Vosotros": "habréis preparado",
+    "Ellos": "habrán preparado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría preparado",
+    "Tu": "habrías preparado",
+    "El": "habría preparado",
+    "Nosotros": "habríamos preparado",
+    "Vosotros": "habríais preparado",
+    "Ellos": "habrían preparado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "prepare",
+    "Tu": "prepares",
+    "El": "prepare",
+    "Nosotros": "preparemos",
+    "Vosotros": "preparéis",
+    "Ellos": "preparen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "prepara",
+    "El": "prepare",
+    "Nosotros": "preparemos",
+    "Vosotros": "preparad",
+    "Ellos": "preparen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no prepares",
+    "El": "no prepare",
+    "Nosotros": "no preparemos",
+    "Vosotros": "no preparéis",
+    "Ellos": "no preparen"
+  },
+  "ending": "ar"
+}

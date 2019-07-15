@@ -1,0 +1,113 @@
+{
+  "verb": "reciclar",
+  "englishInfinitive": "to recycle",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "reciclo",
+    "Tu": "reciclas",
+    "El": "recicla",
+    "Nosotros": "reciclamos",
+    "Vosotros": "recicláis",
+    "Ellos": "reciclan"
+  },
+  "IndicativePreterite": {
+    "Yo": "reciclé",
+    "Tu": "reciclaste",
+    "El": "recicló",
+    "Nosotros": "reciclamos",
+    "Vosotros": "reciclasteis",
+    "Ellos": "reciclaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "reciclaré",
+    "Tu": "reciclarás",
+    "El": "reciclará",
+    "Nosotros": "reciclaremos",
+    "Vosotros": "reciclaréis",
+    "Ellos": "reciclarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "reciclaría",
+    "Tu": "reciclarías",
+    "El": "reciclaría",
+    "Nosotros": "reciclaríamos",
+    "Vosotros": "reciclaríais",
+    "Ellos": "reciclarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "reciclaba",
+    "Tu": "reciclabas",
+    "El": "reciclaba",
+    "Nosotros": "reciclábamos",
+    "Vosotros": "reciclabais",
+    "Ellos": "reciclaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy reciclando",
+    "Tu": "estás reciclando",
+    "El": "está reciclando",
+    "Nosotros": "estamos reciclando",
+    "Vosotros": "estáis reciclando",
+    "Ellos": "están reciclando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he reciclado",
+    "Tu": "has reciclado",
+    "El": "ha reciclado",
+    "Nosotros": "hemos reciclado",
+    "Vosotros": "habéis reciclado",
+    "Ellos": "han reciclado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había reciclado",
+    "Tu": "habías reciclado",
+    "El": "había reciclado",
+    "Nosotros": "habíamos reciclado",
+    "Vosotros": "habíais reciclado",
+    "Ellos": "habían reciclado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré reciclado",
+    "Tu": "habrás reciclado",
+    "El": "habrá reciclado",
+    "Nosotros": "habremos reciclado",
+    "Vosotros": "habréis reciclado",
+    "Ellos": "habrán reciclado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría reciclado",
+    "Tu": "habrías reciclado",
+    "El": "habría reciclado",
+    "Nosotros": "habríamos reciclado",
+    "Vosotros": "habríais reciclado",
+    "Ellos": "habrían reciclado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "recicle",
+    "Tu": "recicles",
+    "El": "recicle",
+    "Nosotros": "reciclemos",
+    "Vosotros": "recicléis",
+    "Ellos": "reciclen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "recicla",
+    "El": "recicle",
+    "Nosotros": "reciclemos",
+    "Vosotros": "reciclad",
+    "Ellos": "reciclen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no recicles",
+    "El": "no recicle",
+    "Nosotros": "no reciclemos",
+    "Vosotros": "no recicléis",
+    "Ellos": "no reciclen"
+  },
+  "ending": "ar"
+}

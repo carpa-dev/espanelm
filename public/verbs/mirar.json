@@ -1,0 +1,113 @@
+{
+  "verb": "mirar",
+  "englishInfinitive": "to watch",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "miro",
+    "Tu": "miras",
+    "El": "mira",
+    "Nosotros": "miramos",
+    "Vosotros": "miráis",
+    "Ellos": "miran"
+  },
+  "IndicativePreterite": {
+    "Yo": "miré",
+    "Tu": "miraste",
+    "El": "miró",
+    "Nosotros": "miramos",
+    "Vosotros": "mirasteis",
+    "Ellos": "miraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "miraré",
+    "Tu": "mirarás",
+    "El": "mirará",
+    "Nosotros": "miraremos",
+    "Vosotros": "miraréis",
+    "Ellos": "mirarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "miraría",
+    "Tu": "mirarías",
+    "El": "miraría",
+    "Nosotros": "miraríamos",
+    "Vosotros": "miraríais",
+    "Ellos": "mirarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "miraba",
+    "Tu": "mirabas",
+    "El": "miraba",
+    "Nosotros": "mirábamos",
+    "Vosotros": "mirabais",
+    "Ellos": "miraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy mirando",
+    "Tu": "estás mirando",
+    "El": "está mirando",
+    "Nosotros": "estamos mirando",
+    "Vosotros": "estáis mirando",
+    "Ellos": "están mirando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he mirado",
+    "Tu": "has mirado",
+    "El": "ha mirado",
+    "Nosotros": "hemos mirado",
+    "Vosotros": "habéis mirado",
+    "Ellos": "han mirado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había mirado",
+    "Tu": "habías mirado",
+    "El": "había mirado",
+    "Nosotros": "habíamos mirado",
+    "Vosotros": "habíais mirado",
+    "Ellos": "habían mirado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré mirado",
+    "Tu": "habrás mirado",
+    "El": "habrá mirado",
+    "Nosotros": "habremos mirado",
+    "Vosotros": "habréis mirado",
+    "Ellos": "habrán mirado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría mirado",
+    "Tu": "habrías mirado",
+    "El": "habría mirado",
+    "Nosotros": "habríamos mirado",
+    "Vosotros": "habríais mirado",
+    "Ellos": "habrían mirado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "mire",
+    "Tu": "mires",
+    "El": "mire",
+    "Nosotros": "miremos",
+    "Vosotros": "miréis",
+    "Ellos": "miren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "mira",
+    "El": "mire",
+    "Nosotros": "miremos",
+    "Vosotros": "mirad",
+    "Ellos": "miren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no mires",
+    "El": "no mire",
+    "Nosotros": "no miremos",
+    "Vosotros": "no miréis",
+    "Ellos": "no miren"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "señalar",
+  "englishInfinitive": "to point out",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "señalo",
+    "Tu": "señalas",
+    "El": "señala",
+    "Nosotros": "señalamos",
+    "Vosotros": "señaláis",
+    "Ellos": "señalan"
+  },
+  "IndicativePreterite": {
+    "Yo": "señalé",
+    "Tu": "señalaste",
+    "El": "señaló",
+    "Nosotros": "señalamos",
+    "Vosotros": "señalasteis",
+    "Ellos": "señalaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "señalaré",
+    "Tu": "señalarás",
+    "El": "señalará",
+    "Nosotros": "señalaremos",
+    "Vosotros": "señalaréis",
+    "Ellos": "señalarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "señalaría",
+    "Tu": "señalarías",
+    "El": "señalaría",
+    "Nosotros": "señalaríamos",
+    "Vosotros": "señalaríais",
+    "Ellos": "señalarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "señalaba",
+    "Tu": "señalabas",
+    "El": "señalaba",
+    "Nosotros": "señalábamos",
+    "Vosotros": "señalabais",
+    "Ellos": "señalaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy señalando",
+    "Tu": "estás señalando",
+    "El": "está señalando",
+    "Nosotros": "estamos señalando",
+    "Vosotros": "estáis señalando",
+    "Ellos": "están señalando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he señalado",
+    "Tu": "has señalado",
+    "El": "ha señalado",
+    "Nosotros": "hemos señalado",
+    "Vosotros": "habéis señalado",
+    "Ellos": "han señalado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había señalado",
+    "Tu": "habías señalado",
+    "El": "había señalado",
+    "Nosotros": "habíamos señalado",
+    "Vosotros": "habíais señalado",
+    "Ellos": "habían señalado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré señalado",
+    "Tu": "habrás señalado",
+    "El": "habrá señalado",
+    "Nosotros": "habremos señalado",
+    "Vosotros": "habréis señalado",
+    "Ellos": "habrán señalado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría señalado",
+    "Tu": "habrías señalado",
+    "El": "habría señalado",
+    "Nosotros": "habríamos señalado",
+    "Vosotros": "habríais señalado",
+    "Ellos": "habrían señalado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "señale",
+    "Tu": "señales",
+    "El": "señale",
+    "Nosotros": "señalemos",
+    "Vosotros": "señaléis",
+    "Ellos": "señalen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "señala",
+    "El": "señale",
+    "Nosotros": "señalemos",
+    "Vosotros": "señalad",
+    "Ellos": "señalen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no señales",
+    "El": "no señale",
+    "Nosotros": "no señalemos",
+    "Vosotros": "no señaléis",
+    "Ellos": "no señalen"
+  },
+  "ending": "ar"
+}

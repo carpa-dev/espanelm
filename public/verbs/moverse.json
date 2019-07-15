@@ -1,0 +1,113 @@
+{
+  "verb": "moverse",
+  "englishInfinitive": "to move [oneself]",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me muevo",
+    "Tu": "te mueves",
+    "El": "se mueve",
+    "Nosotros": "nos movemos",
+    "Vosotros": "os movéis",
+    "Ellos": "se mueven"
+  },
+  "IndicativePreterite": {
+    "Yo": "me moví",
+    "Tu": "te moviste",
+    "El": "se movió",
+    "Nosotros": "nos movimos",
+    "Vosotros": "os movisteis",
+    "Ellos": "se movieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me moveré",
+    "Tu": "te moverás",
+    "El": "se moverá",
+    "Nosotros": "nos moveremos",
+    "Vosotros": "os moveréis",
+    "Ellos": "se moverán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me movería",
+    "Tu": "te moverías",
+    "El": "se movería",
+    "Nosotros": "nos moveríamos",
+    "Vosotros": "os moveríais",
+    "Ellos": "se moverían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me movía",
+    "Tu": "te movías",
+    "El": "se movía",
+    "Nosotros": "nos movíamos",
+    "Vosotros": "os movíais",
+    "Ellos": "se movían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy moviendo,estoy moviéndome",
+    "Tu": "te estás moviendo,estás moviéndote",
+    "El": "se está moviendo,está moviéndose",
+    "Nosotros": "nos estamos moviendo,estamos moviéndonos",
+    "Vosotros": "os estáis moviendo,estáis moviéndoos",
+    "Ellos": "se están moviendo,están moviéndose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he movido",
+    "Tu": "te has movido",
+    "El": "se ha movido",
+    "Nosotros": "nos hemos movido",
+    "Vosotros": "os habéis movido",
+    "Ellos": "se han movido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había movido",
+    "Tu": "te habías movido",
+    "El": "se había movido",
+    "Nosotros": "nos habíamos movido",
+    "Vosotros": "os habíais movido",
+    "Ellos": "se habían movido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré movido",
+    "Tu": "te habrás movido",
+    "El": "se habrá movido",
+    "Nosotros": "nos habremos movido",
+    "Vosotros": "os habréis movido",
+    "Ellos": "se habrán movido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría movido",
+    "Tu": "te habrías movido",
+    "El": "se habría movido",
+    "Nosotros": "nos habríamos movido",
+    "Vosotros": "os habríais movido",
+    "Ellos": "se habrían movido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me mueva",
+    "Tu": "te muevas",
+    "El": "se mueva",
+    "Nosotros": "nos movamos",
+    "Vosotros": "os mováis",
+    "Ellos": "se muevan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "muévete",
+    "El": "muévase",
+    "Nosotros": "movámonos",
+    "Vosotros": "movíos",
+    "Ellos": "muévanse"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te muevas",
+    "El": "no se mueva",
+    "Nosotros": "no nos movamos",
+    "Vosotros": "no os mováis",
+    "Ellos": "no se muevan"
+  },
+  "ending": "er"
+}

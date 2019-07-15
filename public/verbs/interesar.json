@@ -1,0 +1,113 @@
+{
+  "verb": "interesar",
+  "englishInfinitive": "to interest",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "intereso",
+    "Tu": "interesas",
+    "El": "interesa",
+    "Nosotros": "interesamos",
+    "Vosotros": "interesáis",
+    "Ellos": "interesan"
+  },
+  "IndicativePreterite": {
+    "Yo": "interesé",
+    "Tu": "interesaste",
+    "El": "interesó",
+    "Nosotros": "interesamos",
+    "Vosotros": "interesasteis",
+    "Ellos": "interesaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "interesaré",
+    "Tu": "interesarás",
+    "El": "interesará",
+    "Nosotros": "interesaremos",
+    "Vosotros": "interesaréis",
+    "Ellos": "interesarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "interesaría",
+    "Tu": "interesarías",
+    "El": "interesaría",
+    "Nosotros": "interesaríamos",
+    "Vosotros": "interesaríais",
+    "Ellos": "interesarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "interesaba",
+    "Tu": "interesabas",
+    "El": "interesaba",
+    "Nosotros": "interesábamos",
+    "Vosotros": "interesabais",
+    "Ellos": "interesaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy interesando",
+    "Tu": "estás interesando",
+    "El": "está interesando",
+    "Nosotros": "estamos interesando",
+    "Vosotros": "estáis interesando",
+    "Ellos": "están interesando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he interesado",
+    "Tu": "has interesado",
+    "El": "ha interesado",
+    "Nosotros": "hemos interesado",
+    "Vosotros": "habéis interesado",
+    "Ellos": "han interesado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había interesado",
+    "Tu": "habías interesado",
+    "El": "había interesado",
+    "Nosotros": "habíamos interesado",
+    "Vosotros": "habíais interesado",
+    "Ellos": "habían interesado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré interesado",
+    "Tu": "habrás interesado",
+    "El": "habrá interesado",
+    "Nosotros": "habremos interesado",
+    "Vosotros": "habréis interesado",
+    "Ellos": "habrán interesado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría interesado",
+    "Tu": "habrías interesado",
+    "El": "habría interesado",
+    "Nosotros": "habríamos interesado",
+    "Vosotros": "habríais interesado",
+    "Ellos": "habrían interesado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "interese",
+    "Tu": "intereses",
+    "El": "interese",
+    "Nosotros": "interesemos",
+    "Vosotros": "intereséis",
+    "Ellos": "interesen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "interesa",
+    "El": "interese",
+    "Nosotros": "interesemos",
+    "Vosotros": "interesad",
+    "Ellos": "interesen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no intereses",
+    "El": "no interese",
+    "Nosotros": "no interesemos",
+    "Vosotros": "no intereséis",
+    "Ellos": "no interesen"
+  },
+  "ending": "ar"
+}

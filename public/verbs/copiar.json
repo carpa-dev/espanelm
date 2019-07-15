@@ -1,0 +1,113 @@
+{
+  "verb": "copiar",
+  "englishInfinitive": "to copy",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "copio",
+    "Tu": "copias",
+    "El": "copia",
+    "Nosotros": "copiamos",
+    "Vosotros": "copiáis",
+    "Ellos": "copian"
+  },
+  "IndicativePreterite": {
+    "Yo": "copié",
+    "Tu": "copiaste",
+    "El": "copió",
+    "Nosotros": "copiamos",
+    "Vosotros": "copiasteis",
+    "Ellos": "copiaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "copiaré",
+    "Tu": "copiarás",
+    "El": "copiará",
+    "Nosotros": "copiaremos",
+    "Vosotros": "copiaréis",
+    "Ellos": "copiarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "copiaría",
+    "Tu": "copiarías",
+    "El": "copiaría",
+    "Nosotros": "copiaríamos",
+    "Vosotros": "copiaríais",
+    "Ellos": "copiarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "copiaba",
+    "Tu": "copiabas",
+    "El": "copiaba",
+    "Nosotros": "copiábamos",
+    "Vosotros": "copiabais",
+    "Ellos": "copiaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy copiando",
+    "Tu": "estás copiando",
+    "El": "está copiando",
+    "Nosotros": "estamos copiando",
+    "Vosotros": "estáis copiando",
+    "Ellos": "están copiando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he copiado",
+    "Tu": "has copiado",
+    "El": "ha copiado",
+    "Nosotros": "hemos copiado",
+    "Vosotros": "habéis copiado",
+    "Ellos": "han copiado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había copiado",
+    "Tu": "habías copiado",
+    "El": "había copiado",
+    "Nosotros": "habíamos copiado",
+    "Vosotros": "habíais copiado",
+    "Ellos": "habían copiado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré copiado",
+    "Tu": "habrás copiado",
+    "El": "habrá copiado",
+    "Nosotros": "habremos copiado",
+    "Vosotros": "habréis copiado",
+    "Ellos": "habrán copiado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría copiado",
+    "Tu": "habrías copiado",
+    "El": "habría copiado",
+    "Nosotros": "habríamos copiado",
+    "Vosotros": "habríais copiado",
+    "Ellos": "habrían copiado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "copie",
+    "Tu": "copies",
+    "El": "copie",
+    "Nosotros": "copiemos",
+    "Vosotros": "copiéis",
+    "Ellos": "copien"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "copia",
+    "El": "copie",
+    "Nosotros": "copiemos",
+    "Vosotros": "copiad",
+    "Ellos": "copien"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no copies",
+    "El": "no copie",
+    "Nosotros": "no copiemos",
+    "Vosotros": "no copiéis",
+    "Ellos": "no copien"
+  },
+  "ending": "ar"
+}

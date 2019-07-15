@@ -1,0 +1,113 @@
+{
+  "verb": "salir",
+  "englishInfinitive": "to leave",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "salgo",
+    "Tu": "sales",
+    "El": "sale",
+    "Nosotros": "salimos",
+    "Vosotros": "salís",
+    "Ellos": "salen"
+  },
+  "IndicativePreterite": {
+    "Yo": "salí",
+    "Tu": "saliste",
+    "El": "salió",
+    "Nosotros": "salimos",
+    "Vosotros": "salisteis",
+    "Ellos": "salieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "saldré",
+    "Tu": "saldrás",
+    "El": "saldrá",
+    "Nosotros": "saldremos",
+    "Vosotros": "saldréis",
+    "Ellos": "saldrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "saldría",
+    "Tu": "saldrías",
+    "El": "saldría",
+    "Nosotros": "saldríamos",
+    "Vosotros": "saldríais",
+    "Ellos": "saldrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "salía",
+    "Tu": "salías",
+    "El": "salía",
+    "Nosotros": "salíamos",
+    "Vosotros": "salíais",
+    "Ellos": "salían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy saliendo",
+    "Tu": "estás saliendo",
+    "El": "está saliendo",
+    "Nosotros": "estamos saliendo",
+    "Vosotros": "estáis saliendo",
+    "Ellos": "están saliendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he salido",
+    "Tu": "has salido",
+    "El": "ha salido",
+    "Nosotros": "hemos salido",
+    "Vosotros": "habéis salido",
+    "Ellos": "han salido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había salido",
+    "Tu": "habías salido",
+    "El": "había salido",
+    "Nosotros": "habíamos salido",
+    "Vosotros": "habíais salido",
+    "Ellos": "habían salido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré salido",
+    "Tu": "habrás salido",
+    "El": "habrá salido",
+    "Nosotros": "habremos salido",
+    "Vosotros": "habréis salido",
+    "Ellos": "habrán salido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría salido",
+    "Tu": "habrías salido",
+    "El": "habría salido",
+    "Nosotros": "habríamos salido",
+    "Vosotros": "habríais salido",
+    "Ellos": "habrían salido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "salga",
+    "Tu": "salgas",
+    "El": "salga",
+    "Nosotros": "salgamos",
+    "Vosotros": "salgáis",
+    "Ellos": "salgan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sal",
+    "El": "salga",
+    "Nosotros": "salgamos",
+    "Vosotros": "salid",
+    "Ellos": "salgan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no salgas",
+    "El": "no salga",
+    "Nosotros": "no salgamos",
+    "Vosotros": "no salgáis",
+    "Ellos": "no salgan"
+  },
+  "ending": "ir"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "entusiasmar",
+  "englishInfinitive": "to excite",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "entusiasmo",
+    "Tu": "entusiasmas",
+    "El": "entusiasma",
+    "Nosotros": "entusiasmamos",
+    "Vosotros": "entusiasmáis",
+    "Ellos": "entusiasman"
+  },
+  "IndicativePreterite": {
+    "Yo": "entusiasmé",
+    "Tu": "entusiasmaste",
+    "El": "entusiasmó",
+    "Nosotros": "entusiasmamos",
+    "Vosotros": "entusiasmasteis",
+    "Ellos": "entusiasmaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "entusiasmaré",
+    "Tu": "entusiasmarás",
+    "El": "entusiasmará",
+    "Nosotros": "entusiasmaremos",
+    "Vosotros": "entusiasmaréis",
+    "Ellos": "entusiasmarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "entusiasmaría",
+    "Tu": "entusiasmarías",
+    "El": "entusiasmaría",
+    "Nosotros": "entusiasmaríamos",
+    "Vosotros": "entusiasmaríais",
+    "Ellos": "entusiasmarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "entusiasmaba",
+    "Tu": "entusiasmabas",
+    "El": "entusiasmaba",
+    "Nosotros": "entusiasmábamos",
+    "Vosotros": "entusiasmabais",
+    "Ellos": "entusiasmaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy entusiasmando",
+    "Tu": "estás entusiasmando",
+    "El": "está entusiasmando",
+    "Nosotros": "estamos entusiasmando",
+    "Vosotros": "estáis entusiasmando",
+    "Ellos": "están entusiasmando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he entusiasmado",
+    "Tu": "has entusiasmado",
+    "El": "ha entusiasmado",
+    "Nosotros": "hemos entusiasmado",
+    "Vosotros": "habéis entusiasmado",
+    "Ellos": "han entusiasmado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había entusiasmado",
+    "Tu": "habías entusiasmado",
+    "El": "había entusiasmado",
+    "Nosotros": "habíamos entusiasmado",
+    "Vosotros": "habíais entusiasmado",
+    "Ellos": "habían entusiasmado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré entusiasmado",
+    "Tu": "habrás entusiasmado",
+    "El": "habrá entusiasmado",
+    "Nosotros": "habremos entusiasmado",
+    "Vosotros": "habréis entusiasmado",
+    "Ellos": "habrán entusiasmado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría entusiasmado",
+    "Tu": "habrías entusiasmado",
+    "El": "habría entusiasmado",
+    "Nosotros": "habríamos entusiasmado",
+    "Vosotros": "habríais entusiasmado",
+    "Ellos": "habrían entusiasmado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "entusiasme",
+    "Tu": "entusiasmes",
+    "El": "entusiasme",
+    "Nosotros": "entusiasmemos",
+    "Vosotros": "entusiasméis",
+    "Ellos": "entusiasmen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "entusiasma",
+    "El": "entusiasme",
+    "Nosotros": "entusiasmemos",
+    "Vosotros": "entusiasmad",
+    "Ellos": "entusiasmen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no entusiasmes",
+    "El": "no entusiasme",
+    "Nosotros": "no entusiasmemos",
+    "Vosotros": "no entusiasméis",
+    "Ellos": "no entusiasmen"
+  },
+  "ending": "ar"
+}

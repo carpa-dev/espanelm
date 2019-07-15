@@ -1,0 +1,113 @@
+{
+  "verb": "herir",
+  "englishInfinitive": "to injure",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "hiero",
+    "Tu": "hieres",
+    "El": "hiere",
+    "Nosotros": "herimos",
+    "Vosotros": "herís",
+    "Ellos": "hieren"
+  },
+  "IndicativePreterite": {
+    "Yo": "herí",
+    "Tu": "heriste",
+    "El": "hirió",
+    "Nosotros": "herimos",
+    "Vosotros": "heristeis",
+    "Ellos": "hirieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "heriré",
+    "Tu": "herirás",
+    "El": "herirá",
+    "Nosotros": "heriremos",
+    "Vosotros": "heriréis",
+    "Ellos": "herirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "heriría",
+    "Tu": "herirías",
+    "El": "heriría",
+    "Nosotros": "heriríamos",
+    "Vosotros": "heriríais",
+    "Ellos": "herirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "hería",
+    "Tu": "herías",
+    "El": "hería",
+    "Nosotros": "heríamos",
+    "Vosotros": "heríais",
+    "Ellos": "herían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy hiriendo",
+    "Tu": "estás hiriendo",
+    "El": "está hiriendo",
+    "Nosotros": "estamos hiriendo",
+    "Vosotros": "estáis hiriendo",
+    "Ellos": "están hiriendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he herido",
+    "Tu": "has herido",
+    "El": "ha herido",
+    "Nosotros": "hemos herido",
+    "Vosotros": "habéis herido",
+    "Ellos": "han herido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había herido",
+    "Tu": "habías herido",
+    "El": "había herido",
+    "Nosotros": "habíamos herido",
+    "Vosotros": "habíais herido",
+    "Ellos": "habían herido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré herido",
+    "Tu": "habrás herido",
+    "El": "habrá herido",
+    "Nosotros": "habremos herido",
+    "Vosotros": "habréis herido",
+    "Ellos": "habrán herido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría herido",
+    "Tu": "habrías herido",
+    "El": "habría herido",
+    "Nosotros": "habríamos herido",
+    "Vosotros": "habríais herido",
+    "Ellos": "habrían herido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "hiera",
+    "Tu": "hieras",
+    "El": "hiera",
+    "Nosotros": "hiramos",
+    "Vosotros": "hiráis",
+    "Ellos": "hieran"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "hiere",
+    "El": "hiera",
+    "Nosotros": "hiramos",
+    "Vosotros": "herid",
+    "Ellos": "hieran"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no hieras",
+    "El": "no hiera",
+    "Nosotros": "no hiramos",
+    "Vosotros": "no hiráis",
+    "Ellos": "no hieran"
+  },
+  "ending": "ir"
+}

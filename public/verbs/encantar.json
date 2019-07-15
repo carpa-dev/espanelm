@@ -1,0 +1,113 @@
+{
+  "verb": "encantar",
+  "englishInfinitive": "to delight",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "encanto",
+    "Tu": "encantas",
+    "El": "encanta",
+    "Nosotros": "encantamos",
+    "Vosotros": "encantáis",
+    "Ellos": "encantan"
+  },
+  "IndicativePreterite": {
+    "Yo": "encanté",
+    "Tu": "encantaste",
+    "El": "encantó",
+    "Nosotros": "encantamos",
+    "Vosotros": "encantasteis",
+    "Ellos": "encantaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "encantaré",
+    "Tu": "encantarás",
+    "El": "encantará",
+    "Nosotros": "encantaremos",
+    "Vosotros": "encantaréis",
+    "Ellos": "encantarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "encantaría",
+    "Tu": "encantarías",
+    "El": "encantaría",
+    "Nosotros": "encantaríamos",
+    "Vosotros": "encantaríais",
+    "Ellos": "encantarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "encantaba",
+    "Tu": "encantabas",
+    "El": "encantaba",
+    "Nosotros": "encantábamos",
+    "Vosotros": "encantabais",
+    "Ellos": "encantaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy encantando",
+    "Tu": "estás encantando",
+    "El": "está encantando",
+    "Nosotros": "estamos encantando",
+    "Vosotros": "estáis encantando",
+    "Ellos": "están encantando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he encantado",
+    "Tu": "has encantado",
+    "El": "ha encantado",
+    "Nosotros": "hemos encantado",
+    "Vosotros": "habéis encantado",
+    "Ellos": "han encantado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había encantado",
+    "Tu": "habías encantado",
+    "El": "había encantado",
+    "Nosotros": "habíamos encantado",
+    "Vosotros": "habíais encantado",
+    "Ellos": "habían encantado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré encantado",
+    "Tu": "habrás encantado",
+    "El": "habrá encantado",
+    "Nosotros": "habremos encantado",
+    "Vosotros": "habréis encantado",
+    "Ellos": "habrán encantado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría encantado",
+    "Tu": "habrías encantado",
+    "El": "habría encantado",
+    "Nosotros": "habríamos encantado",
+    "Vosotros": "habríais encantado",
+    "Ellos": "habrían encantado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "encante",
+    "Tu": "encantes",
+    "El": "encante",
+    "Nosotros": "encantemos",
+    "Vosotros": "encantéis",
+    "Ellos": "encanten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "encanta",
+    "El": "encante",
+    "Nosotros": "encantemos",
+    "Vosotros": "encantad",
+    "Ellos": "encanten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no encantes",
+    "El": "no encante",
+    "Nosotros": "no encantemos",
+    "Vosotros": "no encantéis",
+    "Ellos": "no encanten"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "desaparecer",
+  "englishInfinitive": "to disappear",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "desaparezco",
+    "Tu": "desapareces",
+    "El": "desaparece",
+    "Nosotros": "desaparecemos",
+    "Vosotros": "desaparecéis",
+    "Ellos": "desaparecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "desaparecí",
+    "Tu": "desapareciste",
+    "El": "desapareció",
+    "Nosotros": "desaparecimos",
+    "Vosotros": "desaparecisteis",
+    "Ellos": "desaparecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "desapareceré",
+    "Tu": "desaparecerás",
+    "El": "desaparecerá",
+    "Nosotros": "desapareceremos",
+    "Vosotros": "desapareceréis",
+    "Ellos": "desaparecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "desaparecería",
+    "Tu": "desaparecerías",
+    "El": "desaparecería",
+    "Nosotros": "desapareceríamos",
+    "Vosotros": "desapareceríais",
+    "Ellos": "desaparecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "desaparecía",
+    "Tu": "desaparecías",
+    "El": "desaparecía",
+    "Nosotros": "desaparecíamos",
+    "Vosotros": "desaparecíais",
+    "Ellos": "desaparecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy desapareciendo",
+    "Tu": "estás desapareciendo",
+    "El": "está desapareciendo",
+    "Nosotros": "estamos desapareciendo",
+    "Vosotros": "estáis desapareciendo",
+    "Ellos": "están desapareciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he desaparecido",
+    "Tu": "has desaparecido",
+    "El": "ha desaparecido",
+    "Nosotros": "hemos desaparecido",
+    "Vosotros": "habéis desaparecido",
+    "Ellos": "han desaparecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había desaparecido",
+    "Tu": "habías desaparecido",
+    "El": "había desaparecido",
+    "Nosotros": "habíamos desaparecido",
+    "Vosotros": "habíais desaparecido",
+    "Ellos": "habían desaparecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré desaparecido",
+    "Tu": "habrás desaparecido",
+    "El": "habrá desaparecido",
+    "Nosotros": "habremos desaparecido",
+    "Vosotros": "habréis desaparecido",
+    "Ellos": "habrán desaparecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría desaparecido",
+    "Tu": "habrías desaparecido",
+    "El": "habría desaparecido",
+    "Nosotros": "habríamos desaparecido",
+    "Vosotros": "habríais desaparecido",
+    "Ellos": "habrían desaparecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "desaparezca",
+    "Tu": "desaparezcas",
+    "El": "desaparezca",
+    "Nosotros": "desaparezcamos",
+    "Vosotros": "desaparezcáis",
+    "Ellos": "desaparezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "desaparece",
+    "El": "desaparezca",
+    "Nosotros": "desaparezcamos",
+    "Vosotros": "desapareced",
+    "Ellos": "desaparezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no desaparezcas",
+    "El": "no desaparezca",
+    "Nosotros": "no desaparezcamos",
+    "Vosotros": "no desaparezcáis",
+    "Ellos": "no desaparezcan"
+  },
+  "ending": "er"
+}

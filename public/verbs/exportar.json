@@ -1,0 +1,113 @@
+{
+  "verb": "exportar",
+  "englishInfinitive": "to export",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "exporto",
+    "Tu": "exportas",
+    "El": "exporta",
+    "Nosotros": "exportamos",
+    "Vosotros": "exportáis",
+    "Ellos": "exportan"
+  },
+  "IndicativePreterite": {
+    "Yo": "exporté",
+    "Tu": "exportaste",
+    "El": "exportó",
+    "Nosotros": "exportamos",
+    "Vosotros": "exportasteis",
+    "Ellos": "exportaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "exportaré",
+    "Tu": "exportarás",
+    "El": "exportará",
+    "Nosotros": "exportaremos",
+    "Vosotros": "exportaréis",
+    "Ellos": "exportarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "exportaría",
+    "Tu": "exportarías",
+    "El": "exportaría",
+    "Nosotros": "exportaríamos",
+    "Vosotros": "exportaríais",
+    "Ellos": "exportarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "exportaba",
+    "Tu": "exportabas",
+    "El": "exportaba",
+    "Nosotros": "exportábamos",
+    "Vosotros": "exportabais",
+    "Ellos": "exportaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy exportando",
+    "Tu": "estás exportando",
+    "El": "está exportando",
+    "Nosotros": "estamos exportando",
+    "Vosotros": "estáis exportando",
+    "Ellos": "están exportando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he exportado",
+    "Tu": "has exportado",
+    "El": "ha exportado",
+    "Nosotros": "hemos exportado",
+    "Vosotros": "habéis exportado",
+    "Ellos": "han exportado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había exportado",
+    "Tu": "habías exportado",
+    "El": "había exportado",
+    "Nosotros": "habíamos exportado",
+    "Vosotros": "habíais exportado",
+    "Ellos": "habían exportado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré exportado",
+    "Tu": "habrás exportado",
+    "El": "habrá exportado",
+    "Nosotros": "habremos exportado",
+    "Vosotros": "habréis exportado",
+    "Ellos": "habrán exportado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría exportado",
+    "Tu": "habrías exportado",
+    "El": "habría exportado",
+    "Nosotros": "habríamos exportado",
+    "Vosotros": "habríais exportado",
+    "Ellos": "habrían exportado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "exporte",
+    "Tu": "exportes",
+    "El": "exporte",
+    "Nosotros": "exportemos",
+    "Vosotros": "exportéis",
+    "Ellos": "exporten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "exporta",
+    "El": "exporte",
+    "Nosotros": "exportemos",
+    "Vosotros": "exportad",
+    "Ellos": "exporten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no exportes",
+    "El": "no exporte",
+    "Nosotros": "no exportemos",
+    "Vosotros": "no exportéis",
+    "Ellos": "no exporten"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "secarse",
+  "englishInfinitive": "to dry",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me seco",
+    "Tu": "te secas",
+    "El": "se seca",
+    "Nosotros": "nos secamos",
+    "Vosotros": "os secáis",
+    "Ellos": "se secan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me sequé",
+    "Tu": "te secaste",
+    "El": "se secó",
+    "Nosotros": "nos secamos",
+    "Vosotros": "secasteis",
+    "Ellos": "se secaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me secaré",
+    "Tu": "te secarás",
+    "El": "se secará",
+    "Nosotros": "nos secaremos",
+    "Vosotros": "os secaréis",
+    "Ellos": "se secarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me secaría",
+    "Tu": "te secarías",
+    "El": "se secaría",
+    "Nosotros": "nos secaríamos",
+    "Vosotros": "os secaríais",
+    "Ellos": "se secarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me secaba",
+    "Tu": "te secabas",
+    "El": "se secaba",
+    "Nosotros": "nos secábamos",
+    "Vosotros": "os secabais",
+    "Ellos": "se secaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy secando,estoy secándome",
+    "Tu": "te estás secando,estás secándote",
+    "El": "se está secando,está secándose",
+    "Nosotros": "nos estamos secando,estamos secándonos",
+    "Vosotros": "os estáis secando,estáis secándoos",
+    "Ellos": "se están secando,están secándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he secado",
+    "Tu": "te has secado",
+    "El": "se ha secado",
+    "Nosotros": "nos hemos secado",
+    "Vosotros": "os habéis secado",
+    "Ellos": "se han secado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había secado",
+    "Tu": "te habías secado",
+    "El": "se había secado",
+    "Nosotros": "nos habíamos secado",
+    "Vosotros": "os habíais secado",
+    "Ellos": "se habían secado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré secado",
+    "Tu": "te habrás secado",
+    "El": "se habrá secado",
+    "Nosotros": "nos habremos secado",
+    "Vosotros": "os habréis secado",
+    "Ellos": "se habrán secado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría secado",
+    "Tu": "te habrías secado",
+    "El": "se habría secado",
+    "Nosotros": "nos habríamos secado",
+    "Vosotros": "os habríais secado",
+    "Ellos": "se habrían secado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me seque",
+    "Tu": "te seques",
+    "El": "se seque",
+    "Nosotros": "nos sequemos",
+    "Vosotros": "os sequéis",
+    "Ellos": "se sequen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "equivócate",
+    "El": "equivóquese",
+    "Nosotros": "sequémonos",
+    "Vosotros": "secaos",
+    "Ellos": "equivóquense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te seques",
+    "El": "no se seque",
+    "Nosotros": "no nos sequemos",
+    "Vosotros": "no os sequéis",
+    "Ellos": "no se sequen"
+  },
+  "ending": "ar"
+}

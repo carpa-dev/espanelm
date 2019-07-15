@@ -1,0 +1,113 @@
+{
+  "verb": "untar",
+  "englishInfinitive": "to anoint",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "unto",
+    "Tu": "untas",
+    "El": "unta",
+    "Nosotros": "untamos",
+    "Vosotros": "untáis",
+    "Ellos": "untan"
+  },
+  "IndicativePreterite": {
+    "Yo": "unté",
+    "Tu": "untaste",
+    "El": "untó",
+    "Nosotros": "untamos",
+    "Vosotros": "untasteis",
+    "Ellos": "untaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "untaré",
+    "Tu": "untarás",
+    "El": "untará",
+    "Nosotros": "untaremos",
+    "Vosotros": "untaréis",
+    "Ellos": "untarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "untaría",
+    "Tu": "untarías",
+    "El": "untaría",
+    "Nosotros": "untaríamos",
+    "Vosotros": "untaríais",
+    "Ellos": "untarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "untaba",
+    "Tu": "untabas",
+    "El": "untaba",
+    "Nosotros": "untábamos",
+    "Vosotros": "untabais",
+    "Ellos": "untaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy untando",
+    "Tu": "estás untando",
+    "El": "está untando",
+    "Nosotros": "estamos untando",
+    "Vosotros": "estáis untando",
+    "Ellos": "están untando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he untado",
+    "Tu": "has untado",
+    "El": "ha untado",
+    "Nosotros": "hemos untado",
+    "Vosotros": "habéis untado",
+    "Ellos": "han untado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había untado",
+    "Tu": "habías untado",
+    "El": "había untado",
+    "Nosotros": "habíamos untado",
+    "Vosotros": "habíais untado",
+    "Ellos": "habían untado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré untado",
+    "Tu": "habrás untado",
+    "El": "habrá untado",
+    "Nosotros": "habremos untado",
+    "Vosotros": "habréis untado",
+    "Ellos": "habrán untado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría untado",
+    "Tu": "habrías untado",
+    "El": "habría untado",
+    "Nosotros": "habríamos untado",
+    "Vosotros": "habríais untado",
+    "Ellos": "habrían untado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "unte",
+    "Tu": "untes",
+    "El": "unte",
+    "Nosotros": "untemos",
+    "Vosotros": "untéis",
+    "Ellos": "unten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "unta",
+    "El": "unte",
+    "Nosotros": "untemos",
+    "Vosotros": "untad",
+    "Ellos": "unten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no untes",
+    "El": "no unte",
+    "Nosotros": "no untemos",
+    "Vosotros": "no untéis",
+    "Ellos": "no unten"
+  },
+  "ending": "ar"
+}

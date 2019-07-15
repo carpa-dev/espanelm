@@ -1,0 +1,113 @@
+{
+  "verb": "ponerse",
+  "englishInfinitive": "to put on [clothing]",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": true,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "me pongo",
+    "Tu": "te pones",
+    "El": "se pone",
+    "Nosotros": "nos ponemos",
+    "Vosotros": "os ponéis",
+    "Ellos": "se ponen"
+  },
+  "IndicativePreterite": {
+    "Yo": "me puse",
+    "Tu": "te pusiste",
+    "El": "se puso",
+    "Nosotros": "nos pusimos",
+    "Vosotros": "os pusisteis",
+    "Ellos": "se pusieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me pondré",
+    "Tu": "te pondrás",
+    "El": "se pondrá",
+    "Nosotros": "nos pondremos",
+    "Vosotros": "os pondréis",
+    "Ellos": "se pondrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me pondría",
+    "Tu": "te pondrías",
+    "El": "se pondría",
+    "Nosotros": "nos pondríamos",
+    "Vosotros": "os pondríais",
+    "Ellos": "se pondrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me ponía",
+    "Tu": "te ponías",
+    "El": "se ponía",
+    "Nosotros": "nos poníamos",
+    "Vosotros": "os poníais",
+    "Ellos": "se ponían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy poniendo,estoy poniéndome",
+    "Tu": "te estás poniendo,estás poniéndote",
+    "El": "se está poniendo,está poniéndose",
+    "Nosotros": "nos estamos poniendo,estamos poniéndonos",
+    "Vosotros": "os estáis poniendo,estáis poniéndoos",
+    "Ellos": "se están poniendo,están poniéndose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he puesto",
+    "Tu": "te has puesto",
+    "El": "se ha puesto",
+    "Nosotros": "nos hemos puesto",
+    "Vosotros": "os habéis puesto",
+    "Ellos": "se han puesto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había puesto",
+    "Tu": "te habías puesto",
+    "El": "se había puesto",
+    "Nosotros": "nos habíamos puesto",
+    "Vosotros": "os habíais puesto",
+    "Ellos": "se habían puesto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré puesto",
+    "Tu": "te habrás puesto",
+    "El": "se habrá puesto",
+    "Nosotros": "nos habremos puesto",
+    "Vosotros": "os habréis puesto",
+    "Ellos": "se habrán puesto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría puesto",
+    "Tu": "te habrías puesto",
+    "El": "se habría puesto",
+    "Nosotros": "nos habríamos puesto",
+    "Vosotros": "os habríais puesto",
+    "Ellos": "se habrían puesto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me ponga",
+    "Tu": "te pongas",
+    "El": "se ponga",
+    "Nosotros": "nos pongamos",
+    "Vosotros": "os pongáis",
+    "Ellos": "se pongan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ponte",
+    "El": "póngase",
+    "Nosotros": "pongámonos",
+    "Vosotros": "poneos",
+    "Ellos": "pónganse"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te pongas",
+    "El": "no se ponga",
+    "Nosotros": "no nos pongamos",
+    "Vosotros": "no os pongáis",
+    "Ellos": "no se pongan"
+  },
+  "ending": "er"
+}

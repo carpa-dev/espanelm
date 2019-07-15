@@ -1,0 +1,113 @@
+{
+  "verb": "acortar",
+  "englishInfinitive": "to shorten",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "acorto",
+    "Tu": "acortas",
+    "El": "acorta",
+    "Nosotros": "acortamos",
+    "Vosotros": "acortáis",
+    "Ellos": "acortan"
+  },
+  "IndicativePreterite": {
+    "Yo": "acorté",
+    "Tu": "acortaste",
+    "El": "acortó",
+    "Nosotros": "acortamos",
+    "Vosotros": "acortasteis",
+    "Ellos": "acortaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "acortaré",
+    "Tu": "acortarás",
+    "El": "acortará",
+    "Nosotros": "acortaremos",
+    "Vosotros": "acortaréis",
+    "Ellos": "acortarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "acortaría",
+    "Tu": "acortarías",
+    "El": "acortaría",
+    "Nosotros": "acortaríamos",
+    "Vosotros": "acortaríais",
+    "Ellos": "acortarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "acortaba",
+    "Tu": "acortabas",
+    "El": "acortaba",
+    "Nosotros": "acortábamos",
+    "Vosotros": "acortabais",
+    "Ellos": "acortaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy acortando",
+    "Tu": "estás acortando",
+    "El": "está acortando",
+    "Nosotros": "estamos acortando",
+    "Vosotros": "estáis acortando",
+    "Ellos": "están acortando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he acortado",
+    "Tu": "has acortado",
+    "El": "ha acortado",
+    "Nosotros": "hemos acortado",
+    "Vosotros": "habéis acortado",
+    "Ellos": "han acortado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había acortado",
+    "Tu": "habías acortado",
+    "El": "había acortado",
+    "Nosotros": "habíamos acortado",
+    "Vosotros": "habíais acortado",
+    "Ellos": "habían acortado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré acortado",
+    "Tu": "habrás acortado",
+    "El": "habrá acortado",
+    "Nosotros": "habremos acortado",
+    "Vosotros": "habréis acortado",
+    "Ellos": "habrán acortado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría acortado",
+    "Tu": "habrías acortado",
+    "El": "habría acortado",
+    "Nosotros": "habríamos acortado",
+    "Vosotros": "habríais acortado",
+    "Ellos": "habrían acortado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "acorte",
+    "Tu": "acortes",
+    "El": "acorte",
+    "Nosotros": "acortemos",
+    "Vosotros": "acortéis",
+    "Ellos": "acorten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "acorta",
+    "El": "acorte",
+    "Nosotros": "acortemos",
+    "Vosotros": "acortad",
+    "Ellos": "acorten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no acortes",
+    "El": "no acorte",
+    "Nosotros": "no acortemos",
+    "Vosotros": "no acortéis",
+    "Ellos": "no acorten"
+  },
+  "ending": "ar"
+}

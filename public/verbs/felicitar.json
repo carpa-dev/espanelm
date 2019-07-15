@@ -1,0 +1,113 @@
+{
+  "verb": "felicitar",
+  "englishInfinitive": "to congratulate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "felicito",
+    "Tu": "felicitas",
+    "El": "felicita",
+    "Nosotros": "felicitamos",
+    "Vosotros": "felicitáis",
+    "Ellos": "felicitan"
+  },
+  "IndicativePreterite": {
+    "Yo": "felicité",
+    "Tu": "felicitaste",
+    "El": "felicitó",
+    "Nosotros": "felicitamos",
+    "Vosotros": "felicitasteis",
+    "Ellos": "felicitaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "felicitaré",
+    "Tu": "felicitarás",
+    "El": "felicitará",
+    "Nosotros": "felicitaremos",
+    "Vosotros": "felicitaréis",
+    "Ellos": "felicitarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "felicitaría",
+    "Tu": "felicitarías",
+    "El": "felicitaría",
+    "Nosotros": "felicitaríamos",
+    "Vosotros": "felicitaríais",
+    "Ellos": "felicitarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "felicitaba",
+    "Tu": "felicitabas",
+    "El": "felicitaba",
+    "Nosotros": "felicitábamos",
+    "Vosotros": "felicitabais",
+    "Ellos": "felicitaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy felicitando",
+    "Tu": "estás felicitando",
+    "El": "está felicitando",
+    "Nosotros": "estamos felicitando",
+    "Vosotros": "estáis felicitando",
+    "Ellos": "están felicitando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he felicitado",
+    "Tu": "has felicitado",
+    "El": "ha felicitado",
+    "Nosotros": "hemos felicitado",
+    "Vosotros": "habéis felicitado",
+    "Ellos": "han felicitado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había felicitado",
+    "Tu": "habías felicitado",
+    "El": "había felicitado",
+    "Nosotros": "habíamos felicitado",
+    "Vosotros": "habíais felicitado",
+    "Ellos": "habían felicitado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré felicitado",
+    "Tu": "habrás felicitado",
+    "El": "habrá felicitado",
+    "Nosotros": "habremos felicitado",
+    "Vosotros": "habréis felicitado",
+    "Ellos": "habrán felicitado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría felicitado",
+    "Tu": "habrías felicitado",
+    "El": "habría felicitado",
+    "Nosotros": "habríamos felicitado",
+    "Vosotros": "habríais felicitado",
+    "Ellos": "habrían felicitado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "felicite",
+    "Tu": "felicites",
+    "El": "felicite",
+    "Nosotros": "felicitemos",
+    "Vosotros": "felicitéis",
+    "Ellos": "feliciten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "felicita",
+    "El": "felicite",
+    "Nosotros": "felicitemos",
+    "Vosotros": "felicitad",
+    "Ellos": "feliciten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no felicites",
+    "El": "no felicite",
+    "Nosotros": "no felicitemos",
+    "Vosotros": "no felicitéis",
+    "Ellos": "no feliciten"
+  },
+  "ending": "ar"
+}

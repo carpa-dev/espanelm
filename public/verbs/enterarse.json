@@ -1,0 +1,113 @@
+{
+  "verb": "enterarse",
+  "englishInfinitive": "to find out [about something]",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me entero",
+    "Tu": "te enteras",
+    "El": "se entera",
+    "Nosotros": "nos enteramos",
+    "Vosotros": "os enteráis",
+    "Ellos": "se enteran"
+  },
+  "IndicativePreterite": {
+    "Yo": "me enteré",
+    "Tu": "te enteraste",
+    "El": "se enteró",
+    "Nosotros": "nos enteramos",
+    "Vosotros": "os enterasteis",
+    "Ellos": "se enteraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me enteraré",
+    "Tu": "te enterarás",
+    "El": "se enterará",
+    "Nosotros": "nos enteraremos",
+    "Vosotros": "os enteraréis",
+    "Ellos": "se enterarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me enteraría",
+    "Tu": "te enterarías",
+    "El": "se enteraría",
+    "Nosotros": "nos enteraríamos",
+    "Vosotros": "os enteraríais",
+    "Ellos": "se enterarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me enteraba",
+    "Tu": "te enterabas",
+    "El": "se enteraba",
+    "Nosotros": "nos enterábamos",
+    "Vosotros": "os enterabais",
+    "Ellos": "se enteraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy enterando,estoy enterándome",
+    "Tu": "te estás enterando,estás enterándote",
+    "El": "se está enterando,está enterándose",
+    "Nosotros": "nos estamos enterando,estamos enterándonos",
+    "Vosotros": "os estáis enterando,estáis enterándoos",
+    "Ellos": "se están enterando,están enterándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he enterado",
+    "Tu": "te has enterado",
+    "El": "se ha enterado",
+    "Nosotros": "nos hemos enterado",
+    "Vosotros": "os habéis enterado",
+    "Ellos": "se han enterado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había enterado",
+    "Tu": "te habías enterado",
+    "El": "se había enterado",
+    "Nosotros": "nos habíamos enterado",
+    "Vosotros": "os habíais enterado",
+    "Ellos": "se habían enterado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré enterado",
+    "Tu": "te habrás enterado",
+    "El": "se habrá enterado",
+    "Nosotros": "nos habremos enterado",
+    "Vosotros": "os habréis enterado",
+    "Ellos": "se habrán enterado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría enterado",
+    "Tu": "te habrías enterado",
+    "El": "se habría enterado",
+    "Nosotros": "nos habríamos enterado",
+    "Vosotros": "os habríais enterado",
+    "Ellos": "se habrían enterado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me entere",
+    "Tu": "te enteres",
+    "El": "se entere",
+    "Nosotros": "nos enteremos",
+    "Vosotros": "os enteréis",
+    "Ellos": "se enteren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "entérate",
+    "El": "entérese",
+    "Nosotros": "enterémonos",
+    "Vosotros": "enteraos",
+    "Ellos": "entérense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te enteres",
+    "El": "no se entere",
+    "Nosotros": "no nos enteremos",
+    "Vosotros": "no os enteréis",
+    "Ellos": "no se enteren"
+  },
+  "ending": "ar"
+}

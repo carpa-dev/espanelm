@@ -1,0 +1,113 @@
+{
+  "verb": "soñar",
+  "englishInfinitive": "to dream",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "sueño",
+    "Tu": "sueñas",
+    "El": "sueña",
+    "Nosotros": "soñamos",
+    "Vosotros": "soñáis",
+    "Ellos": "sueñan"
+  },
+  "IndicativePreterite": {
+    "Yo": "soñé",
+    "Tu": "soñaste",
+    "El": "soñó",
+    "Nosotros": "soñamos",
+    "Vosotros": "soñasteis",
+    "Ellos": "soñaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "soñaré",
+    "Tu": "soñarás",
+    "El": "soñará",
+    "Nosotros": "soñaremos",
+    "Vosotros": "soñaréis",
+    "Ellos": "soñarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "soñaría",
+    "Tu": "soñarías",
+    "El": "soñaría",
+    "Nosotros": "soñaríamos",
+    "Vosotros": "soñaríais",
+    "Ellos": "soñarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "soñaba",
+    "Tu": "soñabas",
+    "El": "soñaba",
+    "Nosotros": "soñábamos",
+    "Vosotros": "soñabais",
+    "Ellos": "soñaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy soñando",
+    "Tu": "estás soñando",
+    "El": "está soñando",
+    "Nosotros": "estamos soñando",
+    "Vosotros": "estáis soñando",
+    "Ellos": "están soñando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he soñado",
+    "Tu": "has soñado",
+    "El": "ha soñado",
+    "Nosotros": "hemos soñado",
+    "Vosotros": "habéis soñado",
+    "Ellos": "han soñado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había soñado",
+    "Tu": "habías soñado",
+    "El": "había soñado",
+    "Nosotros": "habíamos soñado",
+    "Vosotros": "habíais soñado",
+    "Ellos": "habían soñado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré soñado",
+    "Tu": "habrás soñado",
+    "El": "habrá soñado",
+    "Nosotros": "habremos soñado",
+    "Vosotros": "habréis soñado",
+    "Ellos": "habrán soñado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría soñado",
+    "Tu": "habrías soñado",
+    "El": "habría soñado",
+    "Nosotros": "habríamos soñado",
+    "Vosotros": "habríais soñado",
+    "Ellos": "habrían soñado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "sueñe",
+    "Tu": "sueñes",
+    "El": "sueñe",
+    "Nosotros": "soñemos",
+    "Vosotros": "soñéis",
+    "Ellos": "sueñen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sueña",
+    "El": "sueñe",
+    "Nosotros": "sonemos",
+    "Vosotros": "soñad",
+    "Ellos": "sueñen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sueñes",
+    "El": "no sueñe",
+    "Nosotros": "no sonemos",
+    "Vosotros": "no soñéis",
+    "Ellos": "no sueñen"
+  },
+  "ending": "ar"
+}

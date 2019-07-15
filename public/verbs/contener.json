@@ -1,0 +1,113 @@
+{
+  "verb": "contener",
+  "englishInfinitive": "to contain",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "contengo",
+    "Tu": "contienes",
+    "El": "contiene",
+    "Nosotros": "contenemos",
+    "Vosotros": "contenéis",
+    "Ellos": "contienen"
+  },
+  "IndicativePreterite": {
+    "Yo": "contuve",
+    "Tu": "contuviste",
+    "El": "contuvo",
+    "Nosotros": "contuvimos",
+    "Vosotros": "contuvisteis",
+    "Ellos": "contuvieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "contendré",
+    "Tu": "contendrás",
+    "El": "contendrá",
+    "Nosotros": "contendremos",
+    "Vosotros": "contendréis",
+    "Ellos": "contendrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "contendría",
+    "Tu": "contendrías",
+    "El": "contendría",
+    "Nosotros": "contendríamos",
+    "Vosotros": "contendríais",
+    "Ellos": "contendrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "contenía",
+    "Tu": "contenías",
+    "El": "contenía",
+    "Nosotros": "conteníamos",
+    "Vosotros": "conteníais",
+    "Ellos": "contenían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy conteniendo",
+    "Tu": "estás conteniendo",
+    "El": "está conteniendo",
+    "Nosotros": "estamos conteniendo",
+    "Vosotros": "estáis conteniendo",
+    "Ellos": "están conteniendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he contenido",
+    "Tu": "has contenido",
+    "El": "ha contenido",
+    "Nosotros": "hemos contenido",
+    "Vosotros": "habéis contenido",
+    "Ellos": "han contenido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había contenido",
+    "Tu": "habías contenido",
+    "El": "había contenido",
+    "Nosotros": "habíamos contenido",
+    "Vosotros": "habíais contenido",
+    "Ellos": "habían contenido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré contenido",
+    "Tu": "habrás contenido",
+    "El": "habrá contenido",
+    "Nosotros": "habremos contenido",
+    "Vosotros": "habréis contenido",
+    "Ellos": "habrán contenido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría contenido",
+    "Tu": "habrías contenido",
+    "El": "habría contenido",
+    "Nosotros": "habríamos contenido",
+    "Vosotros": "habríais contenido",
+    "Ellos": "habrían contenido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "contenga",
+    "Tu": "contengas",
+    "El": "contenga",
+    "Nosotros": "contengamos",
+    "Vosotros": "contengáis",
+    "Ellos": "contengan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "contén",
+    "El": "contenga",
+    "Nosotros": "contengamos",
+    "Vosotros": "contened",
+    "Ellos": "contengan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no contengas",
+    "El": "no contenga",
+    "Nosotros": "no contengamos",
+    "Vosotros": "no contengáis",
+    "Ellos": "no contengan"
+  },
+  "ending": "er"
+}

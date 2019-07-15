@@ -1,0 +1,113 @@
+{
+  "verb": "extender",
+  "englishInfinitive": "to extend",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "extiendo",
+    "Tu": "extiendes",
+    "El": "extiende",
+    "Nosotros": "extendemos",
+    "Vosotros": "extendéis",
+    "Ellos": "extienden"
+  },
+  "IndicativePreterite": {
+    "Yo": "extendí",
+    "Tu": "extendiste",
+    "El": "extendió",
+    "Nosotros": "extendimos",
+    "Vosotros": "extendisteis",
+    "Ellos": "extendieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "extenderé",
+    "Tu": "extenderás",
+    "El": "extenderá",
+    "Nosotros": "extenderemos",
+    "Vosotros": "extenderéis",
+    "Ellos": "extenderán"
+  },
+  "ConditionalPresent": {
+    "Yo": "extendería",
+    "Tu": "extenderías",
+    "El": "extendería",
+    "Nosotros": "extenderíamos",
+    "Vosotros": "extenderíais",
+    "Ellos": "extenderían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "extendía",
+    "Tu": "extendías",
+    "El": "extendía",
+    "Nosotros": "extendíamos",
+    "Vosotros": "extendíais",
+    "Ellos": "extendían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy extendiendo",
+    "Tu": "estás extendiendo",
+    "El": "está extendiendo",
+    "Nosotros": "estamos extendiendo",
+    "Vosotros": "estáis extendiendo",
+    "Ellos": "están extendiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he extendido",
+    "Tu": "has extendido",
+    "El": "ha extendido",
+    "Nosotros": "hemos extendido",
+    "Vosotros": "habéis extendido",
+    "Ellos": "han extendido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había extendido",
+    "Tu": "habías extendido",
+    "El": "había extendido",
+    "Nosotros": "habíamos extendido",
+    "Vosotros": "habíais extendido",
+    "Ellos": "habían extendido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré extendido",
+    "Tu": "habrás extendido",
+    "El": "habrá extendido",
+    "Nosotros": "habremos extendido",
+    "Vosotros": "habréis extendido",
+    "Ellos": "habrán extendido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría extendido",
+    "Tu": "habrías extendido",
+    "El": "habría extendido",
+    "Nosotros": "habríamos extendido",
+    "Vosotros": "habríais extendido",
+    "Ellos": "habrían extendido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "extienda",
+    "Tu": "extiendas",
+    "El": "extienda",
+    "Nosotros": "extendamos",
+    "Vosotros": "extendáis",
+    "Ellos": "extiendan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "extiende",
+    "El": "extienda",
+    "Nosotros": "extendamos",
+    "Vosotros": "extended",
+    "Ellos": "extiendan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no extiendas",
+    "El": "no extienda",
+    "Nosotros": "no extendamos",
+    "Vosotros": "no extendáis",
+    "Ellos": "no extiendan"
+  },
+  "ending": "er"
+}

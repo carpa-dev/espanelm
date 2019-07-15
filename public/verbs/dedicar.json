@@ -1,0 +1,113 @@
+{
+  "verb": "dedicar",
+  "englishInfinitive": "to dedicate",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "dedico",
+    "Tu": "dedicas",
+    "El": "dedica",
+    "Nosotros": "dedicamos",
+    "Vosotros": "dedicáis",
+    "Ellos": "dedican"
+  },
+  "IndicativePreterite": {
+    "Yo": "dediqué",
+    "Tu": "dedicaste",
+    "El": "dedicó",
+    "Nosotros": "dedicamos",
+    "Vosotros": "dedicasteis",
+    "Ellos": "dedicaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "dedicaré",
+    "Tu": "dedicarás",
+    "El": "dedicará",
+    "Nosotros": "dedicaremos",
+    "Vosotros": "dedicaréis",
+    "Ellos": "dedicarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "dedicaría",
+    "Tu": "dedicarías",
+    "El": "dedicaría",
+    "Nosotros": "dedicaríamos",
+    "Vosotros": "dedicaríais",
+    "Ellos": "dedicarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "dedicaba",
+    "Tu": "dedicabas",
+    "El": "dedicaba",
+    "Nosotros": "dedicábamos",
+    "Vosotros": "dedicabais",
+    "Ellos": "dedicaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy dedicando",
+    "Tu": "estás dedicando",
+    "El": "está dedicando",
+    "Nosotros": "estamos dedicando",
+    "Vosotros": "estáis dedicando",
+    "Ellos": "están dedicando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he dedicado",
+    "Tu": "has dedicado",
+    "El": "ha dedicado",
+    "Nosotros": "hemos dedicado",
+    "Vosotros": "habéis dedicado",
+    "Ellos": "han dedicado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había dedicado",
+    "Tu": "habías dedicado",
+    "El": "había dedicado",
+    "Nosotros": "habíamos dedicado",
+    "Vosotros": "habíais dedicado",
+    "Ellos": "habían dedicado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré dedicado",
+    "Tu": "habrás dedicado",
+    "El": "habrá dedicado",
+    "Nosotros": "habremos dedicado",
+    "Vosotros": "habréis dedicado",
+    "Ellos": "habrán dedicado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría dedicado",
+    "Tu": "habrías dedicado",
+    "El": "habría dedicado",
+    "Nosotros": "habríamos dedicado",
+    "Vosotros": "habríais dedicado",
+    "Ellos": "habrían dedicado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "dedique",
+    "Tu": "dediques",
+    "El": "dedique",
+    "Nosotros": "dediquemos",
+    "Vosotros": "dediquéis",
+    "Ellos": "dediquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "dedica",
+    "El": "dedique",
+    "Nosotros": "dediquemos",
+    "Vosotros": "dedicad",
+    "Ellos": "dediquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no dediques",
+    "El": "no dedique",
+    "Nosotros": "no dediquemos",
+    "Vosotros": "no dediquéis",
+    "Ellos": "no dediquen"
+  },
+  "ending": "ar"
+}

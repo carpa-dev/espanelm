@@ -1,0 +1,113 @@
+{
+  "verb": "apretar",
+  "englishInfinitive": "to be too tight",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "aprieto",
+    "Tu": "aprietas",
+    "El": "aprieta",
+    "Nosotros": "apretamos",
+    "Vosotros": "apretáis",
+    "Ellos": "aprietan"
+  },
+  "IndicativePreterite": {
+    "Yo": "apreté",
+    "Tu": "apretaste",
+    "El": "apretó",
+    "Nosotros": "apretamos",
+    "Vosotros": "apretasteis",
+    "Ellos": "apretaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "apretaré",
+    "Tu": "apretarás",
+    "El": "apretará",
+    "Nosotros": "apretaremos",
+    "Vosotros": "apretaréis",
+    "Ellos": "apretarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "apretaría",
+    "Tu": "apretarías",
+    "El": "apretaría",
+    "Nosotros": "apretaríamos",
+    "Vosotros": "apretaríais",
+    "Ellos": "apretarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "apretaba",
+    "Tu": "apretabas",
+    "El": "apretaba",
+    "Nosotros": "apretábamos",
+    "Vosotros": "apretabais",
+    "Ellos": "apretaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy apretando",
+    "Tu": "estás apretando",
+    "El": "está apretando",
+    "Nosotros": "estamos apretando",
+    "Vosotros": "estáis apretando",
+    "Ellos": "están apretando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he apretado",
+    "Tu": "has apretado",
+    "El": "ha apretado",
+    "Nosotros": "hemos apretado",
+    "Vosotros": "habéis apretado",
+    "Ellos": "han apretado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había apretado",
+    "Tu": "habías apretado",
+    "El": "había apretado",
+    "Nosotros": "habíamos apretado",
+    "Vosotros": "habíais apretado",
+    "Ellos": "habían apretado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré apretado",
+    "Tu": "habrás apretado",
+    "El": "habrá apretado",
+    "Nosotros": "habremos apretado",
+    "Vosotros": "habréis apretado",
+    "Ellos": "habrán apretado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría apretado",
+    "Tu": "habrías apretado",
+    "El": "habría apretado",
+    "Nosotros": "habríamos apretado",
+    "Vosotros": "habríais apretado",
+    "Ellos": "habrían apretado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "apriete",
+    "Tu": "aprietes",
+    "El": "apriete",
+    "Nosotros": "apretemos",
+    "Vosotros": "apretéis",
+    "Ellos": "aprieten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "aprieta",
+    "El": "apriete",
+    "Nosotros": "apretemos",
+    "Vosotros": "apretad",
+    "Ellos": "aprieten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no aprietes",
+    "El": "no apriete",
+    "Nosotros": "no apretemos",
+    "Vosotros": "no apretéis",
+    "Ellos": "no aprieten"
+  },
+  "ending": "ar"
+}

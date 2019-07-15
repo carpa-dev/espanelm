@@ -1,0 +1,113 @@
+{
+  "verb": "aprender",
+  "englishInfinitive": "to learn",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "aprendo",
+    "Tu": "aprendes",
+    "El": "aprende",
+    "Nosotros": "aprendemos",
+    "Vosotros": "aprendéis",
+    "Ellos": "aprenden"
+  },
+  "IndicativePreterite": {
+    "Yo": "aprendí",
+    "Tu": "aprendiste",
+    "El": "aprendió",
+    "Nosotros": "aprendimos",
+    "Vosotros": "aprendisteis",
+    "Ellos": "aprendieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "aprenderé",
+    "Tu": "aprenderás",
+    "El": "aprenderá",
+    "Nosotros": "aprenderemos",
+    "Vosotros": "aprenderéis",
+    "Ellos": "aprenderán"
+  },
+  "ConditionalPresent": {
+    "Yo": "aprendería",
+    "Tu": "aprenderías",
+    "El": "aprendería",
+    "Nosotros": "aprenderíamos",
+    "Vosotros": "aprenderíais",
+    "Ellos": "aprenderían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "aprendía",
+    "Tu": "aprendías",
+    "El": "aprendía",
+    "Nosotros": "aprendíamos",
+    "Vosotros": "aprendíais",
+    "Ellos": "aprendían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy aprendiendo",
+    "Tu": "estás aprendiendo",
+    "El": "está aprendiendo",
+    "Nosotros": "estamos aprendiendo",
+    "Vosotros": "estáis aprendiendo",
+    "Ellos": "están aprendiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he aprendido",
+    "Tu": "has aprendido",
+    "El": "ha aprendido",
+    "Nosotros": "hemos aprendido",
+    "Vosotros": "habéis aprendido",
+    "Ellos": "han aprendido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había aprendido",
+    "Tu": "habías aprendido",
+    "El": "había aprendido",
+    "Nosotros": "habíamos aprendido",
+    "Vosotros": "habíais aprendido",
+    "Ellos": "habían aprendido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré aprendido",
+    "Tu": "habrás aprendido",
+    "El": "habrá aprendido",
+    "Nosotros": "habremos aprendido",
+    "Vosotros": "habréis aprendido",
+    "Ellos": "habrán aprendido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría aprendido",
+    "Tu": "habrías aprendido",
+    "El": "habría aprendido",
+    "Nosotros": "habríamos aprendido",
+    "Vosotros": "habríais aprendido",
+    "Ellos": "habrían aprendido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "aprenda",
+    "Tu": "aprendas",
+    "El": "aprenda",
+    "Nosotros": "aprendamos",
+    "Vosotros": "aprendáis",
+    "Ellos": "aprendan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "aprende",
+    "El": "aprenda",
+    "Nosotros": "aprendamos",
+    "Vosotros": "aprended",
+    "Ellos": "aprendan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no aprendas",
+    "El": "no aprenda",
+    "Nosotros": "no aprendamos",
+    "Vosotros": "no aprendáis",
+    "Ellos": "no aprendan"
+  },
+  "ending": "er"
+}

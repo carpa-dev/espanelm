@@ -1,0 +1,113 @@
+{
+  "verb": "avisar",
+  "englishInfinitive": "to warn",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "aviso",
+    "Tu": "avisas",
+    "El": "avisa",
+    "Nosotros": "avisamos",
+    "Vosotros": "avisáis",
+    "Ellos": "avisan"
+  },
+  "IndicativePreterite": {
+    "Yo": "avisé",
+    "Tu": "avisaste",
+    "El": "avisó",
+    "Nosotros": "avisamos",
+    "Vosotros": "avisasteis",
+    "Ellos": "avisaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "avisaré",
+    "Tu": "avisarás",
+    "El": "avisará",
+    "Nosotros": "avisaremos",
+    "Vosotros": "avisaréis",
+    "Ellos": "avisarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "avisaría",
+    "Tu": "avisarías",
+    "El": "avisaría",
+    "Nosotros": "avisaríamos",
+    "Vosotros": "avisaríais",
+    "Ellos": "avisarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "avisaba",
+    "Tu": "avisabas",
+    "El": "avisaba",
+    "Nosotros": "avisábamos",
+    "Vosotros": "avisabais",
+    "Ellos": "avisaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy avisando",
+    "Tu": "estás avisando",
+    "El": "está avisando",
+    "Nosotros": "estamos avisando",
+    "Vosotros": "estáis avisando",
+    "Ellos": "están avisando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he avisado",
+    "Tu": "has avisado",
+    "El": "ha avisado",
+    "Nosotros": "hemos avisado",
+    "Vosotros": "habéis avisado",
+    "Ellos": "han avisado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había avisado",
+    "Tu": "habías avisado",
+    "El": "había avisado",
+    "Nosotros": "habíamos avisado",
+    "Vosotros": "habíais avisado",
+    "Ellos": "habían avisado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré avisado",
+    "Tu": "habrás avisado",
+    "El": "habrá avisado",
+    "Nosotros": "habremos avisado",
+    "Vosotros": "habréis avisado",
+    "Ellos": "habrán avisado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría avisado",
+    "Tu": "habrías avisado",
+    "El": "habría avisado",
+    "Nosotros": "habríamos avisado",
+    "Vosotros": "habríais avisado",
+    "Ellos": "habrían avisado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "avise",
+    "Tu": "avises",
+    "El": "avise",
+    "Nosotros": "avisemos",
+    "Vosotros": "aviséis",
+    "Ellos": "avisen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "avisa",
+    "El": "avise",
+    "Nosotros": "avisemos",
+    "Vosotros": "avisad",
+    "Ellos": "avisen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no avises",
+    "El": "no avise",
+    "Nosotros": "no avisemos",
+    "Vosotros": "no aviséis",
+    "Ellos": "no avisen"
+  },
+  "ending": "ar"
+}

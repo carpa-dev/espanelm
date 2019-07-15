@@ -1,0 +1,113 @@
+{
+  "verb": "ayudar",
+  "englishInfinitive": "to help",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "ayudo",
+    "Tu": "ayudas",
+    "El": "ayuda",
+    "Nosotros": "ayudamos",
+    "Vosotros": "ayudáis",
+    "Ellos": "ayudan"
+  },
+  "IndicativePreterite": {
+    "Yo": "ayudé",
+    "Tu": "ayudaste",
+    "El": "ayudó",
+    "Nosotros": "ayudamos",
+    "Vosotros": "ayudasteis",
+    "Ellos": "ayudaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "ayudaré",
+    "Tu": "ayudarás",
+    "El": "ayudará",
+    "Nosotros": "ayudaremos",
+    "Vosotros": "ayudaréis",
+    "Ellos": "ayudarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "ayudaría",
+    "Tu": "ayudarías",
+    "El": "ayudaría",
+    "Nosotros": "ayudaríamos",
+    "Vosotros": "ayudaríais",
+    "Ellos": "ayudarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "ayudaba",
+    "Tu": "ayudabas",
+    "El": "ayudaba",
+    "Nosotros": "ayudábamos",
+    "Vosotros": "ayudabais",
+    "Ellos": "ayudaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy ayudando",
+    "Tu": "estás ayudando",
+    "El": "está ayudando",
+    "Nosotros": "estamos ayudando",
+    "Vosotros": "estáis ayudando",
+    "Ellos": "están ayudando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he ayudado",
+    "Tu": "has ayudado",
+    "El": "ha ayudado",
+    "Nosotros": "hemos ayudado",
+    "Vosotros": "habéis ayudado",
+    "Ellos": "han ayudado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había ayudado",
+    "Tu": "habías ayudado",
+    "El": "había ayudado",
+    "Nosotros": "habíamos ayudado",
+    "Vosotros": "habíais ayudado",
+    "Ellos": "habían ayudado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré ayudado",
+    "Tu": "habrás ayudado",
+    "El": "habrá ayudado",
+    "Nosotros": "habremos ayudado",
+    "Vosotros": "habréis ayudado",
+    "Ellos": "habrán ayudado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría ayudado",
+    "Tu": "habrías ayudado",
+    "El": "habría ayudado",
+    "Nosotros": "habríamos ayudado",
+    "Vosotros": "habríais ayudado",
+    "Ellos": "habrían ayudado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ayude",
+    "Tu": "ayudes",
+    "El": "ayude",
+    "Nosotros": "ayudemos",
+    "Vosotros": "ayudéis",
+    "Ellos": "ayuden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ayuda",
+    "El": "ayude",
+    "Nosotros": "ayudemos",
+    "Vosotros": "ayudad",
+    "Ellos": "ayuden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ayudes",
+    "El": "no ayude",
+    "Nosotros": "no ayudemos",
+    "Vosotros": "no ayudéis",
+    "Ellos": "no ayuden"
+  },
+  "ending": "ar"
+}

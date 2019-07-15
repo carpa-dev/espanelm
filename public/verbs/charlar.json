@@ -1,0 +1,113 @@
+{
+  "verb": "charlar",
+  "englishInfinitive": "to chat",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "charlo",
+    "Tu": "charlas",
+    "El": "charla",
+    "Nosotros": "charlamos",
+    "Vosotros": "charláis",
+    "Ellos": "charlan"
+  },
+  "IndicativePreterite": {
+    "Yo": "charlé",
+    "Tu": "charlaste",
+    "El": "charló",
+    "Nosotros": "charlamos",
+    "Vosotros": "charlasteis",
+    "Ellos": "charlaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "charlaré",
+    "Tu": "charlarás",
+    "El": "charlará",
+    "Nosotros": "charlaremos",
+    "Vosotros": "charlaréis",
+    "Ellos": "charlarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "charlaría",
+    "Tu": "charlarías",
+    "El": "charlaría",
+    "Nosotros": "charlaríamos",
+    "Vosotros": "charlaríais",
+    "Ellos": "charlarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "charlaba",
+    "Tu": "charlabas",
+    "El": "charlaba",
+    "Nosotros": "charlábamos",
+    "Vosotros": "charlabais",
+    "Ellos": "charlaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy charlando",
+    "Tu": "estás charlando",
+    "El": "está charlando",
+    "Nosotros": "estamos charlando",
+    "Vosotros": "estáis charlando",
+    "Ellos": "están charlando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he charlado",
+    "Tu": "has charlado",
+    "El": "ha charlado",
+    "Nosotros": "hemos charlado",
+    "Vosotros": "habéis charlado",
+    "Ellos": "han charlado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había charlado",
+    "Tu": "habías charlado",
+    "El": "había charlado",
+    "Nosotros": "habíamos charlado",
+    "Vosotros": "habíais charlado",
+    "Ellos": "habían charlado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré charlado",
+    "Tu": "habrás charlado",
+    "El": "habrá charlado",
+    "Nosotros": "habremos charlado",
+    "Vosotros": "habréis charlado",
+    "Ellos": "habrán charlado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría charlado",
+    "Tu": "habrías charlado",
+    "El": "habría charlado",
+    "Nosotros": "habríamos charlado",
+    "Vosotros": "habríais charlado",
+    "Ellos": "habrían charlado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "charle",
+    "Tu": "charles",
+    "El": "charle",
+    "Nosotros": "charlemos",
+    "Vosotros": "charléis",
+    "Ellos": "charlen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "charla",
+    "El": "charle",
+    "Nosotros": "charlemos",
+    "Vosotros": "charlad",
+    "Ellos": "charlen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no charles",
+    "El": "no charle",
+    "Nosotros": "no charlemos",
+    "Vosotros": "no charléis",
+    "Ellos": "no charlen"
+  },
+  "ending": "ar"
+}

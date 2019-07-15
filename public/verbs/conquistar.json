@@ -1,0 +1,113 @@
+{
+  "verb": "conquistar",
+  "englishInfinitive": "to conquer",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "conquisto",
+    "Tu": "conquistas",
+    "El": "conquista",
+    "Nosotros": "conquistamos",
+    "Vosotros": "conquistáis",
+    "Ellos": "conquistan"
+  },
+  "IndicativePreterite": {
+    "Yo": "conquisté",
+    "Tu": "conquistaste",
+    "El": "conquistó",
+    "Nosotros": "conquistamos",
+    "Vosotros": "conquistasteis",
+    "Ellos": "conquistaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "conquistaré",
+    "Tu": "conquistarás",
+    "El": "conquistará",
+    "Nosotros": "conquistaremos",
+    "Vosotros": "conquistaréis",
+    "Ellos": "conquistarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "conquistaría",
+    "Tu": "conquistarías",
+    "El": "conquistaría",
+    "Nosotros": "conquistaríamos",
+    "Vosotros": "conquistaríais",
+    "Ellos": "conquistarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "conquistaba",
+    "Tu": "conquistabas",
+    "El": "conquistaba",
+    "Nosotros": "conquistábamos",
+    "Vosotros": "conquistabais",
+    "Ellos": "conquistaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy conquistando",
+    "Tu": "estás conquistando",
+    "El": "está conquistando",
+    "Nosotros": "estamos conquistando",
+    "Vosotros": "estáis conquistando",
+    "Ellos": "están conquistando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he conquistado",
+    "Tu": "has conquistado",
+    "El": "ha conquistado",
+    "Nosotros": "hemos conquistado",
+    "Vosotros": "habéis conquistado",
+    "Ellos": "han conquistado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había conquistado",
+    "Tu": "habías conquistado",
+    "El": "había conquistado",
+    "Nosotros": "habíamos conquistado",
+    "Vosotros": "habíais conquistado",
+    "Ellos": "habían conquistado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré conquistado",
+    "Tu": "habrás conquistado",
+    "El": "habrá conquistado",
+    "Nosotros": "habremos conquistado",
+    "Vosotros": "habréis conquistado",
+    "Ellos": "habrán conquistado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría conquistado",
+    "Tu": "habrías conquistado",
+    "El": "habría conquistado",
+    "Nosotros": "habríamos conquistado",
+    "Vosotros": "habríais conquistado",
+    "Ellos": "habrían conquistado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "conquiste",
+    "Tu": "conquistes",
+    "El": "conquiste",
+    "Nosotros": "conquistemos",
+    "Vosotros": "conquistéis",
+    "Ellos": "conquisten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "conquista",
+    "El": "conquiste",
+    "Nosotros": "conquistemos",
+    "Vosotros": "conquistad",
+    "Ellos": "conquisten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no conquistes",
+    "El": "no conquiste",
+    "Nosotros": "no conquistemos",
+    "Vosotros": "no conquistéis",
+    "Ellos": "no conquisten"
+  },
+  "ending": "ar"
+}

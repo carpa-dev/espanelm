@@ -1,0 +1,113 @@
+{
+  "verb": "obligar",
+  "englishInfinitive": "to oblige",
+  "irregular": true,
+  "type": "g > gu (-gar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "obligo",
+    "Tu": "obligas",
+    "El": "obliga",
+    "Nosotros": "obligamos",
+    "Vosotros": "obligáis",
+    "Ellos": "obligan"
+  },
+  "IndicativePreterite": {
+    "Yo": "obligué",
+    "Tu": "obligaste",
+    "El": "obligó",
+    "Nosotros": "obligamos",
+    "Vosotros": "obligasteis",
+    "Ellos": "obligaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "obligaré",
+    "Tu": "obligarás",
+    "El": "obligará",
+    "Nosotros": "obligaremos",
+    "Vosotros": "obligaréis",
+    "Ellos": "obligarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "obligaría",
+    "Tu": "obligarías",
+    "El": "obligaría",
+    "Nosotros": "obligaríamos",
+    "Vosotros": "obligaríais",
+    "Ellos": "obligarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "obligaba",
+    "Tu": "obligabas",
+    "El": "obligaba",
+    "Nosotros": "obligábamos",
+    "Vosotros": "obligabais",
+    "Ellos": "obligaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy obligando",
+    "Tu": "estás obligando",
+    "El": "está obligando",
+    "Nosotros": "estamos obligando",
+    "Vosotros": "estáis obligando",
+    "Ellos": "están obligando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he obligado",
+    "Tu": "has obligado",
+    "El": "ha obligado",
+    "Nosotros": "hemos obligado",
+    "Vosotros": "habéis obligado",
+    "Ellos": "han obligado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había obligado",
+    "Tu": "habías obligado",
+    "El": "había obligado",
+    "Nosotros": "habíamos obligado",
+    "Vosotros": "habíais obligado",
+    "Ellos": "habían obligado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré obligado",
+    "Tu": "habrás obligado",
+    "El": "habrá obligado",
+    "Nosotros": "habremos obligado",
+    "Vosotros": "habréis obligado",
+    "Ellos": "habrán obligado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría obligado",
+    "Tu": "habrías obligado",
+    "El": "habría obligado",
+    "Nosotros": "habríamos obligado",
+    "Vosotros": "habríais obligado",
+    "Ellos": "habrían obligado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "obligue",
+    "Tu": "obligues",
+    "El": "obligue",
+    "Nosotros": "obliguemos",
+    "Vosotros": "obliguéis",
+    "Ellos": "obliguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "obliga",
+    "El": "obligue",
+    "Nosotros": "obliguemos",
+    "Vosotros": "obligad",
+    "Ellos": "obliguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no obligues",
+    "El": "no obligue",
+    "Nosotros": "no obliguemos",
+    "Vosotros": "no obliguéis",
+    "Ellos": "no obliguen"
+  },
+  "ending": "ar"
+}

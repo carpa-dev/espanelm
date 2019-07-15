@@ -1,0 +1,113 @@
+{
+  "verb": "construir",
+  "englishInfinitive": "to build",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "construyo",
+    "Tu": "construyes",
+    "El": "construye",
+    "Nosotros": "construimos",
+    "Vosotros": "construís",
+    "Ellos": "construyen"
+  },
+  "IndicativePreterite": {
+    "Yo": "construí",
+    "Tu": "construiste",
+    "El": "construyó",
+    "Nosotros": "construimos",
+    "Vosotros": "construisteis",
+    "Ellos": "construyeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "construiré",
+    "Tu": "construirás",
+    "El": "construirá",
+    "Nosotros": "construiremos",
+    "Vosotros": "construiréis",
+    "Ellos": "construirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "construiría",
+    "Tu": "construirías",
+    "El": "construiría",
+    "Nosotros": "construiríamos",
+    "Vosotros": "construiríais",
+    "Ellos": "construirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "construía",
+    "Tu": "construías",
+    "El": "construía",
+    "Nosotros": "construíamos",
+    "Vosotros": "construíais",
+    "Ellos": "construían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy construyendo",
+    "Tu": "estás construyendo",
+    "El": "está construyendo",
+    "Nosotros": "estamos construyendo",
+    "Vosotros": "estáis construyendo",
+    "Ellos": "están construyendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he construido",
+    "Tu": "has construido",
+    "El": "ha construido",
+    "Nosotros": "hemos construido",
+    "Vosotros": "habéis construido",
+    "Ellos": "han construido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había construido",
+    "Tu": "habías construido",
+    "El": "había construido",
+    "Nosotros": "habíamos construido",
+    "Vosotros": "habíais construido",
+    "Ellos": "habían construido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré construido",
+    "Tu": "habrás construido",
+    "El": "habrá construido",
+    "Nosotros": "habremos construido",
+    "Vosotros": "habréis construido",
+    "Ellos": "habrán construido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría construido",
+    "Tu": "habrías construido",
+    "El": "habría construido",
+    "Nosotros": "habríamos construido",
+    "Vosotros": "habríais construido",
+    "Ellos": "habrían construido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "construya",
+    "Tu": "construyas",
+    "El": "construya",
+    "Nosotros": "construyamos",
+    "Vosotros": "construyáis",
+    "Ellos": "construyan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "construye",
+    "El": "construya",
+    "Nosotros": "construyamos",
+    "Vosotros": "construid",
+    "Ellos": "construyan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no construyas",
+    "El": "no construya",
+    "Nosotros": "no construyamos",
+    "Vosotros": "no construyáis",
+    "Ellos": "no construyan"
+  },
+  "ending": "ir"
+}

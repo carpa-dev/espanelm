@@ -1,0 +1,113 @@
+{
+  "verb": "masticar",
+  "englishInfinitive": "to chew",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "mastico",
+    "Tu": "masticas",
+    "El": "mastica",
+    "Nosotros": "masticamos",
+    "Vosotros": "masticáis",
+    "Ellos": "mastican"
+  },
+  "IndicativePreterite": {
+    "Yo": "mastiqué",
+    "Tu": "masticaste",
+    "El": "masticó",
+    "Nosotros": "masticamos",
+    "Vosotros": "masticasteis",
+    "Ellos": "masticaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "masticaré",
+    "Tu": "masticarás",
+    "El": "masticará",
+    "Nosotros": "masticaremos",
+    "Vosotros": "masticaréis",
+    "Ellos": "masticarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "masticaría",
+    "Tu": "masticarías",
+    "El": "masticaría",
+    "Nosotros": "masticaríamos",
+    "Vosotros": "masticaríais",
+    "Ellos": "masticarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "masticaba",
+    "Tu": "masticabas",
+    "El": "masticaba",
+    "Nosotros": "masticábamos",
+    "Vosotros": "masticabais",
+    "Ellos": "masticaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy masticando",
+    "Tu": "estás masticando",
+    "El": "está masticando",
+    "Nosotros": "estamos masticando",
+    "Vosotros": "estáis masticando",
+    "Ellos": "están masticando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he masticado",
+    "Tu": "has masticado",
+    "El": "ha masticado",
+    "Nosotros": "hemos masticado",
+    "Vosotros": "habéis masticado",
+    "Ellos": "han masticado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había masticado",
+    "Tu": "habías masticado",
+    "El": "había masticado",
+    "Nosotros": "habíamos masticado",
+    "Vosotros": "habíais masticado",
+    "Ellos": "habían masticado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré masticado",
+    "Tu": "habrás masticado",
+    "El": "habrá masticado",
+    "Nosotros": "habremos masticado",
+    "Vosotros": "habréis masticado",
+    "Ellos": "habrán masticado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría masticado",
+    "Tu": "habrías masticado",
+    "El": "habría masticado",
+    "Nosotros": "habríamos masticado",
+    "Vosotros": "habríais masticado",
+    "Ellos": "habrían masticado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "mastique",
+    "Tu": "mastiques",
+    "El": "mastique",
+    "Nosotros": "mastiquemos",
+    "Vosotros": "mastiquéis",
+    "Ellos": "mastiquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "mastica",
+    "El": "mastique",
+    "Nosotros": "mastiquemos",
+    "Vosotros": "masticad",
+    "Ellos": "mastiquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no mastiques",
+    "El": "no mastique",
+    "Nosotros": "no mastiquemos",
+    "Vosotros": "no mastiquéis",
+    "Ellos": "no mastiquen"
+  },
+  "ending": "ar"
+}

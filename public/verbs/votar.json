@@ -1,0 +1,113 @@
+{
+  "verb": "votar",
+  "englishInfinitive": "to vote",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "voto",
+    "Tu": "votas",
+    "El": "vota",
+    "Nosotros": "votamos",
+    "Vosotros": "votáis",
+    "Ellos": "votan"
+  },
+  "IndicativePreterite": {
+    "Yo": "voté",
+    "Tu": "votaste",
+    "El": "votó",
+    "Nosotros": "votamos",
+    "Vosotros": "votasteis",
+    "Ellos": "votaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "votaré",
+    "Tu": "votarás",
+    "El": "votará",
+    "Nosotros": "votaremos",
+    "Vosotros": "votaréis",
+    "Ellos": "votarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "votaría",
+    "Tu": "votarías",
+    "El": "votaría",
+    "Nosotros": "votaríamos",
+    "Vosotros": "votaríais",
+    "Ellos": "votarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "votaba",
+    "Tu": "votabas",
+    "El": "votaba",
+    "Nosotros": "votábamos",
+    "Vosotros": "votabais",
+    "Ellos": "votaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy votando",
+    "Tu": "estás votando",
+    "El": "está votando",
+    "Nosotros": "estamos votando",
+    "Vosotros": "estáis votando",
+    "Ellos": "están votando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he votado",
+    "Tu": "has votado",
+    "El": "ha votado",
+    "Nosotros": "hemos votado",
+    "Vosotros": "habéis votado",
+    "Ellos": "han votado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había votado",
+    "Tu": "habías votado",
+    "El": "había votado",
+    "Nosotros": "habíamos votado",
+    "Vosotros": "habíais votado",
+    "Ellos": "habían votado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré votado",
+    "Tu": "habrás votado",
+    "El": "habrá votado",
+    "Nosotros": "habremos votado",
+    "Vosotros": "habréis votado",
+    "Ellos": "habrán votado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría votado",
+    "Tu": "habrías votado",
+    "El": "habría votado",
+    "Nosotros": "habríamos votado",
+    "Vosotros": "habríais votado",
+    "Ellos": "habrían votado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "vote",
+    "Tu": "votes",
+    "El": "vote",
+    "Nosotros": "votemos",
+    "Vosotros": "votéis",
+    "Ellos": "voten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "vota",
+    "El": "vote",
+    "Nosotros": "votemos",
+    "Vosotros": "votad",
+    "Ellos": "voten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no votes",
+    "El": "no vote",
+    "Nosotros": "no votemos",
+    "Vosotros": "no votéis",
+    "Ellos": "no voten"
+  },
+  "ending": "ar"
+}

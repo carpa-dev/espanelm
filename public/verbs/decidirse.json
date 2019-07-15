@@ -1,0 +1,113 @@
+{
+  "verb": "decidirse",
+  "englishInfinitive": "to decide",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me decido",
+    "Tu": "te decides",
+    "El": "se decide",
+    "Nosotros": "nos decidimos",
+    "Vosotros": "os decidís",
+    "Ellos": "se deciden"
+  },
+  "IndicativePreterite": {
+    "Yo": "me decidí",
+    "Tu": "te decidiste",
+    "El": "se decidió",
+    "Nosotros": "nos decidimos",
+    "Vosotros": "os decidisteis",
+    "Ellos": "se decidieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me decidiré",
+    "Tu": "te decidirás",
+    "El": "se decidirá",
+    "Nosotros": "nos decidiremos",
+    "Vosotros": "os decidiréis",
+    "Ellos": "se decidirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me decidiría",
+    "Tu": "te decidirías",
+    "El": "se decidiría",
+    "Nosotros": "nos decidiríamos",
+    "Vosotros": "os decidiríais",
+    "Ellos": "se decidirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me decidía",
+    "Tu": "te decidías",
+    "El": "se decidía",
+    "Nosotros": "nos decidíamos",
+    "Vosotros": "os decidíais",
+    "Ellos": "se decidían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy decidiendo,estoy decidiéndome",
+    "Tu": "te estás decidiendo,estás decidiéndote",
+    "El": "se está decidiendo,está decidiéndose",
+    "Nosotros": "nos estamos decidiendo,estamos decidiéndonos",
+    "Vosotros": "os estáis decidiendo,estáis decidiéndoos",
+    "Ellos": "se están decidiendo,están decidiéndose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he decidido",
+    "Tu": "te has decidido",
+    "El": "se ha decidido",
+    "Nosotros": "nos hemos decidido",
+    "Vosotros": "os habéis decidido",
+    "Ellos": "se han decidido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había decidido",
+    "Tu": "te habías decidido",
+    "El": "se había decidido",
+    "Nosotros": "nos habíamos decidido",
+    "Vosotros": "os habíais decidido",
+    "Ellos": "se habían decidido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré decidido",
+    "Tu": "te habrás decidido",
+    "El": "se habrá decidido",
+    "Nosotros": "nos habremos decidido",
+    "Vosotros": "os habréis decidido",
+    "Ellos": "se habrán decidido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría decidido",
+    "Tu": "te habrías decidido",
+    "El": "se habría decidido",
+    "Nosotros": "nos habríamos decidido",
+    "Vosotros": "os habríais decidido",
+    "Ellos": "se habrían decidido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me decida",
+    "Tu": "te decidas",
+    "El": "se decida",
+    "Nosotros": "nos decidamos",
+    "Vosotros": "os decidáis",
+    "Ellos": "se decidan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "decídete",
+    "El": "decídase",
+    "Nosotros": "decidámonos",
+    "Vosotros": "decidíos",
+    "Ellos": "decídanse"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te decidas",
+    "El": "no se decida",
+    "Nosotros": "no nos decidamos",
+    "Vosotros": "no os decidáis",
+    "Ellos": "no se decidan"
+  },
+  "ending": "ir"
+}

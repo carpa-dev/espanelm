@@ -1,0 +1,113 @@
+{
+  "verb": "disfrutar",
+  "englishInfinitive": "to enjoy",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "disfruto",
+    "Tu": "disfrutas",
+    "El": "disfruta",
+    "Nosotros": "disfrutamos",
+    "Vosotros": "disfrutáis",
+    "Ellos": "disfrutan"
+  },
+  "IndicativePreterite": {
+    "Yo": "disfruté",
+    "Tu": "disfrutaste",
+    "El": "disfrutó",
+    "Nosotros": "disfrutamos",
+    "Vosotros": "disfrutasteis",
+    "Ellos": "disfrutaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "disfrutaré",
+    "Tu": "disfrutarás",
+    "El": "disfrutará",
+    "Nosotros": "disfrutaremos",
+    "Vosotros": "disfrutaréis",
+    "Ellos": "disfrutarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "disfrutaría",
+    "Tu": "disfrutarías",
+    "El": "disfrutaría",
+    "Nosotros": "disfrutaríamos",
+    "Vosotros": "disfrutaríais",
+    "Ellos": "disfrutarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "disfrutaba",
+    "Tu": "disfrutabas",
+    "El": "disfrutaba",
+    "Nosotros": "disfrutábamos",
+    "Vosotros": "disfrutabais",
+    "Ellos": "disfrutaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy disfrutando",
+    "Tu": "estás disfrutando",
+    "El": "está disfrutando",
+    "Nosotros": "estamos disfrutando",
+    "Vosotros": "estáis disfrutando",
+    "Ellos": "están disfrutando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he disfrutado",
+    "Tu": "has disfrutado",
+    "El": "ha disfrutado",
+    "Nosotros": "hemos disfrutado",
+    "Vosotros": "habéis disfrutado",
+    "Ellos": "han disfrutado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había disfrutado",
+    "Tu": "habías disfrutado",
+    "El": "había disfrutado",
+    "Nosotros": "habíamos disfrutado",
+    "Vosotros": "habíais disfrutado",
+    "Ellos": "habían disfrutado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré disfrutado",
+    "Tu": "habrás disfrutado",
+    "El": "habrá disfrutado",
+    "Nosotros": "habremos disfrutado",
+    "Vosotros": "habréis disfrutado",
+    "Ellos": "habrán disfrutado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría disfrutado",
+    "Tu": "habrías disfrutado",
+    "El": "habría disfrutado",
+    "Nosotros": "habríamos disfrutado",
+    "Vosotros": "habríais disfrutado",
+    "Ellos": "habrían disfrutado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "disfrute",
+    "Tu": "disfrutes",
+    "El": "disfrute",
+    "Nosotros": "disfrutemos",
+    "Vosotros": "disfrutéis",
+    "Ellos": "disfruten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "disfruta",
+    "El": "disfrute",
+    "Nosotros": "disfrutemos",
+    "Vosotros": "disfrutad",
+    "Ellos": "disfruten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no disfrutes",
+    "El": "no disfrute",
+    "Nosotros": "no disfrutemos",
+    "Vosotros": "no disfrutéis",
+    "Ellos": "no disfruten"
+  },
+  "ending": "ar"
+}

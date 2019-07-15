@@ -1,0 +1,113 @@
+{
+  "verb": "informar",
+  "englishInfinitive": "to inform",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "informo",
+    "Tu": "informas",
+    "El": "informa",
+    "Nosotros": "informamos",
+    "Vosotros": "informáis",
+    "Ellos": "informan"
+  },
+  "IndicativePreterite": {
+    "Yo": "informé",
+    "Tu": "informaste",
+    "El": "informó",
+    "Nosotros": "informamos",
+    "Vosotros": "informasteis",
+    "Ellos": "informaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "informaré",
+    "Tu": "informarás",
+    "El": "informará",
+    "Nosotros": "informaremos",
+    "Vosotros": "informaréis",
+    "Ellos": "informarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "informaría",
+    "Tu": "informarías",
+    "El": "informaría",
+    "Nosotros": "informaríamos",
+    "Vosotros": "informaríais",
+    "Ellos": "informarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "informaba",
+    "Tu": "informabas",
+    "El": "informaba",
+    "Nosotros": "informábamos",
+    "Vosotros": "informabais",
+    "Ellos": "informaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy informando",
+    "Tu": "estás informando",
+    "El": "está informando",
+    "Nosotros": "estamos informando",
+    "Vosotros": "estáis informando",
+    "Ellos": "están informando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he informado",
+    "Tu": "has informado",
+    "El": "ha informado",
+    "Nosotros": "hemos informado",
+    "Vosotros": "habéis informado",
+    "Ellos": "han informado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había informado",
+    "Tu": "habías informado",
+    "El": "había informado",
+    "Nosotros": "habíamos informado",
+    "Vosotros": "habíais informado",
+    "Ellos": "habían informado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré informado",
+    "Tu": "habrás informado",
+    "El": "habrá informado",
+    "Nosotros": "habremos informado",
+    "Vosotros": "habréis informado",
+    "Ellos": "habrán informado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría informado",
+    "Tu": "habrías informado",
+    "El": "habría informado",
+    "Nosotros": "habríamos informado",
+    "Vosotros": "habríais informado",
+    "Ellos": "habrían informado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "informe",
+    "Tu": "informes",
+    "El": "informe",
+    "Nosotros": "informemos",
+    "Vosotros": "informéis",
+    "Ellos": "informen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "informa",
+    "El": "informe",
+    "Nosotros": "informemos",
+    "Vosotros": "informad",
+    "Ellos": "informen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no informes",
+    "El": "no informe",
+    "Nosotros": "no informemos",
+    "Vosotros": "no informéis",
+    "Ellos": "no informen"
+  },
+  "ending": "ar"
+}

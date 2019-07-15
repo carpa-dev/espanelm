@@ -1,0 +1,113 @@
+{
+  "verb": "empezar",
+  "englishInfinitive": "to begin",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "empiezo",
+    "Tu": "empiezas",
+    "El": "empieza",
+    "Nosotros": "empezamos",
+    "Vosotros": "empezáis",
+    "Ellos": "empiezan"
+  },
+  "IndicativePreterite": {
+    "Yo": "empecé",
+    "Tu": "empezaste",
+    "El": "empezó",
+    "Nosotros": "empezamos",
+    "Vosotros": "empezasteis",
+    "Ellos": "empezaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "empezaré",
+    "Tu": "empezarás",
+    "El": "empezará",
+    "Nosotros": "empezaremos",
+    "Vosotros": "empezaréis",
+    "Ellos": "empezarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "empezaría",
+    "Tu": "empezarías",
+    "El": "empezaría",
+    "Nosotros": "empezaríamos",
+    "Vosotros": "empezaríais",
+    "Ellos": "empezarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "empezaba",
+    "Tu": "empezabas",
+    "El": "empezaba",
+    "Nosotros": "empezábamos",
+    "Vosotros": "empezabais",
+    "Ellos": "empezaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy empezando",
+    "Tu": "estás empezando",
+    "El": "está empezando",
+    "Nosotros": "estamos empezando",
+    "Vosotros": "estáis empezando",
+    "Ellos": "están empezando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he empezado",
+    "Tu": "has empezado",
+    "El": "ha empezado",
+    "Nosotros": "hemos empezado",
+    "Vosotros": "habéis empezado",
+    "Ellos": "han empezado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había empezado",
+    "Tu": "habías empezado",
+    "El": "había empezado",
+    "Nosotros": "habíamos empezado",
+    "Vosotros": "habíais empezado",
+    "Ellos": "habían empezado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré empezado",
+    "Tu": "habrás empezado",
+    "El": "habrá empezado",
+    "Nosotros": "habremos empezado",
+    "Vosotros": "habréis empezado",
+    "Ellos": "habrán empezado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría empezado",
+    "Tu": "habrías empezado",
+    "El": "habría empezado",
+    "Nosotros": "habríamos empezado",
+    "Vosotros": "habríais empezado",
+    "Ellos": "habrían empezado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "empiece",
+    "Tu": "empieces",
+    "El": "empiece",
+    "Nosotros": "empecemos",
+    "Vosotros": "empecéis",
+    "Ellos": "empiecen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "empieza",
+    "El": "empiece",
+    "Nosotros": "empecemos",
+    "Vosotros": "empezad",
+    "Ellos": "empiecen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no empieces",
+    "El": "no empiece",
+    "Nosotros": "no empecemos",
+    "Vosotros": "no empecéis",
+    "Ellos": "no empiecen"
+  },
+  "ending": "ar"
+}

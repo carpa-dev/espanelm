@@ -1,0 +1,113 @@
+{
+  "verb": "dormir",
+  "englishInfinitive": "to sleep",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "duermo",
+    "Tu": "duermes",
+    "El": "duerme",
+    "Nosotros": "dormimos",
+    "Vosotros": "dormís",
+    "Ellos": "duermen"
+  },
+  "IndicativePreterite": {
+    "Yo": "dormí",
+    "Tu": "dormiste",
+    "El": "durmió",
+    "Nosotros": "dormimos",
+    "Vosotros": "dormisteis",
+    "Ellos": "durmieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "dormiré",
+    "Tu": "dormirás",
+    "El": "dormirá",
+    "Nosotros": "dormiremos",
+    "Vosotros": "dormiréis",
+    "Ellos": "dormirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "dormiría",
+    "Tu": "dormirías",
+    "El": "dormiría",
+    "Nosotros": "dormiríamos",
+    "Vosotros": "dormiríais",
+    "Ellos": "dormirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "dormía",
+    "Tu": "dormías",
+    "El": "dormía",
+    "Nosotros": "dormíamos",
+    "Vosotros": "dormíais",
+    "Ellos": "dormían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy durmiendo",
+    "Tu": "estás durmiendo",
+    "El": "está durmiendo",
+    "Nosotros": "estamos durmiendo",
+    "Vosotros": "estáis durmiendo",
+    "Ellos": "están durmiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he dormido",
+    "Tu": "has dormido",
+    "El": "ha dormido",
+    "Nosotros": "hemos dormido",
+    "Vosotros": "habéis dormido",
+    "Ellos": "han dormido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había dormido",
+    "Tu": "habías dormido",
+    "El": "había dormido",
+    "Nosotros": "habíamos dormido",
+    "Vosotros": "habíais dormido",
+    "Ellos": "habían dormido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré dormido",
+    "Tu": "habrás dormido",
+    "El": "habrá dormido",
+    "Nosotros": "habremos dormido",
+    "Vosotros": "habréis dormido",
+    "Ellos": "habrán dormido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría dormido",
+    "Tu": "habrías dormido",
+    "El": "habría dormido",
+    "Nosotros": "habríamos dormido",
+    "Vosotros": "habríais dormido",
+    "Ellos": "habrían dormido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "duerma",
+    "Tu": "duermas",
+    "El": "duerma",
+    "Nosotros": "durmamos",
+    "Vosotros": "durmáis",
+    "Ellos": "duerman"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "duerme",
+    "El": "duerma",
+    "Nosotros": "durmamos",
+    "Vosotros": "dormid",
+    "Ellos": "duerman"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no duermas",
+    "El": "no duerma",
+    "Nosotros": "no durmamos",
+    "Vosotros": "no durmáis",
+    "Ellos": "no duerman"
+  },
+  "ending": "ir"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "intentar",
+  "englishInfinitive": "to try",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "intento",
+    "Tu": "intentas",
+    "El": "intenta",
+    "Nosotros": "intentamos",
+    "Vosotros": "intentáis",
+    "Ellos": "intentan"
+  },
+  "IndicativePreterite": {
+    "Yo": "intenté",
+    "Tu": "intentaste",
+    "El": "intentó",
+    "Nosotros": "intentamos",
+    "Vosotros": "intentasteis",
+    "Ellos": "intentaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "intentaré",
+    "Tu": "intentarás",
+    "El": "intentará",
+    "Nosotros": "intentaremos",
+    "Vosotros": "intentaréis",
+    "Ellos": "intentarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "intentaría",
+    "Tu": "intentarías",
+    "El": "intentaría",
+    "Nosotros": "intentaríamos",
+    "Vosotros": "intentaríais",
+    "Ellos": "intentarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "intentaba",
+    "Tu": "intentabas",
+    "El": "intentaba",
+    "Nosotros": "intentábamos",
+    "Vosotros": "intentabais",
+    "Ellos": "intentaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy intentando",
+    "Tu": "estás intentando",
+    "El": "está intentando",
+    "Nosotros": "estamos intentando",
+    "Vosotros": "estáis intentando",
+    "Ellos": "están intentando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he intentado",
+    "Tu": "has intentado",
+    "El": "ha intentado",
+    "Nosotros": "hemos intentado",
+    "Vosotros": "habéis intentado",
+    "Ellos": "han intentado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había intentado",
+    "Tu": "habías intentado",
+    "El": "había intentado",
+    "Nosotros": "habíamos intentado",
+    "Vosotros": "habíais intentado",
+    "Ellos": "habían intentado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré intentado",
+    "Tu": "habrás intentado",
+    "El": "habrá intentado",
+    "Nosotros": "habremos intentado",
+    "Vosotros": "habréis intentado",
+    "Ellos": "habrán intentado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría intentado",
+    "Tu": "habrías intentado",
+    "El": "habría intentado",
+    "Nosotros": "habríamos intentado",
+    "Vosotros": "habríais intentado",
+    "Ellos": "habrían intentado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "intente",
+    "Tu": "intentes",
+    "El": "intente",
+    "Nosotros": "intentemos",
+    "Vosotros": "intentéis",
+    "Ellos": "intenten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "intenta",
+    "El": "intente",
+    "Nosotros": "intentemos",
+    "Vosotros": "intentad",
+    "Ellos": "intenten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no intentes",
+    "El": "no intente",
+    "Nosotros": "no intentemos",
+    "Vosotros": "no intentéis",
+    "Ellos": "no intenten"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "exponer",
+  "englishInfinitive": "to expose",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "expongo",
+    "Tu": "expones",
+    "El": "expone",
+    "Nosotros": "exponemos",
+    "Vosotros": "exponéis",
+    "Ellos": "exponen"
+  },
+  "IndicativePreterite": {
+    "Yo": "expuse",
+    "Tu": "expusiste",
+    "El": "expuso",
+    "Nosotros": "expusimos",
+    "Vosotros": "expusisteis",
+    "Ellos": "expusieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "expondré",
+    "Tu": "expondrás",
+    "El": "expondrá",
+    "Nosotros": "expondremos",
+    "Vosotros": "expondréis",
+    "Ellos": "expondrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "expondría",
+    "Tu": "expondrías",
+    "El": "expondría",
+    "Nosotros": "expondríamos",
+    "Vosotros": "expondríais",
+    "Ellos": "expondrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "exponía",
+    "Tu": "exponías",
+    "El": "exponía",
+    "Nosotros": "exponíamos",
+    "Vosotros": "exponíais",
+    "Ellos": "exponían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy exponiendo",
+    "Tu": "estás exponiendo",
+    "El": "está exponiendo",
+    "Nosotros": "estamos exponiendo",
+    "Vosotros": "estáis exponiendo",
+    "Ellos": "están exponiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he expuesto",
+    "Tu": "has expuesto",
+    "El": "ha expuesto",
+    "Nosotros": "hemos expuesto",
+    "Vosotros": "habéis expuesto",
+    "Ellos": "han expuesto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había expuesto",
+    "Tu": "habías expuesto",
+    "El": "había expuesto",
+    "Nosotros": "habíamos expuesto",
+    "Vosotros": "habíais expuesto",
+    "Ellos": "habían expuesto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré expuesto",
+    "Tu": "habrás expuesto",
+    "El": "habrá expuesto",
+    "Nosotros": "habremos expuesto",
+    "Vosotros": "habréis expuesto",
+    "Ellos": "habrán expuesto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría expuesto",
+    "Tu": "habrías expuesto",
+    "El": "habría expuesto",
+    "Nosotros": "habríamos expuesto",
+    "Vosotros": "habríais expuesto",
+    "Ellos": "habrían expuesto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "exponga",
+    "Tu": "expongas",
+    "El": "exponga",
+    "Nosotros": "expongamos",
+    "Vosotros": "expongáis",
+    "Ellos": "expongan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "expón",
+    "El": "exponga",
+    "Nosotros": "expongamos",
+    "Vosotros": "exponed",
+    "Ellos": "expongan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no expongas",
+    "El": "no exponga",
+    "Nosotros": "no expongamos",
+    "Vosotros": "no expongáis",
+    "Ellos": "no expongan"
+  },
+  "ending": "er"
+}

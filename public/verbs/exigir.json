@@ -1,0 +1,113 @@
+{
+  "verb": "exigir",
+  "englishInfinitive": "to demand",
+  "irregular": true,
+  "type": "g > j",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "exijo",
+    "Tu": "exiges",
+    "El": "exige",
+    "Nosotros": "exigimos",
+    "Vosotros": "exigís",
+    "Ellos": "exigen"
+  },
+  "IndicativePreterite": {
+    "Yo": "exigí",
+    "Tu": "exigiste",
+    "El": "exigió",
+    "Nosotros": "exigimos",
+    "Vosotros": "exigisteis",
+    "Ellos": "exigieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "exigiré",
+    "Tu": "exigirás",
+    "El": "exigirá",
+    "Nosotros": "exigiremos",
+    "Vosotros": "exigiréis",
+    "Ellos": "exigirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "exigiría",
+    "Tu": "exigirías",
+    "El": "exigiría",
+    "Nosotros": "exigiríamos",
+    "Vosotros": "exigiríais",
+    "Ellos": "exigirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "exigía",
+    "Tu": "exigías",
+    "El": "exigía",
+    "Nosotros": "exigíamos",
+    "Vosotros": "exigíais",
+    "Ellos": "exigían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy exigiendo",
+    "Tu": "estás exigiendo",
+    "El": "está exigiendo",
+    "Nosotros": "estamos exigiendo",
+    "Vosotros": "estáis exigiendo",
+    "Ellos": "están exigiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he exigido",
+    "Tu": "has exigido",
+    "El": "ha exigido",
+    "Nosotros": "hemos exigido",
+    "Vosotros": "habéis exigido",
+    "Ellos": "han exigido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había exigido",
+    "Tu": "habías exigido",
+    "El": "había exigido",
+    "Nosotros": "habíamos exigido",
+    "Vosotros": "habíais exigido",
+    "Ellos": "habían exigido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré exigido",
+    "Tu": "habrás exigido",
+    "El": "habrá exigido",
+    "Nosotros": "habremos exigido",
+    "Vosotros": "habréis exigido",
+    "Ellos": "habrán exigido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría exigido",
+    "Tu": "habrías exigido",
+    "El": "habría exigido",
+    "Nosotros": "habríamos exigido",
+    "Vosotros": "habríais exigido",
+    "Ellos": "habrían exigido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "exija",
+    "Tu": "exijas",
+    "El": "exija",
+    "Nosotros": "exijamos",
+    "Vosotros": "exijáis",
+    "Ellos": "exijan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "exige",
+    "El": "exija",
+    "Nosotros": "exijamos",
+    "Vosotros": "exigid",
+    "Ellos": "exijan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no exijas",
+    "El": "no exija",
+    "Nosotros": "no exijamos",
+    "Vosotros": "no exijáis",
+    "Ellos": "no exijan"
+  },
+  "ending": "ir"
+}

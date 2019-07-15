@@ -1,0 +1,113 @@
+{
+  "verb": "explicar",
+  "englishInfinitive": "to explain",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "explico",
+    "Tu": "explicas",
+    "El": "explica",
+    "Nosotros": "explicamos",
+    "Vosotros": "explicáis",
+    "Ellos": "explican"
+  },
+  "IndicativePreterite": {
+    "Yo": "expliqué",
+    "Tu": "explicaste",
+    "El": "explicó",
+    "Nosotros": "explicamos",
+    "Vosotros": "explicasteis",
+    "Ellos": "explicaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "explicaré",
+    "Tu": "explicarás",
+    "El": "explicará",
+    "Nosotros": "explicaremos",
+    "Vosotros": "explicaréis",
+    "Ellos": "explicarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "explicaría",
+    "Tu": "explicarías",
+    "El": "explicaría",
+    "Nosotros": "explicaríamos",
+    "Vosotros": "explicaríais",
+    "Ellos": "explicarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "explicaba",
+    "Tu": "explicabas",
+    "El": "explicaba",
+    "Nosotros": "explicábamos",
+    "Vosotros": "explicabais",
+    "Ellos": "explicaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy explicando",
+    "Tu": "estás explicando",
+    "El": "está explicando",
+    "Nosotros": "estamos explicando",
+    "Vosotros": "estáis explicando",
+    "Ellos": "están explicando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he explicado",
+    "Tu": "has explicado",
+    "El": "ha explicado",
+    "Nosotros": "hemos explicado",
+    "Vosotros": "habéis explicado",
+    "Ellos": "han explicado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había explicado",
+    "Tu": "habías explicado",
+    "El": "había explicado",
+    "Nosotros": "habíamos explicado",
+    "Vosotros": "habíais explicado",
+    "Ellos": "habían explicado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré explicado",
+    "Tu": "habrás explicado",
+    "El": "habrá explicado",
+    "Nosotros": "habremos explicado",
+    "Vosotros": "habréis explicado",
+    "Ellos": "habrán explicado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría explicado",
+    "Tu": "habrías explicado",
+    "El": "habría explicado",
+    "Nosotros": "habríamos explicado",
+    "Vosotros": "habríais explicado",
+    "Ellos": "habrían explicado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "explique",
+    "Tu": "expliques",
+    "El": "explique",
+    "Nosotros": "expliquemos",
+    "Vosotros": "expliquéis",
+    "Ellos": "expliquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "explica",
+    "El": "explique",
+    "Nosotros": "expliquemos",
+    "Vosotros": "explicad",
+    "Ellos": "expliquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no expliques",
+    "El": "no explique",
+    "Nosotros": "no expliquemos",
+    "Vosotros": "no expliquéis",
+    "Ellos": "no expliquen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "verificar",
+  "englishInfinitive": "to verify",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "verifico",
+    "Tu": "verificas",
+    "El": "verifica",
+    "Nosotros": "verificamos",
+    "Vosotros": "verificáis",
+    "Ellos": "verifican"
+  },
+  "IndicativePreterite": {
+    "Yo": "verifiqué",
+    "Tu": "verificaste",
+    "El": "verificó",
+    "Nosotros": "verificamos",
+    "Vosotros": "verificasteis",
+    "Ellos": "verificaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "verificaré",
+    "Tu": "verificarás",
+    "El": "verificará",
+    "Nosotros": "verificaremos",
+    "Vosotros": "verificaréis",
+    "Ellos": "verificarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "verificaría",
+    "Tu": "verificarías",
+    "El": "verificaría",
+    "Nosotros": "verificaríamos",
+    "Vosotros": "verificaríais",
+    "Ellos": "verificarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "verificaba",
+    "Tu": "verificabas",
+    "El": "verificaba",
+    "Nosotros": "verificábamos",
+    "Vosotros": "verificabais",
+    "Ellos": "verificaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy verificando",
+    "Tu": "estás verificando",
+    "El": "está verificando",
+    "Nosotros": "estamos verificando",
+    "Vosotros": "estáis verificando",
+    "Ellos": "están verificando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he verificado",
+    "Tu": "has verificado",
+    "El": "ha verificado",
+    "Nosotros": "hemos verificado",
+    "Vosotros": "habéis verificado",
+    "Ellos": "han verificado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había verificado",
+    "Tu": "habías verificado",
+    "El": "había verificado",
+    "Nosotros": "habíamos verificado",
+    "Vosotros": "habíais verificado",
+    "Ellos": "habían verificado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré verificado",
+    "Tu": "habrás verificado",
+    "El": "habrá verificado",
+    "Nosotros": "habremos verificado",
+    "Vosotros": "habréis verificado",
+    "Ellos": "habrán verificado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría verificado",
+    "Tu": "habrías verificado",
+    "El": "habría verificado",
+    "Nosotros": "habríamos verificado",
+    "Vosotros": "habríais verificado",
+    "Ellos": "habrían verificado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "verifique",
+    "Tu": "verifiques",
+    "El": "verifique",
+    "Nosotros": "verifiquemos",
+    "Vosotros": "verifiquéis",
+    "Ellos": "verifiquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "verifica",
+    "El": "verifique",
+    "Nosotros": "verifiquemos",
+    "Vosotros": "verificad",
+    "Ellos": "verifiquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no verifiques",
+    "El": "no verifique",
+    "Nosotros": "no verifiquemos",
+    "Vosotros": "no verifiquéis",
+    "Ellos": "no verifiquen"
+  },
+  "ending": "ar"
+}

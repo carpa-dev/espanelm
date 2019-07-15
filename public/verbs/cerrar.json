@@ -1,0 +1,113 @@
+{
+  "verb": "cerrar",
+  "englishInfinitive": "to close",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "cierro",
+    "Tu": "cierras",
+    "El": "cierra",
+    "Nosotros": "cerramos",
+    "Vosotros": "cerráis",
+    "Ellos": "cierran"
+  },
+  "IndicativePreterite": {
+    "Yo": "cerré",
+    "Tu": "cerraste",
+    "El": "cerró",
+    "Nosotros": "cerramos",
+    "Vosotros": "cerrasteis",
+    "Ellos": "cerraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cerraré",
+    "Tu": "cerrarás",
+    "El": "cerrará",
+    "Nosotros": "cerraremos",
+    "Vosotros": "cerraréis",
+    "Ellos": "cerrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cerraría",
+    "Tu": "cerrarías",
+    "El": "cerraría",
+    "Nosotros": "cerraríamos",
+    "Vosotros": "cerraríais",
+    "Ellos": "cerrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cerraba",
+    "Tu": "cerrabas",
+    "El": "cerraba",
+    "Nosotros": "cerrábamos",
+    "Vosotros": "cerrabais",
+    "Ellos": "cerraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cerrando",
+    "Tu": "estás cerrando",
+    "El": "está cerrando",
+    "Nosotros": "estamos cerrando",
+    "Vosotros": "estáis cerrando",
+    "Ellos": "están cerrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cerrado",
+    "Tu": "has cerrado",
+    "El": "ha cerrado",
+    "Nosotros": "hemos cerrado",
+    "Vosotros": "habéis cerrado",
+    "Ellos": "han cerrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cerrado",
+    "Tu": "habías cerrado",
+    "El": "había cerrado",
+    "Nosotros": "habíamos cerrado",
+    "Vosotros": "habíais cerrado",
+    "Ellos": "habían cerrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cerrado",
+    "Tu": "habrás cerrado",
+    "El": "habrá cerrado",
+    "Nosotros": "habremos cerrado",
+    "Vosotros": "habréis cerrado",
+    "Ellos": "habrán cerrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cerrado",
+    "Tu": "habrías cerrado",
+    "El": "habría cerrado",
+    "Nosotros": "habríamos cerrado",
+    "Vosotros": "habríais cerrado",
+    "Ellos": "habrían cerrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cierre",
+    "Tu": "cierres",
+    "El": "cierre",
+    "Nosotros": "cerremos",
+    "Vosotros": "cerréis",
+    "Ellos": "cierren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cierra",
+    "El": "cierre",
+    "Nosotros": "cerremos",
+    "Vosotros": "cerrad",
+    "Ellos": "cierren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cierres",
+    "El": "no cierre",
+    "Nosotros": "no cerremos",
+    "Vosotros": "no cerréis",
+    "Ellos": "no cierren"
+  },
+  "ending": "ar"
+}

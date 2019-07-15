@@ -1,0 +1,113 @@
+{
+  "verb": "violar",
+  "englishInfinitive": "to violate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "violo",
+    "Tu": "violas",
+    "El": "viola",
+    "Nosotros": "violamos",
+    "Vosotros": "violáis",
+    "Ellos": "violan"
+  },
+  "IndicativePreterite": {
+    "Yo": "violé",
+    "Tu": "violaste",
+    "El": "violó",
+    "Nosotros": "violamos",
+    "Vosotros": "violasteis",
+    "Ellos": "violaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "violaré",
+    "Tu": "violarás",
+    "El": "violará",
+    "Nosotros": "violaremos",
+    "Vosotros": "violaréis",
+    "Ellos": "violarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "violaría",
+    "Tu": "violarías",
+    "El": "violaría",
+    "Nosotros": "violaríamos",
+    "Vosotros": "violaríais",
+    "Ellos": "violarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "violaba",
+    "Tu": "violabas",
+    "El": "violaba",
+    "Nosotros": "violábamos",
+    "Vosotros": "violabais",
+    "Ellos": "violaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy violando",
+    "Tu": "estás violando",
+    "El": "está violando",
+    "Nosotros": "estamos violando",
+    "Vosotros": "estáis violando",
+    "Ellos": "están violando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he violado",
+    "Tu": "has violado",
+    "El": "ha violado",
+    "Nosotros": "hemos violado",
+    "Vosotros": "habéis violado",
+    "Ellos": "han violado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había violado",
+    "Tu": "habías violado",
+    "El": "había violado",
+    "Nosotros": "habíamos violado",
+    "Vosotros": "habíais violado",
+    "Ellos": "habían violado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré violado",
+    "Tu": "habrás violado",
+    "El": "habrá violado",
+    "Nosotros": "habremos violado",
+    "Vosotros": "habréis violado",
+    "Ellos": "habrán violado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría violado",
+    "Tu": "habrías violado",
+    "El": "habría violado",
+    "Nosotros": "habríamos violado",
+    "Vosotros": "habríais violado",
+    "Ellos": "habrían violado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "viole",
+    "Tu": "violes",
+    "El": "viole",
+    "Nosotros": "violemos",
+    "Vosotros": "violéis",
+    "Ellos": "violen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "viola",
+    "El": "viole",
+    "Nosotros": "violemos",
+    "Vosotros": "violad",
+    "Ellos": "violen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no violes",
+    "El": "no viole",
+    "Nosotros": "no violemos",
+    "Vosotros": "no violéis",
+    "Ellos": "no violen"
+  },
+  "ending": "ar"
+}

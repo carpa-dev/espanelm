@@ -1,0 +1,113 @@
+{
+  "verb": "heredar",
+  "englishInfinitive": "to inherit",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "heredo",
+    "Tu": "heredas",
+    "El": "hereda",
+    "Nosotros": "heredamos",
+    "Vosotros": "heredáis",
+    "Ellos": "heredan"
+  },
+  "IndicativePreterite": {
+    "Yo": "heredé",
+    "Tu": "heredaste",
+    "El": "heredó",
+    "Nosotros": "heredamos",
+    "Vosotros": "heredasteis",
+    "Ellos": "heredaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "heredaré",
+    "Tu": "heredarás",
+    "El": "heredará",
+    "Nosotros": "heredaremos",
+    "Vosotros": "heredaréis",
+    "Ellos": "heredarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "heredaría",
+    "Tu": "heredarías",
+    "El": "heredaría",
+    "Nosotros": "heredaríamos",
+    "Vosotros": "heredaríais",
+    "Ellos": "heredarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "heredaba",
+    "Tu": "heredabas",
+    "El": "heredaba",
+    "Nosotros": "heredábamos",
+    "Vosotros": "heredabais",
+    "Ellos": "heredaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy heredando",
+    "Tu": "estás heredando",
+    "El": "está heredando",
+    "Nosotros": "estamos heredando",
+    "Vosotros": "estáis heredando",
+    "Ellos": "están heredando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he heredado",
+    "Tu": "has heredado",
+    "El": "ha heredado",
+    "Nosotros": "hemos heredado",
+    "Vosotros": "habéis heredado",
+    "Ellos": "han heredado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había heredado",
+    "Tu": "habías heredado",
+    "El": "había heredado",
+    "Nosotros": "habíamos heredado",
+    "Vosotros": "habíais heredado",
+    "Ellos": "habían heredado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré heredado",
+    "Tu": "habrás heredado",
+    "El": "habrá heredado",
+    "Nosotros": "habremos heredado",
+    "Vosotros": "habréis heredado",
+    "Ellos": "habrán heredado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría heredado",
+    "Tu": "habrías heredado",
+    "El": "habría heredado",
+    "Nosotros": "habríamos heredado",
+    "Vosotros": "habríais heredado",
+    "Ellos": "habrían heredado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "herede",
+    "Tu": "heredes",
+    "El": "herede",
+    "Nosotros": "heredemos",
+    "Vosotros": "heredéis",
+    "Ellos": "hereden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "hereda",
+    "El": "herede",
+    "Nosotros": "heredemos",
+    "Vosotros": "heredad",
+    "Ellos": "hereden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no heredes",
+    "El": "no herede",
+    "Nosotros": "no heredemos",
+    "Vosotros": "no heredéis",
+    "Ellos": "no hereden"
+  },
+  "ending": "ar"
+}

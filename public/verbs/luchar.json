@@ -1,0 +1,113 @@
+{
+  "verb": "luchar",
+  "englishInfinitive": "to fight",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "lucho",
+    "Tu": "luchas",
+    "El": "lucha",
+    "Nosotros": "luchamos",
+    "Vosotros": "lucháis",
+    "Ellos": "luchan"
+  },
+  "IndicativePreterite": {
+    "Yo": "luché",
+    "Tu": "luchaste",
+    "El": "luchó",
+    "Nosotros": "luchamos",
+    "Vosotros": "luchasteis",
+    "Ellos": "lucharon"
+  },
+  "IndicativeFuture": {
+    "Yo": "lucharé",
+    "Tu": "lucharás",
+    "El": "luchará",
+    "Nosotros": "lucharemos",
+    "Vosotros": "lucharéis",
+    "Ellos": "lucharán"
+  },
+  "ConditionalPresent": {
+    "Yo": "lucharía",
+    "Tu": "lucharías",
+    "El": "lucharía",
+    "Nosotros": "lucharíamos",
+    "Vosotros": "lucharíais",
+    "Ellos": "lucharían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "luchaba",
+    "Tu": "luchabas",
+    "El": "luchaba",
+    "Nosotros": "luchábamos",
+    "Vosotros": "luchabais",
+    "Ellos": "luchaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy luchando",
+    "Tu": "estás luchando",
+    "El": "está luchando",
+    "Nosotros": "estamos luchando",
+    "Vosotros": "estáis luchando",
+    "Ellos": "están luchando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he luchado",
+    "Tu": "has luchado",
+    "El": "ha luchado",
+    "Nosotros": "hemos luchado",
+    "Vosotros": "habéis luchado",
+    "Ellos": "han luchado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había luchado",
+    "Tu": "habías luchado",
+    "El": "había luchado",
+    "Nosotros": "habíamos luchado",
+    "Vosotros": "habíais luchado",
+    "Ellos": "habían luchado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré luchado",
+    "Tu": "habrás luchado",
+    "El": "habrá luchado",
+    "Nosotros": "habremos luchado",
+    "Vosotros": "habréis luchado",
+    "Ellos": "habrán luchado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría luchado",
+    "Tu": "habrías luchado",
+    "El": "habría luchado",
+    "Nosotros": "habríamos luchado",
+    "Vosotros": "habríais luchado",
+    "Ellos": "habrían luchado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "luche",
+    "Tu": "luches",
+    "El": "luche",
+    "Nosotros": "luchemos",
+    "Vosotros": "luchéis",
+    "Ellos": "luchen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "lucha",
+    "El": "luche",
+    "Nosotros": "luchemos",
+    "Vosotros": "luchad",
+    "Ellos": "luchen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no luches",
+    "El": "no luche",
+    "Nosotros": "no luchemos",
+    "Vosotros": "no luchéis",
+    "Ellos": "no luchen"
+  },
+  "ending": "ar"
+}

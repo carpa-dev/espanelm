@@ -1,0 +1,113 @@
+{
+  "verb": "ensuciar",
+  "englishInfinitive": "to dirty",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "ensucio",
+    "Tu": "ensucias",
+    "El": "ensucia",
+    "Nosotros": "ensuciamos",
+    "Vosotros": "ensuciáis",
+    "Ellos": "ensucian"
+  },
+  "IndicativePreterite": {
+    "Yo": "ensucié",
+    "Tu": "ensuciaste",
+    "El": "ensució",
+    "Nosotros": "ensuciamos",
+    "Vosotros": "ensuciasteis",
+    "Ellos": "ensuciaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "ensuciaré",
+    "Tu": "ensuciarás",
+    "El": "ensuciará",
+    "Nosotros": "ensuciaremos",
+    "Vosotros": "ensuciaréis",
+    "Ellos": "ensuciarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "ensuciaría",
+    "Tu": "ensuciarías",
+    "El": "ensuciaría",
+    "Nosotros": "ensuciaríamos",
+    "Vosotros": "ensuciaríais",
+    "Ellos": "ensuciarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "ensuciaba",
+    "Tu": "ensuciabas",
+    "El": "ensuciaba",
+    "Nosotros": "ensuciábamos",
+    "Vosotros": "ensuciabais",
+    "Ellos": "ensuciaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy ensuciando",
+    "Tu": "estás ensuciando",
+    "El": "está ensuciando",
+    "Nosotros": "estamos ensuciando",
+    "Vosotros": "estáis ensuciando",
+    "Ellos": "están ensuciando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he ensuciado",
+    "Tu": "has ensuciado",
+    "El": "ha ensuciado",
+    "Nosotros": "hemos ensuciado",
+    "Vosotros": "habéis ensuciado",
+    "Ellos": "han ensuciado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había ensuciado",
+    "Tu": "habías ensuciado",
+    "El": "había ensuciado",
+    "Nosotros": "habíamos ensuciado",
+    "Vosotros": "habíais ensuciado",
+    "Ellos": "habían ensuciado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré ensuciado",
+    "Tu": "habrás ensuciado",
+    "El": "habrá ensuciado",
+    "Nosotros": "habremos ensuciado",
+    "Vosotros": "habréis ensuciado",
+    "Ellos": "habrán ensuciado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría ensuciado",
+    "Tu": "habrías ensuciado",
+    "El": "habría ensuciado",
+    "Nosotros": "habríamos ensuciado",
+    "Vosotros": "habríais ensuciado",
+    "Ellos": "habrían ensuciado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ensucie",
+    "Tu": "ensucies",
+    "El": "ensucie",
+    "Nosotros": "ensuciemos",
+    "Vosotros": "ensuciéis",
+    "Ellos": "ensucien"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ensucia",
+    "El": "ensucie",
+    "Nosotros": "ensuciemos",
+    "Vosotros": "ensuciad",
+    "Ellos": "ensucien"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ensucies",
+    "El": "no ensucie",
+    "Nosotros": "no ensuciemos",
+    "Vosotros": "no ensuciéis",
+    "Ellos": "no ensucien"
+  },
+  "ending": "ar"
+}

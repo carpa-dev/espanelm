@@ -1,0 +1,113 @@
+{
+  "verb": "graduarse",
+  "englishInfinitive": "to graduate",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me gradúo",
+    "Tu": "te gradúas",
+    "El": "se gradúa",
+    "Nosotros": "nos graduamos",
+    "Vosotros": "os graduáis",
+    "Ellos": "se gradúan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me gradué",
+    "Tu": "te graduaste",
+    "El": "se graduó",
+    "Nosotros": "nos graduamos",
+    "Vosotros": "os graduasteis",
+    "Ellos": "se graduaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me graduaré",
+    "Tu": "te graduarás",
+    "El": "se graduará",
+    "Nosotros": "nos graduaremos",
+    "Vosotros": "os graduaréis",
+    "Ellos": "se graduarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me graduaría",
+    "Tu": "te graduarías",
+    "El": "se graduaría",
+    "Nosotros": "nos graduaríamos",
+    "Vosotros": "os graduaríais",
+    "Ellos": "se graduarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me graduaba",
+    "Tu": "te graduabas",
+    "El": "se graduaba",
+    "Nosotros": "nos graduábamos",
+    "Vosotros": "os graduabais",
+    "Ellos": "se graduaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy graduando,estoy graduándome",
+    "Tu": "te estás graduando,estás graduándote",
+    "El": "se está graduando,está graduándose",
+    "Nosotros": "nos estamos graduando,estamos graduándonos",
+    "Vosotros": "os estáis graduando,estáis graduándoos",
+    "Ellos": "se están graduando,están graduándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he graduado",
+    "Tu": "te has graduado",
+    "El": "se ha graduado",
+    "Nosotros": "nos hemos graduado",
+    "Vosotros": "os habéis graduado",
+    "Ellos": "se han graduado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había graduado",
+    "Tu": "te habías graduado",
+    "El": "se había graduado",
+    "Nosotros": "nos habíamos graduado",
+    "Vosotros": "os habíais graduado",
+    "Ellos": "se habían graduado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré graduado",
+    "Tu": "te habrás graduado",
+    "El": "se habrá graduado",
+    "Nosotros": "nos habremos graduado",
+    "Vosotros": "os habréis graduado",
+    "Ellos": "se habrán graduado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría graduado",
+    "Tu": "te habrías graduado",
+    "El": "se habría graduado",
+    "Nosotros": "nos habríamos graduado",
+    "Vosotros": "os habríais graduado",
+    "Ellos": "se habrían graduado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me gradúe",
+    "Tu": "te gradúes",
+    "El": "se gradúe",
+    "Nosotros": "nos graduemos",
+    "Vosotros": "os graduéis",
+    "Ellos": "se gradúen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "gradúate",
+    "El": "gradúese",
+    "Nosotros": "graduémonos",
+    "Vosotros": "graduaos",
+    "Ellos": "gradúense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te gradúes",
+    "El": "no se gradúe",
+    "Nosotros": "no nos graduemos",
+    "Vosotros": "no os graduéis",
+    "Ellos": "no se gradúen"
+  },
+  "ending": "ar"
+}

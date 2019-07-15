@@ -1,0 +1,113 @@
+{
+  "verb": "padecer",
+  "englishInfinitive": "to suffer",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "padezco",
+    "Tu": "padeces",
+    "El": "padece",
+    "Nosotros": "padecemos",
+    "Vosotros": "padecéis",
+    "Ellos": "padecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "padecí",
+    "Tu": "padeciste",
+    "El": "padeció",
+    "Nosotros": "padecimos",
+    "Vosotros": "padecisteis",
+    "Ellos": "padecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "padeceré",
+    "Tu": "padecerás",
+    "El": "padecerá",
+    "Nosotros": "padeceremos",
+    "Vosotros": "padeceréis",
+    "Ellos": "padecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "padecería",
+    "Tu": "padecerías",
+    "El": "padecería",
+    "Nosotros": "padeceríamos",
+    "Vosotros": "padeceríais",
+    "Ellos": "padecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "padecía",
+    "Tu": "padecías",
+    "El": "padecía",
+    "Nosotros": "padecíamos",
+    "Vosotros": "padecíais",
+    "Ellos": "padecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy padeciendo",
+    "Tu": "estás padeciendo",
+    "El": "está padeciendo",
+    "Nosotros": "estamos padeciendo",
+    "Vosotros": "estáis padeciendo",
+    "Ellos": "están padeciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he padecido",
+    "Tu": "has padecido",
+    "El": "ha padecido",
+    "Nosotros": "hemos padecido",
+    "Vosotros": "habéis padecido",
+    "Ellos": "han padecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había padecido",
+    "Tu": "habías padecido",
+    "El": "había padecido",
+    "Nosotros": "habíamos padecido",
+    "Vosotros": "habíais padecido",
+    "Ellos": "habían padecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré padecido",
+    "Tu": "habrás padecido",
+    "El": "habrá padecido",
+    "Nosotros": "habremos padecido",
+    "Vosotros": "habréis padecido",
+    "Ellos": "habrán padecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría padecido",
+    "Tu": "habrías padecido",
+    "El": "habría padecido",
+    "Nosotros": "habríamos padecido",
+    "Vosotros": "habríais padecido",
+    "Ellos": "habrían padecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "padezca",
+    "Tu": "padezcas",
+    "El": "padezca",
+    "Nosotros": "padezcamos",
+    "Vosotros": "padezcáis",
+    "Ellos": "padezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "padece",
+    "El": "padezca",
+    "Nosotros": "padezcamos",
+    "Vosotros": "padeced",
+    "Ellos": "padezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no padezcas",
+    "El": "no padezca",
+    "Nosotros": "no padezcamos",
+    "Vosotros": "no padezcáis",
+    "Ellos": "no padezcan"
+  },
+  "ending": "er"
+}

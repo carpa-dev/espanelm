@@ -1,0 +1,113 @@
+{
+  "verb": "contestar",
+  "englishInfinitive": "to answer",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "contesto",
+    "Tu": "contestas",
+    "El": "contesta",
+    "Nosotros": "contestamos",
+    "Vosotros": "contestáis",
+    "Ellos": "contestan"
+  },
+  "IndicativePreterite": {
+    "Yo": "contesté",
+    "Tu": "contestaste",
+    "El": "contestó",
+    "Nosotros": "contestamos",
+    "Vosotros": "contestasteis",
+    "Ellos": "contestaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "contestaré",
+    "Tu": "contestarás",
+    "El": "contestará",
+    "Nosotros": "contestaremos",
+    "Vosotros": "contestaréis",
+    "Ellos": "contestarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "contestaría",
+    "Tu": "contestarías",
+    "El": "contestaría",
+    "Nosotros": "contestaríamos",
+    "Vosotros": "contestaríais",
+    "Ellos": "contestarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "contestaba",
+    "Tu": "contestabas",
+    "El": "contestaba",
+    "Nosotros": "contestábamos",
+    "Vosotros": "contestabais",
+    "Ellos": "contestaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy contestando",
+    "Tu": "estás contestando",
+    "El": "está contestando",
+    "Nosotros": "estamos contestando",
+    "Vosotros": "estáis contestando",
+    "Ellos": "están contestando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he contestado",
+    "Tu": "has contestado",
+    "El": "ha contestado",
+    "Nosotros": "hemos contestado",
+    "Vosotros": "habéis contestado",
+    "Ellos": "han contestado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había contestado",
+    "Tu": "habías contestado",
+    "El": "había contestado",
+    "Nosotros": "habíamos contestado",
+    "Vosotros": "habíais contestado",
+    "Ellos": "habían contestado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré contestado",
+    "Tu": "habrás contestado",
+    "El": "habrá contestado",
+    "Nosotros": "habremos contestado",
+    "Vosotros": "habréis contestado",
+    "Ellos": "habrán contestado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría contestado",
+    "Tu": "habrías contestado",
+    "El": "habría contestado",
+    "Nosotros": "habríamos contestado",
+    "Vosotros": "habríais contestado",
+    "Ellos": "habrían contestado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "conteste",
+    "Tu": "contestes",
+    "El": "conteste",
+    "Nosotros": "contestemos",
+    "Vosotros": "contestéis",
+    "Ellos": "contesten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "contesta",
+    "El": "conteste",
+    "Nosotros": "contestemos",
+    "Vosotros": "contestad",
+    "Ellos": "contesten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no contestes",
+    "El": "no conteste",
+    "Nosotros": "no contestemos",
+    "Vosotros": "no contestéis",
+    "Ellos": "no contesten"
+  },
+  "ending": "ar"
+}

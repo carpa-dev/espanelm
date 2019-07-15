@@ -1,0 +1,113 @@
+{
+  "verb": "entrevistar",
+  "englishInfinitive": "to interview",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "entrevisto",
+    "Tu": "entrevistas",
+    "El": "entrevista",
+    "Nosotros": "entrevistamos",
+    "Vosotros": "entrevistáis",
+    "Ellos": "entrevistan"
+  },
+  "IndicativePreterite": {
+    "Yo": "entrevisté",
+    "Tu": "entrevistaste",
+    "El": "entrevistó",
+    "Nosotros": "entrevistamos",
+    "Vosotros": "entrevistasteis",
+    "Ellos": "entrevistaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "entrevistaré",
+    "Tu": "entrevistarás",
+    "El": "entrevistará",
+    "Nosotros": "entrevistaremos",
+    "Vosotros": "entrevistaréis",
+    "Ellos": "entrevistarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "entrevistaría",
+    "Tu": "entrevistarías",
+    "El": "entrevistaría",
+    "Nosotros": "entrevistaríamos",
+    "Vosotros": "entrevistaríais",
+    "Ellos": "entrevistarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "entrevistaba",
+    "Tu": "entrevistabas",
+    "El": "entrevistaba",
+    "Nosotros": "entrevistábamos",
+    "Vosotros": "entrevistabais",
+    "Ellos": "entrevistaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy entrevistando",
+    "Tu": "estás entrevistando",
+    "El": "está entrevistando",
+    "Nosotros": "estamos entrevistando",
+    "Vosotros": "estáis entrevistando",
+    "Ellos": "están entrevistando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he entrevistado",
+    "Tu": "has entrevistado",
+    "El": "ha entrevistado",
+    "Nosotros": "hemos entrevistado",
+    "Vosotros": "habéis entrevistado",
+    "Ellos": "han entrevistado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había entrevistado",
+    "Tu": "habías entrevistado",
+    "El": "había entrevistado",
+    "Nosotros": "habíamos entrevistado",
+    "Vosotros": "habíais entrevistado",
+    "Ellos": "habían entrevistado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré entrevistado",
+    "Tu": "habrás entrevistado",
+    "El": "habrá entrevistado",
+    "Nosotros": "habremos entrevistado",
+    "Vosotros": "habréis entrevistado",
+    "Ellos": "habrán entrevistado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría entrevistado",
+    "Tu": "habrías entrevistado",
+    "El": "habría entrevistado",
+    "Nosotros": "habríamos entrevistado",
+    "Vosotros": "habríais entrevistado",
+    "Ellos": "habrían entrevistado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "entreviste",
+    "Tu": "entrevistes",
+    "El": "entreviste",
+    "Nosotros": "entrevistemos",
+    "Vosotros": "entrevistéis",
+    "Ellos": "entrevisten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "entrevista",
+    "El": "entreviste",
+    "Nosotros": "entrevistemos",
+    "Vosotros": "entrevistad",
+    "Ellos": "entrevisten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no entrevistes",
+    "El": "no entreviste",
+    "Nosotros": "no entrevistemos",
+    "Vosotros": "no entrevistéis",
+    "Ellos": "no entrevisten"
+  },
+  "ending": "ar"
+}

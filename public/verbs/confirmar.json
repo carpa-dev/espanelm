@@ -1,0 +1,113 @@
+{
+  "verb": "confirmar",
+  "englishInfinitive": "to confirm",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "confirmo",
+    "Tu": "confirmas",
+    "El": "confirma",
+    "Nosotros": "confirmamos",
+    "Vosotros": "confirmáis",
+    "Ellos": "confirman"
+  },
+  "IndicativePreterite": {
+    "Yo": "confirmé",
+    "Tu": "confirmaste",
+    "El": "confirmó",
+    "Nosotros": "confirmamos",
+    "Vosotros": "confirmasteis",
+    "Ellos": "confirmaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "confirmaré",
+    "Tu": "confirmarás",
+    "El": "confirmará",
+    "Nosotros": "confirmaremos",
+    "Vosotros": "confirmaréis",
+    "Ellos": "confirmarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "confirmaría",
+    "Tu": "confirmarías",
+    "El": "confirmaría",
+    "Nosotros": "confirmaríamos",
+    "Vosotros": "confirmaríais",
+    "Ellos": "confirmarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "confirmaba",
+    "Tu": "confirmabas",
+    "El": "confirmaba",
+    "Nosotros": "confirmábamos",
+    "Vosotros": "confirmabais",
+    "Ellos": "confirmaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy confirmando",
+    "Tu": "estás confirmando",
+    "El": "está confirmando",
+    "Nosotros": "estamos confirmando",
+    "Vosotros": "estáis confirmando",
+    "Ellos": "están confirmando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he confirmado",
+    "Tu": "has confirmado",
+    "El": "ha confirmado",
+    "Nosotros": "hemos confirmado",
+    "Vosotros": "habéis confirmado",
+    "Ellos": "han confirmado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había confirmado",
+    "Tu": "habías confirmado",
+    "El": "había confirmado",
+    "Nosotros": "habíamos confirmado",
+    "Vosotros": "habíais confirmado",
+    "Ellos": "habían confirmado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré confirmado",
+    "Tu": "habrás confirmado",
+    "El": "habrá confirmado",
+    "Nosotros": "habremos confirmado",
+    "Vosotros": "habréis confirmado",
+    "Ellos": "habrán confirmado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría confirmado",
+    "Tu": "habrías confirmado",
+    "El": "habría confirmado",
+    "Nosotros": "habríamos confirmado",
+    "Vosotros": "habríais confirmado",
+    "Ellos": "habrían confirmado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "confirme",
+    "Tu": "confirmes",
+    "El": "confirme",
+    "Nosotros": "confirmemos",
+    "Vosotros": "confirméis",
+    "Ellos": "confirmen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "confirma",
+    "El": "confirme",
+    "Nosotros": "confirmemos",
+    "Vosotros": "confirmad",
+    "Ellos": "confirmen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no confirmes",
+    "El": "no confirme",
+    "Nosotros": "no confirmemos",
+    "Vosotros": "no confirméis",
+    "Ellos": "no confirmen"
+  },
+  "ending": "ar"
+}

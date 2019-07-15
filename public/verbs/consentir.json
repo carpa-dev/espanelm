@@ -1,0 +1,113 @@
+{
+  "verb": "consentir",
+  "englishInfinitive": "to consent to",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "consiento",
+    "Tu": "consientes",
+    "El": "consiente",
+    "Nosotros": "consentimos",
+    "Vosotros": "consentís",
+    "Ellos": "consienten"
+  },
+  "IndicativePreterite": {
+    "Yo": "consentí",
+    "Tu": "consentiste",
+    "El": "consintió",
+    "Nosotros": "consentimos",
+    "Vosotros": "consentisteis",
+    "Ellos": "consintieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "consentiré",
+    "Tu": "consentirás",
+    "El": "consentirá",
+    "Nosotros": "consentiremos",
+    "Vosotros": "consentiréis",
+    "Ellos": "consentirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "consentiría",
+    "Tu": "consentirías",
+    "El": "consentiría",
+    "Nosotros": "consentiríamos",
+    "Vosotros": "consentiríais",
+    "Ellos": "consentirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "consentía",
+    "Tu": "consentías",
+    "El": "consentía",
+    "Nosotros": "consentíamos",
+    "Vosotros": "consentíais",
+    "Ellos": "consentían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy consintiendo",
+    "Tu": "estás consintiendo",
+    "El": "está consintiendo",
+    "Nosotros": "estamos consintiendo",
+    "Vosotros": "estáis consintiendo",
+    "Ellos": "están consintiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he consentido",
+    "Tu": "has consentido",
+    "El": "ha consentido",
+    "Nosotros": "hemos consentido",
+    "Vosotros": "habéis consentido",
+    "Ellos": "han consentido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había consentido",
+    "Tu": "habías consentido",
+    "El": "había consentido",
+    "Nosotros": "habíamos consentido",
+    "Vosotros": "habíais consentido",
+    "Ellos": "habían consentido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré consentido",
+    "Tu": "habrás consentido",
+    "El": "habrá consentido",
+    "Nosotros": "habremos consentido",
+    "Vosotros": "habréis consentido",
+    "Ellos": "habrán consentido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría consentido",
+    "Tu": "habrías consentido",
+    "El": "habría consentido",
+    "Nosotros": "habríamos consentido",
+    "Vosotros": "habríais consentido",
+    "Ellos": "habrían consentido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "consienta",
+    "Tu": "consientas",
+    "El": "consienta",
+    "Nosotros": "consintamos",
+    "Vosotros": "consintáis",
+    "Ellos": "consientan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "consiente",
+    "El": "consienta",
+    "Nosotros": "consintamos",
+    "Vosotros": "consentid",
+    "Ellos": "consientan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no consientas",
+    "El": "no consienta",
+    "Nosotros": "no consintamos",
+    "Vosotros": "no consintáis",
+    "Ellos": "no consientan"
+  },
+  "ending": "ir"
+}

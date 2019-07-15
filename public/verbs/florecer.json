@@ -1,0 +1,113 @@
+{
+  "verb": "florecer",
+  "englishInfinitive": "to flourish",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "florezco",
+    "Tu": "floreces",
+    "El": "florece",
+    "Nosotros": "florecemos",
+    "Vosotros": "florecéis",
+    "Ellos": "florecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "florecí",
+    "Tu": "floreciste",
+    "El": "floreció",
+    "Nosotros": "florecimos",
+    "Vosotros": "florecisteis",
+    "Ellos": "florecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "floreceré",
+    "Tu": "florecerás",
+    "El": "florecerá",
+    "Nosotros": "floreceremos",
+    "Vosotros": "floreceréis",
+    "Ellos": "florecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "florecería",
+    "Tu": "florecerías",
+    "El": "florecería",
+    "Nosotros": "floreceríamos",
+    "Vosotros": "floreceríais",
+    "Ellos": "florecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "florecía",
+    "Tu": "florecías",
+    "El": "florecía",
+    "Nosotros": "florecíamos",
+    "Vosotros": "florecíais",
+    "Ellos": "florecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy floreciendo",
+    "Tu": "estás floreciendo",
+    "El": "está floreciendo",
+    "Nosotros": "estamos floreciendo",
+    "Vosotros": "estáis floreciendo",
+    "Ellos": "están floreciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he florecido",
+    "Tu": "has florecido",
+    "El": "ha florecido",
+    "Nosotros": "hemos florecido",
+    "Vosotros": "habéis florecido",
+    "Ellos": "han florecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había florecido",
+    "Tu": "habías florecido",
+    "El": "había florecido",
+    "Nosotros": "habíamos florecido",
+    "Vosotros": "habíais florecido",
+    "Ellos": "habían florecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré florecido",
+    "Tu": "habrás florecido",
+    "El": "habrá florecido",
+    "Nosotros": "habremos florecido",
+    "Vosotros": "habréis florecido",
+    "Ellos": "habrán florecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría florecido",
+    "Tu": "habrías florecido",
+    "El": "habría florecido",
+    "Nosotros": "habríamos florecido",
+    "Vosotros": "habríais florecido",
+    "Ellos": "habrían florecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "florezca",
+    "Tu": "florezcas",
+    "El": "florezca",
+    "Nosotros": "florezcamos",
+    "Vosotros": "florezcáis",
+    "Ellos": "florezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "florece",
+    "El": "florezca",
+    "Nosotros": "florezcamos",
+    "Vosotros": "floreced",
+    "Ellos": "florezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no florezcas",
+    "El": "no florezca",
+    "Nosotros": "no florezcamos",
+    "Vosotros": "no florezcáis",
+    "Ellos": "no florezcan"
+  },
+  "ending": "er"
+}

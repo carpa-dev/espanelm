@@ -1,0 +1,113 @@
+{
+  "verb": "corregir",
+  "englishInfinitive": "to correct",
+  "irregular": true,
+  "type": "e > i, g > j",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "corrijo",
+    "Tu": "corriges",
+    "El": "corrige",
+    "Nosotros": "corregimos",
+    "Vosotros": "corregís",
+    "Ellos": "corrigen"
+  },
+  "IndicativePreterite": {
+    "Yo": "corregí",
+    "Tu": "corregiste",
+    "El": "corrigió",
+    "Nosotros": "corregimos",
+    "Vosotros": "corregisteis",
+    "Ellos": "corrigieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "corregiré",
+    "Tu": "corregirás",
+    "El": "corregirá",
+    "Nosotros": "corregiremos",
+    "Vosotros": "corregiréis",
+    "Ellos": "corregirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "corregiría",
+    "Tu": "corregirías",
+    "El": "corregiría",
+    "Nosotros": "corregiríamos",
+    "Vosotros": "corregiríais",
+    "Ellos": "corregirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "corregía",
+    "Tu": "corregías",
+    "El": "corregía",
+    "Nosotros": "corregíamos",
+    "Vosotros": "corregíais",
+    "Ellos": "corregían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy corrigiendo",
+    "Tu": "estás corrigiendo",
+    "El": "está corrigiendo",
+    "Nosotros": "estamos corrigiendo",
+    "Vosotros": "estáis corrigiendo",
+    "Ellos": "están corrigiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he corregido",
+    "Tu": "has corregido",
+    "El": "ha corregido",
+    "Nosotros": "hemos corregido",
+    "Vosotros": "habéis corregido",
+    "Ellos": "han corregido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había corregido",
+    "Tu": "habías corregido",
+    "El": "había corregido",
+    "Nosotros": "habíamos corregido",
+    "Vosotros": "habíais corregido",
+    "Ellos": "habían corregido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré corregido",
+    "Tu": "habrás corregido",
+    "El": "habrá corregido",
+    "Nosotros": "habremos corregido",
+    "Vosotros": "habréis corregido",
+    "Ellos": "habrán corregido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría corregido",
+    "Tu": "habrías corregido",
+    "El": "habría corregido",
+    "Nosotros": "habríamos corregido",
+    "Vosotros": "habríais corregido",
+    "Ellos": "habrían corregido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "corrija",
+    "Tu": "corrijas",
+    "El": "corrija",
+    "Nosotros": "corrijamos",
+    "Vosotros": "corrijáis",
+    "Ellos": "corrijan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "corrige",
+    "El": "corrija",
+    "Nosotros": "corrijamos",
+    "Vosotros": "corregid",
+    "Ellos": "corrijan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no corrijas",
+    "El": "no corrija",
+    "Nosotros": "no corrijamos",
+    "Vosotros": "no corrijáis",
+    "Ellos": "no corrijan"
+  },
+  "ending": "ir"
+}

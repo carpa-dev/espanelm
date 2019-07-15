@@ -1,0 +1,113 @@
+{
+  "verb": "escoger",
+  "englishInfinitive": "to choose",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "escojo",
+    "Tu": "escoges",
+    "El": "escoge",
+    "Nosotros": "escogemos",
+    "Vosotros": "escogéis",
+    "Ellos": "escogen"
+  },
+  "IndicativePreterite": {
+    "Yo": "escogí",
+    "Tu": "escogiste",
+    "El": "escogió",
+    "Nosotros": "escogimos",
+    "Vosotros": "escogisteis",
+    "Ellos": "escogieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "escogeré",
+    "Tu": "escogerás",
+    "El": "escogerá",
+    "Nosotros": "escogeremos",
+    "Vosotros": "escogeréis",
+    "Ellos": "escogerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "escogería",
+    "Tu": "escogerías",
+    "El": "escogería",
+    "Nosotros": "escogeríamos",
+    "Vosotros": "escogeríais",
+    "Ellos": "escogerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "escogía",
+    "Tu": "escogías",
+    "El": "escogía",
+    "Nosotros": "escogíamos",
+    "Vosotros": "escogíais",
+    "Ellos": "escogían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy escogiendo",
+    "Tu": "estás escogiendo",
+    "El": "está escogiendo",
+    "Nosotros": "estamos escogiendo",
+    "Vosotros": "estáis escogiendo",
+    "Ellos": "están escogiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he escogido",
+    "Tu": "has escogido",
+    "El": "ha escogido",
+    "Nosotros": "hemos escogido",
+    "Vosotros": "habéis escogido",
+    "Ellos": "han escogido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había escogido",
+    "Tu": "habías escogido",
+    "El": "había escogido",
+    "Nosotros": "habíamos escogido",
+    "Vosotros": "habíais escogido",
+    "Ellos": "habían escogido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré escogido",
+    "Tu": "habrás escogido",
+    "El": "habrá escogido",
+    "Nosotros": "habremos escogido",
+    "Vosotros": "habréis escogido",
+    "Ellos": "habrán escogido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría escogido",
+    "Tu": "habrías escogido",
+    "El": "habría escogido",
+    "Nosotros": "habríamos escogido",
+    "Vosotros": "habríais escogido",
+    "Ellos": "habrían escogido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "escoja",
+    "Tu": "escojas",
+    "El": "escoja",
+    "Nosotros": "escojamos",
+    "Vosotros": "escojáis",
+    "Ellos": "escojan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "escoge",
+    "El": "escoja",
+    "Nosotros": "escojamos",
+    "Vosotros": "escoged",
+    "Ellos": "escojan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no escojas",
+    "El": "no escoja",
+    "Nosotros": "no escojamos",
+    "Vosotros": "no escojáis",
+    "Ellos": "no escojan"
+  },
+  "ending": "er"
+}

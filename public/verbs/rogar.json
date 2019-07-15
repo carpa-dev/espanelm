@@ -1,0 +1,113 @@
+{
+  "verb": "rogar",
+  "englishInfinitive": "to plead",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "ruego",
+    "Tu": "ruegas",
+    "El": "ruega",
+    "Nosotros": "rogamos",
+    "Vosotros": "rogáis",
+    "Ellos": "ruegan"
+  },
+  "IndicativePreterite": {
+    "Yo": "rogué",
+    "Tu": "rogaste",
+    "El": "rogó",
+    "Nosotros": "rogamos",
+    "Vosotros": "rogasteis",
+    "Ellos": "rogaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "rogaré",
+    "Tu": "rogarás",
+    "El": "rogará",
+    "Nosotros": "rogaremos",
+    "Vosotros": "rogaréis",
+    "Ellos": "rogarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "rogaría",
+    "Tu": "rogarías",
+    "El": "rogaría",
+    "Nosotros": "rogaríamos",
+    "Vosotros": "rogaríais",
+    "Ellos": "rogarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "rogaba",
+    "Tu": "rogabas",
+    "El": "rogaba",
+    "Nosotros": "rogábamos",
+    "Vosotros": "rogabais",
+    "Ellos": "rogaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy rogando",
+    "Tu": "estás rogando",
+    "El": "está rogando",
+    "Nosotros": "estamos rogando",
+    "Vosotros": "estáis rogando",
+    "Ellos": "están rogando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he rogado",
+    "Tu": "has rogado",
+    "El": "ha rogado",
+    "Nosotros": "hemos rogado",
+    "Vosotros": "habéis rogado",
+    "Ellos": "han rogado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había rogado",
+    "Tu": "habías rogado",
+    "El": "había rogado",
+    "Nosotros": "habíamos rogado",
+    "Vosotros": "habíais rogado",
+    "Ellos": "habían rogado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré rogado",
+    "Tu": "habrás rogado",
+    "El": "habrá rogado",
+    "Nosotros": "habremos rogado",
+    "Vosotros": "habréis rogado",
+    "Ellos": "habrán rogado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría rogado",
+    "Tu": "habrías rogado",
+    "El": "habría rogado",
+    "Nosotros": "habríamos rogado",
+    "Vosotros": "habríais rogado",
+    "Ellos": "habrían rogado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ruegue",
+    "Tu": "ruegues",
+    "El": "ruegue",
+    "Nosotros": "roguemos",
+    "Vosotros": "roguéis",
+    "Ellos": "rueguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ruega",
+    "El": "ruegue",
+    "Nosotros": "roguemos",
+    "Vosotros": "rogad",
+    "Ellos": "rueguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ruegues",
+    "El": "no ruegue",
+    "Nosotros": "no roguemos",
+    "Vosotros": "no roguéis",
+    "Ellos": "no rueguen"
+  },
+  "ending": "ar"
+}

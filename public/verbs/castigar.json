@@ -1,0 +1,113 @@
+{
+  "verb": "castigar",
+  "englishInfinitive": "to punish",
+  "irregular": true,
+  "type": "g > gu (-gar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "castigo",
+    "Tu": "castigas",
+    "El": "castiga",
+    "Nosotros": "castigamos",
+    "Vosotros": "castigáis",
+    "Ellos": "castigan"
+  },
+  "IndicativePreterite": {
+    "Yo": "castigué",
+    "Tu": "castigaste",
+    "El": "castigó",
+    "Nosotros": "castigamos",
+    "Vosotros": "castigasteis",
+    "Ellos": "castigaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "castigaré",
+    "Tu": "castigarás",
+    "El": "castigará",
+    "Nosotros": "castigaremos",
+    "Vosotros": "castigaréis",
+    "Ellos": "castigarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "castigaría",
+    "Tu": "castigarías",
+    "El": "castigaría",
+    "Nosotros": "castigaríamos",
+    "Vosotros": "castigaríais",
+    "Ellos": "castigarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "castigaba",
+    "Tu": "castigabas",
+    "El": "castigaba",
+    "Nosotros": "castigábamos",
+    "Vosotros": "castigabais",
+    "Ellos": "castigaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy castigando",
+    "Tu": "estás castigando",
+    "El": "está castigando",
+    "Nosotros": "estamos castigando",
+    "Vosotros": "estáis castigando",
+    "Ellos": "están castigando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he castigado",
+    "Tu": "has castigado",
+    "El": "ha castigado",
+    "Nosotros": "hemos castigado",
+    "Vosotros": "habéis castigado",
+    "Ellos": "han castigado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había castigado",
+    "Tu": "habías castigado",
+    "El": "había castigado",
+    "Nosotros": "habíamos castigado",
+    "Vosotros": "habíais castigado",
+    "Ellos": "habían castigado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré castigado",
+    "Tu": "habrás castigado",
+    "El": "habrá castigado",
+    "Nosotros": "habremos castigado",
+    "Vosotros": "habréis castigado",
+    "Ellos": "habrán castigado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría castigado",
+    "Tu": "habrías castigado",
+    "El": "habría castigado",
+    "Nosotros": "habríamos castigado",
+    "Vosotros": "habríais castigado",
+    "Ellos": "habrían castigado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "castigue",
+    "Tu": "castigues",
+    "El": "castigue",
+    "Nosotros": "castiguemos",
+    "Vosotros": "castiguéis",
+    "Ellos": "castiguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "castiga",
+    "El": "castigue",
+    "Nosotros": "castiguemos",
+    "Vosotros": "castigad",
+    "Ellos": "castiguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no castigues",
+    "El": "no castigue",
+    "Nosotros": "no castiguemos",
+    "Vosotros": "no castiguéis",
+    "Ellos": "no castiguen"
+  },
+  "ending": "ar"
+}

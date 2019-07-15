@@ -1,0 +1,113 @@
+{
+  "verb": "incluir",
+  "englishInfinitive": "to include",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "incluyo",
+    "Tu": "incluyes",
+    "El": "incluye",
+    "Nosotros": "incluimos",
+    "Vosotros": "incluís",
+    "Ellos": "incluyen"
+  },
+  "IndicativePreterite": {
+    "Yo": "incluí",
+    "Tu": "incluiste",
+    "El": "incluyó",
+    "Nosotros": "incluimos",
+    "Vosotros": "incluisteis",
+    "Ellos": "incluyeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "incluiré",
+    "Tu": "incluirás",
+    "El": "incluirá",
+    "Nosotros": "incluiremos",
+    "Vosotros": "incluiréis",
+    "Ellos": "incluirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "incluiría",
+    "Tu": "incluirías",
+    "El": "incluiría",
+    "Nosotros": "incluiríamos",
+    "Vosotros": "incluiríais",
+    "Ellos": "incluirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "incluía",
+    "Tu": "incluías",
+    "El": "incluía",
+    "Nosotros": "incluíamos",
+    "Vosotros": "incluíais",
+    "Ellos": "incluían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy incluyendo",
+    "Tu": "estás incluyendo",
+    "El": "está incluyendo",
+    "Nosotros": "estamos incluyendo",
+    "Vosotros": "estáis incluyendo",
+    "Ellos": "están incluyendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he incluido",
+    "Tu": "has incluido",
+    "El": "ha incluido",
+    "Nosotros": "hemos incluido",
+    "Vosotros": "habéis incluido",
+    "Ellos": "han incluido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había incluido",
+    "Tu": "habías incluido",
+    "El": "había incluido",
+    "Nosotros": "habíamos incluido",
+    "Vosotros": "habíais incluido",
+    "Ellos": "habían incluido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré incluido",
+    "Tu": "habrás incluido",
+    "El": "habrá incluido",
+    "Nosotros": "habremos incluido",
+    "Vosotros": "habréis incluido",
+    "Ellos": "habrán incluido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría incluido",
+    "Tu": "habrías incluido",
+    "El": "habría incluido",
+    "Nosotros": "habríamos incluido",
+    "Vosotros": "habríais incluido",
+    "Ellos": "habrían incluido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "incluya",
+    "Tu": "incluyas",
+    "El": "incluya",
+    "Nosotros": "incluyamos",
+    "Vosotros": "incluyáis",
+    "Ellos": "incluyan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "incluye",
+    "El": "incluya",
+    "Nosotros": "incluyamos",
+    "Vosotros": "incluid",
+    "Ellos": "incluyan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no incluyas",
+    "El": "no incluya",
+    "Nosotros": "no incluyamos",
+    "Vosotros": "no incluyáis",
+    "Ellos": "no incluyan"
+  },
+  "ending": "ir"
+}

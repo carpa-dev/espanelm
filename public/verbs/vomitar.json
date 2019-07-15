@@ -1,0 +1,113 @@
+{
+  "verb": "vomitar",
+  "englishInfinitive": "to vomit",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "vomito",
+    "Tu": "vomitas",
+    "El": "vomita",
+    "Nosotros": "vomitamos",
+    "Vosotros": "vomitáis",
+    "Ellos": "vomitan"
+  },
+  "IndicativePreterite": {
+    "Yo": "vomité",
+    "Tu": "vomitaste",
+    "El": "vomitó",
+    "Nosotros": "vomitamos",
+    "Vosotros": "vomitasteis",
+    "Ellos": "vomitaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "vomitaré",
+    "Tu": "vomitarás",
+    "El": "vomitará",
+    "Nosotros": "vomitaremos",
+    "Vosotros": "vomitaréis",
+    "Ellos": "vomitarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "vomitaría",
+    "Tu": "vomitarías",
+    "El": "vomitaría",
+    "Nosotros": "vomitaríamos",
+    "Vosotros": "vomitaríais",
+    "Ellos": "vomitarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "vomitaba",
+    "Tu": "vomitabas",
+    "El": "vomitaba",
+    "Nosotros": "vomitábamos",
+    "Vosotros": "vomitabais",
+    "Ellos": "vomitaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy vomitando",
+    "Tu": "estás vomitando",
+    "El": "está vomitando",
+    "Nosotros": "estamos vomitando",
+    "Vosotros": "estáis vomitando",
+    "Ellos": "están vomitando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he vomitado",
+    "Tu": "has vomitado",
+    "El": "ha vomitado",
+    "Nosotros": "hemos vomitado",
+    "Vosotros": "habéis vomitado",
+    "Ellos": "han vomitado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había vomitado",
+    "Tu": "habías vomitado",
+    "El": "había vomitado",
+    "Nosotros": "habíamos vomitado",
+    "Vosotros": "habíais vomitado",
+    "Ellos": "habían vomitado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré vomitado",
+    "Tu": "habrás vomitado",
+    "El": "habrá vomitado",
+    "Nosotros": "habremos vomitado",
+    "Vosotros": "habréis vomitado",
+    "Ellos": "habrán vomitado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría vomitado",
+    "Tu": "habrías vomitado",
+    "El": "habría vomitado",
+    "Nosotros": "habríamos vomitado",
+    "Vosotros": "habríais vomitado",
+    "Ellos": "habrían vomitado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "vomite",
+    "Tu": "vomites",
+    "El": "vomite",
+    "Nosotros": "vomitemos",
+    "Vosotros": "vomitéis",
+    "Ellos": "vomiten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "vomita",
+    "El": "vomite",
+    "Nosotros": "vomitemos",
+    "Vosotros": "vomitad",
+    "Ellos": "vomiten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no vomites",
+    "El": "no vomite",
+    "Nosotros": "no vomitemos",
+    "Vosotros": "no vomitéis",
+    "Ellos": "no vomiten"
+  },
+  "ending": "ar"
+}

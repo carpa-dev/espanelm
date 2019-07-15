@@ -1,0 +1,113 @@
+{
+  "verb": "colonizar",
+  "englishInfinitive": "to colonize",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "colonizo",
+    "Tu": "colonizas",
+    "El": "coloniza",
+    "Nosotros": "colonizamos",
+    "Vosotros": "colonizáis",
+    "Ellos": "colonizan"
+  },
+  "IndicativePreterite": {
+    "Yo": "colonicé",
+    "Tu": "colonizaste",
+    "El": "colonizó",
+    "Nosotros": "colonizamos",
+    "Vosotros": "colonizasteis",
+    "Ellos": "colonizaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "colonizaré",
+    "Tu": "colonizarás",
+    "El": "colonizará",
+    "Nosotros": "colonizaremos",
+    "Vosotros": "colonizaréis",
+    "Ellos": "colonizarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "colonizaría",
+    "Tu": "colonizarías",
+    "El": "colonizaría",
+    "Nosotros": "colonizaríamos",
+    "Vosotros": "colonizaríais",
+    "Ellos": "colonizarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "colonizaba",
+    "Tu": "colonizabas",
+    "El": "colonizaba",
+    "Nosotros": "colonizábamos",
+    "Vosotros": "colonizabais",
+    "Ellos": "colonizaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy colonizando",
+    "Tu": "estás colonizando",
+    "El": "está colonizando",
+    "Nosotros": "estamos colonizando",
+    "Vosotros": "estáis colonizando",
+    "Ellos": "están colonizando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he colonizado",
+    "Tu": "has colonizado",
+    "El": "ha colonizado",
+    "Nosotros": "hemos colonizado",
+    "Vosotros": "habéis colonizado",
+    "Ellos": "han colonizado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había colonizado",
+    "Tu": "habías colonizado",
+    "El": "había colonizado",
+    "Nosotros": "habíamos colonizado",
+    "Vosotros": "habíais colonizado",
+    "Ellos": "habían colonizado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré colonizado",
+    "Tu": "habrás colonizado",
+    "El": "habrá colonizado",
+    "Nosotros": "habremos colonizado",
+    "Vosotros": "habréis colonizado",
+    "Ellos": "habrán colonizado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría colonizado",
+    "Tu": "habrías colonizado",
+    "El": "habría colonizado",
+    "Nosotros": "habríamos colonizado",
+    "Vosotros": "habríais colonizado",
+    "Ellos": "habrían colonizado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "colonice",
+    "Tu": "colonices",
+    "El": "colonice",
+    "Nosotros": "colonicemos",
+    "Vosotros": "colonicéis",
+    "Ellos": "colonicen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "coloniza",
+    "El": "colonice",
+    "Nosotros": "colonicemos",
+    "Vosotros": "colonizad",
+    "Ellos": "colonicen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no colonices",
+    "El": "no colonice",
+    "Nosotros": "no colonicemos",
+    "Vosotros": "no colonicéis",
+    "Ellos": "no colonicen"
+  },
+  "ending": "ar"
+}

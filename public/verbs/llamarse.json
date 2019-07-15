@@ -1,0 +1,113 @@
+{
+  "verb": "llamarse",
+  "englishInfinitive": "to be called",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me llamo",
+    "Tu": "te llamas",
+    "El": "se llama",
+    "Nosotros": "nos llamamos",
+    "Vosotros": "os llamáis",
+    "Ellos": "se llaman"
+  },
+  "IndicativePreterite": {
+    "Yo": "me llamé",
+    "Tu": "te llamaste",
+    "El": "se llamó",
+    "Nosotros": "nos llamamos",
+    "Vosotros": "os llamasteis",
+    "Ellos": "se llamaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me llamaré",
+    "Tu": "te llamarás",
+    "El": "se llamará",
+    "Nosotros": "nos llamaremos",
+    "Vosotros": "os llamaréis",
+    "Ellos": "se llamarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me llamaría",
+    "Tu": "te llamarías",
+    "El": "se llamaría",
+    "Nosotros": "nos llamaríamos",
+    "Vosotros": "os llamaríais",
+    "Ellos": "se llamarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me llamaba",
+    "Tu": "te llamabas",
+    "El": "se llamaba",
+    "Nosotros": "nos llamábamos",
+    "Vosotros": "os llamabais",
+    "Ellos": "se llamaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy llamando,estoy llamándome",
+    "Tu": "te estás llamando,estás llamándote",
+    "El": "se está llamando,está llamándose",
+    "Nosotros": "nos estamos llamando,estamos llamándonos",
+    "Vosotros": "os estáis llamando,estáis llamándoos",
+    "Ellos": "se están llamando,están llamándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he llamado",
+    "Tu": "te has llamado",
+    "El": "se ha llamado",
+    "Nosotros": "nos hemos llamado",
+    "Vosotros": "os habéis llamado",
+    "Ellos": "se han llamado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había llamado",
+    "Tu": "te habías llamado",
+    "El": "se había llamado",
+    "Nosotros": "nos habíamos llamado",
+    "Vosotros": "os habíais llamado",
+    "Ellos": "se habían llamado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré llamado",
+    "Tu": "te habrás llamado",
+    "El": "se habrá llamado",
+    "Nosotros": "nos habremos llamado",
+    "Vosotros": "os habréis llamado",
+    "Ellos": "se habrán llamado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría llamado",
+    "Tu": "te habrías llamado",
+    "El": "se habría llamado",
+    "Nosotros": "nos habríamos llamado",
+    "Vosotros": "os habríais llamado",
+    "Ellos": "se habrían llamado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me llame",
+    "Tu": "te llames",
+    "El": "se llame",
+    "Nosotros": "nos llamemos",
+    "Vosotros": "os llaméis",
+    "Ellos": "se llamen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "llámate",
+    "El": "llámese",
+    "Nosotros": "llamémonos",
+    "Vosotros": "llamaos",
+    "Ellos": "llámense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te llames",
+    "El": "no se llame",
+    "Nosotros": "no nos llamemos",
+    "Vosotros": "no os llaméis",
+    "Ellos": "no se llamen"
+  },
+  "ending": "ar"
+}

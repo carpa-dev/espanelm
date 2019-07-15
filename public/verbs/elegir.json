@@ -1,0 +1,113 @@
+{
+  "verb": "elegir",
+  "englishInfinitive": "to elect",
+  "irregular": true,
+  "type": "e > i, g > j",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "elijo",
+    "Tu": "eliges",
+    "El": "elige",
+    "Nosotros": "elegimos",
+    "Vosotros": "elegís",
+    "Ellos": "eligen"
+  },
+  "IndicativePreterite": {
+    "Yo": "elegí",
+    "Tu": "elegiste",
+    "El": "eligió",
+    "Nosotros": "elegimos",
+    "Vosotros": "elegisteis",
+    "Ellos": "eligieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "elegiré",
+    "Tu": "elegirás",
+    "El": "elegirá",
+    "Nosotros": "elegiremos",
+    "Vosotros": "elegiréis",
+    "Ellos": "elegirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "elegiría",
+    "Tu": "elegirías",
+    "El": "elegiría",
+    "Nosotros": "elegiríamos",
+    "Vosotros": "elegiríais",
+    "Ellos": "elegirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "elegía",
+    "Tu": "elegías",
+    "El": "elegía",
+    "Nosotros": "elegíamos",
+    "Vosotros": "elegíais",
+    "Ellos": "elegían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy eligiendo",
+    "Tu": "estás eligiendo",
+    "El": "está eligiendo",
+    "Nosotros": "estamos eligiendo",
+    "Vosotros": "estáis eligiendo",
+    "Ellos": "están eligiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he elegido",
+    "Tu": "has elegido",
+    "El": "ha elegido",
+    "Nosotros": "hemos elegido",
+    "Vosotros": "habéis elegido",
+    "Ellos": "han elegido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había elegido",
+    "Tu": "habías elegido",
+    "El": "había elegido",
+    "Nosotros": "habíamos elegido",
+    "Vosotros": "habíais elegido",
+    "Ellos": "habían elegido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré elegido",
+    "Tu": "habrás elegido",
+    "El": "habrá elegido",
+    "Nosotros": "habremos elegido",
+    "Vosotros": "habréis elegido",
+    "Ellos": "habrán elegido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría elegido",
+    "Tu": "habrías elegido",
+    "El": "habría elegido",
+    "Nosotros": "habríamos elegido",
+    "Vosotros": "habríais elegido",
+    "Ellos": "habrían elegido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "elija",
+    "Tu": "elijas",
+    "El": "elija",
+    "Nosotros": "elijamos",
+    "Vosotros": "elijáis",
+    "Ellos": "elijan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "elige",
+    "El": "elija",
+    "Nosotros": "elijamos",
+    "Vosotros": "elegid",
+    "Ellos": "elijan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no elijas",
+    "El": "no elija",
+    "Nosotros": "no elijamos",
+    "Vosotros": "no elijáis",
+    "Ellos": "no elijan"
+  },
+  "ending": "ir"
+}

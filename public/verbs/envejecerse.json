@@ -1,0 +1,113 @@
+{
+  "verb": "envejecerse",
+  "englishInfinitive": "to get old",
+  "irregular": true,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me envejezco",
+    "Tu": "te envejeces",
+    "El": "se envejece",
+    "Nosotros": "nos envejecemos",
+    "Vosotros": "os envejecéis",
+    "Ellos": "se envejecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "me envejecí",
+    "Tu": "te envejeciste",
+    "El": "se envejeció",
+    "Nosotros": "nos envejecimos",
+    "Vosotros": "os envejecisteis",
+    "Ellos": "se envejecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me envejeceré",
+    "Tu": "te envejecerás",
+    "El": "se envejecerá",
+    "Nosotros": "nos envejeceremos",
+    "Vosotros": "os envejeceréis",
+    "Ellos": "se envejecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me envejecería",
+    "Tu": "te envejecerías",
+    "El": "se envejecería",
+    "Nosotros": "nos envejeceríamos",
+    "Vosotros": "os envejeceríais",
+    "Ellos": "se envejecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me envejecía",
+    "Tu": "te envejecías",
+    "El": "se envejecía",
+    "Nosotros": "nos envejecíamos",
+    "Vosotros": "os envejecíais",
+    "Ellos": "se envejecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy envejeciendo,estoy envejeciéndome",
+    "Tu": "te estás envejeciendo,estás envejeciéndote",
+    "El": "se está envejeciendo,está envejeciéndose",
+    "Nosotros": "nos estamos envejeciendo,estamos envejeciéndonos",
+    "Vosotros": "os estáis envejeciendo,estáis envejeciéndoos",
+    "Ellos": "se están envejeciendo,están envejeciéndose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he envejecido",
+    "Tu": "te has envejecido",
+    "El": "se ha envejecido",
+    "Nosotros": "nos hemos envejecido",
+    "Vosotros": "os habéis envejecido",
+    "Ellos": "se han envejecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había envejecido",
+    "Tu": "te habías envejecido",
+    "El": "se había envejecido",
+    "Nosotros": "nos habíamos envejecido",
+    "Vosotros": "os habíais envejecido",
+    "Ellos": "se habían envejecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré envejecido",
+    "Tu": "te habrás envejecido",
+    "El": "se habrá envejecido",
+    "Nosotros": "nos habremos envejecido",
+    "Vosotros": "os habréis envejecido",
+    "Ellos": "se habrán envejecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría envejecido",
+    "Tu": "te habrías envejecido",
+    "El": "se habría envejecido",
+    "Nosotros": "nos habríamos envejecido",
+    "Vosotros": "os habríais envejecido",
+    "Ellos": "se habrían envejecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me envejezca",
+    "Tu": "te envejezcas",
+    "El": "se envejezca",
+    "Nosotros": "nos envejezcamos",
+    "Vosotros": "os envejezcáis",
+    "Ellos": "se envejezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "envejécete",
+    "El": "envejézcase",
+    "Nosotros": "envejezcámonos",
+    "Vosotros": "envejeceos",
+    "Ellos": "envejézcanse"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te envejezcas",
+    "El": "no se envejezca",
+    "Nosotros": "no nos envejezcamos",
+    "Vosotros": "no os envejezcáis",
+    "Ellos": "no se envejezcan"
+  },
+  "ending": "er"
+}

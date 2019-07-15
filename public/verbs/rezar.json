@@ -1,0 +1,113 @@
+{
+  "verb": "rezar",
+  "englishInfinitive": "to pray",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "rezo",
+    "Tu": "rezas",
+    "El": "reza",
+    "Nosotros": "rezamos",
+    "Vosotros": "rezáis",
+    "Ellos": "rezan"
+  },
+  "IndicativePreterite": {
+    "Yo": "recé",
+    "Tu": "rezaste",
+    "El": "rezó",
+    "Nosotros": "rezamos",
+    "Vosotros": "rezasteis",
+    "Ellos": "rezaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "rezaré",
+    "Tu": "rezarás",
+    "El": "rezará",
+    "Nosotros": "rezaremos",
+    "Vosotros": "rezaréis",
+    "Ellos": "rezarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "rezaría",
+    "Tu": "rezarías",
+    "El": "rezaría",
+    "Nosotros": "rezaríamos",
+    "Vosotros": "rezaríais",
+    "Ellos": "rezarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "rezaba",
+    "Tu": "rezabas",
+    "El": "rezaba",
+    "Nosotros": "rezábamos",
+    "Vosotros": "rezabais",
+    "Ellos": "rezaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy rezando",
+    "Tu": "estás rezando",
+    "El": "está rezando",
+    "Nosotros": "estamos rezando",
+    "Vosotros": "estáis rezando",
+    "Ellos": "están rezando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he rezado",
+    "Tu": "has rezado",
+    "El": "ha rezado",
+    "Nosotros": "hemos rezado",
+    "Vosotros": "habéis rezado",
+    "Ellos": "han rezado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había rezado",
+    "Tu": "habías rezado",
+    "El": "había rezado",
+    "Nosotros": "habíamos rezado",
+    "Vosotros": "habíais rezado",
+    "Ellos": "habían rezado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré rezado",
+    "Tu": "habrás rezado",
+    "El": "habrá rezado",
+    "Nosotros": "habremos rezado",
+    "Vosotros": "habréis rezado",
+    "Ellos": "habrán rezado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría rezado",
+    "Tu": "habrías rezado",
+    "El": "habría rezado",
+    "Nosotros": "habríamos rezado",
+    "Vosotros": "habríais rezado",
+    "Ellos": "habrían rezado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "rece",
+    "Tu": "reces",
+    "El": "rece",
+    "Nosotros": "recemos",
+    "Vosotros": "recéis",
+    "Ellos": "recen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "reza",
+    "El": "rece",
+    "Nosotros": "recemos",
+    "Vosotros": "rezad",
+    "Ellos": "recen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no reces",
+    "El": "no rece",
+    "Nosotros": "no recemos",
+    "Vosotros": "no recéis",
+    "Ellos": "no recen"
+  },
+  "ending": "ar"
+}

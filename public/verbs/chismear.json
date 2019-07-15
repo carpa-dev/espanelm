@@ -1,0 +1,113 @@
+{
+  "verb": "chismear",
+  "englishInfinitive": "to gossip",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "chismeo",
+    "Tu": "chismeas",
+    "El": "chismea",
+    "Nosotros": "chismeamos",
+    "Vosotros": "chismeáis",
+    "Ellos": "chismean"
+  },
+  "IndicativePreterite": {
+    "Yo": "chismeé",
+    "Tu": "chismeaste",
+    "El": "chismeó",
+    "Nosotros": "chismeamos",
+    "Vosotros": "chismeasteis",
+    "Ellos": "chismearon"
+  },
+  "IndicativeFuture": {
+    "Yo": "chismearé",
+    "Tu": "chismearás",
+    "El": "chismeará",
+    "Nosotros": "chismearemos",
+    "Vosotros": "chismearéis",
+    "Ellos": "chismearán"
+  },
+  "ConditionalPresent": {
+    "Yo": "chismearía",
+    "Tu": "chismearías",
+    "El": "chismearía",
+    "Nosotros": "chismearíamos",
+    "Vosotros": "chismearíais",
+    "Ellos": "chismearían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "chismeaba",
+    "Tu": "chismeabas",
+    "El": "chismeaba",
+    "Nosotros": "chismeábamos",
+    "Vosotros": "chismeabais",
+    "Ellos": "chismeaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy chismeando",
+    "Tu": "estás chismeando",
+    "El": "está chismeando",
+    "Nosotros": "estamos chismeando",
+    "Vosotros": "estáis chismeando",
+    "Ellos": "están chismeando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he chismeado",
+    "Tu": "has chismeado",
+    "El": "ha chismeado",
+    "Nosotros": "hemos chismeado",
+    "Vosotros": "habéis chismeado",
+    "Ellos": "han chismeado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había chismeado",
+    "Tu": "habías chismeado",
+    "El": "había chismeado",
+    "Nosotros": "habíamos chismeado",
+    "Vosotros": "habíais chismeado",
+    "Ellos": "habían chismeado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré chismeado",
+    "Tu": "habrás chismeado",
+    "El": "habrá chismeado",
+    "Nosotros": "habremos chismeado",
+    "Vosotros": "habréis chismeado",
+    "Ellos": "habrán chismeado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría chismeado",
+    "Tu": "habrías chismeado",
+    "El": "habría chismeado",
+    "Nosotros": "habríamos chismeado",
+    "Vosotros": "habríais chismeado",
+    "Ellos": "habrían chismeado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "chismee",
+    "Tu": "chismees",
+    "El": "chismee",
+    "Nosotros": "chismeemos",
+    "Vosotros": "chismeéis",
+    "Ellos": "chismeen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "chismea",
+    "El": "chismee",
+    "Nosotros": "chismeemos",
+    "Vosotros": "chismead",
+    "Ellos": "chismeen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no chismees",
+    "El": "no chismee",
+    "Nosotros": "no chismeemos",
+    "Vosotros": "no chismeéis",
+    "Ellos": "no chismeen"
+  },
+  "ending": "ar"
+}

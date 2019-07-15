@@ -1,0 +1,113 @@
+{
+  "verb": "brillar",
+  "englishInfinitive": "to shine",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "brillo",
+    "Tu": "brillas",
+    "El": "brilla",
+    "Nosotros": "brillamos",
+    "Vosotros": "brilláis",
+    "Ellos": "brillan"
+  },
+  "IndicativePreterite": {
+    "Yo": "brillé",
+    "Tu": "brillaste",
+    "El": "brilló",
+    "Nosotros": "brillamos",
+    "Vosotros": "brillasteis",
+    "Ellos": "brillaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "brillaré",
+    "Tu": "brillarás",
+    "El": "brillará",
+    "Nosotros": "brillaremos",
+    "Vosotros": "brillaréis",
+    "Ellos": "brillarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "brillaría",
+    "Tu": "brillarías",
+    "El": "brillaría",
+    "Nosotros": "brillaríamos",
+    "Vosotros": "brillaríais",
+    "Ellos": "brillarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "brillaba",
+    "Tu": "brillabas",
+    "El": "brillaba",
+    "Nosotros": "brillábamos",
+    "Vosotros": "brillabais",
+    "Ellos": "brillaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy brillando",
+    "Tu": "estás brillando",
+    "El": "está brillando",
+    "Nosotros": "estamos brillando",
+    "Vosotros": "estáis brillando",
+    "Ellos": "están brillando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he brillado",
+    "Tu": "has brillado",
+    "El": "ha brillado",
+    "Nosotros": "hemos brillado",
+    "Vosotros": "habéis brillado",
+    "Ellos": "han brillado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había brillado",
+    "Tu": "habías brillado",
+    "El": "había brillado",
+    "Nosotros": "habíamos brillado",
+    "Vosotros": "habíais brillado",
+    "Ellos": "habían brillado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré brillado",
+    "Tu": "habrás brillado",
+    "El": "habrá brillado",
+    "Nosotros": "habremos brillado",
+    "Vosotros": "habréis brillado",
+    "Ellos": "habrán brillado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría brillado",
+    "Tu": "habrías brillado",
+    "El": "habría brillado",
+    "Nosotros": "habríamos brillado",
+    "Vosotros": "habríais brillado",
+    "Ellos": "habrían brillado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "brille",
+    "Tu": "brilles",
+    "El": "brille",
+    "Nosotros": "brillemos",
+    "Vosotros": "brilléis",
+    "Ellos": "brillen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "brilla",
+    "El": "brille",
+    "Nosotros": "brillemos",
+    "Vosotros": "brillad",
+    "Ellos": "brillen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no brilles",
+    "El": "no brille",
+    "Nosotros": "no brillemos",
+    "Vosotros": "no brilléis",
+    "Ellos": "no brillen"
+  },
+  "ending": "ar"
+}

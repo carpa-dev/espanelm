@@ -1,0 +1,113 @@
+{
+  "verb": "platicar",
+  "englishInfinitive": "to chat",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "platico",
+    "Tu": "platicas",
+    "El": "platica",
+    "Nosotros": "platicamos",
+    "Vosotros": "platicáis",
+    "Ellos": "platican"
+  },
+  "IndicativePreterite": {
+    "Yo": "platiqué",
+    "Tu": "platicaste",
+    "El": "platicó",
+    "Nosotros": "platicamos",
+    "Vosotros": "platicasteis",
+    "Ellos": "platicaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "platicaré",
+    "Tu": "platicarás",
+    "El": "platicará",
+    "Nosotros": "platicaremos",
+    "Vosotros": "platicaréis",
+    "Ellos": "platicarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "platicaría",
+    "Tu": "platicarías",
+    "El": "platicaría",
+    "Nosotros": "platicaríamos",
+    "Vosotros": "platicaríais",
+    "Ellos": "platicarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "platicaba",
+    "Tu": "platicabas",
+    "El": "platicaba",
+    "Nosotros": "platicábamos",
+    "Vosotros": "platicabais",
+    "Ellos": "platicaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy platicando",
+    "Tu": "estás platicando",
+    "El": "está platicando",
+    "Nosotros": "estamos platicando",
+    "Vosotros": "estáis platicando",
+    "Ellos": "están platicando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he platicado",
+    "Tu": "has platicado",
+    "El": "ha platicado",
+    "Nosotros": "hemos platicado",
+    "Vosotros": "habéis platicado",
+    "Ellos": "han platicado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había platicado",
+    "Tu": "habías platicado",
+    "El": "había platicado",
+    "Nosotros": "habíamos platicado",
+    "Vosotros": "habíais platicado",
+    "Ellos": "habían platicado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré platicado",
+    "Tu": "habrás platicado",
+    "El": "habrá platicado",
+    "Nosotros": "habremos platicado",
+    "Vosotros": "habréis platicado",
+    "Ellos": "habrán platicado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría platicado",
+    "Tu": "habrías platicado",
+    "El": "habría platicado",
+    "Nosotros": "habríamos platicado",
+    "Vosotros": "habríais platicado",
+    "Ellos": "habrían platicado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "platique",
+    "Tu": "platiques",
+    "El": "platique",
+    "Nosotros": "platiquemos",
+    "Vosotros": "platiquéis",
+    "Ellos": "platiquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "platica",
+    "El": "platique",
+    "Nosotros": "platiquemos",
+    "Vosotros": "platicad",
+    "Ellos": "platiquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no platiques",
+    "El": "no platique",
+    "Nosotros": "no platiquemos",
+    "Vosotros": "no platiquéis",
+    "Ellos": "no platiquen"
+  },
+  "ending": "ar"
+}

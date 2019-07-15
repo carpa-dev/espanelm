@@ -1,0 +1,113 @@
+{
+  "verb": "bendecir",
+  "englishInfinitive": "to bless",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "bendigo",
+    "Tu": "bendices",
+    "El": "bendice",
+    "Nosotros": "bendecimos",
+    "Vosotros": "bendecís",
+    "Ellos": "bendicen"
+  },
+  "IndicativePreterite": {
+    "Yo": "bendije",
+    "Tu": "bendijiste",
+    "El": "bendijo",
+    "Nosotros": "bendijimos",
+    "Vosotros": "bendijisteis",
+    "Ellos": "bendijeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "bendeciré",
+    "Tu": "bendecirás",
+    "El": "bendecirá",
+    "Nosotros": "bendeciremos",
+    "Vosotros": "bendeciréis",
+    "Ellos": "bendecirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "bendeciría",
+    "Tu": "bendecirías",
+    "El": "bendeciría",
+    "Nosotros": "bendeciríamos",
+    "Vosotros": "bendeciríais",
+    "Ellos": "bendecirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "bendecía",
+    "Tu": "bendecías",
+    "El": "bendecía",
+    "Nosotros": "bendecíamos",
+    "Vosotros": "bendecíais",
+    "Ellos": "bendecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy bendiciendo",
+    "Tu": "estás bendiciendo",
+    "El": "está bendiciendo",
+    "Nosotros": "estamos bendiciendo",
+    "Vosotros": "estáis bendiciendo",
+    "Ellos": "están bendiciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he bendecido",
+    "Tu": "has bendecido",
+    "El": "ha bendecido",
+    "Nosotros": "hemos bendecido",
+    "Vosotros": "habéis bendecido",
+    "Ellos": "han bendecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había bendecido",
+    "Tu": "habías bendecido",
+    "El": "había bendecido",
+    "Nosotros": "habíamos bendecido",
+    "Vosotros": "habíais bendecido",
+    "Ellos": "habían bendecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré bendecido",
+    "Tu": "habrás bendecido",
+    "El": "habrá bendecido",
+    "Nosotros": "habremos bendecido",
+    "Vosotros": "habréis bendecido",
+    "Ellos": "habrán bendecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría bendecido",
+    "Tu": "habrías bendecido",
+    "El": "habría bendecido",
+    "Nosotros": "habríamos bendecido",
+    "Vosotros": "habríais bendecido",
+    "Ellos": "habrían bendecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "bendiga",
+    "Tu": "bendigas",
+    "El": "bendiga",
+    "Nosotros": "bendigamos",
+    "Vosotros": "bendigáis",
+    "Ellos": "bendigan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "bendice",
+    "El": "bendiga",
+    "Nosotros": "bendigamos",
+    "Vosotros": "bendecid",
+    "Ellos": "bendigan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no bendigas",
+    "El": "no bendiga",
+    "Nosotros": "no bendigamos",
+    "Vosotros": "no bendigáis",
+    "Ellos": "no bendigan"
+  },
+  "ending": "ir"
+}

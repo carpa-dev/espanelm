@@ -1,0 +1,113 @@
+{
+  "verb": "apagar",
+  "englishInfinitive": "to extinguish",
+  "irregular": true,
+  "type": "g > gu (-gar)",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "apago",
+    "Tu": "apagas",
+    "El": "apaga",
+    "Nosotros": "apagamos",
+    "Vosotros": "apagáis",
+    "Ellos": "apagan"
+  },
+  "IndicativePreterite": {
+    "Yo": "apagué",
+    "Tu": "apagaste",
+    "El": "apagó",
+    "Nosotros": "apagamos",
+    "Vosotros": "apagasteis",
+    "Ellos": "apagaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "apagaré",
+    "Tu": "apagarás",
+    "El": "apagará",
+    "Nosotros": "apagaremos",
+    "Vosotros": "apagaréis",
+    "Ellos": "apagarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "apagaría",
+    "Tu": "apagarías",
+    "El": "apagaría",
+    "Nosotros": "apagaríamos",
+    "Vosotros": "apagaríais",
+    "Ellos": "apagarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "apagaba",
+    "Tu": "apagabas",
+    "El": "apagaba",
+    "Nosotros": "apagábamos",
+    "Vosotros": "apagabais",
+    "Ellos": "apagaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy apagando",
+    "Tu": "estás apagando",
+    "El": "está apagando",
+    "Nosotros": "estamos apagando",
+    "Vosotros": "estáis apagando",
+    "Ellos": "están apagando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he apagado",
+    "Tu": "has apagado",
+    "El": "ha apagado",
+    "Nosotros": "hemos apagado",
+    "Vosotros": "habéis apagado",
+    "Ellos": "han apagado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había apagado",
+    "Tu": "habías apagado",
+    "El": "había apagado",
+    "Nosotros": "habíamos apagado",
+    "Vosotros": "habíais apagado",
+    "Ellos": "habían apagado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré apagado",
+    "Tu": "habrás apagado",
+    "El": "habrá apagado",
+    "Nosotros": "habremos apagado",
+    "Vosotros": "habréis apagado",
+    "Ellos": "habrán apagado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría apagado",
+    "Tu": "habrías apagado",
+    "El": "habría apagado",
+    "Nosotros": "habríamos apagado",
+    "Vosotros": "habríais apagado",
+    "Ellos": "habrían apagado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "apague",
+    "Tu": "apagues",
+    "El": "apague",
+    "Nosotros": "apaguemos",
+    "Vosotros": "apaguéis",
+    "Ellos": "apaguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "apaga",
+    "El": "apague",
+    "Nosotros": "apaguemos",
+    "Vosotros": "apagad",
+    "Ellos": "apaguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no apagues",
+    "El": "no apague",
+    "Nosotros": "no apaguemos",
+    "Vosotros": "no apaguéis",
+    "Ellos": "no apaguen"
+  },
+  "ending": "ar"
+}

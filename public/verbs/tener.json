@@ -1,0 +1,113 @@
+{
+  "verb": "tener",
+  "englishInfinitive": "to have",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "tengo",
+    "Tu": "tienes",
+    "El": "tiene",
+    "Nosotros": "tenemos",
+    "Vosotros": "tenéis",
+    "Ellos": "tienen"
+  },
+  "IndicativePreterite": {
+    "Yo": "tuve",
+    "Tu": "tuviste",
+    "El": "tuvo",
+    "Nosotros": "tuvimos",
+    "Vosotros": "tuvisteis",
+    "Ellos": "tuvieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "tendré",
+    "Tu": "tendrás",
+    "El": "tendrá",
+    "Nosotros": "tendremos",
+    "Vosotros": "tendréis",
+    "Ellos": "tendrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "tendría",
+    "Tu": "tendrías",
+    "El": "tendría",
+    "Nosotros": "tendríamos",
+    "Vosotros": "tendríais",
+    "Ellos": "tendrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "tenía",
+    "Tu": "tenías",
+    "El": "tenía",
+    "Nosotros": "teníamos",
+    "Vosotros": "teníais",
+    "Ellos": "tenían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy teniendo",
+    "Tu": "estás teniendo",
+    "El": "está teniendo",
+    "Nosotros": "estamos teniendo",
+    "Vosotros": "estáis teniendo",
+    "Ellos": "están teniendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he tenido",
+    "Tu": "has tenido",
+    "El": "ha tenido",
+    "Nosotros": "hemos tenido",
+    "Vosotros": "habéis tenido",
+    "Ellos": "han tenido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había tenido",
+    "Tu": "habías tenido",
+    "El": "había tenido",
+    "Nosotros": "habíamos tenido",
+    "Vosotros": "habíais tenido",
+    "Ellos": "habían tenido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré tenido",
+    "Tu": "habrás tenido",
+    "El": "habrá tenido",
+    "Nosotros": "habremos tenido",
+    "Vosotros": "habréis tenido",
+    "Ellos": "habrán tenido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría tenido",
+    "Tu": "habrías tenido",
+    "El": "habría tenido",
+    "Nosotros": "habríamos tenido",
+    "Vosotros": "habríais tenido",
+    "Ellos": "habrían tenido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "tenga",
+    "Tu": "tengas",
+    "El": "tenga",
+    "Nosotros": "tengamos",
+    "Vosotros": "tengáis",
+    "Ellos": "tengan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ten",
+    "El": "tenga",
+    "Nosotros": "tengamos",
+    "Vosotros": "tened",
+    "Ellos": "tengan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no tengas",
+    "El": "no tenga",
+    "Nosotros": "no tengamos",
+    "Vosotros": "no tengáis",
+    "Ellos": "no tengan"
+  },
+  "ending": "er"
+}

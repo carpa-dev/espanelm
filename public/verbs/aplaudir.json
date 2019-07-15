@@ -1,0 +1,113 @@
+{
+  "verb": "aplaudir",
+  "englishInfinitive": "to applaud",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "aplaudo",
+    "Tu": "aplaudes",
+    "El": "aplaude",
+    "Nosotros": "aplaudimos",
+    "Vosotros": "aplaudís",
+    "Ellos": "aplauden"
+  },
+  "IndicativePreterite": {
+    "Yo": "aplaudí",
+    "Tu": "aplaudiste",
+    "El": "aplaudió",
+    "Nosotros": "aplaudimos",
+    "Vosotros": "aplaudisteis",
+    "Ellos": "aplaudieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "aplaudiré",
+    "Tu": "aplaudirás",
+    "El": "aplaudirá",
+    "Nosotros": "aplaudiremos",
+    "Vosotros": "aplaudiréis",
+    "Ellos": "aplaudirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "aplaudiría",
+    "Tu": "aplaudirías",
+    "El": "aplaudiría",
+    "Nosotros": "aplaudiríamos",
+    "Vosotros": "aplaudiríais",
+    "Ellos": "aplaudirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "aplaudía",
+    "Tu": "aplaudías",
+    "El": "aplaudía",
+    "Nosotros": "aplaudíamos",
+    "Vosotros": "aplaudíais",
+    "Ellos": "aplaudían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy aplaudiendo",
+    "Tu": "estás aplaudiendo",
+    "El": "está aplaudiendo",
+    "Nosotros": "estamos aplaudiendo",
+    "Vosotros": "estáis aplaudiendo",
+    "Ellos": "están aplaudiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he aplaudido",
+    "Tu": "has aplaudido",
+    "El": "ha aplaudido",
+    "Nosotros": "hemos aplaudido",
+    "Vosotros": "habéis aplaudido",
+    "Ellos": "han aplaudido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había aplaudido",
+    "Tu": "habías aplaudido",
+    "El": "había aplaudido",
+    "Nosotros": "habíamos aplaudido",
+    "Vosotros": "habíais aplaudido",
+    "Ellos": "habían aplaudido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré aplaudido",
+    "Tu": "habrás aplaudido",
+    "El": "habrá aplaudido",
+    "Nosotros": "habremos aplaudido",
+    "Vosotros": "habréis aplaudido",
+    "Ellos": "habrán aplaudido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría aplaudido",
+    "Tu": "habrías aplaudido",
+    "El": "habría aplaudido",
+    "Nosotros": "habríamos aplaudido",
+    "Vosotros": "habríais aplaudido",
+    "Ellos": "habrían aplaudido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "aplauda",
+    "Tu": "aplaudas",
+    "El": "aplauda",
+    "Nosotros": "aplaudamos",
+    "Vosotros": "aplaudáis",
+    "Ellos": "aplaudan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "aplaude",
+    "El": "aplauda",
+    "Nosotros": "aplaudamos",
+    "Vosotros": "aplaudid",
+    "Ellos": "aplaudan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no aplaudas",
+    "El": "no aplauda",
+    "Nosotros": "no aplaudamos",
+    "Vosotros": "no aplaudáis",
+    "Ellos": "no aplaudan"
+  },
+  "ending": "ir"
+}

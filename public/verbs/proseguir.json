@@ -1,0 +1,113 @@
+{
+  "verb": "proseguir",
+  "englishInfinitive": "to continue",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "prosigo",
+    "Tu": "prosigues",
+    "El": "prosigue",
+    "Nosotros": "proseguimos",
+    "Vosotros": "proseguís",
+    "Ellos": "prosiguen"
+  },
+  "IndicativePreterite": {
+    "Yo": "proseguí",
+    "Tu": "proseguiste",
+    "El": "prosiguió",
+    "Nosotros": "proseguimos",
+    "Vosotros": "proseguisteis",
+    "Ellos": "prosiguieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "proseguiré",
+    "Tu": "proseguirás",
+    "El": "proseguirá",
+    "Nosotros": "proseguiremos",
+    "Vosotros": "proseguiréis",
+    "Ellos": "proseguirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "proseguiría",
+    "Tu": "proseguirías",
+    "El": "proseguiría",
+    "Nosotros": "proseguiríamos",
+    "Vosotros": "proseguiríais",
+    "Ellos": "proseguirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "proseguía",
+    "Tu": "proseguías",
+    "El": "proseguía",
+    "Nosotros": "proseguíamos",
+    "Vosotros": "proseguíais",
+    "Ellos": "proseguían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy prosiguiendo",
+    "Tu": "estás prosiguiendo",
+    "El": "está prosiguiendo",
+    "Nosotros": "estamos prosiguiendo",
+    "Vosotros": "estáis prosiguiendo",
+    "Ellos": "están prosiguiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he proseguido",
+    "Tu": "has proseguido",
+    "El": "ha proseguido",
+    "Nosotros": "hemos proseguido",
+    "Vosotros": "habéis proseguido",
+    "Ellos": "han proseguido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había proseguido",
+    "Tu": "habías proseguido",
+    "El": "había proseguido",
+    "Nosotros": "habíamos proseguido",
+    "Vosotros": "habíais proseguido",
+    "Ellos": "habían proseguido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré proseguido",
+    "Tu": "habrás proseguido",
+    "El": "habrá proseguido",
+    "Nosotros": "habremos proseguido",
+    "Vosotros": "habréis proseguido",
+    "Ellos": "habrán proseguido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría proseguido",
+    "Tu": "habrías proseguido",
+    "El": "habría proseguido",
+    "Nosotros": "habríamos proseguido",
+    "Vosotros": "habríais proseguido",
+    "Ellos": "habrían proseguido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "prosiga",
+    "Tu": "prosigas",
+    "El": "prosiga",
+    "Nosotros": "prosigamos",
+    "Vosotros": "prosigáis",
+    "Ellos": "prosigan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "prosigue",
+    "El": "prosiga",
+    "Nosotros": "prosigamos",
+    "Vosotros": "proseguid",
+    "Ellos": "prosigan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no prosigas",
+    "El": "no prosiga",
+    "Nosotros": "no prosigamos",
+    "Vosotros": "no prosigáis",
+    "Ellos": "no prosigan"
+  },
+  "ending": "ir"
+}

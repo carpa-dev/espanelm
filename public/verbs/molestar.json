@@ -1,0 +1,113 @@
+{
+  "verb": "molestar",
+  "englishInfinitive": "to bother",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "molesto",
+    "Tu": "molestas",
+    "El": "molesta",
+    "Nosotros": "molestamos",
+    "Vosotros": "molestáis",
+    "Ellos": "molestan"
+  },
+  "IndicativePreterite": {
+    "Yo": "molesté",
+    "Tu": "molestaste",
+    "El": "molestó",
+    "Nosotros": "molestamos",
+    "Vosotros": "molestasteis",
+    "Ellos": "molestaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "molestaré",
+    "Tu": "molestarás",
+    "El": "molestará",
+    "Nosotros": "molestaremos",
+    "Vosotros": "molestaréis",
+    "Ellos": "molestarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "molestaría",
+    "Tu": "molestarías",
+    "El": "molestaría",
+    "Nosotros": "molestaríamos",
+    "Vosotros": "molestaríais",
+    "Ellos": "molestarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "molestaba",
+    "Tu": "molestabas",
+    "El": "molestaba",
+    "Nosotros": "molestábamos",
+    "Vosotros": "molestabais",
+    "Ellos": "molestaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy molestando",
+    "Tu": "estás molestando",
+    "El": "está molestando",
+    "Nosotros": "estamos molestando",
+    "Vosotros": "estáis molestando",
+    "Ellos": "están molestando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he molestado",
+    "Tu": "has molestado",
+    "El": "ha molestado",
+    "Nosotros": "hemos molestado",
+    "Vosotros": "habéis molestado",
+    "Ellos": "han molestado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había molestado",
+    "Tu": "habías molestado",
+    "El": "había molestado",
+    "Nosotros": "habíamos molestado",
+    "Vosotros": "habíais molestado",
+    "Ellos": "habían molestado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré molestado",
+    "Tu": "habrás molestado",
+    "El": "habrá molestado",
+    "Nosotros": "habremos molestado",
+    "Vosotros": "habréis molestado",
+    "Ellos": "habrán molestado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría molestado",
+    "Tu": "habrías molestado",
+    "El": "habría molestado",
+    "Nosotros": "habríamos molestado",
+    "Vosotros": "habríais molestado",
+    "Ellos": "habrían molestado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "moleste",
+    "Tu": "molestes",
+    "El": "moleste",
+    "Nosotros": "molestemos",
+    "Vosotros": "molestéis",
+    "Ellos": "molesten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "molesta",
+    "El": "moleste",
+    "Nosotros": "molestemos",
+    "Vosotros": "molestad",
+    "Ellos": "molesten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no molestes",
+    "El": "no moleste",
+    "Nosotros": "no molestemos",
+    "Vosotros": "no molestéis",
+    "Ellos": "no molesten"
+  },
+  "ending": "ar"
+}

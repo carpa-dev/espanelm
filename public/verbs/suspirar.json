@@ -1,0 +1,113 @@
+{
+  "verb": "suspirar",
+  "englishInfinitive": "to sigh",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "suspiro",
+    "Tu": "suspiras",
+    "El": "suspira",
+    "Nosotros": "suspiramos",
+    "Vosotros": "suspiráis",
+    "Ellos": "suspiran"
+  },
+  "IndicativePreterite": {
+    "Yo": "suspiré",
+    "Tu": "suspiraste",
+    "El": "suspiró",
+    "Nosotros": "suspiramos",
+    "Vosotros": "suspirasteis",
+    "Ellos": "suspiraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "suspiraré",
+    "Tu": "suspirarás",
+    "El": "suspirará",
+    "Nosotros": "suspiraremos",
+    "Vosotros": "suspiraréis",
+    "Ellos": "suspirarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "suspiraría",
+    "Tu": "suspirarías",
+    "El": "suspiraría",
+    "Nosotros": "suspiraríamos",
+    "Vosotros": "suspiraríais",
+    "Ellos": "suspirarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "suspiraba",
+    "Tu": "suspirabas",
+    "El": "suspiraba",
+    "Nosotros": "suspirábamos",
+    "Vosotros": "suspirabais",
+    "Ellos": "suspiraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy suspirando",
+    "Tu": "estás suspirando",
+    "El": "está suspirando",
+    "Nosotros": "estamos suspirando",
+    "Vosotros": "estáis suspirando",
+    "Ellos": "están suspirando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he suspirado",
+    "Tu": "has suspirado",
+    "El": "ha suspirado",
+    "Nosotros": "hemos suspirado",
+    "Vosotros": "habéis suspirado",
+    "Ellos": "han suspirado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había suspirado",
+    "Tu": "habías suspirado",
+    "El": "había suspirado",
+    "Nosotros": "habíamos suspirado",
+    "Vosotros": "habíais suspirado",
+    "Ellos": "habían suspirado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré suspirado",
+    "Tu": "habrás suspirado",
+    "El": "habrá suspirado",
+    "Nosotros": "habremos suspirado",
+    "Vosotros": "habréis suspirado",
+    "Ellos": "habrán suspirado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría suspirado",
+    "Tu": "habrías suspirado",
+    "El": "habría suspirado",
+    "Nosotros": "habríamos suspirado",
+    "Vosotros": "habríais suspirado",
+    "Ellos": "habrían suspirado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "suspire",
+    "Tu": "suspires",
+    "El": "suspire",
+    "Nosotros": "suspiremos",
+    "Vosotros": "suspiréis",
+    "Ellos": "suspiren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "suspira",
+    "El": "suspire",
+    "Nosotros": "suspiremos",
+    "Vosotros": "suspirad",
+    "Ellos": "suspiren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no suspires",
+    "El": "no suspire",
+    "Nosotros": "no suspiremos",
+    "Vosotros": "no suspiréis",
+    "Ellos": "no suspiren"
+  },
+  "ending": "ar"
+}

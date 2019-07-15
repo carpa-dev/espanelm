@@ -1,0 +1,113 @@
+{
+  "verb": "desagradar",
+  "englishInfinitive": "to displease",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "desagrado",
+    "Tu": "desagradas",
+    "El": "desagrada",
+    "Nosotros": "desagradamos",
+    "Vosotros": "desagradáis",
+    "Ellos": "desagradan"
+  },
+  "IndicativePreterite": {
+    "Yo": "desagradé",
+    "Tu": "desagradaste",
+    "El": "desagradó",
+    "Nosotros": "desagradamos",
+    "Vosotros": "desagradasteis",
+    "Ellos": "desagradaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "desagradaré",
+    "Tu": "desagradarás",
+    "El": "desagradará",
+    "Nosotros": "desagradaremos",
+    "Vosotros": "desagradaréis",
+    "Ellos": "desagradarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "desagradaría",
+    "Tu": "desagradarías",
+    "El": "desagradaría",
+    "Nosotros": "desagradaríamos",
+    "Vosotros": "desagradaríais",
+    "Ellos": "desagradarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "desagradaba",
+    "Tu": "desagradabas",
+    "El": "desagradaba",
+    "Nosotros": "desagradábamos",
+    "Vosotros": "desagradabais",
+    "Ellos": "desagradaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy desagradando",
+    "Tu": "estás desagradando",
+    "El": "está desagradando",
+    "Nosotros": "estamos desagradando",
+    "Vosotros": "estáis desagradando",
+    "Ellos": "están desagradando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he desagradado",
+    "Tu": "has desagradado",
+    "El": "ha desagradado",
+    "Nosotros": "hemos desagradado",
+    "Vosotros": "habéis desagradado",
+    "Ellos": "han desagradado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había desagradado",
+    "Tu": "habías desagradado",
+    "El": "había desagradado",
+    "Nosotros": "habíamos desagradado",
+    "Vosotros": "habíais desagradado",
+    "Ellos": "habían desagradado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré desagradado",
+    "Tu": "habrás desagradado",
+    "El": "habrá desagradado",
+    "Nosotros": "habremos desagradado",
+    "Vosotros": "habréis desagradado",
+    "Ellos": "habrán desagradado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría desagradado",
+    "Tu": "habrías desagradado",
+    "El": "habría desagradado",
+    "Nosotros": "habríamos desagradado",
+    "Vosotros": "habríais desagradado",
+    "Ellos": "habrían desagradado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "desagrade",
+    "Tu": "desagrades",
+    "El": "desagrade",
+    "Nosotros": "desagrademos",
+    "Vosotros": "desagradéis",
+    "Ellos": "desagraden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "desagrada",
+    "El": "desagrade",
+    "Nosotros": "desagrademos",
+    "Vosotros": "desagradad",
+    "Ellos": "desagraden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no desagrades",
+    "El": "no desagrade",
+    "Nosotros": "no desagrademos",
+    "Vosotros": "no desagradéis",
+    "Ellos": "no desagraden"
+  },
+  "ending": "ar"
+}

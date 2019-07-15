@@ -1,0 +1,113 @@
+{
+  "verb": "tragar",
+  "englishInfinitive": "to swallow",
+  "irregular": true,
+  "type": "g > gu (-gar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "trago",
+    "Tu": "tragas",
+    "El": "traga",
+    "Nosotros": "tragamos",
+    "Vosotros": "tragáis",
+    "Ellos": "tragan"
+  },
+  "IndicativePreterite": {
+    "Yo": "tragué",
+    "Tu": "tragaste",
+    "El": "tragó",
+    "Nosotros": "tragamos",
+    "Vosotros": "tragasteis",
+    "Ellos": "tragaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "tragaré",
+    "Tu": "tragarás",
+    "El": "tragará",
+    "Nosotros": "tragaremos",
+    "Vosotros": "tragaréis",
+    "Ellos": "tragarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "tragaría",
+    "Tu": "tragarías",
+    "El": "tragaría",
+    "Nosotros": "tragaríamos",
+    "Vosotros": "tragaríais",
+    "Ellos": "tragarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "tragaba",
+    "Tu": "tragabas",
+    "El": "tragaba",
+    "Nosotros": "tragábamos",
+    "Vosotros": "tragabais",
+    "Ellos": "tragaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy tragando",
+    "Tu": "estás tragando",
+    "El": "está tragando",
+    "Nosotros": "estamos tragando",
+    "Vosotros": "estáis tragando",
+    "Ellos": "están tragando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he tragado",
+    "Tu": "has tragado",
+    "El": "ha tragado",
+    "Nosotros": "hemos tragado",
+    "Vosotros": "habéis tragado",
+    "Ellos": "han tragado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había tragado",
+    "Tu": "habías tragado",
+    "El": "había tragado",
+    "Nosotros": "habíamos tragado",
+    "Vosotros": "habíais tragado",
+    "Ellos": "habían tragado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré tragado",
+    "Tu": "habrás tragado",
+    "El": "habrá tragado",
+    "Nosotros": "habremos tragado",
+    "Vosotros": "habréis tragado",
+    "Ellos": "habrán tragado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría tragado",
+    "Tu": "habrías tragado",
+    "El": "habría tragado",
+    "Nosotros": "habríamos tragado",
+    "Vosotros": "habríais tragado",
+    "Ellos": "habrían tragado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "trague",
+    "Tu": "tragues",
+    "El": "trague",
+    "Nosotros": "traguemos",
+    "Vosotros": "traguéis",
+    "Ellos": "traguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "traga",
+    "El": "trague",
+    "Nosotros": "traguemos",
+    "Vosotros": "tragad",
+    "Ellos": "traguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no tragues",
+    "El": "no trague",
+    "Nosotros": "no traguemos",
+    "Vosotros": "no traguéis",
+    "Ellos": "no traguen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "legalizar",
+  "englishInfinitive": "to legalize",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "legalizo",
+    "Tu": "legalizas",
+    "El": "legaliza",
+    "Nosotros": "legalizamos",
+    "Vosotros": "legalizáis",
+    "Ellos": "legalizan"
+  },
+  "IndicativePreterite": {
+    "Yo": "legalicé",
+    "Tu": "legalizaste",
+    "El": "legalizó",
+    "Nosotros": "legalizamos",
+    "Vosotros": "legalizasteis",
+    "Ellos": "legalizaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "legalizaré",
+    "Tu": "legalizarás",
+    "El": "legalizará",
+    "Nosotros": "legalizaremos",
+    "Vosotros": "legalizaréis",
+    "Ellos": "legalizarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "legalizaría",
+    "Tu": "legalizarías",
+    "El": "legalizaría",
+    "Nosotros": "legalizaríamos",
+    "Vosotros": "legalizaríais",
+    "Ellos": "legalizarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "legalizaba",
+    "Tu": "legalizabas",
+    "El": "legalizaba",
+    "Nosotros": "legalizábamos",
+    "Vosotros": "legalizabais",
+    "Ellos": "legalizaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy legalizando",
+    "Tu": "estás legalizando",
+    "El": "está legalizando",
+    "Nosotros": "estamos legalizando",
+    "Vosotros": "estáis legalizando",
+    "Ellos": "están legalizando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he legalizado",
+    "Tu": "has legalizado",
+    "El": "ha legalizado",
+    "Nosotros": "hemos legalizado",
+    "Vosotros": "habéis legalizado",
+    "Ellos": "han legalizado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había legalizado",
+    "Tu": "habías legalizado",
+    "El": "había legalizado",
+    "Nosotros": "habíamos legalizado",
+    "Vosotros": "habíais legalizado",
+    "Ellos": "habían legalizado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré legalizado",
+    "Tu": "habrás legalizado",
+    "El": "habrá legalizado",
+    "Nosotros": "habremos legalizado",
+    "Vosotros": "habréis legalizado",
+    "Ellos": "habrán legalizado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría legalizado",
+    "Tu": "habrías legalizado",
+    "El": "habría legalizado",
+    "Nosotros": "habríamos legalizado",
+    "Vosotros": "habríais legalizado",
+    "Ellos": "habrían legalizado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "legalice",
+    "Tu": "legalices",
+    "El": "legalice",
+    "Nosotros": "legalicemos",
+    "Vosotros": "legalicéis",
+    "Ellos": "legalicen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "legaliza",
+    "El": "legalice",
+    "Nosotros": "legalicemos",
+    "Vosotros": "legalizad",
+    "Ellos": "legalicen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no legalices",
+    "El": "no legalice",
+    "Nosotros": "no legalicemos",
+    "Vosotros": "no legalicéis",
+    "Ellos": "no legalicen"
+  },
+  "ending": "ar"
+}

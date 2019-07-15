@@ -1,0 +1,113 @@
+{
+  "verb": "cepillar",
+  "englishInfinitive": "to brush",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "cepillo",
+    "Tu": "cepillas",
+    "El": "cepilla",
+    "Nosotros": "cepillamos",
+    "Vosotros": "cepilláis",
+    "Ellos": "cepillan"
+  },
+  "IndicativePreterite": {
+    "Yo": "cepillé",
+    "Tu": "cepillaste",
+    "El": "cepilló",
+    "Nosotros": "cepillamos",
+    "Vosotros": "cepillasteis",
+    "Ellos": "cepillaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cepillaré",
+    "Tu": "cepillarás",
+    "El": "cepillará",
+    "Nosotros": "cepillaremos",
+    "Vosotros": "cepillaréis",
+    "Ellos": "cepillarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cepillaría",
+    "Tu": "cepillarías",
+    "El": "cepillaría",
+    "Nosotros": "cepillaríamos",
+    "Vosotros": "cepillaríais",
+    "Ellos": "cepillarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cepillaba",
+    "Tu": "cepillabas",
+    "El": "cepillaba",
+    "Nosotros": "cepillábamos",
+    "Vosotros": "cepillabais",
+    "Ellos": "cepillaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cepillando",
+    "Tu": "estás cepillando",
+    "El": "está cepillando",
+    "Nosotros": "estamos cepillando",
+    "Vosotros": "estáis cepillando",
+    "Ellos": "están cepillando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cepillado",
+    "Tu": "has cepillado",
+    "El": "ha cepillado",
+    "Nosotros": "hemos cepillado",
+    "Vosotros": "cepilléis cepillado",
+    "Ellos": "han cepillado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "cepillía cepillado",
+    "Tu": "cepillías cepillado",
+    "El": "cepillía cepillado",
+    "Nosotros": "cepillíamos cepillado",
+    "Vosotros": "cepillíais cepillado",
+    "Ellos": "cepillían cepillado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "cepillré cepillado",
+    "Tu": "cepillrás cepillado",
+    "El": "cepillrá cepillado",
+    "Nosotros": "cepillremos cepillado",
+    "Vosotros": "cepillréis cepillado",
+    "Ellos": "cepillrán cepillado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "cepillría cepillado",
+    "Tu": "cepillrías cepillado",
+    "El": "cepillría cepillado",
+    "Nosotros": "cepillríamos cepillado",
+    "Vosotros": "cepillríais cepillado",
+    "Ellos": "cepillrían cepillado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cepille",
+    "Tu": "cepilles",
+    "El": "cepille",
+    "Nosotros": "cepillemos",
+    "Vosotros": "cepilléis",
+    "Ellos": "cepillen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cepilla",
+    "El": "cepille",
+    "Nosotros": "cepillemos",
+    "Vosotros": "cepillad",
+    "Ellos": "cepillen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cepilles",
+    "El": "no cepille",
+    "Nosotros": "no cepillemos",
+    "Vosotros": "no cepilléis",
+    "Ellos": "no cepillen"
+  },
+  "ending": "ar"
+}

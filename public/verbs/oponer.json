@@ -1,0 +1,113 @@
+{
+  "verb": "oponer",
+  "englishInfinitive": "to pit [A against B]",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "opongo",
+    "Tu": "opones",
+    "El": "opone",
+    "Nosotros": "oponemos",
+    "Vosotros": "oponéis",
+    "Ellos": "oponen"
+  },
+  "IndicativePreterite": {
+    "Yo": "opuse",
+    "Tu": "opusiste",
+    "El": "opuso",
+    "Nosotros": "opusimos",
+    "Vosotros": "opusisteis",
+    "Ellos": "opusieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "opondré",
+    "Tu": "opondrás",
+    "El": "opondrá",
+    "Nosotros": "opondremos",
+    "Vosotros": "opondréis",
+    "Ellos": "opondrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "opondría",
+    "Tu": "opondrías",
+    "El": "opondría",
+    "Nosotros": "opondríamos",
+    "Vosotros": "opondríais",
+    "Ellos": "opondrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "oponía",
+    "Tu": "oponías",
+    "El": "oponía",
+    "Nosotros": "oponíamos",
+    "Vosotros": "oponíais",
+    "Ellos": "oponían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy oponiendo",
+    "Tu": "estás oponiendo",
+    "El": "está oponiendo",
+    "Nosotros": "estamos oponiendo",
+    "Vosotros": "estáis oponiendo",
+    "Ellos": "están oponiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he opuesto",
+    "Tu": "has opuesto",
+    "El": "ha opuesto",
+    "Nosotros": "hemos opuesto",
+    "Vosotros": "habéis opuesto",
+    "Ellos": "han opuesto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había opuesto",
+    "Tu": "habías opuesto",
+    "El": "había opuesto",
+    "Nosotros": "habíamos opuesto",
+    "Vosotros": "habíais opuesto",
+    "Ellos": "habían opuesto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré opuesto",
+    "Tu": "habrás opuesto",
+    "El": "habrá opuesto",
+    "Nosotros": "habremos opuesto",
+    "Vosotros": "habréis opuesto",
+    "Ellos": "habrán opuesto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría opuesto",
+    "Tu": "habrías opuesto",
+    "El": "habría opuesto",
+    "Nosotros": "habríamos opuesto",
+    "Vosotros": "habríais opuesto",
+    "Ellos": "habrían opuesto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "oponga",
+    "Tu": "opongas",
+    "El": "oponga",
+    "Nosotros": "opongamos",
+    "Vosotros": "opongáis",
+    "Ellos": "opongan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "opón",
+    "El": "oponga",
+    "Nosotros": "opongamos",
+    "Vosotros": "oponed",
+    "Ellos": "opongan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no opongas",
+    "El": "no oponga",
+    "Nosotros": "no opongamos",
+    "Vosotros": "no opongáis",
+    "Ellos": "no opongan"
+  },
+  "ending": "er"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "descansar",
+  "englishInfinitive": "to rest",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "descanso",
+    "Tu": "descansas",
+    "El": "descansa",
+    "Nosotros": "descansamos",
+    "Vosotros": "descansáis",
+    "Ellos": "descansan"
+  },
+  "IndicativePreterite": {
+    "Yo": "descansé",
+    "Tu": "descansaste",
+    "El": "descansó",
+    "Nosotros": "descansamos",
+    "Vosotros": "descansasteis",
+    "Ellos": "descansaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "descansaré",
+    "Tu": "descansarás",
+    "El": "descansará",
+    "Nosotros": "descansaremos",
+    "Vosotros": "descansaréis",
+    "Ellos": "descansarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "descansaría",
+    "Tu": "descansarías",
+    "El": "descansaría",
+    "Nosotros": "descansaríamos",
+    "Vosotros": "descansaríais",
+    "Ellos": "descansarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "descansaba",
+    "Tu": "descansabas",
+    "El": "descansaba",
+    "Nosotros": "descansábamos",
+    "Vosotros": "descansabais",
+    "Ellos": "descansaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy descansando",
+    "Tu": "estás descansando",
+    "El": "está descansando",
+    "Nosotros": "estamos descansando",
+    "Vosotros": "estáis descansando",
+    "Ellos": "están descansando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he descansado",
+    "Tu": "has descansado",
+    "El": "ha descansado",
+    "Nosotros": "hemos descansado",
+    "Vosotros": "habéis descansado",
+    "Ellos": "han descansado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había descansado",
+    "Tu": "habías descansado",
+    "El": "había descansado",
+    "Nosotros": "habíamos descansado",
+    "Vosotros": "habíais descansado",
+    "Ellos": "habían descansado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré descansado",
+    "Tu": "habrás descansado",
+    "El": "habrá descansado",
+    "Nosotros": "habremos descansado",
+    "Vosotros": "habréis descansado",
+    "Ellos": "habrán descansado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría descansado",
+    "Tu": "habrías descansado",
+    "El": "habría descansado",
+    "Nosotros": "habríamos descansado",
+    "Vosotros": "habríais descansado",
+    "Ellos": "habrían descansado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "descanse",
+    "Tu": "descanses",
+    "El": "descanse",
+    "Nosotros": "descansemos",
+    "Vosotros": "descanséis",
+    "Ellos": "descansen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "descansa",
+    "El": "descanse",
+    "Nosotros": "descansemos",
+    "Vosotros": "descansad",
+    "Ellos": "descansen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no descanses",
+    "El": "no descanse",
+    "Nosotros": "no descansemos",
+    "Vosotros": "no descanséis",
+    "Ellos": "no descansen"
+  },
+  "ending": "ar"
+}

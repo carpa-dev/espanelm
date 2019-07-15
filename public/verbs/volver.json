@@ -1,0 +1,113 @@
+{
+  "verb": "volver",
+  "englishInfinitive": "to return",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "vuelvo",
+    "Tu": "vuelves",
+    "El": "vuelve",
+    "Nosotros": "volvemos",
+    "Vosotros": "volvéis",
+    "Ellos": "vuelven"
+  },
+  "IndicativePreterite": {
+    "Yo": "volví",
+    "Tu": "volviste",
+    "El": "volvió",
+    "Nosotros": "volvimos",
+    "Vosotros": "volvisteis",
+    "Ellos": "volvieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "volveré",
+    "Tu": "volverás",
+    "El": "volverá",
+    "Nosotros": "volveremos",
+    "Vosotros": "volveréis",
+    "Ellos": "volverán"
+  },
+  "ConditionalPresent": {
+    "Yo": "volvería",
+    "Tu": "volverías",
+    "El": "volvería",
+    "Nosotros": "volveríamos",
+    "Vosotros": "volveríais",
+    "Ellos": "volverían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "volvía",
+    "Tu": "volvías",
+    "El": "volvía",
+    "Nosotros": "volvíamos",
+    "Vosotros": "volvíais",
+    "Ellos": "volvían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy volviendo",
+    "Tu": "estás volviendo",
+    "El": "está volviendo",
+    "Nosotros": "estamos volviendo",
+    "Vosotros": "estáis volviendo",
+    "Ellos": "están volviendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he vuelto",
+    "Tu": "has vuelto",
+    "El": "ha vuelto",
+    "Nosotros": "hemos vuelto",
+    "Vosotros": "habéis vuelto",
+    "Ellos": "han vuelto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había vuelto",
+    "Tu": "habías vuelto",
+    "El": "había vuelto",
+    "Nosotros": "habíamos vuelto",
+    "Vosotros": "habíais vuelto",
+    "Ellos": "habían vuelto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré vuelto",
+    "Tu": "habrás vuelto",
+    "El": "habrá vuelto",
+    "Nosotros": "habremos vuelto",
+    "Vosotros": "habréis vuelto",
+    "Ellos": "habrán vuelto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría vuelto",
+    "Tu": "habrías vuelto",
+    "El": "habría vuelto",
+    "Nosotros": "habríamos vuelto",
+    "Vosotros": "habríais vuelto",
+    "Ellos": "habrían vuelto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "vuelva",
+    "Tu": "vuelvas",
+    "El": "vuelva",
+    "Nosotros": "volvamos",
+    "Vosotros": "volváis",
+    "Ellos": "vuelvan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "vuelve",
+    "El": "vuelva",
+    "Nosotros": "volvamos",
+    "Vosotros": "volved",
+    "Ellos": "vuelvan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no vuelvas",
+    "El": "no vuelva",
+    "Nosotros": "no volvamos",
+    "Vosotros": "no volváis",
+    "Ellos": "no vuelvan"
+  },
+  "ending": "er"
+}

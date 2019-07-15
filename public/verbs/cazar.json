@@ -1,0 +1,113 @@
+{
+  "verb": "cazar",
+  "englishInfinitive": "to hunt",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "cazo",
+    "Tu": "cazas",
+    "El": "caza",
+    "Nosotros": "cazamos",
+    "Vosotros": "cazáis",
+    "Ellos": "cazan"
+  },
+  "IndicativePreterite": {
+    "Yo": "cacé",
+    "Tu": "cazaste",
+    "El": "cazó",
+    "Nosotros": "cazamos",
+    "Vosotros": "cazasteis",
+    "Ellos": "cazaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cazaré",
+    "Tu": "cazarás",
+    "El": "cazará",
+    "Nosotros": "cazaremos",
+    "Vosotros": "cazaréis",
+    "Ellos": "cazarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cazaría",
+    "Tu": "cazarías",
+    "El": "cazaría",
+    "Nosotros": "cazaríamos",
+    "Vosotros": "cazaríais",
+    "Ellos": "cazarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cazaba",
+    "Tu": "cazabas",
+    "El": "cazaba",
+    "Nosotros": "cazábamos",
+    "Vosotros": "cazabais",
+    "Ellos": "cazaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cazando",
+    "Tu": "estás cazando",
+    "El": "está cazando",
+    "Nosotros": "estamos cazando",
+    "Vosotros": "estáis cazando",
+    "Ellos": "están cazando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cazado",
+    "Tu": "has cazado",
+    "El": "ha cazado",
+    "Nosotros": "hemos cazado",
+    "Vosotros": "habéis cazado",
+    "Ellos": "han cazado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cazado",
+    "Tu": "habías cazado",
+    "El": "había cazado",
+    "Nosotros": "habíamos cazado",
+    "Vosotros": "habíais cazado",
+    "Ellos": "habían cazado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cazado",
+    "Tu": "habrás cazado",
+    "El": "habrá cazado",
+    "Nosotros": "habremos cazado",
+    "Vosotros": "habréis cazado",
+    "Ellos": "habrán cazado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cazado",
+    "Tu": "habrías cazado",
+    "El": "habría cazado",
+    "Nosotros": "habríamos cazado",
+    "Vosotros": "habríais cazado",
+    "Ellos": "habrían cazado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cace",
+    "Tu": "caces",
+    "El": "cace",
+    "Nosotros": "cacemos",
+    "Vosotros": "cacéis",
+    "Ellos": "cacen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "caza",
+    "El": "cace",
+    "Nosotros": "cacemos",
+    "Vosotros": "cazad",
+    "Ellos": "cacen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no caces",
+    "El": "no cace",
+    "Nosotros": "no cacemos",
+    "Vosotros": "no cacéis",
+    "Ellos": "no cacen"
+  },
+  "ending": "ar"
+}

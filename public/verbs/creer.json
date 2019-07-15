@@ -1,0 +1,113 @@
+{
+  "verb": "creer",
+  "englishInfinitive": "to believe",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "creo",
+    "Tu": "crees",
+    "El": "cree",
+    "Nosotros": "creemos",
+    "Vosotros": "creéis",
+    "Ellos": "creen"
+  },
+  "IndicativePreterite": {
+    "Yo": "creí",
+    "Tu": "creíste",
+    "El": "creyó",
+    "Nosotros": "creímos",
+    "Vosotros": "creísteis",
+    "Ellos": "creyeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "creeré",
+    "Tu": "creerás",
+    "El": "creerá",
+    "Nosotros": "creeremos",
+    "Vosotros": "creeréis",
+    "Ellos": "creerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "creería",
+    "Tu": "creerías",
+    "El": "creería",
+    "Nosotros": "creeríamos",
+    "Vosotros": "creeríais",
+    "Ellos": "creerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "creía",
+    "Tu": "creías",
+    "El": "creía",
+    "Nosotros": "creíamos",
+    "Vosotros": "creíais",
+    "Ellos": "creían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy creyendo",
+    "Tu": "estás creyendo",
+    "El": "está creyendo",
+    "Nosotros": "estamos creyendo",
+    "Vosotros": "estáis creyendo",
+    "Ellos": "están creyendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he creído",
+    "Tu": "has creído",
+    "El": "ha creído",
+    "Nosotros": "hemos creído",
+    "Vosotros": "habéis creído",
+    "Ellos": "han creído"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había creído",
+    "Tu": "habías creído",
+    "El": "había creído",
+    "Nosotros": "habíamos creído",
+    "Vosotros": "habíais creído",
+    "Ellos": "habían creído"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré creído",
+    "Tu": "habrás creído",
+    "El": "habrá creído",
+    "Nosotros": "habremos creído",
+    "Vosotros": "habréis creído",
+    "Ellos": "habrán creído"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría creído",
+    "Tu": "habrías creído",
+    "El": "habría creído",
+    "Nosotros": "habríamos creído",
+    "Vosotros": "habríais creído",
+    "Ellos": "habrían creído"
+  },
+  "SubjunctivePresent": {
+    "Yo": "crea",
+    "Tu": "creas",
+    "El": "crea",
+    "Nosotros": "creamos",
+    "Vosotros": "creáis",
+    "Ellos": "crean"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cree",
+    "El": "crea",
+    "Nosotros": "creamos",
+    "Vosotros": "creed",
+    "Ellos": "crean"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no creas",
+    "El": "no crea",
+    "Nosotros": "no creamos",
+    "Vosotros": "no creáis",
+    "Ellos": "no crean"
+  },
+  "ending": "er"
+}

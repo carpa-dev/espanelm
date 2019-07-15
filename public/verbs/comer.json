@@ -1,0 +1,113 @@
+{
+  "verb": "comer",
+  "englishInfinitive": "to eat",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "como",
+    "Tu": "comes",
+    "El": "come",
+    "Nosotros": "comemos",
+    "Vosotros": "coméis",
+    "Ellos": "comen"
+  },
+  "IndicativePreterite": {
+    "Yo": "comí",
+    "Tu": "comiste",
+    "El": "comió",
+    "Nosotros": "comimos",
+    "Vosotros": "comisteis",
+    "Ellos": "comieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "comeré",
+    "Tu": "comerás",
+    "El": "comerá",
+    "Nosotros": "comeremos",
+    "Vosotros": "comeréis",
+    "Ellos": "comerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "comería",
+    "Tu": "comerías",
+    "El": "comería",
+    "Nosotros": "comeríamos",
+    "Vosotros": "comeríais",
+    "Ellos": "comerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "comía",
+    "Tu": "comías",
+    "El": "comía",
+    "Nosotros": "comíamos",
+    "Vosotros": "comíais",
+    "Ellos": "comían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy comiendo",
+    "Tu": "estás comiendo",
+    "El": "está comiendo",
+    "Nosotros": "estamos comiendo",
+    "Vosotros": "estáis comiendo",
+    "Ellos": "están comiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he comido",
+    "Tu": "has comido",
+    "El": "ha comido",
+    "Nosotros": "hemos comido",
+    "Vosotros": "habéis comido",
+    "Ellos": "han comido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había comido",
+    "Tu": "habías comido",
+    "El": "había comido",
+    "Nosotros": "habíamos comido",
+    "Vosotros": "habíais comido",
+    "Ellos": "habían comido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré comido",
+    "Tu": "habrás comido",
+    "El": "habrá comido",
+    "Nosotros": "habremos comido",
+    "Vosotros": "habréis comido",
+    "Ellos": "habrán comido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría comido",
+    "Tu": "habrías comido",
+    "El": "habría comido",
+    "Nosotros": "habríamos comido",
+    "Vosotros": "habríais comido",
+    "Ellos": "habrían comido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "coma",
+    "Tu": "comas",
+    "El": "coma",
+    "Nosotros": "comamos",
+    "Vosotros": "comáis",
+    "Ellos": "coman"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "come",
+    "El": "coma",
+    "Nosotros": "comamos",
+    "Vosotros": "comed",
+    "Ellos": "coman"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no comas",
+    "El": "no coma",
+    "Nosotros": "no comamos",
+    "Vosotros": "no comáis",
+    "Ellos": "no coman"
+  },
+  "ending": "er"
+}

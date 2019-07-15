@@ -1,0 +1,113 @@
+{
+  "verb": "renovar",
+  "englishInfinitive": "to renew",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "renuevo",
+    "Tu": "renuevas",
+    "El": "renueva",
+    "Nosotros": "renovamos",
+    "Vosotros": "renováis",
+    "Ellos": "renuevan"
+  },
+  "IndicativePreterite": {
+    "Yo": "renové",
+    "Tu": "renovaste",
+    "El": "renovó",
+    "Nosotros": "renovamos",
+    "Vosotros": "renovasteis",
+    "Ellos": "renovaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "renovaré",
+    "Tu": "renovarás",
+    "El": "renovará",
+    "Nosotros": "renovaremos",
+    "Vosotros": "renovaréis",
+    "Ellos": "renovarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "renovaría",
+    "Tu": "renovarías",
+    "El": "renovaría",
+    "Nosotros": "renovaríamos",
+    "Vosotros": "renovaríais",
+    "Ellos": "renovarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "renovaba",
+    "Tu": "renovabas",
+    "El": "renovaba",
+    "Nosotros": "renovábamos",
+    "Vosotros": "renovabais",
+    "Ellos": "renovaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy renovando",
+    "Tu": "estás renovando",
+    "El": "está renovando",
+    "Nosotros": "estamos renovando",
+    "Vosotros": "estáis renovando",
+    "Ellos": "están renovando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he renovado",
+    "Tu": "has renovado",
+    "El": "ha renovado",
+    "Nosotros": "hemos renovado",
+    "Vosotros": "habéis renovado",
+    "Ellos": "han renovado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había renovado",
+    "Tu": "habías renovado",
+    "El": "había renovado",
+    "Nosotros": "habíamos renovado",
+    "Vosotros": "habíais renovado",
+    "Ellos": "habían renovado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré renovado",
+    "Tu": "habrás renovado",
+    "El": "habrá renovado",
+    "Nosotros": "habremos renovado",
+    "Vosotros": "habréis renovado",
+    "Ellos": "habrán renovado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría renovado",
+    "Tu": "habrías renovado",
+    "El": "habría renovado",
+    "Nosotros": "habríamos renovado",
+    "Vosotros": "habríais renovado",
+    "Ellos": "habrían renovado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "renueve",
+    "Tu": "renueves",
+    "El": "renueve",
+    "Nosotros": "renovemos",
+    "Vosotros": "renovéis",
+    "Ellos": "renueven"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "renueva",
+    "El": "renueve",
+    "Nosotros": "renovemos",
+    "Vosotros": "renovad",
+    "Ellos": "renueven"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no renueves",
+    "El": "no renueve",
+    "Nosotros": "no renovemos",
+    "Vosotros": "no renovéis",
+    "Ellos": "no renueven"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "regir",
+  "englishInfinitive": "to rule",
+  "irregular": true,
+  "type": "e > i, g > j",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "rijo",
+    "Tu": "riges",
+    "El": "rige",
+    "Nosotros": "regimos",
+    "Vosotros": "regís",
+    "Ellos": "rigen"
+  },
+  "IndicativePreterite": {
+    "Yo": "regí",
+    "Tu": "registe",
+    "El": "rigió",
+    "Nosotros": "regimos",
+    "Vosotros": "registeis",
+    "Ellos": "rigieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "regiré",
+    "Tu": "regirás",
+    "El": "regirá",
+    "Nosotros": "regiremos",
+    "Vosotros": "regiréis",
+    "Ellos": "regirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "regiría",
+    "Tu": "regirías",
+    "El": "regiría",
+    "Nosotros": "regiríamos",
+    "Vosotros": "regiríais",
+    "Ellos": "regirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "regía",
+    "Tu": "regías",
+    "El": "regía",
+    "Nosotros": "regíamos",
+    "Vosotros": "regíais",
+    "Ellos": "regían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy rigiendo",
+    "Tu": "estás rigiendo",
+    "El": "está rigiendo",
+    "Nosotros": "estamos rigiendo",
+    "Vosotros": "estáis rigiendo",
+    "Ellos": "están rigiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he regido",
+    "Tu": "has regido",
+    "El": "ha regido",
+    "Nosotros": "hemos regido",
+    "Vosotros": "habéis regido",
+    "Ellos": "han regido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había regido",
+    "Tu": "habías regido",
+    "El": "había regido",
+    "Nosotros": "habíamos regido",
+    "Vosotros": "habíais regido",
+    "Ellos": "habían regido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré regido",
+    "Tu": "habrás regido",
+    "El": "habrá regido",
+    "Nosotros": "habremos regido",
+    "Vosotros": "habréis regido",
+    "Ellos": "habrán regido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría regido",
+    "Tu": "habrías regido",
+    "El": "habría regido",
+    "Nosotros": "habríamos regido",
+    "Vosotros": "habríais regido",
+    "Ellos": "habrían regido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "rija",
+    "Tu": "rijas",
+    "El": "rija",
+    "Nosotros": "rijamos",
+    "Vosotros": "rijáis",
+    "Ellos": "rijan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "rige",
+    "El": "rija",
+    "Nosotros": "rijamos",
+    "Vosotros": "regid",
+    "Ellos": "rijan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no rijas",
+    "El": "no rija",
+    "Nosotros": "no rijamos",
+    "Vosotros": "no rijáis",
+    "Ellos": "no rijan"
+  },
+  "ending": "ir"
+}

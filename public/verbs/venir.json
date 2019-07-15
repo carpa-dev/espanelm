@@ -1,0 +1,113 @@
+{
+  "verb": "venir",
+  "englishInfinitive": "to come",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "vengo",
+    "Tu": "vienes",
+    "El": "viene",
+    "Nosotros": "venimos",
+    "Vosotros": "venís",
+    "Ellos": "vienen"
+  },
+  "IndicativePreterite": {
+    "Yo": "vine",
+    "Tu": "viniste",
+    "El": "vino",
+    "Nosotros": "vinimos",
+    "Vosotros": "vinisteis",
+    "Ellos": "vinieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "vendré",
+    "Tu": "vendrás",
+    "El": "vendrá",
+    "Nosotros": "vendremos",
+    "Vosotros": "vendréis",
+    "Ellos": "vendrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "vendría",
+    "Tu": "vendrías",
+    "El": "vendría",
+    "Nosotros": "vendríamos",
+    "Vosotros": "vendríais",
+    "Ellos": "vendrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "venía",
+    "Tu": "venías",
+    "El": "venía",
+    "Nosotros": "veníamos",
+    "Vosotros": "veníais",
+    "Ellos": "venían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy viniendo",
+    "Tu": "estás viniendo",
+    "El": "está viniendo",
+    "Nosotros": "estamos viniendo",
+    "Vosotros": "estáis viniendo",
+    "Ellos": "están viniendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he venido",
+    "Tu": "has venido",
+    "El": "ha venido",
+    "Nosotros": "hemos venido",
+    "Vosotros": "habéis venido",
+    "Ellos": "han venido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había venido",
+    "Tu": "habías venido",
+    "El": "había venido",
+    "Nosotros": "habíamos venido",
+    "Vosotros": "habíais venido",
+    "Ellos": "habían venido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré venido",
+    "Tu": "habrás venido",
+    "El": "habrá venido",
+    "Nosotros": "habremos venido",
+    "Vosotros": "habréis venido",
+    "Ellos": "habrán venido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría venido",
+    "Tu": "habrías venido",
+    "El": "habría venido",
+    "Nosotros": "habríamos venido",
+    "Vosotros": "habríais venido",
+    "Ellos": "habrían venido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "venga",
+    "Tu": "vengas",
+    "El": "venga",
+    "Nosotros": "vengamos",
+    "Vosotros": "vengáis",
+    "Ellos": "vengan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ven",
+    "El": "venga",
+    "Nosotros": "vengamos",
+    "Vosotros": "venid",
+    "Ellos": "vengan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no vengas",
+    "El": "no venga",
+    "Nosotros": "no vengamos",
+    "Vosotros": "no vengáis",
+    "Ellos": "no vengan"
+  },
+  "ending": "ir"
+}

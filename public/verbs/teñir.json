@@ -1,0 +1,113 @@
+{
+  "verb": "teñir",
+  "englishInfinitive": "to dye",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "tiño",
+    "Tu": "tiñes",
+    "El": "tiñe",
+    "Nosotros": "teñimos",
+    "Vosotros": "teñís",
+    "Ellos": "tiñen"
+  },
+  "IndicativePreterite": {
+    "Yo": "teñí",
+    "Tu": "teñiste",
+    "El": "tiñó",
+    "Nosotros": "teñimos",
+    "Vosotros": "teñisteis",
+    "Ellos": "tiñeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "teñiré",
+    "Tu": "teñirás",
+    "El": "teñirá",
+    "Nosotros": "teñiremos",
+    "Vosotros": "teñiréis",
+    "Ellos": "teñirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "teñiría",
+    "Tu": "teñirías",
+    "El": "teñiría",
+    "Nosotros": "teñiríamos",
+    "Vosotros": "teñiríais",
+    "Ellos": "teñirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "teñía",
+    "Tu": "teñías",
+    "El": "teñía",
+    "Nosotros": "teñíamos",
+    "Vosotros": "teñíais",
+    "Ellos": "teñían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy tiñendo",
+    "Tu": "estás tiñendo",
+    "El": "está tiñendo",
+    "Nosotros": "estamos tiñendo",
+    "Vosotros": "estáis tiñendo",
+    "Ellos": "están tiñendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he teñido",
+    "Tu": "has teñido",
+    "El": "ha teñido",
+    "Nosotros": "hemos teñido",
+    "Vosotros": "habéis teñido",
+    "Ellos": "han teñido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había teñido",
+    "Tu": "habías teñido",
+    "El": "había teñido",
+    "Nosotros": "habíamos teñido",
+    "Vosotros": "habíais teñido",
+    "Ellos": "habían teñido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré teñido",
+    "Tu": "habrás teñido",
+    "El": "habrá teñido",
+    "Nosotros": "habremos teñido",
+    "Vosotros": "habréis teñido",
+    "Ellos": "habrán teñido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría teñido",
+    "Tu": "habrías teñido",
+    "El": "habría teñido",
+    "Nosotros": "habríamos teñido",
+    "Vosotros": "habríais teñido",
+    "Ellos": "habrían teñido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "tiña",
+    "Tu": "tiñas",
+    "El": "tiña",
+    "Nosotros": "tiñamos",
+    "Vosotros": "tiñáis",
+    "Ellos": "tiñan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "tiñe",
+    "El": "tiña",
+    "Nosotros": "tiñamos",
+    "Vosotros": "teñid",
+    "Ellos": "tiñan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no tiñas",
+    "El": "no tiña",
+    "Nosotros": "no tiñamos",
+    "Vosotros": "no tiñáis",
+    "Ellos": "no tiñan"
+  },
+  "ending": "ir"
+}

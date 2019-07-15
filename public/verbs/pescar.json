@@ -1,0 +1,113 @@
+{
+  "verb": "pescar",
+  "englishInfinitive": "to fish",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "pesco",
+    "Tu": "pescas",
+    "El": "pesca",
+    "Nosotros": "pescamos",
+    "Vosotros": "pescáis",
+    "Ellos": "pescan"
+  },
+  "IndicativePreterite": {
+    "Yo": "pesqué",
+    "Tu": "pescaste",
+    "El": "pescó",
+    "Nosotros": "pescamos",
+    "Vosotros": "pescasteis",
+    "Ellos": "pescaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "pescaré",
+    "Tu": "pescarás",
+    "El": "pescará",
+    "Nosotros": "pescaremos",
+    "Vosotros": "pescaréis",
+    "Ellos": "pescarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "pescaría",
+    "Tu": "pescarías",
+    "El": "pescaría",
+    "Nosotros": "pescaríamos",
+    "Vosotros": "pescaríais",
+    "Ellos": "pescarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "pescaba",
+    "Tu": "pescabas",
+    "El": "pescaba",
+    "Nosotros": "pescábamos",
+    "Vosotros": "pescabais",
+    "Ellos": "pescaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy pescando",
+    "Tu": "estás pescando",
+    "El": "está pescando",
+    "Nosotros": "estamos pescando",
+    "Vosotros": "estáis pescando",
+    "Ellos": "están pescando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he pescado",
+    "Tu": "has pescado",
+    "El": "ha pescado",
+    "Nosotros": "hemos pescado",
+    "Vosotros": "habéis pescado",
+    "Ellos": "han pescado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había pescado",
+    "Tu": "habías pescado",
+    "El": "había pescado",
+    "Nosotros": "habíamos pescado",
+    "Vosotros": "habíais pescado",
+    "Ellos": "habían pescado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré pescado",
+    "Tu": "habrás pescado",
+    "El": "habrá pescado",
+    "Nosotros": "habremos pescado",
+    "Vosotros": "habréis pescado",
+    "Ellos": "habrán pescado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría pescado",
+    "Tu": "habrías pescado",
+    "El": "habría pescado",
+    "Nosotros": "habríamos pescado",
+    "Vosotros": "habríais pescado",
+    "Ellos": "habrían pescado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "pesque",
+    "Tu": "pesques",
+    "El": "pesque",
+    "Nosotros": "pesquemos",
+    "Vosotros": "pesquéis",
+    "Ellos": "pesquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "pesca",
+    "El": "pesque",
+    "Nosotros": "pesquemos",
+    "Vosotros": "pescad",
+    "Ellos": "pesquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no pesques",
+    "El": "no pesque",
+    "Nosotros": "no pesquemos",
+    "Vosotros": "no pesquéis",
+    "Ellos": "no pesquen"
+  },
+  "ending": "ar"
+}

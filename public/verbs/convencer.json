@@ -1,0 +1,113 @@
+{
+  "verb": "convencer",
+  "englishInfinitive": "to convince",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "convenzo",
+    "Tu": "convences",
+    "El": "convence",
+    "Nosotros": "convencemos",
+    "Vosotros": "convencéis",
+    "Ellos": "convencen"
+  },
+  "IndicativePreterite": {
+    "Yo": "convencí",
+    "Tu": "convenciste",
+    "El": "convenció",
+    "Nosotros": "convencimos",
+    "Vosotros": "convencisteis",
+    "Ellos": "convencieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "convenceré",
+    "Tu": "convencerás",
+    "El": "convencerá",
+    "Nosotros": "convenceremos",
+    "Vosotros": "convenceréis",
+    "Ellos": "convencerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "convencería",
+    "Tu": "convencerías",
+    "El": "convencería",
+    "Nosotros": "convenceríamos",
+    "Vosotros": "convenceríais",
+    "Ellos": "convencerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "convencía",
+    "Tu": "convencías",
+    "El": "convencía",
+    "Nosotros": "convencíamos",
+    "Vosotros": "convencíais",
+    "Ellos": "convencían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy convenciendo",
+    "Tu": "estás convenciendo",
+    "El": "está convenciendo",
+    "Nosotros": "estamos convenciendo",
+    "Vosotros": "estáis convenciendo",
+    "Ellos": "están convenciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he convencido",
+    "Tu": "has convencido",
+    "El": "ha convencido",
+    "Nosotros": "hemos convencido",
+    "Vosotros": "habéis convencido",
+    "Ellos": "han convencido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había convencido",
+    "Tu": "habías convencido",
+    "El": "había convencido",
+    "Nosotros": "habíamos convencido",
+    "Vosotros": "habíais convencido",
+    "Ellos": "habían convencido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré convencido",
+    "Tu": "habrás convencido",
+    "El": "habrá convencido",
+    "Nosotros": "habremos convencido",
+    "Vosotros": "habréis convencido",
+    "Ellos": "habrán convencido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría convencido",
+    "Tu": "habrías convencido",
+    "El": "habría convencido",
+    "Nosotros": "habríamos convencido",
+    "Vosotros": "habríais convencido",
+    "Ellos": "habrían convencido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "convenza",
+    "Tu": "convenzas",
+    "El": "convenza",
+    "Nosotros": "convenzamos",
+    "Vosotros": "convenzáis",
+    "Ellos": "convenzan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "convence",
+    "El": "convenza",
+    "Nosotros": "convenzamos",
+    "Vosotros": "convenced",
+    "Ellos": "convenzan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no convenzas",
+    "El": "no convenza",
+    "Nosotros": "no convenzamos",
+    "Vosotros": "no convenzáis",
+    "Ellos": "no convenzan"
+  },
+  "ending": "er"
+}

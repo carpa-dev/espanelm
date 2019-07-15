@@ -1,0 +1,113 @@
+{
+  "verb": "temer",
+  "englishInfinitive": "to fear",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "temo",
+    "Tu": "temes",
+    "El": "teme",
+    "Nosotros": "tememos",
+    "Vosotros": "teméis",
+    "Ellos": "temen"
+  },
+  "IndicativePreterite": {
+    "Yo": "temí",
+    "Tu": "temiste",
+    "El": "temió",
+    "Nosotros": "temimos",
+    "Vosotros": "temisteis",
+    "Ellos": "temieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "temeré",
+    "Tu": "temerás",
+    "El": "temerá",
+    "Nosotros": "temeremos",
+    "Vosotros": "temeréis",
+    "Ellos": "temerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "temería",
+    "Tu": "temerías",
+    "El": "temería",
+    "Nosotros": "temeríamos",
+    "Vosotros": "temeríais",
+    "Ellos": "temerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "temía",
+    "Tu": "temías",
+    "El": "temía",
+    "Nosotros": "temíamos",
+    "Vosotros": "temíais",
+    "Ellos": "temían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy temiendo",
+    "Tu": "estás temiendo",
+    "El": "está temiendo",
+    "Nosotros": "estamos temiendo",
+    "Vosotros": "estáis temiendo",
+    "Ellos": "están temiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he temido",
+    "Tu": "has temido",
+    "El": "ha temido",
+    "Nosotros": "hemos temido",
+    "Vosotros": "habéis temido",
+    "Ellos": "han temido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había temido",
+    "Tu": "habías temido",
+    "El": "había temido",
+    "Nosotros": "habíamos temido",
+    "Vosotros": "habíais temido",
+    "Ellos": "habían temido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré temido",
+    "Tu": "habrás temido",
+    "El": "habrá temido",
+    "Nosotros": "habremos temido",
+    "Vosotros": "habréis temido",
+    "Ellos": "habrán temido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría temido",
+    "Tu": "habrías temido",
+    "El": "habría temido",
+    "Nosotros": "habríamos temido",
+    "Vosotros": "habríais temido",
+    "Ellos": "habrían temido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "tema",
+    "Tu": "temas",
+    "El": "tema",
+    "Nosotros": "temamos",
+    "Vosotros": "temáis",
+    "Ellos": "teman"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "teme",
+    "El": "tema",
+    "Nosotros": "temamos",
+    "Vosotros": "temed",
+    "Ellos": "teman"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no temas",
+    "El": "no tema",
+    "Nosotros": "no temamos",
+    "Vosotros": "no temáis",
+    "Ellos": "no teman"
+  },
+  "ending": "er"
+}

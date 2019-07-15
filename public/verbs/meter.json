@@ -1,0 +1,113 @@
+{
+  "verb": "meter",
+  "englishInfinitive": "to put [in]",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "meto",
+    "Tu": "metes",
+    "El": "mete",
+    "Nosotros": "metemos",
+    "Vosotros": "metéis",
+    "Ellos": "meten"
+  },
+  "IndicativePreterite": {
+    "Yo": "metí",
+    "Tu": "metiste",
+    "El": "metió",
+    "Nosotros": "metimos",
+    "Vosotros": "metisteis",
+    "Ellos": "metieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "meteré",
+    "Tu": "meterás",
+    "El": "meterá",
+    "Nosotros": "meteremos",
+    "Vosotros": "meteréis",
+    "Ellos": "meterán"
+  },
+  "ConditionalPresent": {
+    "Yo": "metería",
+    "Tu": "meterías",
+    "El": "metería",
+    "Nosotros": "meteríamos",
+    "Vosotros": "meteríais",
+    "Ellos": "meterían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "metía",
+    "Tu": "metías",
+    "El": "metía",
+    "Nosotros": "metíamos",
+    "Vosotros": "metíais",
+    "Ellos": "metían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy metiendo",
+    "Tu": "estás metiendo",
+    "El": "está metiendo",
+    "Nosotros": "estamos metiendo",
+    "Vosotros": "estáis metiendo",
+    "Ellos": "están metiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he metido",
+    "Tu": "has metido",
+    "El": "ha metido",
+    "Nosotros": "hemos metido",
+    "Vosotros": "habéis metido",
+    "Ellos": "han metido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había metido",
+    "Tu": "habías metido",
+    "El": "había metido",
+    "Nosotros": "habíamos metido",
+    "Vosotros": "habíais metido",
+    "Ellos": "habían metido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré metido",
+    "Tu": "habrás metido",
+    "El": "habrá metido",
+    "Nosotros": "habremos metido",
+    "Vosotros": "habréis metido",
+    "Ellos": "habrán metido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría metido",
+    "Tu": "habrías metido",
+    "El": "habría metido",
+    "Nosotros": "habríamos metido",
+    "Vosotros": "habríais metido",
+    "Ellos": "habrían metido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "meta",
+    "Tu": "metas",
+    "El": "meta",
+    "Nosotros": "metamos",
+    "Vosotros": "metáis",
+    "Ellos": "metan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "mete",
+    "El": "meta",
+    "Nosotros": "metamos",
+    "Vosotros": "meted",
+    "Ellos": "metan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no metas",
+    "El": "no meta",
+    "Nosotros": "no metamos",
+    "Vosotros": "no metáis",
+    "Ellos": "no metan"
+  },
+  "ending": "er"
+}

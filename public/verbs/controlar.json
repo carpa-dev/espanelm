@@ -1,0 +1,113 @@
+{
+  "verb": "controlar",
+  "englishInfinitive": "to control",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "controlo",
+    "Tu": "controlas",
+    "El": "controla",
+    "Nosotros": "controlamos",
+    "Vosotros": "controláis",
+    "Ellos": "controlan"
+  },
+  "IndicativePreterite": {
+    "Yo": "controlé",
+    "Tu": "controlaste",
+    "El": "controló",
+    "Nosotros": "controlamos",
+    "Vosotros": "controlasteis",
+    "Ellos": "controlaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "controlaré",
+    "Tu": "controlarás",
+    "El": "controlará",
+    "Nosotros": "controlaremos",
+    "Vosotros": "controlaréis",
+    "Ellos": "controlarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "controlaría",
+    "Tu": "controlarías",
+    "El": "controlaría",
+    "Nosotros": "controlaríamos",
+    "Vosotros": "controlaríais",
+    "Ellos": "controlarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "controlaba",
+    "Tu": "controlabas",
+    "El": "controlaba",
+    "Nosotros": "controlábamos",
+    "Vosotros": "controlabais",
+    "Ellos": "controlaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy controlando",
+    "Tu": "estás controlando",
+    "El": "está controlando",
+    "Nosotros": "estamos controlando",
+    "Vosotros": "estáis controlando",
+    "Ellos": "están controlando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he controlado",
+    "Tu": "has controlado",
+    "El": "ha controlado",
+    "Nosotros": "hemos controlado",
+    "Vosotros": "habéis controlado",
+    "Ellos": "han controlado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había controlado",
+    "Tu": "habías controlado",
+    "El": "había controlado",
+    "Nosotros": "habíamos controlado",
+    "Vosotros": "habíais controlado",
+    "Ellos": "habían controlado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré controlado",
+    "Tu": "habrás controlado",
+    "El": "habrá controlado",
+    "Nosotros": "habremos controlado",
+    "Vosotros": "habréis controlado",
+    "Ellos": "habrán controlado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría controlado",
+    "Tu": "habrías controlado",
+    "El": "habría controlado",
+    "Nosotros": "habríamos controlado",
+    "Vosotros": "habríais controlado",
+    "Ellos": "habrían controlado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "controle",
+    "Tu": "controles",
+    "El": "controle",
+    "Nosotros": "controlemos",
+    "Vosotros": "controléis",
+    "Ellos": "controlen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "controla",
+    "El": "controle",
+    "Nosotros": "controlemos",
+    "Vosotros": "controlad",
+    "Ellos": "controlen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no controles",
+    "El": "no controle",
+    "Nosotros": "no controlemos",
+    "Vosotros": "no controléis",
+    "Ellos": "no controlen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "cumplir",
+  "englishInfinitive": "to fulfil",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "cumplo",
+    "Tu": "cumples",
+    "El": "cumple",
+    "Nosotros": "cumplimos",
+    "Vosotros": "cumplís",
+    "Ellos": "cumplen"
+  },
+  "IndicativePreterite": {
+    "Yo": "cumplí",
+    "Tu": "cumpliste",
+    "El": "cumplió",
+    "Nosotros": "cumplimos",
+    "Vosotros": "cumplisteis",
+    "Ellos": "cumplieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cumpliré",
+    "Tu": "cumplirás",
+    "El": "cumplirá",
+    "Nosotros": "cumpliremos",
+    "Vosotros": "cumpliréis",
+    "Ellos": "cumplirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cumpliría",
+    "Tu": "cumplirías",
+    "El": "cumpliría",
+    "Nosotros": "cumpliríamos",
+    "Vosotros": "cumpliríais",
+    "Ellos": "cumplirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cumplía",
+    "Tu": "cumplías",
+    "El": "cumplía",
+    "Nosotros": "cumplíamos",
+    "Vosotros": "cumplíais",
+    "Ellos": "cumplían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cumpliendo",
+    "Tu": "estás cumpliendo",
+    "El": "está cumpliendo",
+    "Nosotros": "estamos cumpliendo",
+    "Vosotros": "estáis cumpliendo",
+    "Ellos": "están cumpliendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cumplido",
+    "Tu": "has cumplido",
+    "El": "ha cumplido",
+    "Nosotros": "hemos cumplido",
+    "Vosotros": "habéis cumplido",
+    "Ellos": "han cumplido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cumplido",
+    "Tu": "habías cumplido",
+    "El": "había cumplido",
+    "Nosotros": "habíamos cumplido",
+    "Vosotros": "habíais cumplido",
+    "Ellos": "habían cumplido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cumplido",
+    "Tu": "habrás cumplido",
+    "El": "habrá cumplido",
+    "Nosotros": "habremos cumplido",
+    "Vosotros": "habréis cumplido",
+    "Ellos": "habrán cumplido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cumplido",
+    "Tu": "habrías cumplido",
+    "El": "habría cumplido",
+    "Nosotros": "habríamos cumplido",
+    "Vosotros": "habríais cumplido",
+    "Ellos": "habrían cumplido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cumpla",
+    "Tu": "cumplas",
+    "El": "cumpla",
+    "Nosotros": "cumplamos",
+    "Vosotros": "cumpláis",
+    "Ellos": "cumplan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cumple",
+    "El": "cumpla",
+    "Nosotros": "cumplamos",
+    "Vosotros": "cumplid",
+    "Ellos": "cumplan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cumplas",
+    "El": "no cumpla",
+    "Nosotros": "no cumplamos",
+    "Vosotros": "no cumpláis",
+    "Ellos": "no cumplan"
+  },
+  "ending": "ir"
+}

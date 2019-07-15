@@ -1,0 +1,113 @@
+{
+  "verb": "morir",
+  "englishInfinitive": "to die",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "muero",
+    "Tu": "mueres",
+    "El": "muere",
+    "Nosotros": "morimos",
+    "Vosotros": "morís",
+    "Ellos": "mueren"
+  },
+  "IndicativePreterite": {
+    "Yo": "morí",
+    "Tu": "moriste",
+    "El": "murió",
+    "Nosotros": "morimos",
+    "Vosotros": "moristeis",
+    "Ellos": "murieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "moriré",
+    "Tu": "morirás",
+    "El": "morirá",
+    "Nosotros": "moriremos",
+    "Vosotros": "moriréis",
+    "Ellos": "morirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "moriría",
+    "Tu": "morirías",
+    "El": "moriría",
+    "Nosotros": "moriríamos",
+    "Vosotros": "moriríais",
+    "Ellos": "morirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "moría",
+    "Tu": "morías",
+    "El": "moría",
+    "Nosotros": "moríamos",
+    "Vosotros": "moríais",
+    "Ellos": "morían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy muriendo",
+    "Tu": "estás muriendo",
+    "El": "está muriendo",
+    "Nosotros": "estamos muriendo",
+    "Vosotros": "estáis muriendo",
+    "Ellos": "están muriendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he muerto",
+    "Tu": "has muerto",
+    "El": "ha muerto",
+    "Nosotros": "hemos muerto",
+    "Vosotros": "habéis muerto",
+    "Ellos": "han muerto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había muerto",
+    "Tu": "habías muerto",
+    "El": "había muerto",
+    "Nosotros": "habíamos muerto",
+    "Vosotros": "habíais muerto",
+    "Ellos": "habían muerto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré muerto",
+    "Tu": "habrás muerto",
+    "El": "habrá muerto",
+    "Nosotros": "habremos muerto",
+    "Vosotros": "habréis muerto",
+    "Ellos": "habrán muerto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría muerto",
+    "Tu": "habrías muerto",
+    "El": "habría muerto",
+    "Nosotros": "habríamos muerto",
+    "Vosotros": "habríais muerto",
+    "Ellos": "habrían muerto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "muera",
+    "Tu": "mueras",
+    "El": "muera",
+    "Nosotros": "muramos",
+    "Vosotros": "muráis",
+    "Ellos": "mueran"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "muere",
+    "El": "muera",
+    "Nosotros": "muramos",
+    "Vosotros": "morid",
+    "Ellos": "mueran"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no mueras",
+    "El": "no muera",
+    "Nosotros": "no muramos",
+    "Vosotros": "no muráis",
+    "Ellos": "no mueran"
+  },
+  "ending": "ir"
+}

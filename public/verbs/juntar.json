@@ -1,0 +1,113 @@
+{
+  "verb": "juntar",
+  "englishInfinitive": "to join",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "junto",
+    "Tu": "juntas",
+    "El": "junta",
+    "Nosotros": "juntamos",
+    "Vosotros": "juntáis",
+    "Ellos": "juntan"
+  },
+  "IndicativePreterite": {
+    "Yo": "junté",
+    "Tu": "juntaste",
+    "El": "juntó",
+    "Nosotros": "juntamos",
+    "Vosotros": "juntasteis",
+    "Ellos": "juntaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "juntaré",
+    "Tu": "juntarás",
+    "El": "juntará",
+    "Nosotros": "juntaremos",
+    "Vosotros": "juntaréis",
+    "Ellos": "juntarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "juntaría",
+    "Tu": "juntarías",
+    "El": "juntaría",
+    "Nosotros": "juntaríamos",
+    "Vosotros": "juntaríais",
+    "Ellos": "juntarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "juntaba",
+    "Tu": "juntabas",
+    "El": "juntaba",
+    "Nosotros": "juntábamos",
+    "Vosotros": "juntabais",
+    "Ellos": "juntaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy juntando",
+    "Tu": "estás juntando",
+    "El": "está juntando",
+    "Nosotros": "estamos juntando",
+    "Vosotros": "estáis juntando",
+    "Ellos": "están juntando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he juntado",
+    "Tu": "has juntado",
+    "El": "ha juntado",
+    "Nosotros": "hemos juntado",
+    "Vosotros": "habéis juntado",
+    "Ellos": "han juntado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había juntado",
+    "Tu": "habías juntado",
+    "El": "había juntado",
+    "Nosotros": "habíamos juntado",
+    "Vosotros": "habíais juntado",
+    "Ellos": "habían juntado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré juntado",
+    "Tu": "habrás juntado",
+    "El": "habrá juntado",
+    "Nosotros": "habremos juntado",
+    "Vosotros": "habréis juntado",
+    "Ellos": "habrán juntado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría juntado",
+    "Tu": "habrías juntado",
+    "El": "habría juntado",
+    "Nosotros": "habríamos juntado",
+    "Vosotros": "habríais juntado",
+    "Ellos": "habrían juntado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "junte",
+    "Tu": "juntes",
+    "El": "junte",
+    "Nosotros": "juntemos",
+    "Vosotros": "juntéis",
+    "Ellos": "junten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "junta",
+    "El": "junte",
+    "Nosotros": "juntemos",
+    "Vosotros": "juntad",
+    "Ellos": "junten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no juntes",
+    "El": "no junte",
+    "Nosotros": "no juntemos",
+    "Vosotros": "no juntéis",
+    "Ellos": "no junten"
+  },
+  "ending": "ar"
+}

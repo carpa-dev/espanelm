@@ -1,0 +1,113 @@
+{
+  "verb": "estar",
+  "englishInfinitive": "to be",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "estoy",
+    "Tu": "estás",
+    "El": "está",
+    "Nosotros": "estamos",
+    "Vosotros": "estáis",
+    "Ellos": "están"
+  },
+  "IndicativePreterite": {
+    "Yo": "estuve",
+    "Tu": "estuviste",
+    "El": "estuvo",
+    "Nosotros": "estuvimos",
+    "Vosotros": "estuvisteis",
+    "Ellos": "estuvieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "estaré",
+    "Tu": "estarás",
+    "El": "estará",
+    "Nosotros": "estaremos",
+    "Vosotros": "estaréis",
+    "Ellos": "estarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "estaría",
+    "Tu": "estarías",
+    "El": "estaría",
+    "Nosotros": "estaríamos",
+    "Vosotros": "estaríais",
+    "Ellos": "estarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "estaba",
+    "Tu": "estabas",
+    "El": "estaba",
+    "Nosotros": "estábamos",
+    "Vosotros": "estabais",
+    "Ellos": "estaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy estando",
+    "Tu": "estás estando",
+    "El": "está estando",
+    "Nosotros": "estamos estando",
+    "Vosotros": "estáis estando",
+    "Ellos": "están estando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he estado",
+    "Tu": "has estado",
+    "El": "ha estado",
+    "Nosotros": "hemos estado",
+    "Vosotros": "habéis estado",
+    "Ellos": "han estado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había estado",
+    "Tu": "habías estado",
+    "El": "había estado",
+    "Nosotros": "habíamos estado",
+    "Vosotros": "habíais estado",
+    "Ellos": "habían estado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré estado",
+    "Tu": "habrás estado",
+    "El": "habrá estado",
+    "Nosotros": "habremos estado",
+    "Vosotros": "habréis estado",
+    "Ellos": "habrán estado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría estado",
+    "Tu": "habrías estado",
+    "El": "habría estado",
+    "Nosotros": "habríamos estado",
+    "Vosotros": "habríais estado",
+    "Ellos": "habrían estado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "esté",
+    "Tu": "estés",
+    "El": "esté",
+    "Nosotros": "estemos",
+    "Vosotros": "estéis",
+    "Ellos": "estén"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "está",
+    "El": "esté",
+    "Nosotros": "estemos",
+    "Vosotros": "estad",
+    "Ellos": "estén"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no estés",
+    "El": "no esté",
+    "Nosotros": "no estemos",
+    "Vosotros": "no estéis",
+    "Ellos": "no estén"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "parecer",
+  "englishInfinitive": "to seem",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "parezco",
+    "Tu": "pareces",
+    "El": "parece",
+    "Nosotros": "parecemos",
+    "Vosotros": "parecéis",
+    "Ellos": "parecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "parecí",
+    "Tu": "pareciste",
+    "El": "pareció",
+    "Nosotros": "parecimos",
+    "Vosotros": "parecisteis",
+    "Ellos": "parecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "pareceré",
+    "Tu": "parecerás",
+    "El": "parecerá",
+    "Nosotros": "pareceremos",
+    "Vosotros": "pareceréis",
+    "Ellos": "parecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "parecería",
+    "Tu": "parecerías",
+    "El": "parecería",
+    "Nosotros": "pareceríamos",
+    "Vosotros": "pareceríais",
+    "Ellos": "parecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "parecía",
+    "Tu": "parecías",
+    "El": "parecía",
+    "Nosotros": "parecíamos",
+    "Vosotros": "parecíais",
+    "Ellos": "parecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy pareciendo",
+    "Tu": "estás pareciendo",
+    "El": "está pareciendo",
+    "Nosotros": "estamos pareciendo",
+    "Vosotros": "estáis pareciendo",
+    "Ellos": "están pareciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he parecido",
+    "Tu": "has parecido",
+    "El": "ha parecido",
+    "Nosotros": "hemos parecido",
+    "Vosotros": "habéis parecido",
+    "Ellos": "han parecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había parecido",
+    "Tu": "habías parecido",
+    "El": "había parecido",
+    "Nosotros": "habíamos parecido",
+    "Vosotros": "habíais parecido",
+    "Ellos": "habían parecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré parecido",
+    "Tu": "habrás parecido",
+    "El": "habrá parecido",
+    "Nosotros": "habremos parecido",
+    "Vosotros": "habréis parecido",
+    "Ellos": "habrán parecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría parecido",
+    "Tu": "habrías parecido",
+    "El": "habría parecido",
+    "Nosotros": "habríamos parecido",
+    "Vosotros": "habríais parecido",
+    "Ellos": "habrían parecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "parezca",
+    "Tu": "parezcas",
+    "El": "parezca",
+    "Nosotros": "parezcamos",
+    "Vosotros": "parezcáis",
+    "Ellos": "parezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "parece",
+    "El": "parezca",
+    "Nosotros": "parezcamos",
+    "Vosotros": "pareced",
+    "Ellos": "parezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no parezcas",
+    "El": "no parezca",
+    "Nosotros": "no parezcamos",
+    "Vosotros": "no parezcáis",
+    "Ellos": "no parezcan"
+  },
+  "ending": "er"
+}

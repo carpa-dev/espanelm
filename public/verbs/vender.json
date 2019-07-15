@@ -1,0 +1,113 @@
+{
+  "verb": "vender",
+  "englishInfinitive": "to sell",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "vendo",
+    "Tu": "vendes",
+    "El": "vende",
+    "Nosotros": "vendemos",
+    "Vosotros": "vendéis",
+    "Ellos": "venden"
+  },
+  "IndicativePreterite": {
+    "Yo": "vendí",
+    "Tu": "vendiste",
+    "El": "vendió",
+    "Nosotros": "vendimos",
+    "Vosotros": "vendisteis",
+    "Ellos": "vendieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "venderé",
+    "Tu": "venderás",
+    "El": "venderá",
+    "Nosotros": "venderemos",
+    "Vosotros": "venderéis",
+    "Ellos": "venderán"
+  },
+  "ConditionalPresent": {
+    "Yo": "vendería",
+    "Tu": "venderías",
+    "El": "vendería",
+    "Nosotros": "venderíamos",
+    "Vosotros": "venderíais",
+    "Ellos": "venderían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "vendía",
+    "Tu": "vendías",
+    "El": "vendía",
+    "Nosotros": "vendíamos",
+    "Vosotros": "vendíais",
+    "Ellos": "vendían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy vendiendo",
+    "Tu": "estás vendiendo",
+    "El": "está vendiendo",
+    "Nosotros": "estamos vendiendo",
+    "Vosotros": "estáis vendiendo",
+    "Ellos": "están vendiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he vendido",
+    "Tu": "has vendido",
+    "El": "ha vendido",
+    "Nosotros": "hemos vendido",
+    "Vosotros": "habéis vendido",
+    "Ellos": "han vendido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había vendido",
+    "Tu": "habías vendido",
+    "El": "había vendido",
+    "Nosotros": "habíamos vendido",
+    "Vosotros": "habíais vendido",
+    "Ellos": "habían vendido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré vendido",
+    "Tu": "habrás vendido",
+    "El": "habrá vendido",
+    "Nosotros": "habremos vendido",
+    "Vosotros": "habréis vendido",
+    "Ellos": "habrán vendido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría vendido",
+    "Tu": "habrías vendido",
+    "El": "habría vendido",
+    "Nosotros": "habríamos vendido",
+    "Vosotros": "habríais vendido",
+    "Ellos": "habrían vendido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "venda",
+    "Tu": "vendas",
+    "El": "venda",
+    "Nosotros": "vendamos",
+    "Vosotros": "vendáis",
+    "Ellos": "vendan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "vende",
+    "El": "venda",
+    "Nosotros": "vendamos",
+    "Vosotros": "vended",
+    "Ellos": "vendan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no vendas",
+    "El": "no venda",
+    "Nosotros": "no vendamos",
+    "Vosotros": "no vendáis",
+    "Ellos": "no vendan"
+  },
+  "ending": "er"
+}

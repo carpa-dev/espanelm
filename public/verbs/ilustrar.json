@@ -1,0 +1,113 @@
+{
+  "verb": "ilustrar",
+  "englishInfinitive": "to illustrate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "ilustro",
+    "Tu": "ilustras",
+    "El": "ilustra",
+    "Nosotros": "ilustramos",
+    "Vosotros": "ilustráis",
+    "Ellos": "ilustran"
+  },
+  "IndicativePreterite": {
+    "Yo": "ilustré",
+    "Tu": "ilustraste",
+    "El": "ilustró",
+    "Nosotros": "ilustramos",
+    "Vosotros": "ilustrasteis",
+    "Ellos": "ilustraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "ilustraré",
+    "Tu": "ilustrarás",
+    "El": "ilustrará",
+    "Nosotros": "ilustraremos",
+    "Vosotros": "ilustraréis",
+    "Ellos": "ilustrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "ilustraría",
+    "Tu": "ilustrarías",
+    "El": "ilustraría",
+    "Nosotros": "ilustraríamos",
+    "Vosotros": "ilustraríais",
+    "Ellos": "ilustrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "ilustraba",
+    "Tu": "ilustrabas",
+    "El": "ilustraba",
+    "Nosotros": "ilustrábamos",
+    "Vosotros": "ilustrabais",
+    "Ellos": "ilustraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy ilustrando",
+    "Tu": "estás ilustrando",
+    "El": "está ilustrando",
+    "Nosotros": "estamos ilustrando",
+    "Vosotros": "estáis ilustrando",
+    "Ellos": "están ilustrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he ilustrado",
+    "Tu": "has ilustrado",
+    "El": "ha ilustrado",
+    "Nosotros": "hemos ilustrado",
+    "Vosotros": "habéis ilustrado",
+    "Ellos": "han ilustrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había ilustrado",
+    "Tu": "habías ilustrado",
+    "El": "había ilustrado",
+    "Nosotros": "habíamos ilustrado",
+    "Vosotros": "habíais ilustrado",
+    "Ellos": "habían ilustrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré ilustrado",
+    "Tu": "habrás ilustrado",
+    "El": "habrá ilustrado",
+    "Nosotros": "habremos ilustrado",
+    "Vosotros": "habréis ilustrado",
+    "Ellos": "habrán ilustrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría ilustrado",
+    "Tu": "habrías ilustrado",
+    "El": "habría ilustrado",
+    "Nosotros": "habríamos ilustrado",
+    "Vosotros": "habríais ilustrado",
+    "Ellos": "habrían ilustrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ilustre",
+    "Tu": "ilustres",
+    "El": "ilustre",
+    "Nosotros": "ilustremos",
+    "Vosotros": "ilustréis",
+    "Ellos": "ilustren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ilustra",
+    "El": "ilustre",
+    "Nosotros": "ilustremos",
+    "Vosotros": "ilustrad",
+    "Ellos": "ilustren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ilustres",
+    "El": "no ilustre",
+    "Nosotros": "no ilustremos",
+    "Vosotros": "no ilustréis",
+    "Ellos": "no ilustren"
+  },
+  "ending": "ar"
+}

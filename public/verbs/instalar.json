@@ -1,0 +1,113 @@
+{
+  "verb": "instalar",
+  "englishInfinitive": "to install",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "instalo",
+    "Tu": "instalas",
+    "El": "instala",
+    "Nosotros": "instalamos",
+    "Vosotros": "instaláis",
+    "Ellos": "instalan"
+  },
+  "IndicativePreterite": {
+    "Yo": "instalé",
+    "Tu": "instalaste",
+    "El": "instaló",
+    "Nosotros": "instalamos",
+    "Vosotros": "instalasteis",
+    "Ellos": "instalaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "instalaré",
+    "Tu": "instalarás",
+    "El": "instalará",
+    "Nosotros": "instalaremos",
+    "Vosotros": "instalaréis",
+    "Ellos": "instalarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "instalaría",
+    "Tu": "instalarías",
+    "El": "instalaría",
+    "Nosotros": "instalaríamos",
+    "Vosotros": "instalaríais",
+    "Ellos": "instalarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "instalaba",
+    "Tu": "instalabas",
+    "El": "instalaba",
+    "Nosotros": "instalábamos",
+    "Vosotros": "instalabais",
+    "Ellos": "instalaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy instalando",
+    "Tu": "estás instalando",
+    "El": "está instalando",
+    "Nosotros": "estamos instalando",
+    "Vosotros": "estáis instalando",
+    "Ellos": "están instalando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he instalado",
+    "Tu": "has instalado",
+    "El": "ha instalado",
+    "Nosotros": "hemos instalado",
+    "Vosotros": "habéis instalado",
+    "Ellos": "han instalado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había instalado",
+    "Tu": "habías instalado",
+    "El": "había instalado",
+    "Nosotros": "habíamos instalado",
+    "Vosotros": "habíais instalado",
+    "Ellos": "habían instalado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré instalado",
+    "Tu": "habrás instalado",
+    "El": "habrá instalado",
+    "Nosotros": "habremos instalado",
+    "Vosotros": "habréis instalado",
+    "Ellos": "habrán instalado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría instalado",
+    "Tu": "habrías instalado",
+    "El": "habría instalado",
+    "Nosotros": "habríamos instalado",
+    "Vosotros": "habríais instalado",
+    "Ellos": "habrían instalado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "instale",
+    "Tu": "instales",
+    "El": "instale",
+    "Nosotros": "instalemos",
+    "Vosotros": "instaléis",
+    "Ellos": "instalen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "instala",
+    "El": "instale",
+    "Nosotros": "instalemos",
+    "Vosotros": "instalad",
+    "Ellos": "instalen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no instales",
+    "El": "no instale",
+    "Nosotros": "no instalemos",
+    "Vosotros": "no instaléis",
+    "Ellos": "no instalen"
+  },
+  "ending": "ar"
+}

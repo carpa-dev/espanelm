@@ -1,0 +1,113 @@
+{
+  "verb": "interpretar",
+  "englishInfinitive": "to interpret",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "interpreto",
+    "Tu": "interpretas",
+    "El": "interpreta",
+    "Nosotros": "interpretamos",
+    "Vosotros": "interpretáis",
+    "Ellos": "interpretan"
+  },
+  "IndicativePreterite": {
+    "Yo": "interpreté",
+    "Tu": "interpretaste",
+    "El": "interpretó",
+    "Nosotros": "interpretamos",
+    "Vosotros": "interpretasteis",
+    "Ellos": "interpretaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "interpretaré",
+    "Tu": "interpretarás",
+    "El": "interpretará",
+    "Nosotros": "interpretaremos",
+    "Vosotros": "interpretaréis",
+    "Ellos": "interpretarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "interpretaría",
+    "Tu": "interpretarías",
+    "El": "interpretaría",
+    "Nosotros": "interpretaríamos",
+    "Vosotros": "interpretaríais",
+    "Ellos": "interpretarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "interpretaba",
+    "Tu": "interpretabas",
+    "El": "interpretaba",
+    "Nosotros": "interpretábamos",
+    "Vosotros": "interpretabais",
+    "Ellos": "interpretaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy interpretando",
+    "Tu": "estás interpretando",
+    "El": "está interpretando",
+    "Nosotros": "estamos interpretando",
+    "Vosotros": "estáis interpretando",
+    "Ellos": "están interpretando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he interpretado",
+    "Tu": "has interpretado",
+    "El": "ha interpretado",
+    "Nosotros": "hemos interpretado",
+    "Vosotros": "habéis interpretado",
+    "Ellos": "han interpretado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había interpretado",
+    "Tu": "habías interpretado",
+    "El": "había interpretado",
+    "Nosotros": "habíamos interpretado",
+    "Vosotros": "habíais interpretado",
+    "Ellos": "habían interpretado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré interpretado",
+    "Tu": "habrás interpretado",
+    "El": "habrá interpretado",
+    "Nosotros": "habremos interpretado",
+    "Vosotros": "habréis interpretado",
+    "Ellos": "habrán interpretado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría interpretado",
+    "Tu": "habrías interpretado",
+    "El": "habría interpretado",
+    "Nosotros": "habríamos interpretado",
+    "Vosotros": "habríais interpretado",
+    "Ellos": "habrían interpretado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "interprete",
+    "Tu": "interpretes",
+    "El": "interprete",
+    "Nosotros": "interpretemos",
+    "Vosotros": "interpretéis",
+    "Ellos": "interpreten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "interpreta",
+    "El": "interprete",
+    "Nosotros": "interpretemos",
+    "Vosotros": "interpretad",
+    "Ellos": "interpreten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no interpretes",
+    "El": "no interprete",
+    "Nosotros": "no interpretemos",
+    "Vosotros": "no interpretéis",
+    "Ellos": "no interpreten"
+  },
+  "ending": "ar"
+}

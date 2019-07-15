@@ -1,0 +1,113 @@
+{
+  "verb": "reinar",
+  "englishInfinitive": "to reign",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "reino",
+    "Tu": "reinas",
+    "El": "reina",
+    "Nosotros": "reinamos",
+    "Vosotros": "reináis",
+    "Ellos": "reinan"
+  },
+  "IndicativePreterite": {
+    "Yo": "reiné",
+    "Tu": "reinaste",
+    "El": "reinó",
+    "Nosotros": "reinamos",
+    "Vosotros": "reinasteis",
+    "Ellos": "reinaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "reinaré",
+    "Tu": "reinarás",
+    "El": "reinará",
+    "Nosotros": "reinaremos",
+    "Vosotros": "reinaréis",
+    "Ellos": "reinarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "reinaría",
+    "Tu": "reinarías",
+    "El": "reinaría",
+    "Nosotros": "reinaríamos",
+    "Vosotros": "reinaríais",
+    "Ellos": "reinarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "reinaba",
+    "Tu": "reinabas",
+    "El": "reinaba",
+    "Nosotros": "reinábamos",
+    "Vosotros": "reinabais",
+    "Ellos": "reinaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy reinando",
+    "Tu": "estás reinando",
+    "El": "está reinando",
+    "Nosotros": "estamos reinando",
+    "Vosotros": "estáis reinando",
+    "Ellos": "están reinando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he reinado",
+    "Tu": "has reinado",
+    "El": "ha reinado",
+    "Nosotros": "hemos reinado",
+    "Vosotros": "habéis reinado",
+    "Ellos": "han reinado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había reinado",
+    "Tu": "habías reinado",
+    "El": "había reinado",
+    "Nosotros": "habíamos reinado",
+    "Vosotros": "habíais reinado",
+    "Ellos": "habían reinado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré reinado",
+    "Tu": "habrás reinado",
+    "El": "habrá reinado",
+    "Nosotros": "habremos reinado",
+    "Vosotros": "habréis reinado",
+    "Ellos": "habrán reinado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría reinado",
+    "Tu": "habrías reinado",
+    "El": "habría reinado",
+    "Nosotros": "habríamos reinado",
+    "Vosotros": "habríais reinado",
+    "Ellos": "habrían reinado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "reine",
+    "Tu": "reines",
+    "El": "reine",
+    "Nosotros": "reinemos",
+    "Vosotros": "reinéis",
+    "Ellos": "reinen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "reina",
+    "El": "reine",
+    "Nosotros": "reinemos",
+    "Vosotros": "reinad",
+    "Ellos": "reinen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no reines",
+    "El": "no reine",
+    "Nosotros": "no reinemos",
+    "Vosotros": "no reinéis",
+    "Ellos": "no reinen"
+  },
+  "ending": "ar"
+}

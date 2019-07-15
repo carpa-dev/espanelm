@@ -1,0 +1,113 @@
+{
+  "verb": "producir",
+  "englishInfinitive": "to produce",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "produzco",
+    "Tu": "produces",
+    "El": "produce",
+    "Nosotros": "producimos",
+    "Vosotros": "producís",
+    "Ellos": "producen"
+  },
+  "IndicativePreterite": {
+    "Yo": "produje",
+    "Tu": "produjiste",
+    "El": "produjo",
+    "Nosotros": "produjimos",
+    "Vosotros": "produjisteis",
+    "Ellos": "produjeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "produciré",
+    "Tu": "producirás",
+    "El": "producirá",
+    "Nosotros": "produciremos",
+    "Vosotros": "produciréis",
+    "Ellos": "producirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "produciría",
+    "Tu": "producirías",
+    "El": "produciría",
+    "Nosotros": "produciríamos",
+    "Vosotros": "produciríais",
+    "Ellos": "producirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "producía",
+    "Tu": "producías",
+    "El": "producía",
+    "Nosotros": "producíamos",
+    "Vosotros": "producíais",
+    "Ellos": "producían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy produciendo",
+    "Tu": "estás produciendo",
+    "El": "está produciendo",
+    "Nosotros": "estamos produciendo",
+    "Vosotros": "estáis produciendo",
+    "Ellos": "están produciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he producido",
+    "Tu": "has producido",
+    "El": "ha producido",
+    "Nosotros": "hemos producido",
+    "Vosotros": "habéis producido",
+    "Ellos": "han producido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había producido",
+    "Tu": "habías producido",
+    "El": "había producido",
+    "Nosotros": "habíamos producido",
+    "Vosotros": "habíais producido",
+    "Ellos": "habían producido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré producido",
+    "Tu": "habrás producido",
+    "El": "habrá producido",
+    "Nosotros": "habremos producido",
+    "Vosotros": "habréis producido",
+    "Ellos": "habrán producido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría producido",
+    "Tu": "habrías producido",
+    "El": "habría producido",
+    "Nosotros": "habríamos producido",
+    "Vosotros": "habríais producido",
+    "Ellos": "habrían producido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "produzca",
+    "Tu": "produzcas",
+    "El": "produzca",
+    "Nosotros": "produzcamos",
+    "Vosotros": "produzcáis",
+    "Ellos": "produzcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "produce",
+    "El": "produzca",
+    "Nosotros": "produzcamos",
+    "Vosotros": "producid",
+    "Ellos": "produzcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no produzcas",
+    "El": "no produzca",
+    "Nosotros": "no produzcamos",
+    "Vosotros": "no produzcáis",
+    "Ellos": "no produzcan"
+  },
+  "ending": "ir"
+}

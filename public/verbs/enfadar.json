@@ -1,0 +1,113 @@
+{
+  "verb": "enfadar",
+  "englishInfinitive": "to anger",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "enfado",
+    "Tu": "enfadas",
+    "El": "enfada",
+    "Nosotros": "enfadamos",
+    "Vosotros": "enfadáis",
+    "Ellos": "enfadan"
+  },
+  "IndicativePreterite": {
+    "Yo": "enfadé",
+    "Tu": "enfadaste",
+    "El": "enfadó",
+    "Nosotros": "enfadamos",
+    "Vosotros": "enfadasteis",
+    "Ellos": "enfadaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "enfadaré",
+    "Tu": "enfadarás",
+    "El": "enfadará",
+    "Nosotros": "enfadaremos",
+    "Vosotros": "enfadaréis",
+    "Ellos": "enfadarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "enfadaría",
+    "Tu": "enfadarías",
+    "El": "enfadaría",
+    "Nosotros": "enfadaríamos",
+    "Vosotros": "enfadaríais",
+    "Ellos": "enfadarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "enfadaba",
+    "Tu": "enfadabas",
+    "El": "enfadaba",
+    "Nosotros": "enfadábamos",
+    "Vosotros": "enfadabais",
+    "Ellos": "enfadaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy enfadando",
+    "Tu": "estás enfadando",
+    "El": "está enfadando",
+    "Nosotros": "estamos enfadando",
+    "Vosotros": "estáis enfadando",
+    "Ellos": "están enfadando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he enfadado",
+    "Tu": "has enfadado",
+    "El": "ha enfadado",
+    "Nosotros": "hemos enfadado",
+    "Vosotros": "habéis enfadado",
+    "Ellos": "han enfadado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había enfadado",
+    "Tu": "habías enfadado",
+    "El": "había enfadado",
+    "Nosotros": "habíamos enfadado",
+    "Vosotros": "habíais enfadado",
+    "Ellos": "habían enfadado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré enfadado",
+    "Tu": "habrás enfadado",
+    "El": "habrá enfadado",
+    "Nosotros": "habremos enfadado",
+    "Vosotros": "habréis enfadado",
+    "Ellos": "habrán enfadado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría enfadado",
+    "Tu": "habrías enfadado",
+    "El": "habría enfadado",
+    "Nosotros": "habríamos enfadado",
+    "Vosotros": "habríais enfadado",
+    "Ellos": "habrían enfadado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "enfade",
+    "Tu": "enfades",
+    "El": "enfade",
+    "Nosotros": "enfademos",
+    "Vosotros": "enfadéis",
+    "Ellos": "enfaden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "enfada",
+    "El": "enfade",
+    "Nosotros": "enfademos",
+    "Vosotros": "enfadad",
+    "Ellos": "enfaden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no enfades",
+    "El": "no enfade",
+    "Nosotros": "no enfademos",
+    "Vosotros": "no enfadéis",
+    "Ellos": "no enfaden"
+  },
+  "ending": "ar"
+}

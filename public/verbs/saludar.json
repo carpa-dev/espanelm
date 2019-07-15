@@ -1,0 +1,113 @@
+{
+  "verb": "saludar",
+  "englishInfinitive": "to greet",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "saludo",
+    "Tu": "saludas",
+    "El": "saluda",
+    "Nosotros": "saludamos",
+    "Vosotros": "saludáis",
+    "Ellos": "saludan"
+  },
+  "IndicativePreterite": {
+    "Yo": "saludé",
+    "Tu": "saludaste",
+    "El": "saludó",
+    "Nosotros": "saludamos",
+    "Vosotros": "saludasteis",
+    "Ellos": "saludaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "saludaré",
+    "Tu": "saludarás",
+    "El": "saludará",
+    "Nosotros": "saludaremos",
+    "Vosotros": "saludaréis",
+    "Ellos": "saludarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "saludaría",
+    "Tu": "saludarías",
+    "El": "saludaría",
+    "Nosotros": "saludaríamos",
+    "Vosotros": "saludaríais",
+    "Ellos": "saludarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "saludaba",
+    "Tu": "saludabas",
+    "El": "saludaba",
+    "Nosotros": "saludábamos",
+    "Vosotros": "saludabais",
+    "Ellos": "saludaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy saludando",
+    "Tu": "estás saludando",
+    "El": "está saludando",
+    "Nosotros": "estamos saludando",
+    "Vosotros": "estáis saludando",
+    "Ellos": "están saludando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he saludado",
+    "Tu": "has saludado",
+    "El": "ha saludado",
+    "Nosotros": "hemos saludado",
+    "Vosotros": "habéis saludado",
+    "Ellos": "han saludado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había saludado",
+    "Tu": "habías saludado",
+    "El": "había saludado",
+    "Nosotros": "habíamos saludado",
+    "Vosotros": "habíais saludado",
+    "Ellos": "habían saludado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré saludado",
+    "Tu": "habrás saludado",
+    "El": "habrá saludado",
+    "Nosotros": "habremos saludado",
+    "Vosotros": "habréis saludado",
+    "Ellos": "habrán saludado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría saludado",
+    "Tu": "habrías saludado",
+    "El": "habría saludado",
+    "Nosotros": "habríamos saludado",
+    "Vosotros": "habríais saludado",
+    "Ellos": "habrían saludado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "salude",
+    "Tu": "saludes",
+    "El": "salude",
+    "Nosotros": "saludemos",
+    "Vosotros": "saludéis",
+    "Ellos": "saluden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "saluda",
+    "El": "salude",
+    "Nosotros": "saludemos",
+    "Vosotros": "saludad",
+    "Ellos": "saluden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no saludes",
+    "El": "no salude",
+    "Nosotros": "no saludemos",
+    "Vosotros": "no saludéis",
+    "Ellos": "no saluden"
+  },
+  "ending": "ar"
+}

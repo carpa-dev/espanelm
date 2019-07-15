@@ -1,0 +1,113 @@
+{
+  "verb": "afeitarse",
+  "englishInfinitive": "to shave [oneself]",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me afeito",
+    "Tu": "te afeitas",
+    "El": "se afeita",
+    "Nosotros": "nos afeitamos",
+    "Vosotros": "os afeitáis",
+    "Ellos": "se afeitan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me afeité",
+    "Tu": "te afeitaste",
+    "El": "se afeitó",
+    "Nosotros": "nos afeitamos",
+    "Vosotros": "os afeitasteis",
+    "Ellos": "se afeitaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me afeitaré",
+    "Tu": "te afeitarás",
+    "El": "se afeitará",
+    "Nosotros": "nos afeitaremos",
+    "Vosotros": "os afeitaréis",
+    "Ellos": "se afeitarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me afeitaría",
+    "Tu": "te afeitarías",
+    "El": "se afeitaría",
+    "Nosotros": "nos afeitaríamos",
+    "Vosotros": "os afeitaríais",
+    "Ellos": "se afeitarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me afeitaba",
+    "Tu": "te afeitabas",
+    "El": "se afeitaba",
+    "Nosotros": "nos afeitábamos",
+    "Vosotros": "os afeitabais",
+    "Ellos": "se afeitaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy afeitando,estoy afeitándome",
+    "Tu": "te estás afeitando,estás afeitándote",
+    "El": "se está afeitando,está afeitándose",
+    "Nosotros": "nos estamos afeitando,estamos afeitándonos",
+    "Vosotros": "os estáis afeitando,estáis afeitándoos",
+    "Ellos": "se están afeitando,están afeitándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he afeitado",
+    "Tu": "te has afeitado",
+    "El": "se ha afeitado",
+    "Nosotros": "nos hemos afeitado",
+    "Vosotros": "os habéis afeitado",
+    "Ellos": "se han afeitado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había afeitado",
+    "Tu": "te habías afeitado",
+    "El": "se había afeitado",
+    "Nosotros": "nos habíamos afeitado",
+    "Vosotros": "os habíais afeitado",
+    "Ellos": "se habían afeitado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré afeitado",
+    "Tu": "te habrás afeitado",
+    "El": "se habrá afeitado",
+    "Nosotros": "nos habremos afeitado",
+    "Vosotros": "os habréis afeitado",
+    "Ellos": "se habrán afeitado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría afeitado",
+    "Tu": "te habrías afeitado",
+    "El": "se habría afeitado",
+    "Nosotros": "nos habríamos afeitado",
+    "Vosotros": "os habríais afeitado",
+    "Ellos": "se habrían afeitado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me afeite",
+    "Tu": "te afeites",
+    "El": "se afeite",
+    "Nosotros": "nos afeitemos",
+    "Vosotros": "os afeitéis",
+    "Ellos": "se afeiten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "aféitate",
+    "El": "aféitese",
+    "Nosotros": "afeitémonos",
+    "Vosotros": "afeitaos",
+    "Ellos": "aféitense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te afeites",
+    "El": "no se afeite",
+    "Nosotros": "no nos afeitemos",
+    "Vosotros": "no os afeitéis",
+    "Ellos": "no se afeiten"
+  },
+  "ending": "ar"
+}

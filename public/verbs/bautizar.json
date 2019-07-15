@@ -1,0 +1,113 @@
+{
+  "verb": "bautizar",
+  "englishInfinitive": "to baptize",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "bautizo",
+    "Tu": "bautizas",
+    "El": "bautiza",
+    "Nosotros": "bautizamos",
+    "Vosotros": "bautizáis",
+    "Ellos": "bautizan"
+  },
+  "IndicativePreterite": {
+    "Yo": "bauticé",
+    "Tu": "bautizaste",
+    "El": "bautizó",
+    "Nosotros": "bautizamos",
+    "Vosotros": "bautizasteis",
+    "Ellos": "bautizaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "bautizaré",
+    "Tu": "bautizarás",
+    "El": "bautizará",
+    "Nosotros": "bautizaremos",
+    "Vosotros": "bautizaréis",
+    "Ellos": "bautizarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "bautizaría",
+    "Tu": "bautizarías",
+    "El": "bautizaría",
+    "Nosotros": "bautizaríamos",
+    "Vosotros": "bautizaríais",
+    "Ellos": "bautizarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "bautizaba",
+    "Tu": "bautizabas",
+    "El": "bautizaba",
+    "Nosotros": "bautizábamos",
+    "Vosotros": "bautizabais",
+    "Ellos": "bautizaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy bautizando",
+    "Tu": "estás bautizando",
+    "El": "está bautizando",
+    "Nosotros": "estamos bautizando",
+    "Vosotros": "estáis bautizando",
+    "Ellos": "están bautizando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he bautizado",
+    "Tu": "has bautizado",
+    "El": "ha bautizado",
+    "Nosotros": "hemos bautizado",
+    "Vosotros": "habéis bautizado",
+    "Ellos": "han bautizado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había bautizado",
+    "Tu": "habías bautizado",
+    "El": "había bautizado",
+    "Nosotros": "habíamos bautizado",
+    "Vosotros": "habíais bautizado",
+    "Ellos": "habían bautizado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré bautizado",
+    "Tu": "habrás bautizado",
+    "El": "habrá bautizado",
+    "Nosotros": "habremos bautizado",
+    "Vosotros": "habréis bautizado",
+    "Ellos": "habrán bautizado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría bautizado",
+    "Tu": "habrías bautizado",
+    "El": "habría bautizado",
+    "Nosotros": "habríamos bautizado",
+    "Vosotros": "habríais bautizado",
+    "Ellos": "habrían bautizado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "bautice",
+    "Tu": "bautices",
+    "El": "bautice",
+    "Nosotros": "bauticemos",
+    "Vosotros": "bauticéis",
+    "Ellos": "bauticen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "bautiza",
+    "El": "bautice",
+    "Nosotros": "bauticemos",
+    "Vosotros": "bautizad",
+    "Ellos": "bauticen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no bautices",
+    "El": "no bautice",
+    "Nosotros": "no bauticemos",
+    "Vosotros": "no bauticéis",
+    "Ellos": "no bauticen"
+  },
+  "ending": "ar"
+}

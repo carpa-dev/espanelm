@@ -1,0 +1,113 @@
+{
+  "verb": "navegar",
+  "englishInfinitive": "to navigate",
+  "irregular": true,
+  "type": "g > gu (-gar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "navego",
+    "Tu": "navegas",
+    "El": "navega",
+    "Nosotros": "navegamos",
+    "Vosotros": "navegáis",
+    "Ellos": "navegan"
+  },
+  "IndicativePreterite": {
+    "Yo": "navegué",
+    "Tu": "navegaste",
+    "El": "navegó",
+    "Nosotros": "navegamos",
+    "Vosotros": "navegasteis",
+    "Ellos": "navegaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "navegaré",
+    "Tu": "navegarás",
+    "El": "navegará",
+    "Nosotros": "navegaremos",
+    "Vosotros": "navegaréis",
+    "Ellos": "navegarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "navegaría",
+    "Tu": "navegarías",
+    "El": "navegaría",
+    "Nosotros": "navegaríamos",
+    "Vosotros": "navegaríais",
+    "Ellos": "navegarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "navegaba",
+    "Tu": "navegabas",
+    "El": "navegaba",
+    "Nosotros": "navegábamos",
+    "Vosotros": "navegabais",
+    "Ellos": "navegaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy navegando",
+    "Tu": "estás navegando",
+    "El": "está navegando",
+    "Nosotros": "estamos navegando",
+    "Vosotros": "estáis navegando",
+    "Ellos": "están navegando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he navegado",
+    "Tu": "has navegado",
+    "El": "ha navegado",
+    "Nosotros": "hemos navegado",
+    "Vosotros": "habéis navegado",
+    "Ellos": "han navegado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había navegado",
+    "Tu": "habías navegado",
+    "El": "había navegado",
+    "Nosotros": "habíamos navegado",
+    "Vosotros": "habíais navegado",
+    "Ellos": "habían navegado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré navegado",
+    "Tu": "habrás navegado",
+    "El": "habrá navegado",
+    "Nosotros": "habremos navegado",
+    "Vosotros": "habréis navegado",
+    "Ellos": "habrán navegado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría navegado",
+    "Tu": "habrías navegado",
+    "El": "habría navegado",
+    "Nosotros": "habríamos navegado",
+    "Vosotros": "habríais navegado",
+    "Ellos": "habrían navegado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "navegue",
+    "Tu": "navegues",
+    "El": "navegue",
+    "Nosotros": "naveguemos",
+    "Vosotros": "naveguéis",
+    "Ellos": "naveguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "navega",
+    "El": "navegue",
+    "Nosotros": "naveguemos",
+    "Vosotros": "navegad",
+    "Ellos": "naveguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no navegues",
+    "El": "no navegue",
+    "Nosotros": "no naveguemos",
+    "Vosotros": "no naveguéis",
+    "Ellos": "no naveguen"
+  },
+  "ending": "ar"
+}

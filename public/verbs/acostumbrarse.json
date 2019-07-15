@@ -1,0 +1,113 @@
+{
+  "verb": "acostumbrarse",
+  "englishInfinitive": "to get used to",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "me acostumbro",
+    "Tu": "te acostumbras",
+    "El": "se acostumbra",
+    "Nosotros": "nos acostumbramos",
+    "Vosotros": "os acostumbráis",
+    "Ellos": "se acostumbran"
+  },
+  "IndicativePreterite": {
+    "Yo": "me acostumbré",
+    "Tu": "te acostumbraste",
+    "El": "se acostumbró",
+    "Nosotros": "nos acostumbramos",
+    "Vosotros": "os acostumbrasteis",
+    "Ellos": "se acostumbraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me acostumbraré",
+    "Tu": "te acostumbrarás",
+    "El": "se acostumbrará",
+    "Nosotros": "nos acostumbraremos",
+    "Vosotros": "os acostumbraréis",
+    "Ellos": "se acostumbrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me acostumbraría",
+    "Tu": "te acostumbrarías",
+    "El": "se acostumbraría",
+    "Nosotros": "nos acostumbraríamos",
+    "Vosotros": "os acostumbraríais",
+    "Ellos": "se acostumbrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me acostumbraba",
+    "Tu": "te acostumbrabas",
+    "El": "se acostumbraba",
+    "Nosotros": "nos acostumbrábamos",
+    "Vosotros": "os acostumbrabais",
+    "Ellos": "se acostumbraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy acostumbrando,estoy acostumbrándome",
+    "Tu": "te estás acostumbrando,estás acostumbrándote",
+    "El": "se está acostumbrando,está acostumbrándose",
+    "Nosotros": "nos estamos acostumbrando,estamos acostumbrándonos",
+    "Vosotros": "os estáis acostumbrando,estáis acostumbrándoos",
+    "Ellos": "se están acostumbrando,están acostumbrándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he acostumbrado",
+    "Tu": "te has acostumbrado",
+    "El": "se ha acostumbrado",
+    "Nosotros": "nos hemos acostumbrado",
+    "Vosotros": "os habéis acostumbrado",
+    "Ellos": "se han acostumbrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había acostumbrado",
+    "Tu": "te habías acostumbrado",
+    "El": "se había acostumbrado",
+    "Nosotros": "nos habíamos acostumbrado",
+    "Vosotros": "os habíais acostumbrado",
+    "Ellos": "se habían acostumbrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré acostumbrado",
+    "Tu": "te habrás acostumbrado",
+    "El": "se habrá acostumbrado",
+    "Nosotros": "nos habremos acostumbrado",
+    "Vosotros": "os habréis acostumbrado",
+    "Ellos": "se habrán acostumbrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría acostumbrado",
+    "Tu": "te habrías acostumbrado",
+    "El": "se habría acostumbrado",
+    "Nosotros": "nos habríamos acostumbrado",
+    "Vosotros": "os habríais acostumbrado",
+    "Ellos": "se habrían acostumbrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me acostumbre",
+    "Tu": "te acostumbres",
+    "El": "se acostumbre",
+    "Nosotros": "nos acostumbremos",
+    "Vosotros": "os acostumbréis",
+    "Ellos": "se acostumbren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "acostúmbrate",
+    "El": "acostúmbrese",
+    "Nosotros": "acostumbrémonos",
+    "Vosotros": "acostumbraos",
+    "Ellos": "acostúmbrense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te acostumbres",
+    "El": "no se acostumbre",
+    "Nosotros": "no nos acostumbremos",
+    "Vosotros": "no os acostumbréis",
+    "Ellos": "no se acostumbren"
+  },
+  "ending": "ar"
+}

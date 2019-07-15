@@ -1,0 +1,113 @@
+{
+  "verb": "disgustar",
+  "englishInfinitive": "to displease",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "disgusto",
+    "Tu": "disgustas",
+    "El": "disgusta",
+    "Nosotros": "disgustamos",
+    "Vosotros": "disgustáis",
+    "Ellos": "disgustan"
+  },
+  "IndicativePreterite": {
+    "Yo": "disgusté",
+    "Tu": "disgustaste",
+    "El": "disgustó",
+    "Nosotros": "disgustamos",
+    "Vosotros": "disgustasteis",
+    "Ellos": "disgustaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "disgustaré",
+    "Tu": "disgustarás",
+    "El": "disgustará",
+    "Nosotros": "disgustaremos",
+    "Vosotros": "disgustaréis",
+    "Ellos": "disgustarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "disgustaría",
+    "Tu": "disgustarías",
+    "El": "disgustaría",
+    "Nosotros": "disgustaríamos",
+    "Vosotros": "disgustaríais",
+    "Ellos": "disgustarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "disgustaba",
+    "Tu": "disgustabas",
+    "El": "disgustaba",
+    "Nosotros": "disgustábamos",
+    "Vosotros": "disgustabais",
+    "Ellos": "disgustaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy disgustando",
+    "Tu": "estás disgustando",
+    "El": "está disgustando",
+    "Nosotros": "estamos disgustando",
+    "Vosotros": "estáis disgustando",
+    "Ellos": "están disgustando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he disgustado",
+    "Tu": "has disgustado",
+    "El": "ha disgustado",
+    "Nosotros": "hemos disgustado",
+    "Vosotros": "habéis disgustado",
+    "Ellos": "han disgustado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había disgustado",
+    "Tu": "habías disgustado",
+    "El": "había disgustado",
+    "Nosotros": "habíamos disgustado",
+    "Vosotros": "habíais disgustado",
+    "Ellos": "habían disgustado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré disgustado",
+    "Tu": "habrás disgustado",
+    "El": "habrá disgustado",
+    "Nosotros": "habremos disgustado",
+    "Vosotros": "habréis disgustado",
+    "Ellos": "habrán disgustado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría disgustado",
+    "Tu": "habrías disgustado",
+    "El": "habría disgustado",
+    "Nosotros": "habríamos disgustado",
+    "Vosotros": "habríais disgustado",
+    "Ellos": "habrían disgustado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "disguste",
+    "Tu": "disgustes",
+    "El": "disguste",
+    "Nosotros": "disgustemos",
+    "Vosotros": "disgustéis",
+    "Ellos": "disgusten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "disgusta",
+    "El": "disguste",
+    "Nosotros": "disgustemos",
+    "Vosotros": "disgustad",
+    "Ellos": "disgusten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no disgustes",
+    "El": "no disguste",
+    "Nosotros": "no disgustemos",
+    "Vosotros": "no disgustéis",
+    "Ellos": "no disgusten"
+  },
+  "ending": "ar"
+}

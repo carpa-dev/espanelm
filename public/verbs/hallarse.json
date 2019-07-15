@@ -1,0 +1,113 @@
+{
+  "verb": "hallarse",
+  "englishInfinitive": "to be",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me hallo",
+    "Tu": "te hallas",
+    "El": "se halla",
+    "Nosotros": "nos hallamos",
+    "Vosotros": "os halláis",
+    "Ellos": "se hallan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me hallé",
+    "Tu": "te hallaste",
+    "El": "se halló",
+    "Nosotros": "nos hallamos",
+    "Vosotros": "os hallasteis",
+    "Ellos": "se hallaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me hallaré",
+    "Tu": "te hallarás",
+    "El": "se hallará",
+    "Nosotros": "nos hallaremos",
+    "Vosotros": "os hallaréis",
+    "Ellos": "se hallarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me hallaría",
+    "Tu": "te hallarías",
+    "El": "se hallaría",
+    "Nosotros": "nos hallaríamos",
+    "Vosotros": "os hallaríais",
+    "Ellos": "se hallarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me hallaba",
+    "Tu": "te hallabas",
+    "El": "se hallaba",
+    "Nosotros": "nos hallábamos",
+    "Vosotros": "os hallabais",
+    "Ellos": "se hallaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy hallando,estoy hallándome",
+    "Tu": "te estás hallando,estás hallándote",
+    "El": "se está hallando,está hallándose",
+    "Nosotros": "nos estamos hallando,estamos hallándonos",
+    "Vosotros": "os estáis hallando,estáis hallándoos",
+    "Ellos": "se están hallando,están hallándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he hallado",
+    "Tu": "te has hallado",
+    "El": "se ha hallado",
+    "Nosotros": "nos hemos hallado",
+    "Vosotros": "os habéis hallado",
+    "Ellos": "se han hallado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había hallado",
+    "Tu": "te habías hallado",
+    "El": "se había hallado",
+    "Nosotros": "nos habíamos hallado",
+    "Vosotros": "os habíais hallado",
+    "Ellos": "se habían hallado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré hallado",
+    "Tu": "te habrás hallado",
+    "El": "se habrá hallado",
+    "Nosotros": "nos habremos hallado",
+    "Vosotros": "os habréis hallado",
+    "Ellos": "se habrán hallado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría hallado",
+    "Tu": "te habrías hallado",
+    "El": "se habría hallado",
+    "Nosotros": "nos habríamos hallado",
+    "Vosotros": "os habríais hallado",
+    "Ellos": "se habrían hallado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me halle",
+    "Tu": "te halles",
+    "El": "se halle",
+    "Nosotros": "nos hallemos",
+    "Vosotros": "os halléis",
+    "Ellos": "se hallen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "hállate",
+    "El": "hállese",
+    "Nosotros": "hallémonos",
+    "Vosotros": "hallaos",
+    "Ellos": "hállense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te halles",
+    "El": "no se halle",
+    "Nosotros": "no nos hallemos",
+    "Vosotros": "no os halléis",
+    "Ellos": "no se hallen"
+  },
+  "ending": "ar"
+}

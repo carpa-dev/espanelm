@@ -1,0 +1,113 @@
+{
+  "verb": "sentar",
+  "englishInfinitive": "to seat",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "siento",
+    "Tu": "sientas",
+    "El": "sienta",
+    "Nosotros": "sentamos",
+    "Vosotros": "sentáis",
+    "Ellos": "sientan"
+  },
+  "IndicativePreterite": {
+    "Yo": "senté",
+    "Tu": "sentaste",
+    "El": "sentó",
+    "Nosotros": "sentamos",
+    "Vosotros": "sentasteis",
+    "Ellos": "sentaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "sentaré",
+    "Tu": "sentarás",
+    "El": "sentará",
+    "Nosotros": "sentaremos",
+    "Vosotros": "sentaréis",
+    "Ellos": "sentarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "sentaría",
+    "Tu": "sentarías",
+    "El": "sentaría",
+    "Nosotros": "sentaríamos",
+    "Vosotros": "sentaríais",
+    "Ellos": "sentarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "sentaba",
+    "Tu": "sentabas",
+    "El": "sentaba",
+    "Nosotros": "sentábamos",
+    "Vosotros": "sentabais",
+    "Ellos": "sentaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy sentando",
+    "Tu": "estás sentando",
+    "El": "está sentando",
+    "Nosotros": "estamos sentando",
+    "Vosotros": "estáis sentando",
+    "Ellos": "están sentando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he sentado",
+    "Tu": "has sentado",
+    "El": "ha sentado",
+    "Nosotros": "hemos sentado",
+    "Vosotros": "habéis sentado",
+    "Ellos": "han sentado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había sentado",
+    "Tu": "habías sentado",
+    "El": "había sentado",
+    "Nosotros": "habíamos sentado",
+    "Vosotros": "habíais sentado",
+    "Ellos": "habían sentado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré sentado",
+    "Tu": "habrás sentado",
+    "El": "habrá sentado",
+    "Nosotros": "habremos sentado",
+    "Vosotros": "habréis sentado",
+    "Ellos": "habrán sentado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría sentado",
+    "Tu": "habrías sentado",
+    "El": "habría sentado",
+    "Nosotros": "habríamos sentado",
+    "Vosotros": "habríais sentado",
+    "Ellos": "habrían sentado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "siente",
+    "Tu": "sientes",
+    "El": "siente",
+    "Nosotros": "sentemos",
+    "Vosotros": "sentéis",
+    "Ellos": "sienten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sienta",
+    "El": "siente",
+    "Nosotros": "sentemos",
+    "Vosotros": "sentad",
+    "Ellos": "sienten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sientes",
+    "El": "no siente",
+    "Nosotros": "no sentemos",
+    "Vosotros": "no sentéis",
+    "Ellos": "no sienten"
+  },
+  "ending": "ar"
+}

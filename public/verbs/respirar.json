@@ -1,0 +1,113 @@
+{
+  "verb": "respirar",
+  "englishInfinitive": "to breathe",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "respiro",
+    "Tu": "respiras",
+    "El": "respira",
+    "Nosotros": "respiramos",
+    "Vosotros": "respiráis",
+    "Ellos": "respiran"
+  },
+  "IndicativePreterite": {
+    "Yo": "respiré",
+    "Tu": "respiraste",
+    "El": "respiró",
+    "Nosotros": "respiramos",
+    "Vosotros": "respirasteis",
+    "Ellos": "respiraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "respiraré",
+    "Tu": "respirarás",
+    "El": "respirará",
+    "Nosotros": "respiraremos",
+    "Vosotros": "respiraréis",
+    "Ellos": "respirarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "respiraría",
+    "Tu": "respirarías",
+    "El": "respiraría",
+    "Nosotros": "respiraríamos",
+    "Vosotros": "respiraríais",
+    "Ellos": "respirarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "respiraba",
+    "Tu": "respirabas",
+    "El": "respiraba",
+    "Nosotros": "respirábamos",
+    "Vosotros": "respirabais",
+    "Ellos": "respiraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy respirando",
+    "Tu": "estás respirando",
+    "El": "está respirando",
+    "Nosotros": "estamos respirando",
+    "Vosotros": "estáis respirando",
+    "Ellos": "están respirando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he respirado",
+    "Tu": "has respirado",
+    "El": "ha respirado",
+    "Nosotros": "hemos respirado",
+    "Vosotros": "habéis respirado",
+    "Ellos": "han respirado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había respirado",
+    "Tu": "habías respirado",
+    "El": "había respirado",
+    "Nosotros": "habíamos respirado",
+    "Vosotros": "habíais respirado",
+    "Ellos": "habían respirado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré respirado",
+    "Tu": "habrás respirado",
+    "El": "habrá respirado",
+    "Nosotros": "habremos respirado",
+    "Vosotros": "habréis respirado",
+    "Ellos": "habrán respirado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría respirado",
+    "Tu": "habrías respirado",
+    "El": "habría respirado",
+    "Nosotros": "habríamos respirado",
+    "Vosotros": "habríais respirado",
+    "Ellos": "habrían respirado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "respire",
+    "Tu": "respires",
+    "El": "respire",
+    "Nosotros": "respiremos",
+    "Vosotros": "respiréis",
+    "Ellos": "respiren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "respira",
+    "El": "respire",
+    "Nosotros": "respiremos",
+    "Vosotros": "respirad",
+    "Ellos": "respiren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no respires",
+    "El": "no respire",
+    "Nosotros": "no respiremos",
+    "Vosotros": "no respiréis",
+    "Ellos": "no respiren"
+  },
+  "ending": "ar"
+}

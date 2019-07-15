@@ -1,0 +1,113 @@
+{
+  "verb": "destruir",
+  "englishInfinitive": "to destroy",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "destruyo",
+    "Tu": "destruyes",
+    "El": "destruye",
+    "Nosotros": "destruimos",
+    "Vosotros": "destruís",
+    "Ellos": "destruyen"
+  },
+  "IndicativePreterite": {
+    "Yo": "destruí",
+    "Tu": "destruiste",
+    "El": "destruyó",
+    "Nosotros": "destruimos",
+    "Vosotros": "destruisteis",
+    "Ellos": "destruyeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "destruiré",
+    "Tu": "destruirás",
+    "El": "destruirá",
+    "Nosotros": "destruiremos",
+    "Vosotros": "destruiréis",
+    "Ellos": "destruirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "destruiría",
+    "Tu": "destruirías",
+    "El": "destruiría",
+    "Nosotros": "destruiríamos",
+    "Vosotros": "destruiríais",
+    "Ellos": "destruirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "destruía",
+    "Tu": "destruías",
+    "El": "destruía",
+    "Nosotros": "destruíamos",
+    "Vosotros": "destruíais",
+    "Ellos": "destruían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy destruyendo",
+    "Tu": "estás destruyendo",
+    "El": "está destruyendo",
+    "Nosotros": "estamos destruyendo",
+    "Vosotros": "estáis destruyendo",
+    "Ellos": "están destruyendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he destruido",
+    "Tu": "has destruido",
+    "El": "ha destruido",
+    "Nosotros": "hemos destruido",
+    "Vosotros": "habéis destruido",
+    "Ellos": "han destruido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había destruido",
+    "Tu": "habías destruido",
+    "El": "había destruido",
+    "Nosotros": "habíamos destruido",
+    "Vosotros": "habíais destruido",
+    "Ellos": "habían destruido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré destruido",
+    "Tu": "habrás destruido",
+    "El": "habrá destruido",
+    "Nosotros": "habremos destruido",
+    "Vosotros": "habréis destruido",
+    "Ellos": "habrán destruido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría destruido",
+    "Tu": "habrías destruido",
+    "El": "habría destruido",
+    "Nosotros": "habríamos destruido",
+    "Vosotros": "habríais destruido",
+    "Ellos": "habrían destruido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "destruya",
+    "Tu": "destruyas",
+    "El": "destruya",
+    "Nosotros": "destruyamos",
+    "Vosotros": "destruyáis",
+    "Ellos": "destruyan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "destruye",
+    "El": "destruya",
+    "Nosotros": "destruyamos",
+    "Vosotros": "destruid",
+    "Ellos": "destruyan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no destruyas",
+    "El": "no destruya",
+    "Nosotros": "no destruyamos",
+    "Vosotros": "no destruyáis",
+    "Ellos": "no destruyan"
+  },
+  "ending": "ir"
+}

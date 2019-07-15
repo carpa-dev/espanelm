@@ -1,0 +1,113 @@
+{
+  "verb": "significar",
+  "englishInfinitive": "to signify",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "significo",
+    "Tu": "significas",
+    "El": "significa",
+    "Nosotros": "significamos",
+    "Vosotros": "significáis",
+    "Ellos": "significan"
+  },
+  "IndicativePreterite": {
+    "Yo": "signifiqué",
+    "Tu": "significaste",
+    "El": "significó",
+    "Nosotros": "significamos",
+    "Vosotros": "significasteis",
+    "Ellos": "significaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "significaré",
+    "Tu": "significarás",
+    "El": "significará",
+    "Nosotros": "significaremos",
+    "Vosotros": "significaréis",
+    "Ellos": "significarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "significaría",
+    "Tu": "significarías",
+    "El": "significaría",
+    "Nosotros": "significaríamos",
+    "Vosotros": "significaríais",
+    "Ellos": "significarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "significaba",
+    "Tu": "significabas",
+    "El": "significaba",
+    "Nosotros": "significábamos",
+    "Vosotros": "significabais",
+    "Ellos": "significaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy significando",
+    "Tu": "estás significando",
+    "El": "está significando",
+    "Nosotros": "estamos significando",
+    "Vosotros": "estáis significando",
+    "Ellos": "están significando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he significado",
+    "Tu": "has significado",
+    "El": "ha significado",
+    "Nosotros": "hemos significado",
+    "Vosotros": "habéis significado",
+    "Ellos": "han significado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había significado",
+    "Tu": "habías significado",
+    "El": "había significado",
+    "Nosotros": "habíamos significado",
+    "Vosotros": "habíais significado",
+    "Ellos": "habían significado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré significado",
+    "Tu": "habrás significado",
+    "El": "habrá significado",
+    "Nosotros": "habremos significado",
+    "Vosotros": "habréis significado",
+    "Ellos": "habrán significado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría significado",
+    "Tu": "habrías significado",
+    "El": "habría significado",
+    "Nosotros": "habríamos significado",
+    "Vosotros": "habríais significado",
+    "Ellos": "habrían significado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "signifique",
+    "Tu": "signifiques",
+    "El": "signifique",
+    "Nosotros": "signifiquemos",
+    "Vosotros": "signifiquéis",
+    "Ellos": "signifiquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "significa",
+    "El": "signifique",
+    "Nosotros": "signifiquemos",
+    "Vosotros": "significad",
+    "Ellos": "signifiquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no signifiques",
+    "El": "no signifique",
+    "Nosotros": "no signifiquemos",
+    "Vosotros": "no signifiquéis",
+    "Ellos": "no signifiquen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "consistir",
+  "englishInfinitive": "to consist [of]",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "consisto",
+    "Tu": "consistes",
+    "El": "consiste",
+    "Nosotros": "consistimos",
+    "Vosotros": "consistís",
+    "Ellos": "consisten"
+  },
+  "IndicativePreterite": {
+    "Yo": "consistí",
+    "Tu": "consististe",
+    "El": "consistió",
+    "Nosotros": "consistimos",
+    "Vosotros": "consististeis",
+    "Ellos": "consistieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "consistiré",
+    "Tu": "consistirás",
+    "El": "consistirá",
+    "Nosotros": "consistiremos",
+    "Vosotros": "consistiréis",
+    "Ellos": "consistirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "consistiría",
+    "Tu": "consistirías",
+    "El": "consistiría",
+    "Nosotros": "consistiríamos",
+    "Vosotros": "consistiríais",
+    "Ellos": "consistirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "consistía",
+    "Tu": "consistías",
+    "El": "consistía",
+    "Nosotros": "consistíamos",
+    "Vosotros": "consistíais",
+    "Ellos": "consistían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy consistiendo",
+    "Tu": "estás consistiendo",
+    "El": "está consistiendo",
+    "Nosotros": "estamos consistiendo",
+    "Vosotros": "estáis consistiendo",
+    "Ellos": "están consistiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he consistido",
+    "Tu": "has consistido",
+    "El": "ha consistido",
+    "Nosotros": "hemos consistido",
+    "Vosotros": "habéis consistido",
+    "Ellos": "han consistido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había consistido",
+    "Tu": "habías consistido",
+    "El": "había consistido",
+    "Nosotros": "habíamos consistido",
+    "Vosotros": "habíais consistido",
+    "Ellos": "habían consistido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré consistido",
+    "Tu": "habrás consistido",
+    "El": "habrá consistido",
+    "Nosotros": "habremos consistido",
+    "Vosotros": "habréis consistido",
+    "Ellos": "habrán consistido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría consistido",
+    "Tu": "habrías consistido",
+    "El": "habría consistido",
+    "Nosotros": "habríamos consistido",
+    "Vosotros": "habríais consistido",
+    "Ellos": "habrían consistido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "consista",
+    "Tu": "consistas",
+    "El": "consista",
+    "Nosotros": "consistamos",
+    "Vosotros": "consistáis",
+    "Ellos": "consistan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "consiste",
+    "El": "consista",
+    "Nosotros": "consistamos",
+    "Vosotros": "consistid",
+    "Ellos": "consistan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no consistas",
+    "El": "no consista",
+    "Nosotros": "no consistamos",
+    "Vosotros": "no consistáis",
+    "Ellos": "no consistan"
+  },
+  "ending": "ir"
+}

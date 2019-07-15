@@ -1,0 +1,113 @@
+{
+  "verb": "dirigir",
+  "englishInfinitive": "to direct",
+  "irregular": true,
+  "type": "g > j",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "dirijo",
+    "Tu": "diriges",
+    "El": "dirige",
+    "Nosotros": "dirigimos",
+    "Vosotros": "dirigís",
+    "Ellos": "dirigen"
+  },
+  "IndicativePreterite": {
+    "Yo": "dirigí",
+    "Tu": "dirigiste",
+    "El": "dirigió",
+    "Nosotros": "dirigimos",
+    "Vosotros": "dirigisteis",
+    "Ellos": "dirigieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "dirigiré",
+    "Tu": "dirigirás",
+    "El": "dirigirá",
+    "Nosotros": "dirigiremos",
+    "Vosotros": "dirigiréis",
+    "Ellos": "dirigirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "dirigiría",
+    "Tu": "dirigirías",
+    "El": "dirigiría",
+    "Nosotros": "dirigiríamos",
+    "Vosotros": "dirigiríais",
+    "Ellos": "dirigirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "dirigía",
+    "Tu": "dirigías",
+    "El": "dirigía",
+    "Nosotros": "dirigíamos",
+    "Vosotros": "dirigíais",
+    "Ellos": "dirigían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy dirigiendo",
+    "Tu": "estás dirigiendo",
+    "El": "está dirigiendo",
+    "Nosotros": "estamos dirigiendo",
+    "Vosotros": "estáis dirigiendo",
+    "Ellos": "están dirigiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he dirigido",
+    "Tu": "has dirigido",
+    "El": "ha dirigido",
+    "Nosotros": "hemos dirigido",
+    "Vosotros": "habéis dirigido",
+    "Ellos": "han dirigido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había dirigido",
+    "Tu": "habías dirigido",
+    "El": "había dirigido",
+    "Nosotros": "habíamos dirigido",
+    "Vosotros": "habíais dirigido",
+    "Ellos": "habían dirigido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré dirigido",
+    "Tu": "habrás dirigido",
+    "El": "habrá dirigido",
+    "Nosotros": "habremos dirigido",
+    "Vosotros": "habréis dirigido",
+    "Ellos": "habrán dirigido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría dirigido",
+    "Tu": "habrías dirigido",
+    "El": "habría dirigido",
+    "Nosotros": "habríamos dirigido",
+    "Vosotros": "habríais dirigido",
+    "Ellos": "habrían dirigido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "dirija",
+    "Tu": "dirijas",
+    "El": "dirija",
+    "Nosotros": "dirijamos",
+    "Vosotros": "dirijáis",
+    "Ellos": "dirijan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "dirige",
+    "El": "dirija",
+    "Nosotros": "dirijamos",
+    "Vosotros": "dirigid",
+    "Ellos": "dirijan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no dirijas",
+    "El": "no dirija",
+    "Nosotros": "no dirijamos",
+    "Vosotros": "no dirijáis",
+    "Ellos": "no dirijan"
+  },
+  "ending": "ir"
+}

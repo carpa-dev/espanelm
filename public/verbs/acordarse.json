@@ -1,0 +1,113 @@
+{
+  "verb": "acordarse",
+  "englishInfinitive": "to remember",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me acuerdo",
+    "Tu": "te acuerdas",
+    "El": "se acuerda",
+    "Nosotros": "nos acordamos",
+    "Vosotros": "os acordáis",
+    "Ellos": "se acuerdan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me acordé",
+    "Tu": "te acordaste",
+    "El": "se acordó",
+    "Nosotros": "nos acordamos",
+    "Vosotros": "os acordasteis",
+    "Ellos": "se acordaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me acordaré",
+    "Tu": "te acordarás",
+    "El": "se acordará",
+    "Nosotros": "nos acordaremos",
+    "Vosotros": "os acordaréis",
+    "Ellos": "se acordarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me acordaría",
+    "Tu": "te acordarías",
+    "El": "se acordaría",
+    "Nosotros": "nos acordaríamos",
+    "Vosotros": "os acordaríais",
+    "Ellos": "se acordarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me acordaba",
+    "Tu": "te acordabas",
+    "El": "se acordaba",
+    "Nosotros": "nos acordábamos",
+    "Vosotros": "os acordabais",
+    "Ellos": "se acordaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy acordando,estoy acordándome",
+    "Tu": "te estás acordando,estás acordándote",
+    "El": "se está acordando,está acordándose",
+    "Nosotros": "nos estamos acordando,estamos acordándonos",
+    "Vosotros": "os estáis acordando,estáis acordándoos",
+    "Ellos": "se están acordando,están acordándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he acordado",
+    "Tu": "te has acordado",
+    "El": "se ha acordado",
+    "Nosotros": "nos hemos acordado",
+    "Vosotros": "os habéis acordado",
+    "Ellos": "se han acordado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había acordado",
+    "Tu": "te habías acordado",
+    "El": "se había acordado",
+    "Nosotros": "nos habíamos acordado",
+    "Vosotros": "os habíais acordado",
+    "Ellos": "se habían acordado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré acordado",
+    "Tu": "te habrás acordado",
+    "El": "se habrá acordado",
+    "Nosotros": "nos habremos acordado",
+    "Vosotros": "os habréis acordado",
+    "Ellos": "se habrán acordado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría acordado",
+    "Tu": "te habrías acordado",
+    "El": "se habría acordado",
+    "Nosotros": "nos habríamos acordado",
+    "Vosotros": "os habríais acordado",
+    "Ellos": "se habrían acordado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me acuerde",
+    "Tu": "te acuerdes",
+    "El": "se acuerde",
+    "Nosotros": "nos acordemos",
+    "Vosotros": "os acordéis",
+    "Ellos": "se acuerden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "acuérdate",
+    "El": "acuérdese",
+    "Nosotros": "acordémonos",
+    "Vosotros": "acordaos",
+    "Ellos": "acuérdense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te acuerdes",
+    "El": "no se acuerde",
+    "Nosotros": "no nos acordemos",
+    "Vosotros": "no os acordéis",
+    "Ellos": "no se acuerden"
+  },
+  "ending": "ar"
+}

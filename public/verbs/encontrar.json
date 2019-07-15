@@ -1,0 +1,113 @@
+{
+  "verb": "encontrar",
+  "englishInfinitive": "to find",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "encuentro",
+    "Tu": "encuentras",
+    "El": "encuentra",
+    "Nosotros": "encontramos",
+    "Vosotros": "encontráis",
+    "Ellos": "encuentran"
+  },
+  "IndicativePreterite": {
+    "Yo": "encontré",
+    "Tu": "encontraste",
+    "El": "encontró",
+    "Nosotros": "encontramos",
+    "Vosotros": "encontrasteis",
+    "Ellos": "encontraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "encontraré",
+    "Tu": "encontrarás",
+    "El": "encontrará",
+    "Nosotros": "encontraremos",
+    "Vosotros": "encontraréis",
+    "Ellos": "encontrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "encontraría",
+    "Tu": "encontrarías",
+    "El": "encontraría",
+    "Nosotros": "encontraríamos",
+    "Vosotros": "encontraríais",
+    "Ellos": "encontrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "encontraba",
+    "Tu": "encontrabas",
+    "El": "encontraba",
+    "Nosotros": "encontrábamos",
+    "Vosotros": "encontrabais",
+    "Ellos": "encontraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy encontrando",
+    "Tu": "estás encontrando",
+    "El": "está encontrando",
+    "Nosotros": "estamos encontrando",
+    "Vosotros": "estáis encontrando",
+    "Ellos": "están encontrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he encontrado",
+    "Tu": "has encontrado",
+    "El": "ha encontrado",
+    "Nosotros": "hemos encontrado",
+    "Vosotros": "habéis encontrado",
+    "Ellos": "han encontrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había encontrado",
+    "Tu": "habías encontrado",
+    "El": "había encontrado",
+    "Nosotros": "habíamos encontrado",
+    "Vosotros": "habíais encontrado",
+    "Ellos": "habían encontrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré encontrado",
+    "Tu": "habrás encontrado",
+    "El": "habrá encontrado",
+    "Nosotros": "habremos encontrado",
+    "Vosotros": "habréis encontrado",
+    "Ellos": "habrán encontrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría encontrado",
+    "Tu": "habrías encontrado",
+    "El": "habría encontrado",
+    "Nosotros": "habríamos encontrado",
+    "Vosotros": "habríais encontrado",
+    "Ellos": "habrían encontrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "encuentre",
+    "Tu": "encuentres",
+    "El": "encuentre",
+    "Nosotros": "encontremos",
+    "Vosotros": "encontréis",
+    "Ellos": "encuentren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "encuentra",
+    "El": "encuentre",
+    "Nosotros": "encontremos",
+    "Vosotros": "encontrad",
+    "Ellos": "encuentren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no encuentres",
+    "El": "no encuentre",
+    "Nosotros": "no encontremos",
+    "Vosotros": "no encontréis",
+    "Ellos": "no encuentren"
+  },
+  "ending": "ar"
+}

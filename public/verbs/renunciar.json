@@ -1,0 +1,113 @@
+{
+  "verb": "renunciar",
+  "englishInfinitive": "to renounce",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "renuncio",
+    "Tu": "renuncias",
+    "El": "renuncia",
+    "Nosotros": "renunciamos",
+    "Vosotros": "renunciáis",
+    "Ellos": "renuncian"
+  },
+  "IndicativePreterite": {
+    "Yo": "renuncié",
+    "Tu": "renunciaste",
+    "El": "renunció",
+    "Nosotros": "renunciamos",
+    "Vosotros": "renunciasteis",
+    "Ellos": "renunciaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "renunciaré",
+    "Tu": "renunciarás",
+    "El": "renunciará",
+    "Nosotros": "renunciaremos",
+    "Vosotros": "renunciaréis",
+    "Ellos": "renunciarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "renunciaría",
+    "Tu": "renunciarías",
+    "El": "renunciaría",
+    "Nosotros": "renunciaríamos",
+    "Vosotros": "renunciaríais",
+    "Ellos": "renunciarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "renunciaba",
+    "Tu": "renunciabas",
+    "El": "renunciaba",
+    "Nosotros": "renunciábamos",
+    "Vosotros": "renunciabais",
+    "Ellos": "renunciaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy renunciando",
+    "Tu": "estás renunciando",
+    "El": "está renunciando",
+    "Nosotros": "estamos renunciando",
+    "Vosotros": "estáis renunciando",
+    "Ellos": "están renunciando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he renunciado",
+    "Tu": "has renunciado",
+    "El": "ha renunciado",
+    "Nosotros": "hemos renunciado",
+    "Vosotros": "habéis renunciado",
+    "Ellos": "han renunciado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había renunciado",
+    "Tu": "habías renunciado",
+    "El": "había renunciado",
+    "Nosotros": "habíamos renunciado",
+    "Vosotros": "habíais renunciado",
+    "Ellos": "habían renunciado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré renunciado",
+    "Tu": "habrás renunciado",
+    "El": "habrá renunciado",
+    "Nosotros": "habremos renunciado",
+    "Vosotros": "habréis renunciado",
+    "Ellos": "habrán renunciado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría renunciado",
+    "Tu": "habrías renunciado",
+    "El": "habría renunciado",
+    "Nosotros": "habríamos renunciado",
+    "Vosotros": "habríais renunciado",
+    "Ellos": "habrían renunciado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "renuncie",
+    "Tu": "renuncies",
+    "El": "renuncie",
+    "Nosotros": "renunciemos",
+    "Vosotros": "renunciéis",
+    "Ellos": "renuncien"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "renuncia",
+    "El": "renuncie",
+    "Nosotros": "renunciemos",
+    "Vosotros": "renunciad",
+    "Ellos": "renuncien"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no renuncies",
+    "El": "no renuncie",
+    "Nosotros": "no renunciemos",
+    "Vosotros": "no renunciéis",
+    "Ellos": "no renuncien"
+  },
+  "ending": "ar"
+}

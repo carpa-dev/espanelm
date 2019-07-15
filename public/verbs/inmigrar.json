@@ -1,0 +1,113 @@
+{
+  "verb": "inmigrar",
+  "englishInfinitive": "to immigrate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "inmigro",
+    "Tu": "inmigras",
+    "El": "inmigra",
+    "Nosotros": "inmigramos",
+    "Vosotros": "inmigráis",
+    "Ellos": "inmigran"
+  },
+  "IndicativePreterite": {
+    "Yo": "inmigré",
+    "Tu": "inmigraste",
+    "El": "inmigró",
+    "Nosotros": "inmigramos",
+    "Vosotros": "inmigrasteis",
+    "Ellos": "inmigraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "inmigraré",
+    "Tu": "inmigrarás",
+    "El": "inmigrará",
+    "Nosotros": "inmigraremos",
+    "Vosotros": "inmigraréis",
+    "Ellos": "inmigrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "inmigraría",
+    "Tu": "inmigrarías",
+    "El": "inmigraría",
+    "Nosotros": "inmigraríamos",
+    "Vosotros": "inmigraríais",
+    "Ellos": "inmigrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "inmigraba",
+    "Tu": "inmigrabas",
+    "El": "inmigraba",
+    "Nosotros": "inmigrábamos",
+    "Vosotros": "inmigrabais",
+    "Ellos": "inmigraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy inmigrando",
+    "Tu": "estás inmigrando",
+    "El": "está inmigrando",
+    "Nosotros": "estamos inmigrando",
+    "Vosotros": "estáis inmigrando",
+    "Ellos": "están inmigrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he inmigrado",
+    "Tu": "has inmigrado",
+    "El": "ha inmigrado",
+    "Nosotros": "hemos inmigrado",
+    "Vosotros": "habéis inmigrado",
+    "Ellos": "han inmigrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había inmigrado",
+    "Tu": "habías inmigrado",
+    "El": "había inmigrado",
+    "Nosotros": "habíamos inmigrado",
+    "Vosotros": "habíais inmigrado",
+    "Ellos": "habían inmigrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré inmigrado",
+    "Tu": "habrás inmigrado",
+    "El": "habrá inmigrado",
+    "Nosotros": "habremos inmigrado",
+    "Vosotros": "habréis inmigrado",
+    "Ellos": "habrán inmigrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría inmigrado",
+    "Tu": "habrías inmigrado",
+    "El": "habría inmigrado",
+    "Nosotros": "habríamos inmigrado",
+    "Vosotros": "habríais inmigrado",
+    "Ellos": "habrían inmigrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "inmigre",
+    "Tu": "inmigres",
+    "El": "inmigre",
+    "Nosotros": "inmigremos",
+    "Vosotros": "inmigréis",
+    "Ellos": "inmigren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "inmigra",
+    "El": "inmigre",
+    "Nosotros": "inmigremos",
+    "Vosotros": "inmigrad",
+    "Ellos": "inmigren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no inmigres",
+    "El": "no inmigre",
+    "Nosotros": "no inmigremos",
+    "Vosotros": "no inmigréis",
+    "Ellos": "no inmigren"
+  },
+  "ending": "ar"
+}

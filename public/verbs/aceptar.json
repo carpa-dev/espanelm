@@ -1,0 +1,113 @@
+{
+  "verb": "aceptar",
+  "englishInfinitive": "to accept",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "acepto",
+    "Tu": "aceptas",
+    "El": "acepta",
+    "Nosotros": "aceptamos",
+    "Vosotros": "aceptáis",
+    "Ellos": "aceptan"
+  },
+  "IndicativePreterite": {
+    "Yo": "acepté",
+    "Tu": "aceptaste",
+    "El": "aceptó",
+    "Nosotros": "aceptamos",
+    "Vosotros": "aceptasteis",
+    "Ellos": "aceptaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "aceptaré",
+    "Tu": "aceptarás",
+    "El": "aceptará",
+    "Nosotros": "aceptaremos",
+    "Vosotros": "aceptaréis",
+    "Ellos": "aceptarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "aceptaría",
+    "Tu": "aceptarías",
+    "El": "aceptaría",
+    "Nosotros": "aceptaríamos",
+    "Vosotros": "aceptaríais",
+    "Ellos": "aceptarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "aceptaba",
+    "Tu": "aceptabas",
+    "El": "aceptaba",
+    "Nosotros": "aceptábamos",
+    "Vosotros": "aceptabais",
+    "Ellos": "aceptaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy aceptando",
+    "Tu": "estás aceptando",
+    "El": "está aceptando",
+    "Nosotros": "estamos aceptando",
+    "Vosotros": "estáis aceptando",
+    "Ellos": "están aceptando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he aceptado",
+    "Tu": "has aceptado",
+    "El": "ha aceptado",
+    "Nosotros": "hemos aceptado",
+    "Vosotros": "habéis aceptado",
+    "Ellos": "han aceptado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había aceptado",
+    "Tu": "habías aceptado",
+    "El": "había aceptado",
+    "Nosotros": "habíamos aceptado",
+    "Vosotros": "habíais aceptado",
+    "Ellos": "habían aceptado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré aceptado",
+    "Tu": "habrás aceptado",
+    "El": "habrá aceptado",
+    "Nosotros": "habremos aceptado",
+    "Vosotros": "habréis aceptado",
+    "Ellos": "habrán aceptado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría aceptado",
+    "Tu": "habrías aceptado",
+    "El": "habría aceptado",
+    "Nosotros": "habríamos aceptado",
+    "Vosotros": "habríais aceptado",
+    "Ellos": "habrían aceptado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "acepte",
+    "Tu": "aceptes",
+    "El": "acepte",
+    "Nosotros": "aceptemos",
+    "Vosotros": "aceptéis",
+    "Ellos": "acepten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "acepta",
+    "El": "acepte",
+    "Nosotros": "aceptemos",
+    "Vosotros": "aceptad",
+    "Ellos": "acepten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no aceptes",
+    "El": "no acepte",
+    "Nosotros": "no aceptemos",
+    "Vosotros": "no aceptéis",
+    "Ellos": "no acepten"
+  },
+  "ending": "ar"
+}

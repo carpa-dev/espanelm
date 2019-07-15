@@ -1,0 +1,113 @@
+{
+  "verb": "agradecer",
+  "englishInfinitive": "to be thankful for",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "agradezco",
+    "Tu": "agradeces",
+    "El": "agradece",
+    "Nosotros": "agradecemos",
+    "Vosotros": "agradecéis",
+    "Ellos": "agradecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "agradecí",
+    "Tu": "agradeciste",
+    "El": "agradeció",
+    "Nosotros": "agradecimos",
+    "Vosotros": "agradecisteis",
+    "Ellos": "agradecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "agradeceré",
+    "Tu": "agradecerás",
+    "El": "agradecerá",
+    "Nosotros": "agradeceremos",
+    "Vosotros": "agradeceréis",
+    "Ellos": "agradecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "agradecería",
+    "Tu": "agradecerías",
+    "El": "agradecería",
+    "Nosotros": "agradeceríamos",
+    "Vosotros": "agradeceríais",
+    "Ellos": "agradecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "agradecía",
+    "Tu": "agradecías",
+    "El": "agradecía",
+    "Nosotros": "agradecíamos",
+    "Vosotros": "agradecíais",
+    "Ellos": "agradecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy agradeciendo",
+    "Tu": "estás agradeciendo",
+    "El": "está agradeciendo",
+    "Nosotros": "estamos agradeciendo",
+    "Vosotros": "estáis agradeciendo",
+    "Ellos": "están agradeciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he agradecido",
+    "Tu": "has agradecido",
+    "El": "ha agradecido",
+    "Nosotros": "hemos agradecido",
+    "Vosotros": "habéis agradecido",
+    "Ellos": "han agradecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había agradecido",
+    "Tu": "habías agradecido",
+    "El": "había agradecido",
+    "Nosotros": "habíamos agradecido",
+    "Vosotros": "habíais agradecido",
+    "Ellos": "habían agradecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré agradecido",
+    "Tu": "habrás agradecido",
+    "El": "habrá agradecido",
+    "Nosotros": "habremos agradecido",
+    "Vosotros": "habréis agradecido",
+    "Ellos": "habrán agradecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría agradecido",
+    "Tu": "habrías agradecido",
+    "El": "habría agradecido",
+    "Nosotros": "habríamos agradecido",
+    "Vosotros": "habríais agradecido",
+    "Ellos": "habrían agradecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "agradezca",
+    "Tu": "agradezcas",
+    "El": "agradezca",
+    "Nosotros": "agradezcamos",
+    "Vosotros": "agradezcáis",
+    "Ellos": "agradezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "agradece",
+    "El": "agradezca",
+    "Nosotros": "agradezcamos",
+    "Vosotros": "agradeced",
+    "Ellos": "agradezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no agradezcas",
+    "El": "no agradezca",
+    "Nosotros": "no agradezcamos",
+    "Vosotros": "no agradezcáis",
+    "Ellos": "no agradezcan"
+  },
+  "ending": "er"
+}

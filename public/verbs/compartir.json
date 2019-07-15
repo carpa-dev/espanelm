@@ -1,0 +1,113 @@
+{
+  "verb": "compartir",
+  "englishInfinitive": "to share",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "comparto",
+    "Tu": "compartes",
+    "El": "comparte",
+    "Nosotros": "compartimos",
+    "Vosotros": "compartís",
+    "Ellos": "comparten"
+  },
+  "IndicativePreterite": {
+    "Yo": "compartí",
+    "Tu": "compartiste",
+    "El": "compartió",
+    "Nosotros": "compartimos",
+    "Vosotros": "compartisteis",
+    "Ellos": "compartieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "compartiré",
+    "Tu": "compartirás",
+    "El": "compartirá",
+    "Nosotros": "compartiremos",
+    "Vosotros": "compartiréis",
+    "Ellos": "compartirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "compartiría",
+    "Tu": "compartirías",
+    "El": "compartiría",
+    "Nosotros": "compartiríamos",
+    "Vosotros": "compartiríais",
+    "Ellos": "compartirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "compartía",
+    "Tu": "compartías",
+    "El": "compartía",
+    "Nosotros": "compartíamos",
+    "Vosotros": "compartíais",
+    "Ellos": "compartían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy compartiendo",
+    "Tu": "estás compartiendo",
+    "El": "está compartiendo",
+    "Nosotros": "estamos compartiendo",
+    "Vosotros": "estáis compartiendo",
+    "Ellos": "están compartiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he compartido",
+    "Tu": "has compartido",
+    "El": "ha compartido",
+    "Nosotros": "hemos compartido",
+    "Vosotros": "habéis compartido",
+    "Ellos": "han compartido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había compartido",
+    "Tu": "habías compartido",
+    "El": "había compartido",
+    "Nosotros": "habíamos compartido",
+    "Vosotros": "habíais compartido",
+    "Ellos": "habían compartido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré compartido",
+    "Tu": "habrás compartido",
+    "El": "habrá compartido",
+    "Nosotros": "habremos compartido",
+    "Vosotros": "habréis compartido",
+    "Ellos": "habrán compartido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría compartido",
+    "Tu": "habrías compartido",
+    "El": "habría compartido",
+    "Nosotros": "habríamos compartido",
+    "Vosotros": "habríais compartido",
+    "Ellos": "habrían compartido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "comparta",
+    "Tu": "compartas",
+    "El": "comparta",
+    "Nosotros": "compartamos",
+    "Vosotros": "compartáis",
+    "Ellos": "compartan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "comparte",
+    "El": "comparta",
+    "Nosotros": "compartamos",
+    "Vosotros": "compartid",
+    "Ellos": "compartan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no compartas",
+    "El": "no comparta",
+    "Nosotros": "no compartamos",
+    "Vosotros": "no compartáis",
+    "Ellos": "no compartan"
+  },
+  "ending": "ir"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "andar",
+  "englishInfinitive": "to walk",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "ando",
+    "Tu": "andas",
+    "El": "anda",
+    "Nosotros": "andamos",
+    "Vosotros": "andáis",
+    "Ellos": "andan"
+  },
+  "IndicativePreterite": {
+    "Yo": "anduve",
+    "Tu": "anduviste",
+    "El": "anduvo",
+    "Nosotros": "anduvimos",
+    "Vosotros": "anduvisteis",
+    "Ellos": "anduvieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "andaré",
+    "Tu": "andarás",
+    "El": "andará",
+    "Nosotros": "andaremos",
+    "Vosotros": "andaréis",
+    "Ellos": "andarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "andaría",
+    "Tu": "andarías",
+    "El": "andaría",
+    "Nosotros": "andaríamos",
+    "Vosotros": "andaríais",
+    "Ellos": "andarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "andaba",
+    "Tu": "andabas",
+    "El": "andaba",
+    "Nosotros": "andábamos",
+    "Vosotros": "andabais",
+    "Ellos": "andaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy andando",
+    "Tu": "estás andando",
+    "El": "está andando",
+    "Nosotros": "estamos andando",
+    "Vosotros": "estáis andando",
+    "Ellos": "están andando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he andado",
+    "Tu": "has andado",
+    "El": "ha andado",
+    "Nosotros": "hemos andado",
+    "Vosotros": "habéis andado",
+    "Ellos": "han andado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había andado",
+    "Tu": "habías andado",
+    "El": "había andado",
+    "Nosotros": "habíamos andado",
+    "Vosotros": "habíais andado",
+    "Ellos": "habían andado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré andado",
+    "Tu": "habrás andado",
+    "El": "habrá andado",
+    "Nosotros": "habremos andado",
+    "Vosotros": "habréis andado",
+    "Ellos": "habrán andado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría andado",
+    "Tu": "habrías andado",
+    "El": "habría andado",
+    "Nosotros": "habríamos andado",
+    "Vosotros": "habríais andado",
+    "Ellos": "habrían andado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ande",
+    "Tu": "andes",
+    "El": "ande",
+    "Nosotros": "andemos",
+    "Vosotros": "andéis",
+    "Ellos": "anden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "anda",
+    "El": "ande",
+    "Nosotros": "andemos",
+    "Vosotros": "andad",
+    "Ellos": "anden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no andes",
+    "El": "no ande",
+    "Nosotros": "no andemos",
+    "Vosotros": "no andéis",
+    "Ellos": "no anden"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "parar",
+  "englishInfinitive": "to stop",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "paro",
+    "Tu": "paras",
+    "El": "para",
+    "Nosotros": "paramos",
+    "Vosotros": "paráis",
+    "Ellos": "paran"
+  },
+  "IndicativePreterite": {
+    "Yo": "paré",
+    "Tu": "paraste",
+    "El": "paró",
+    "Nosotros": "paramos",
+    "Vosotros": "parasteis",
+    "Ellos": "pararon"
+  },
+  "IndicativeFuture": {
+    "Yo": "pararé",
+    "Tu": "pararás",
+    "El": "parará",
+    "Nosotros": "pararemos",
+    "Vosotros": "pararéis",
+    "Ellos": "pararán"
+  },
+  "ConditionalPresent": {
+    "Yo": "pararía",
+    "Tu": "pararías",
+    "El": "pararía",
+    "Nosotros": "pararíamos",
+    "Vosotros": "pararíais",
+    "Ellos": "pararían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "paraba",
+    "Tu": "parabas",
+    "El": "paraba",
+    "Nosotros": "parábamos",
+    "Vosotros": "parabais",
+    "Ellos": "paraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy parando",
+    "Tu": "estás parando",
+    "El": "está parando",
+    "Nosotros": "estamos parando",
+    "Vosotros": "estáis parando",
+    "Ellos": "están parando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he parado",
+    "Tu": "has parado",
+    "El": "ha parado",
+    "Nosotros": "hemos parado",
+    "Vosotros": "habéis parado",
+    "Ellos": "han parado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había parado",
+    "Tu": "habías parado",
+    "El": "había parado",
+    "Nosotros": "habíamos parado",
+    "Vosotros": "habíais parado",
+    "Ellos": "habían parado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré parado",
+    "Tu": "habrás parado",
+    "El": "habrá parado",
+    "Nosotros": "habremos parado",
+    "Vosotros": "habréis parado",
+    "Ellos": "habrán parado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría parado",
+    "Tu": "habrías parado",
+    "El": "habría parado",
+    "Nosotros": "habríamos parado",
+    "Vosotros": "habríais parado",
+    "Ellos": "habrían parado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "pare",
+    "Tu": "pares",
+    "El": "pare",
+    "Nosotros": "paremos",
+    "Vosotros": "paréis",
+    "Ellos": "paren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "para",
+    "El": "pare",
+    "Nosotros": "paremos",
+    "Vosotros": "parad",
+    "Ellos": "paren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no pares",
+    "El": "no pare",
+    "Nosotros": "no paremos",
+    "Vosotros": "no paréis",
+    "Ellos": "no paren"
+  },
+  "ending": "ar"
+}

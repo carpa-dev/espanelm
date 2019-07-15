@@ -1,0 +1,113 @@
+{
+  "verb": "avanzar",
+  "englishInfinitive": "to advance",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "avanzo",
+    "Tu": "avanzas",
+    "El": "avanza",
+    "Nosotros": "avanzamos",
+    "Vosotros": "avanzáis",
+    "Ellos": "avanzan"
+  },
+  "IndicativePreterite": {
+    "Yo": "avancé",
+    "Tu": "avanzaste",
+    "El": "avanzó",
+    "Nosotros": "avanzamos",
+    "Vosotros": "avanzasteis",
+    "Ellos": "avanzaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "avanzaré",
+    "Tu": "avanzarás",
+    "El": "avanzará",
+    "Nosotros": "avanzaremos",
+    "Vosotros": "avanzaréis",
+    "Ellos": "avanzarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "avanzaría",
+    "Tu": "avanzarías",
+    "El": "avanzaría",
+    "Nosotros": "avanzaríamos",
+    "Vosotros": "avanzaríais",
+    "Ellos": "avanzarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "avanzaba",
+    "Tu": "avanzabas",
+    "El": "avanzaba",
+    "Nosotros": "avanzábamos",
+    "Vosotros": "avanzabais",
+    "Ellos": "avanzaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy avanzando",
+    "Tu": "estás avanzando",
+    "El": "está avanzando",
+    "Nosotros": "estamos avanzando",
+    "Vosotros": "estáis avanzando",
+    "Ellos": "están avanzando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he avanzado",
+    "Tu": "has avanzado",
+    "El": "ha avanzado",
+    "Nosotros": "hemos avanzado",
+    "Vosotros": "habéis avanzado",
+    "Ellos": "han avanzado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había avanzado",
+    "Tu": "habías avanzado",
+    "El": "había avanzado",
+    "Nosotros": "habíamos avanzado",
+    "Vosotros": "habíais avanzado",
+    "Ellos": "habían avanzado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré avanzado",
+    "Tu": "habrás avanzado",
+    "El": "habrá avanzado",
+    "Nosotros": "habremos avanzado",
+    "Vosotros": "habréis avanzado",
+    "Ellos": "habrán avanzado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría avanzado",
+    "Tu": "habrías avanzado",
+    "El": "habría avanzado",
+    "Nosotros": "habríamos avanzado",
+    "Vosotros": "habríais avanzado",
+    "Ellos": "habrían avanzado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "avance",
+    "Tu": "avances",
+    "El": "avance",
+    "Nosotros": "avancemos",
+    "Vosotros": "avancéis",
+    "Ellos": "avancen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "avanza",
+    "El": "avance",
+    "Nosotros": "avancemos",
+    "Vosotros": "avanzad",
+    "Ellos": "avancen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no avances",
+    "El": "no avance",
+    "Nosotros": "no avancemos",
+    "Vosotros": "no avancéis",
+    "Ellos": "no avancen"
+  },
+  "ending": "ar"
+}

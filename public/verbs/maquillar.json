@@ -1,0 +1,113 @@
+{
+  "verb": "maquillar",
+  "englishInfinitive": "to put make-up on",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "maquillo",
+    "Tu": "maquillas",
+    "El": "maquilla",
+    "Nosotros": "maquillamos",
+    "Vosotros": "maquilláis",
+    "Ellos": "maquillan"
+  },
+  "IndicativePreterite": {
+    "Yo": "maquillé",
+    "Tu": "maquillaste",
+    "El": "maquilló",
+    "Nosotros": "maquillamos",
+    "Vosotros": "maquillasteis",
+    "Ellos": "maquillaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "maquillaré",
+    "Tu": "maquillarás",
+    "El": "maquillará",
+    "Nosotros": "maquillaremos",
+    "Vosotros": "maquillaréis",
+    "Ellos": "maquillarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "maquillaría",
+    "Tu": "maquillarías",
+    "El": "maquillaría",
+    "Nosotros": "maquillaríamos",
+    "Vosotros": "maquillaríais",
+    "Ellos": "maquillarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "maquillaba",
+    "Tu": "maquillabas",
+    "El": "maquillaba",
+    "Nosotros": "maquillábamos",
+    "Vosotros": "maquillabais",
+    "Ellos": "maquillaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy maquillando",
+    "Tu": "estás maquillando",
+    "El": "está maquillando",
+    "Nosotros": "estamos maquillando",
+    "Vosotros": "estáis maquillando",
+    "Ellos": "están maquillando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he maquillado",
+    "Tu": "has maquillado",
+    "El": "ha maquillado",
+    "Nosotros": "hemos maquillado",
+    "Vosotros": "habéis maquillado",
+    "Ellos": "han maquillado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había maquillado",
+    "Tu": "habías maquillado",
+    "El": "había maquillado",
+    "Nosotros": "habíamos maquillado",
+    "Vosotros": "habíais maquillado",
+    "Ellos": "habían maquillado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré maquillado",
+    "Tu": "habrás maquillado",
+    "El": "habrá maquillado",
+    "Nosotros": "habremos maquillado",
+    "Vosotros": "habréis maquillado",
+    "Ellos": "habrán maquillado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría maquillado",
+    "Tu": "habrías maquillado",
+    "El": "habría maquillado",
+    "Nosotros": "habríamos maquillado",
+    "Vosotros": "habríais maquillado",
+    "Ellos": "habrían maquillado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "maquille",
+    "Tu": "maquilles",
+    "El": "maquille",
+    "Nosotros": "maquillemos",
+    "Vosotros": "maquilléis",
+    "Ellos": "maquillen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "maquilla",
+    "El": "maquille",
+    "Nosotros": "maquillemos",
+    "Vosotros": "maquillad",
+    "Ellos": "maquillen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no maquilles",
+    "El": "no maquille",
+    "Nosotros": "no maquillemos",
+    "Vosotros": "no maquilléis",
+    "Ellos": "no maquillen"
+  },
+  "ending": "ar"
+}

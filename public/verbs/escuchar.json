@@ -1,0 +1,113 @@
+{
+  "verb": "escuchar",
+  "englishInfinitive": "to listen to",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "escucho",
+    "Tu": "escuchas",
+    "El": "escucha",
+    "Nosotros": "escuchamos",
+    "Vosotros": "escucháis",
+    "Ellos": "escuchan"
+  },
+  "IndicativePreterite": {
+    "Yo": "escuché",
+    "Tu": "escuchaste",
+    "El": "escuchó",
+    "Nosotros": "escuchamos",
+    "Vosotros": "escuchasteis",
+    "Ellos": "escucharon"
+  },
+  "IndicativeFuture": {
+    "Yo": "escucharé",
+    "Tu": "escucharás",
+    "El": "escuchará",
+    "Nosotros": "escucharemos",
+    "Vosotros": "escucharéis",
+    "Ellos": "escucharán"
+  },
+  "ConditionalPresent": {
+    "Yo": "escucharía",
+    "Tu": "escucharías",
+    "El": "escucharía",
+    "Nosotros": "escucharíamos",
+    "Vosotros": "escucharíais",
+    "Ellos": "escucharían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "escuchaba",
+    "Tu": "escuchabas",
+    "El": "escuchaba",
+    "Nosotros": "escuchábamos",
+    "Vosotros": "escuchabais",
+    "Ellos": "escuchaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy escuchando",
+    "Tu": "estás escuchando",
+    "El": "está escuchando",
+    "Nosotros": "estamos escuchando",
+    "Vosotros": "estáis escuchando",
+    "Ellos": "están escuchando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he escuchado",
+    "Tu": "has escuchado",
+    "El": "ha escuchado",
+    "Nosotros": "hemos escuchado",
+    "Vosotros": "habéis escuchado",
+    "Ellos": "han escuchado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había escuchado",
+    "Tu": "habías escuchado",
+    "El": "había escuchado",
+    "Nosotros": "habíamos escuchado",
+    "Vosotros": "habíais escuchado",
+    "Ellos": "habían escuchado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré escuchado",
+    "Tu": "habrás escuchado",
+    "El": "habrá escuchado",
+    "Nosotros": "habremos escuchado",
+    "Vosotros": "habréis escuchado",
+    "Ellos": "habrán escuchado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría escuchado",
+    "Tu": "habrías escuchado",
+    "El": "habría escuchado",
+    "Nosotros": "habríamos escuchado",
+    "Vosotros": "habríais escuchado",
+    "Ellos": "habrían escuchado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "escuche",
+    "Tu": "escuches",
+    "El": "escuche",
+    "Nosotros": "escuchemos",
+    "Vosotros": "escuchéis",
+    "Ellos": "escuchen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "escucha",
+    "El": "escuche",
+    "Nosotros": "escuchemos",
+    "Vosotros": "escuchad",
+    "Ellos": "escuchen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no escuches",
+    "El": "no escuche",
+    "Nosotros": "no escuchemos",
+    "Vosotros": "no escuchéis",
+    "Ellos": "no escuchen"
+  },
+  "ending": "ar"
+}

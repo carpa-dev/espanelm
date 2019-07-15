@@ -1,0 +1,113 @@
+{
+  "verb": "arreglar",
+  "englishInfinitive": "to arrange",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "arreglo",
+    "Tu": "arreglas",
+    "El": "arregla",
+    "Nosotros": "arreglamos",
+    "Vosotros": "arregláis",
+    "Ellos": "arreglan"
+  },
+  "IndicativePreterite": {
+    "Yo": "arreglé",
+    "Tu": "arreglaste",
+    "El": "arregló",
+    "Nosotros": "arreglamos",
+    "Vosotros": "arreglasteis",
+    "Ellos": "arreglaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "arreglaré",
+    "Tu": "arreglarás",
+    "El": "arreglará",
+    "Nosotros": "arreglaremos",
+    "Vosotros": "arreglaréis",
+    "Ellos": "arreglarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "arreglaría",
+    "Tu": "arreglarías",
+    "El": "arreglaría",
+    "Nosotros": "arreglaríamos",
+    "Vosotros": "arreglaríais",
+    "Ellos": "arreglarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "arreglaba",
+    "Tu": "arreglabas",
+    "El": "arreglaba",
+    "Nosotros": "arreglábamos",
+    "Vosotros": "arreglabais",
+    "Ellos": "arreglaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy arreglando",
+    "Tu": "estás arreglando",
+    "El": "está arreglando",
+    "Nosotros": "estamos arreglando",
+    "Vosotros": "estáis arreglando",
+    "Ellos": "están arreglando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he arreglado",
+    "Tu": "has arreglado",
+    "El": "ha arreglado",
+    "Nosotros": "hemos arreglado",
+    "Vosotros": "habéis arreglado",
+    "Ellos": "han arreglado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había arreglado",
+    "Tu": "habías arreglado",
+    "El": "había arreglado",
+    "Nosotros": "habíamos arreglado",
+    "Vosotros": "habíais arreglado",
+    "Ellos": "habían arreglado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré arreglado",
+    "Tu": "habrás arreglado",
+    "El": "habrá arreglado",
+    "Nosotros": "habremos arreglado",
+    "Vosotros": "habréis arreglado",
+    "Ellos": "habrán arreglado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría arreglado",
+    "Tu": "habrías arreglado",
+    "El": "habría arreglado",
+    "Nosotros": "habríamos arreglado",
+    "Vosotros": "habríais arreglado",
+    "Ellos": "habrían arreglado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "arregle",
+    "Tu": "arregles",
+    "El": "arregle",
+    "Nosotros": "arreglemos",
+    "Vosotros": "arregléis",
+    "Ellos": "arreglen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "arregla",
+    "El": "arregle",
+    "Nosotros": "arreglemos",
+    "Vosotros": "arreglad",
+    "Ellos": "arreglen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no arregles",
+    "El": "no arregle",
+    "Nosotros": "no arreglemos",
+    "Vosotros": "no arregléis",
+    "Ellos": "no arreglen"
+  },
+  "ending": "ar"
+}

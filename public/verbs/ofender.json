@@ -1,0 +1,113 @@
+{
+  "verb": "ofender",
+  "englishInfinitive": "to offend",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "ofendo",
+    "Tu": "ofendes",
+    "El": "ofende",
+    "Nosotros": "ofendemos",
+    "Vosotros": "ofendéis",
+    "Ellos": "ofenden"
+  },
+  "IndicativePreterite": {
+    "Yo": "ofendí",
+    "Tu": "ofendiste",
+    "El": "ofendió",
+    "Nosotros": "ofendimos",
+    "Vosotros": "ofendisteis",
+    "Ellos": "ofendieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "ofenderé",
+    "Tu": "ofenderás",
+    "El": "ofenderá",
+    "Nosotros": "ofenderemos",
+    "Vosotros": "ofenderéis",
+    "Ellos": "ofenderán"
+  },
+  "ConditionalPresent": {
+    "Yo": "ofendería",
+    "Tu": "ofenderías",
+    "El": "ofendería",
+    "Nosotros": "ofenderíamos",
+    "Vosotros": "ofenderíais",
+    "Ellos": "ofenderían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "ofendía",
+    "Tu": "ofendías",
+    "El": "ofendía",
+    "Nosotros": "ofendíamos",
+    "Vosotros": "ofendíais",
+    "Ellos": "ofendían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy ofendiendo",
+    "Tu": "estás ofendiendo",
+    "El": "está ofendiendo",
+    "Nosotros": "estamos ofendiendo",
+    "Vosotros": "estáis ofendiendo",
+    "Ellos": "están ofendiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he ofendido",
+    "Tu": "has ofendido",
+    "El": "ha ofendido",
+    "Nosotros": "hemos ofendido",
+    "Vosotros": "habéis ofendido",
+    "Ellos": "han ofendido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había ofendido",
+    "Tu": "habías ofendido",
+    "El": "había ofendido",
+    "Nosotros": "habíamos ofendido",
+    "Vosotros": "habíais ofendido",
+    "Ellos": "habían ofendido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré ofendido",
+    "Tu": "habrás ofendido",
+    "El": "habrá ofendido",
+    "Nosotros": "habremos ofendido",
+    "Vosotros": "habréis ofendido",
+    "Ellos": "habrán ofendido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría ofendido",
+    "Tu": "habrías ofendido",
+    "El": "habría ofendido",
+    "Nosotros": "habríamos ofendido",
+    "Vosotros": "habríais ofendido",
+    "Ellos": "habrían ofendido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ofenda",
+    "Tu": "ofendas",
+    "El": "ofenda",
+    "Nosotros": "ofendamos",
+    "Vosotros": "ofendáis",
+    "Ellos": "ofendan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ofende",
+    "El": "ofenda",
+    "Nosotros": "ofendamos",
+    "Vosotros": "ofended",
+    "Ellos": "ofendan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ofendas",
+    "El": "no ofenda",
+    "Nosotros": "no ofendamos",
+    "Vosotros": "no ofendáis",
+    "Ellos": "no ofendan"
+  },
+  "ending": "er"
+}

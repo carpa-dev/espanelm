@@ -1,0 +1,113 @@
+{
+  "verb": "permanecer",
+  "englishInfinitive": "to stay",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "permanezco",
+    "Tu": "permaneces",
+    "El": "permanece",
+    "Nosotros": "permanecemos",
+    "Vosotros": "permanecéis",
+    "Ellos": "permanecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "permanecí",
+    "Tu": "permaneciste",
+    "El": "permaneció",
+    "Nosotros": "permanecimos",
+    "Vosotros": "permanecisteis",
+    "Ellos": "permanecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "permaneceré",
+    "Tu": "permanecerás",
+    "El": "permanecerá",
+    "Nosotros": "permaneceremos",
+    "Vosotros": "permaneceréis",
+    "Ellos": "permanecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "permanecería",
+    "Tu": "permanecerías",
+    "El": "permanecería",
+    "Nosotros": "permaneceríamos",
+    "Vosotros": "permaneceríais",
+    "Ellos": "permanecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "permanecía",
+    "Tu": "permanecías",
+    "El": "permanecía",
+    "Nosotros": "permanecíamos",
+    "Vosotros": "permanecíais",
+    "Ellos": "permanecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy permaneciendo",
+    "Tu": "estás permaneciendo",
+    "El": "está permaneciendo",
+    "Nosotros": "estamos permaneciendo",
+    "Vosotros": "estáis permaneciendo",
+    "Ellos": "están permaneciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he permanecido",
+    "Tu": "has permanecido",
+    "El": "ha permanecido",
+    "Nosotros": "hemos permanecido",
+    "Vosotros": "habéis permanecido",
+    "Ellos": "han permanecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había permanecido",
+    "Tu": "habías permanecido",
+    "El": "había permanecido",
+    "Nosotros": "habíamos permanecido",
+    "Vosotros": "habíais permanecido",
+    "Ellos": "habían permanecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré permanecido",
+    "Tu": "habrás permanecido",
+    "El": "habrá permanecido",
+    "Nosotros": "habremos permanecido",
+    "Vosotros": "habréis permanecido",
+    "Ellos": "habrán permanecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría permanecido",
+    "Tu": "habrías permanecido",
+    "El": "habría permanecido",
+    "Nosotros": "habríamos permanecido",
+    "Vosotros": "habríais permanecido",
+    "Ellos": "habrían permanecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "permanezca",
+    "Tu": "permanezcas",
+    "El": "permanezca",
+    "Nosotros": "permanezcamos",
+    "Vosotros": "permanezcáis",
+    "Ellos": "permanezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "permanece",
+    "El": "permanezca",
+    "Nosotros": "permanezcamos",
+    "Vosotros": "permaneced",
+    "Ellos": "permanezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no permanezcas",
+    "El": "no permanezca",
+    "Nosotros": "no permanezcamos",
+    "Vosotros": "no permanezcáis",
+    "Ellos": "no permanezcan"
+  },
+  "ending": "er"
+}

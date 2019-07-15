@@ -1,0 +1,113 @@
+{
+  "verb": "tocar",
+  "englishInfinitive": "to touch",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "toco",
+    "Tu": "tocas",
+    "El": "toca",
+    "Nosotros": "tocamos",
+    "Vosotros": "tocáis",
+    "Ellos": "tocan"
+  },
+  "IndicativePreterite": {
+    "Yo": "toqué",
+    "Tu": "tocaste",
+    "El": "tocó",
+    "Nosotros": "tocamos",
+    "Vosotros": "tocasteis",
+    "Ellos": "tocaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "tocaré",
+    "Tu": "tocarás",
+    "El": "tocará",
+    "Nosotros": "tocaremos",
+    "Vosotros": "tocaréis",
+    "Ellos": "tocarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "tocaría",
+    "Tu": "tocarías",
+    "El": "tocaría",
+    "Nosotros": "tocaríamos",
+    "Vosotros": "tocaríais",
+    "Ellos": "tocarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "tocaba",
+    "Tu": "tocabas",
+    "El": "tocaba",
+    "Nosotros": "tocábamos",
+    "Vosotros": "tocabais",
+    "Ellos": "tocaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy tocando",
+    "Tu": "estás tocando",
+    "El": "está tocando",
+    "Nosotros": "estamos tocando",
+    "Vosotros": "estáis tocando",
+    "Ellos": "están tocando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he tocado",
+    "Tu": "has tocado",
+    "El": "ha tocado",
+    "Nosotros": "hemos tocado",
+    "Vosotros": "habéis tocado",
+    "Ellos": "han tocado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había tocado",
+    "Tu": "habías tocado",
+    "El": "había tocado",
+    "Nosotros": "habíamos tocado",
+    "Vosotros": "habíais tocado",
+    "Ellos": "habían tocado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré tocado",
+    "Tu": "habrás tocado",
+    "El": "habrá tocado",
+    "Nosotros": "habremos tocado",
+    "Vosotros": "habréis tocado",
+    "Ellos": "habrán tocado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría tocado",
+    "Tu": "habrías tocado",
+    "El": "habría tocado",
+    "Nosotros": "habríamos tocado",
+    "Vosotros": "habríais tocado",
+    "Ellos": "habrían tocado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "toque",
+    "Tu": "toques",
+    "El": "toque",
+    "Nosotros": "toquemos",
+    "Vosotros": "toquéis",
+    "Ellos": "toquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "toca",
+    "El": "toque",
+    "Nosotros": "toquemos",
+    "Vosotros": "tocad",
+    "Ellos": "toquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no toques",
+    "El": "no toque",
+    "Nosotros": "no toquemos",
+    "Vosotros": "no toquéis",
+    "Ellos": "no toquen"
+  },
+  "ending": "ar"
+}

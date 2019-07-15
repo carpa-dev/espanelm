@@ -1,0 +1,113 @@
+{
+  "verb": "iniciar",
+  "englishInfinitive": "to initiate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "inicio",
+    "Tu": "inicias",
+    "El": "inicia",
+    "Nosotros": "iniciamos",
+    "Vosotros": "iniciáis",
+    "Ellos": "inician"
+  },
+  "IndicativePreterite": {
+    "Yo": "inicié",
+    "Tu": "iniciaste",
+    "El": "inició",
+    "Nosotros": "iniciamos",
+    "Vosotros": "iniciasteis",
+    "Ellos": "iniciaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "iniciaré",
+    "Tu": "iniciarás",
+    "El": "iniciará",
+    "Nosotros": "iniciaremos",
+    "Vosotros": "iniciaréis",
+    "Ellos": "iniciarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "iniciaría",
+    "Tu": "iniciarías",
+    "El": "iniciaría",
+    "Nosotros": "iniciaríamos",
+    "Vosotros": "iniciaríais",
+    "Ellos": "iniciarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "iniciaba",
+    "Tu": "iniciabas",
+    "El": "iniciaba",
+    "Nosotros": "iniciábamos",
+    "Vosotros": "iniciabais",
+    "Ellos": "iniciaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy iniciando",
+    "Tu": "estás iniciando",
+    "El": "está iniciando",
+    "Nosotros": "estamos iniciando",
+    "Vosotros": "estáis iniciando",
+    "Ellos": "están iniciando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he iniciado",
+    "Tu": "has iniciado",
+    "El": "ha iniciado",
+    "Nosotros": "hemos iniciado",
+    "Vosotros": "habéis iniciado",
+    "Ellos": "han iniciado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había iniciado",
+    "Tu": "habías iniciado",
+    "El": "había iniciado",
+    "Nosotros": "habíamos iniciado",
+    "Vosotros": "habíais iniciado",
+    "Ellos": "habían iniciado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré iniciado",
+    "Tu": "habrás iniciado",
+    "El": "habrá iniciado",
+    "Nosotros": "habremos iniciado",
+    "Vosotros": "habréis iniciado",
+    "Ellos": "habrán iniciado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría iniciado",
+    "Tu": "habrías iniciado",
+    "El": "habría iniciado",
+    "Nosotros": "habríamos iniciado",
+    "Vosotros": "habríais iniciado",
+    "Ellos": "habrían iniciado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "inicie",
+    "Tu": "inicies",
+    "El": "inicie",
+    "Nosotros": "iniciemos",
+    "Vosotros": "iniciéis",
+    "Ellos": "inicien"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "inicia",
+    "El": "inicie",
+    "Nosotros": "iniciemos",
+    "Vosotros": "iniciad",
+    "Ellos": "inicien"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no inicies",
+    "El": "no inicie",
+    "Nosotros": "no iniciemos",
+    "Vosotros": "no iniciéis",
+    "Ellos": "no inicien"
+  },
+  "ending": "ar"
+}

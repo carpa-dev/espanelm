@@ -1,0 +1,113 @@
+{
+  "verb": "poner",
+  "englishInfinitive": "to put",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "pongo",
+    "Tu": "pones",
+    "El": "pone",
+    "Nosotros": "ponemos",
+    "Vosotros": "ponéis",
+    "Ellos": "ponen"
+  },
+  "IndicativePreterite": {
+    "Yo": "puse",
+    "Tu": "pusiste",
+    "El": "puso",
+    "Nosotros": "pusimos",
+    "Vosotros": "pusisteis",
+    "Ellos": "pusieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "pondré",
+    "Tu": "pondrás",
+    "El": "pondrá",
+    "Nosotros": "pondremos",
+    "Vosotros": "pondréis",
+    "Ellos": "pondrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "pondría",
+    "Tu": "pondrías",
+    "El": "pondría",
+    "Nosotros": "pondríamos",
+    "Vosotros": "pondríais",
+    "Ellos": "pondrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "ponía",
+    "Tu": "ponías",
+    "El": "ponía",
+    "Nosotros": "poníamos",
+    "Vosotros": "poníais",
+    "Ellos": "ponían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy poniendo",
+    "Tu": "estás poniendo",
+    "El": "está poniendo",
+    "Nosotros": "estamos poniendo",
+    "Vosotros": "estáis poniendo",
+    "Ellos": "están poniendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he puesto",
+    "Tu": "has puesto",
+    "El": "ha puesto",
+    "Nosotros": "hemos puesto",
+    "Vosotros": "habéis puesto",
+    "Ellos": "han puesto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había puesto",
+    "Tu": "habías puesto",
+    "El": "había puesto",
+    "Nosotros": "habíamos puesto",
+    "Vosotros": "habíais puesto",
+    "Ellos": "habían puesto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré puesto",
+    "Tu": "habrás puesto",
+    "El": "habrá puesto",
+    "Nosotros": "habremos puesto",
+    "Vosotros": "habréis puesto",
+    "Ellos": "habrán puesto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría puesto",
+    "Tu": "habrías puesto",
+    "El": "habría puesto",
+    "Nosotros": "habríamos puesto",
+    "Vosotros": "habríais puesto",
+    "Ellos": "habrían puesto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ponga",
+    "Tu": "pongas",
+    "El": "ponga",
+    "Nosotros": "pongamos",
+    "Vosotros": "pongáis",
+    "Ellos": "pongan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "pon",
+    "El": "ponga",
+    "Nosotros": "pongamos",
+    "Vosotros": "poned",
+    "Ellos": "pongan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no pongas",
+    "El": "no ponga",
+    "Nosotros": "no pongamos",
+    "Vosotros": "no pongáis",
+    "Ellos": "no pongan"
+  },
+  "ending": "er"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "convertir",
+  "englishInfinitive": "to convert",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "convierto",
+    "Tu": "conviertes",
+    "El": "convierte",
+    "Nosotros": "convertimos",
+    "Vosotros": "convertís",
+    "Ellos": "convierten"
+  },
+  "IndicativePreterite": {
+    "Yo": "convertí",
+    "Tu": "convertiste",
+    "El": "convirtió",
+    "Nosotros": "convertimos",
+    "Vosotros": "convertisteis",
+    "Ellos": "convirtieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "convertiré",
+    "Tu": "convertirás",
+    "El": "convertirá",
+    "Nosotros": "convertiremos",
+    "Vosotros": "convertiréis",
+    "Ellos": "convertirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "convertiría",
+    "Tu": "convertirías",
+    "El": "convertiría",
+    "Nosotros": "convertiríamos",
+    "Vosotros": "convertiríais",
+    "Ellos": "convertirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "convertía",
+    "Tu": "convertías",
+    "El": "convertía",
+    "Nosotros": "convertíamos",
+    "Vosotros": "convertíais",
+    "Ellos": "convertían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy convirtiendo",
+    "Tu": "estás convirtiendo",
+    "El": "está convirtiendo",
+    "Nosotros": "estamos convirtiendo",
+    "Vosotros": "estáis convirtiendo",
+    "Ellos": "están convirtiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he convertido",
+    "Tu": "has convertido",
+    "El": "ha convertido",
+    "Nosotros": "hemos convertido",
+    "Vosotros": "habéis convertido",
+    "Ellos": "han convertido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había convertido",
+    "Tu": "habías convertido",
+    "El": "había convertido",
+    "Nosotros": "habíamos convertido",
+    "Vosotros": "habíais convertido",
+    "Ellos": "habían convertido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré convertido",
+    "Tu": "habrás convertido",
+    "El": "habrá convertido",
+    "Nosotros": "habremos convertido",
+    "Vosotros": "habréis convertido",
+    "Ellos": "habrán convertido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría convertido",
+    "Tu": "habrías convertido",
+    "El": "habría convertido",
+    "Nosotros": "habríamos convertido",
+    "Vosotros": "habríais convertido",
+    "Ellos": "habrían convertido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "convierta",
+    "Tu": "conviertas",
+    "El": "convierta",
+    "Nosotros": "convirtamos",
+    "Vosotros": "convirtáis",
+    "Ellos": "conviertan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "convierte",
+    "El": "convierta",
+    "Nosotros": "convirtamos",
+    "Vosotros": "convertid",
+    "Ellos": "conviertan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no conviertas",
+    "El": "no convierta",
+    "Nosotros": "no convirtamos",
+    "Vosotros": "no convirtáis",
+    "Ellos": "no conviertan"
+  },
+  "ending": "ir"
+}

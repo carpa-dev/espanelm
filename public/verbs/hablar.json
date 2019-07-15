@@ -1,0 +1,113 @@
+{
+  "verb": "hablar",
+  "englishInfinitive": "to speak",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "hablo",
+    "Tu": "hablas",
+    "El": "habla",
+    "Nosotros": "hablamos",
+    "Vosotros": "habláis",
+    "Ellos": "hablan"
+  },
+  "IndicativePreterite": {
+    "Yo": "hablé",
+    "Tu": "hablaste",
+    "El": "habló",
+    "Nosotros": "hablamos",
+    "Vosotros": "hablasteis",
+    "Ellos": "hablaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "hablaré",
+    "Tu": "hablarás",
+    "El": "hablará",
+    "Nosotros": "hablaremos",
+    "Vosotros": "hablaréis",
+    "Ellos": "hablarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "hablaría",
+    "Tu": "hablarías",
+    "El": "hablaría",
+    "Nosotros": "hablaríamos",
+    "Vosotros": "hablaríais",
+    "Ellos": "hablarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "hablaba",
+    "Tu": "hablabas",
+    "El": "hablaba",
+    "Nosotros": "hablábamos",
+    "Vosotros": "hablabais",
+    "Ellos": "hablaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy hablando",
+    "Tu": "estás hablando",
+    "El": "está hablando",
+    "Nosotros": "estamos hablando",
+    "Vosotros": "estáis hablando",
+    "Ellos": "están hablando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he hablado",
+    "Tu": "has hablado",
+    "El": "ha hablado",
+    "Nosotros": "hemos hablado",
+    "Vosotros": "habéis hablado",
+    "Ellos": "han hablado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había hablado",
+    "Tu": "habías hablado",
+    "El": "había hablado",
+    "Nosotros": "habíamos hablado",
+    "Vosotros": "habíais hablado",
+    "Ellos": "habían hablado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré hablado",
+    "Tu": "habrás hablado",
+    "El": "habrá hablado",
+    "Nosotros": "habremos hablado",
+    "Vosotros": "habréis hablado",
+    "Ellos": "habrán hablado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría hablado",
+    "Tu": "habrías hablado",
+    "El": "habría hablado",
+    "Nosotros": "habríamos hablado",
+    "Vosotros": "habríais hablado",
+    "Ellos": "habrían hablado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "hable",
+    "Tu": "hables",
+    "El": "hable",
+    "Nosotros": "hablemos",
+    "Vosotros": "habléis",
+    "Ellos": "hablen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "habla",
+    "El": "hable",
+    "Nosotros": "hablemos",
+    "Vosotros": "hablad",
+    "Ellos": "hablen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no hables",
+    "El": "no hable",
+    "Nosotros": "no hablemos",
+    "Vosotros": "no habléis",
+    "Ellos": "no hablen"
+  },
+  "ending": "ar"
+}

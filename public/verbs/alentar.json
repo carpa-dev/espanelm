@@ -1,0 +1,113 @@
+{
+  "verb": "alentar",
+  "englishInfinitive": "to encourage",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "aliento",
+    "Tu": "alientas",
+    "El": "alienta",
+    "Nosotros": "alentamos",
+    "Vosotros": "alentáis",
+    "Ellos": "alientan"
+  },
+  "IndicativePreterite": {
+    "Yo": "alenté",
+    "Tu": "alentaste",
+    "El": "alentó",
+    "Nosotros": "alentamos",
+    "Vosotros": "alentasteis",
+    "Ellos": "alentaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "alentaré",
+    "Tu": "alentarás",
+    "El": "alentará",
+    "Nosotros": "alentaremos",
+    "Vosotros": "alentaréis",
+    "Ellos": "alentarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "alentaría",
+    "Tu": "alentarías",
+    "El": "alentaría",
+    "Nosotros": "alentaríamos",
+    "Vosotros": "alentaríais",
+    "Ellos": "alentarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "alentaba",
+    "Tu": "alentabas",
+    "El": "alentaba",
+    "Nosotros": "alentábamos",
+    "Vosotros": "alentabais",
+    "Ellos": "alentaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy alentando",
+    "Tu": "estás alentando",
+    "El": "está alentando",
+    "Nosotros": "estamos alentando",
+    "Vosotros": "estáis alentando",
+    "Ellos": "están alentando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he alentado",
+    "Tu": "has alentado",
+    "El": "ha alentado",
+    "Nosotros": "hemos alentado",
+    "Vosotros": "habéis alentado",
+    "Ellos": "han alentado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había alentado",
+    "Tu": "habías alentado",
+    "El": "había alentado",
+    "Nosotros": "habíamos alentado",
+    "Vosotros": "habíais alentado",
+    "Ellos": "habían alentado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré alentado",
+    "Tu": "habrás alentado",
+    "El": "habrá alentado",
+    "Nosotros": "habremos alentado",
+    "Vosotros": "habréis alentado",
+    "Ellos": "habrán alentado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría alentado",
+    "Tu": "habrías alentado",
+    "El": "habría alentado",
+    "Nosotros": "habríamos alentado",
+    "Vosotros": "habríais alentado",
+    "Ellos": "habrían alentado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "aliente",
+    "Tu": "alientes",
+    "El": "aliente",
+    "Nosotros": "alentemos",
+    "Vosotros": "alentéis",
+    "Ellos": "alienten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "alienta",
+    "El": "aliente",
+    "Nosotros": "alentemos",
+    "Vosotros": "alentad",
+    "Ellos": "alienten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no alientes",
+    "El": "no aliente",
+    "Nosotros": "no alentemos",
+    "Vosotros": "no alentéis",
+    "Ellos": "no alienten"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "evitar",
+  "englishInfinitive": "to avoid",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "evito",
+    "Tu": "evitas",
+    "El": "evita",
+    "Nosotros": "evitamos",
+    "Vosotros": "evitáis",
+    "Ellos": "evitan"
+  },
+  "IndicativePreterite": {
+    "Yo": "evité",
+    "Tu": "evitaste",
+    "El": "evitó",
+    "Nosotros": "evitamos",
+    "Vosotros": "evitasteis",
+    "Ellos": "evitaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "evitaré",
+    "Tu": "evitarás",
+    "El": "evitará",
+    "Nosotros": "evitaremos",
+    "Vosotros": "evitaréis",
+    "Ellos": "evitarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "evitaría",
+    "Tu": "evitarías",
+    "El": "evitaría",
+    "Nosotros": "evitaríamos",
+    "Vosotros": "evitaríais",
+    "Ellos": "evitarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "evitaba",
+    "Tu": "evitabas",
+    "El": "evitaba",
+    "Nosotros": "evitábamos",
+    "Vosotros": "evitabais",
+    "Ellos": "evitaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy evitando",
+    "Tu": "estás evitando",
+    "El": "está evitando",
+    "Nosotros": "estamos evitando",
+    "Vosotros": "estáis evitando",
+    "Ellos": "están evitando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he evitado",
+    "Tu": "has evitado",
+    "El": "ha evitado",
+    "Nosotros": "hemos evitado",
+    "Vosotros": "habéis evitado",
+    "Ellos": "han evitado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había evitado",
+    "Tu": "habías evitado",
+    "El": "había evitado",
+    "Nosotros": "habíamos evitado",
+    "Vosotros": "habíais evitado",
+    "Ellos": "habían evitado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré evitado",
+    "Tu": "habrás evitado",
+    "El": "habrá evitado",
+    "Nosotros": "habremos evitado",
+    "Vosotros": "habréis evitado",
+    "Ellos": "habrán evitado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría evitado",
+    "Tu": "habrías evitado",
+    "El": "habría evitado",
+    "Nosotros": "habríamos evitado",
+    "Vosotros": "habríais evitado",
+    "Ellos": "habrían evitado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "evite",
+    "Tu": "evites",
+    "El": "evite",
+    "Nosotros": "evitemos",
+    "Vosotros": "evitéis",
+    "Ellos": "eviten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "evita",
+    "El": "evite",
+    "Nosotros": "evitemos",
+    "Vosotros": "evitad",
+    "Ellos": "eviten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no evites",
+    "El": "no evite",
+    "Nosotros": "no evitemos",
+    "Vosotros": "no evitéis",
+    "Ellos": "no eviten"
+  },
+  "ending": "ar"
+}

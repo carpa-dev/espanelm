@@ -1,0 +1,113 @@
+{
+  "verb": "renacer",
+  "englishInfinitive": "to be reborn",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "renazco",
+    "Tu": "renaces",
+    "El": "renace",
+    "Nosotros": "renacemos",
+    "Vosotros": "renacéis",
+    "Ellos": "renacen"
+  },
+  "IndicativePreterite": {
+    "Yo": "renací",
+    "Tu": "renaciste",
+    "El": "renació",
+    "Nosotros": "renacimos",
+    "Vosotros": "renacisteis",
+    "Ellos": "renacieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "renaceré",
+    "Tu": "renacerás",
+    "El": "renacerá",
+    "Nosotros": "renaceremos",
+    "Vosotros": "renaceréis",
+    "Ellos": "renacerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "renacería",
+    "Tu": "renacerías",
+    "El": "renacería",
+    "Nosotros": "renaceríamos",
+    "Vosotros": "renaceríais",
+    "Ellos": "renacerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "renacía",
+    "Tu": "renacías",
+    "El": "renacía",
+    "Nosotros": "renacíamos",
+    "Vosotros": "renacíais",
+    "Ellos": "renacían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy renaciendo",
+    "Tu": "estás renaciendo",
+    "El": "está renaciendo",
+    "Nosotros": "estamos renaciendo",
+    "Vosotros": "estáis renaciendo",
+    "Ellos": "están renaciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he renacido",
+    "Tu": "has renacido",
+    "El": "ha renacido",
+    "Nosotros": "hemos renacido",
+    "Vosotros": "habéis renacido",
+    "Ellos": "han renacido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había renacido",
+    "Tu": "habías renacido",
+    "El": "había renacido",
+    "Nosotros": "habíamos renacido",
+    "Vosotros": "habíais renacido",
+    "Ellos": "habían renacido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré renacido",
+    "Tu": "habrás renacido",
+    "El": "habrá renacido",
+    "Nosotros": "habremos renacido",
+    "Vosotros": "habréis renacido",
+    "Ellos": "habrán renacido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría renacido",
+    "Tu": "habrías renacido",
+    "El": "habría renacido",
+    "Nosotros": "habríamos renacido",
+    "Vosotros": "habríais renacido",
+    "Ellos": "habrían renacido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "renazca",
+    "Tu": "renazcas",
+    "El": "renazca",
+    "Nosotros": "renazcamos",
+    "Vosotros": "renazcáis",
+    "Ellos": "renazcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "renace",
+    "El": "renazca",
+    "Nosotros": "renazcamos",
+    "Vosotros": "renaced",
+    "Ellos": "renazcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no renazcas",
+    "El": "no renazca",
+    "Nosotros": "no renazcamos",
+    "Vosotros": "no renazcáis",
+    "Ellos": "no renazcan"
+  },
+  "ending": "er"
+}

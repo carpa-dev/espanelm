@@ -1,0 +1,113 @@
+{
+  "verb": "doblar",
+  "englishInfinitive": "to double",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "doblo",
+    "Tu": "doblas",
+    "El": "dobla",
+    "Nosotros": "doblamos",
+    "Vosotros": "dobláis",
+    "Ellos": "doblan"
+  },
+  "IndicativePreterite": {
+    "Yo": "doblé",
+    "Tu": "doblaste",
+    "El": "dobló",
+    "Nosotros": "doblamos",
+    "Vosotros": "doblasteis",
+    "Ellos": "doblaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "doblaré",
+    "Tu": "doblarás",
+    "El": "doblará",
+    "Nosotros": "doblaremos",
+    "Vosotros": "doblaréis",
+    "Ellos": "doblarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "doblaría",
+    "Tu": "doblarías",
+    "El": "doblaría",
+    "Nosotros": "doblaríamos",
+    "Vosotros": "doblaríais",
+    "Ellos": "doblarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "doblaba",
+    "Tu": "doblabas",
+    "El": "doblaba",
+    "Nosotros": "doblábamos",
+    "Vosotros": "doblabais",
+    "Ellos": "doblaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy doblando",
+    "Tu": "estás doblando",
+    "El": "está doblando",
+    "Nosotros": "estamos doblando",
+    "Vosotros": "estáis doblando",
+    "Ellos": "están doblando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he doblado",
+    "Tu": "has doblado",
+    "El": "ha doblado",
+    "Nosotros": "hemos doblado",
+    "Vosotros": "habéis doblado",
+    "Ellos": "han doblado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había doblado",
+    "Tu": "habías doblado",
+    "El": "había doblado",
+    "Nosotros": "habíamos doblado",
+    "Vosotros": "habíais doblado",
+    "Ellos": "habían doblado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré doblado",
+    "Tu": "habrás doblado",
+    "El": "habrá doblado",
+    "Nosotros": "habremos doblado",
+    "Vosotros": "habréis doblado",
+    "Ellos": "habrán doblado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría doblado",
+    "Tu": "habrías doblado",
+    "El": "habría doblado",
+    "Nosotros": "habríamos doblado",
+    "Vosotros": "habríais doblado",
+    "Ellos": "habrían doblado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "doble",
+    "Tu": "dobles",
+    "El": "doble",
+    "Nosotros": "doblemos",
+    "Vosotros": "dobléis",
+    "Ellos": "doblen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "dobla",
+    "El": "doble",
+    "Nosotros": "doblemos",
+    "Vosotros": "doblad",
+    "Ellos": "doblen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no dobles",
+    "El": "no doble",
+    "Nosotros": "no doblemos",
+    "Vosotros": "no dobléis",
+    "Ellos": "no doblen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "brindar",
+  "englishInfinitive": "to toast",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "brindo",
+    "Tu": "brindas",
+    "El": "brinda",
+    "Nosotros": "brindamos",
+    "Vosotros": "brindáis",
+    "Ellos": "brindan"
+  },
+  "IndicativePreterite": {
+    "Yo": "brindé",
+    "Tu": "brindaste",
+    "El": "brindó",
+    "Nosotros": "brindamos",
+    "Vosotros": "brindasteis",
+    "Ellos": "brindaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "brindaré",
+    "Tu": "brindarás",
+    "El": "brindará",
+    "Nosotros": "brindaremos",
+    "Vosotros": "brindaréis",
+    "Ellos": "brindarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "brindaría",
+    "Tu": "brindarías",
+    "El": "brindaría",
+    "Nosotros": "brindaríamos",
+    "Vosotros": "brindaríais",
+    "Ellos": "brindarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "brindaba",
+    "Tu": "brindabas",
+    "El": "brindaba",
+    "Nosotros": "brindábamos",
+    "Vosotros": "brindabais",
+    "Ellos": "brindaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy brindando",
+    "Tu": "estás brindando",
+    "El": "está brindando",
+    "Nosotros": "estamos brindando",
+    "Vosotros": "estáis brindando",
+    "Ellos": "están brindando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he brindado",
+    "Tu": "has brindado",
+    "El": "ha brindado",
+    "Nosotros": "hemos brindado",
+    "Vosotros": "habéis brindado",
+    "Ellos": "han brindado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había brindado",
+    "Tu": "habías brindado",
+    "El": "había brindado",
+    "Nosotros": "habíamos brindado",
+    "Vosotros": "habíais brindado",
+    "Ellos": "habían brindado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré brindado",
+    "Tu": "habrás brindado",
+    "El": "habrá brindado",
+    "Nosotros": "habremos brindado",
+    "Vosotros": "habréis brindado",
+    "Ellos": "habrán brindado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría brindado",
+    "Tu": "habrías brindado",
+    "El": "habría brindado",
+    "Nosotros": "habríamos brindado",
+    "Vosotros": "habríais brindado",
+    "Ellos": "habrían brindado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "brinde",
+    "Tu": "brindes",
+    "El": "brinde",
+    "Nosotros": "brindemos",
+    "Vosotros": "brindéis",
+    "Ellos": "brinden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "brinda",
+    "El": "brinde",
+    "Nosotros": "brindemos",
+    "Vosotros": "brindad",
+    "Ellos": "brinden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no brindes",
+    "El": "no brinde",
+    "Nosotros": "no brindemos",
+    "Vosotros": "no brindéis",
+    "Ellos": "no brinden"
+  },
+  "ending": "ar"
+}

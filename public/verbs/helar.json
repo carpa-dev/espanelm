@@ -1,0 +1,113 @@
+{
+  "verb": "helar",
+  "englishInfinitive": "to freeze",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "hielo",
+    "Tu": "hielas",
+    "El": "hiela",
+    "Nosotros": "helamos",
+    "Vosotros": "heláis",
+    "Ellos": "hielan"
+  },
+  "IndicativePreterite": {
+    "Yo": "helé",
+    "Tu": "helaste",
+    "El": "heló",
+    "Nosotros": "helamos",
+    "Vosotros": "helasteis",
+    "Ellos": "helaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "helaré",
+    "Tu": "helarás",
+    "El": "helará",
+    "Nosotros": "helaremos",
+    "Vosotros": "helaréis",
+    "Ellos": "helarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "helaría",
+    "Tu": "helarías",
+    "El": "helaría",
+    "Nosotros": "helaríamos",
+    "Vosotros": "helaríais",
+    "Ellos": "helarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "helaba",
+    "Tu": "helabas",
+    "El": "helaba",
+    "Nosotros": "helábamos",
+    "Vosotros": "helabais",
+    "Ellos": "helaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy helando",
+    "Tu": "estás helando",
+    "El": "está helando",
+    "Nosotros": "estamos helando",
+    "Vosotros": "estáis helando",
+    "Ellos": "están helando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he helado",
+    "Tu": "has helado",
+    "El": "ha helado",
+    "Nosotros": "hemos helado",
+    "Vosotros": "habéis helado",
+    "Ellos": "han helado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había helado",
+    "Tu": "habías helado",
+    "El": "había helado",
+    "Nosotros": "habíamos helado",
+    "Vosotros": "habíais helado",
+    "Ellos": "habían helado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré helado",
+    "Tu": "habrás helado",
+    "El": "habrá helado",
+    "Nosotros": "habremos helado",
+    "Vosotros": "habréis helado",
+    "Ellos": "habrán helado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría helado",
+    "Tu": "habrías helado",
+    "El": "habría helado",
+    "Nosotros": "habríamos helado",
+    "Vosotros": "habríais helado",
+    "Ellos": "habrían helado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "hiele",
+    "Tu": "hieles",
+    "El": "hiele",
+    "Nosotros": "helemos",
+    "Vosotros": "heléis",
+    "Ellos": "hielen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "hiela",
+    "El": "hiele",
+    "Nosotros": "helemos",
+    "Vosotros": "helad",
+    "Ellos": "hielen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no hieles",
+    "El": "no hiele",
+    "Nosotros": "no helemos",
+    "Vosotros": "no heléis",
+    "Ellos": "no hielen"
+  },
+  "ending": "ar"
+}

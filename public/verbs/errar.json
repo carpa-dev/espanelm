@@ -1,0 +1,113 @@
+{
+  "verb": "errar",
+  "englishInfinitive": "to err",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "yerro",
+    "Tu": "yerras",
+    "El": "yerra",
+    "Nosotros": "erramos",
+    "Vosotros": "erráis",
+    "Ellos": "yerran"
+  },
+  "IndicativePreterite": {
+    "Yo": "erré",
+    "Tu": "erraste",
+    "El": "erró",
+    "Nosotros": "erramos",
+    "Vosotros": "errasteis",
+    "Ellos": "erraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "erraré",
+    "Tu": "errarás",
+    "El": "errará",
+    "Nosotros": "erraremos",
+    "Vosotros": "erraréis",
+    "Ellos": "errarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "erraría",
+    "Tu": "errarías",
+    "El": "erraría",
+    "Nosotros": "erraríamos",
+    "Vosotros": "erraríais",
+    "Ellos": "errarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "erraba",
+    "Tu": "errabas",
+    "El": "erraba",
+    "Nosotros": "errábamos",
+    "Vosotros": "errabais",
+    "Ellos": "erraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy errando",
+    "Tu": "estás errando",
+    "El": "está errando",
+    "Nosotros": "estamos errando",
+    "Vosotros": "estáis errando",
+    "Ellos": "están errando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he errado",
+    "Tu": "has errado",
+    "El": "ha errado",
+    "Nosotros": "hemos errado",
+    "Vosotros": "habéis errado",
+    "Ellos": "han errado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había errado",
+    "Tu": "habías errado",
+    "El": "había errado",
+    "Nosotros": "habíamos errado",
+    "Vosotros": "habíais errado",
+    "Ellos": "habían errado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré errado",
+    "Tu": "habrás errado",
+    "El": "habrá errado",
+    "Nosotros": "habremos errado",
+    "Vosotros": "habréis errado",
+    "Ellos": "habrán errado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría errado",
+    "Tu": "habrías errado",
+    "El": "habría errado",
+    "Nosotros": "habríamos errado",
+    "Vosotros": "habríais errado",
+    "Ellos": "habrían errado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "yerre",
+    "Tu": "yerres",
+    "El": "yerre",
+    "Nosotros": "erremos",
+    "Vosotros": "erréis",
+    "Ellos": "yerren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "yerra",
+    "El": "yerre",
+    "Nosotros": "erremos",
+    "Vosotros": "errad",
+    "Ellos": "yerren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no yerres",
+    "El": "no yerre",
+    "Nosotros": "no erremos",
+    "Vosotros": "no erréis",
+    "Ellos": "no yerren"
+  },
+  "ending": "ar"
+}

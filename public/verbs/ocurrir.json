@@ -1,0 +1,113 @@
+{
+  "verb": "ocurrir",
+  "englishInfinitive": "to occur",
+  "irregular": true,
+  "type": "impersonal",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "ocurro",
+    "Tu": "ocurres",
+    "El": "ocurre",
+    "Nosotros": "ocurrimos",
+    "Vosotros": "ocurrís",
+    "Ellos": "ocurren"
+  },
+  "IndicativePreterite": {
+    "Yo": "ocurrí",
+    "Tu": "ocurriste",
+    "El": "ocurrió",
+    "Nosotros": "ocurrimos",
+    "Vosotros": "ocurristeis",
+    "Ellos": "ocurrieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "ocurriré",
+    "Tu": "ocurrirás",
+    "El": "ocurrirá",
+    "Nosotros": "ocurriremos",
+    "Vosotros": "ocurriréis",
+    "Ellos": "ocurrirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "ocurriría",
+    "Tu": "ocurrirías",
+    "El": "ocurriría",
+    "Nosotros": "ocurriríamos",
+    "Vosotros": "ocurriríais",
+    "Ellos": "ocurrirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "ocurría",
+    "Tu": "ocurrías",
+    "El": "ocurría",
+    "Nosotros": "ocurríamos",
+    "Vosotros": "ocurríais",
+    "Ellos": "ocurrían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy ocurriendo",
+    "Tu": "estás ocurriendo",
+    "El": "está ocurriendo",
+    "Nosotros": "estamos ocurriendo",
+    "Vosotros": "estáis ocurriendo",
+    "Ellos": "están ocurriendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he ocurrido",
+    "Tu": "has ocurrido",
+    "El": "ha ocurrido",
+    "Nosotros": "hemos ocurrido",
+    "Vosotros": "habéis ocurrido",
+    "Ellos": "han ocurrido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había ocurrido",
+    "Tu": "habías ocurrido",
+    "El": "había ocurrido",
+    "Nosotros": "habíamos ocurrido",
+    "Vosotros": "habíais ocurrido",
+    "Ellos": "habían ocurrido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré ocurrido",
+    "Tu": "habrás ocurrido",
+    "El": "habrá ocurrido",
+    "Nosotros": "habremos ocurrido",
+    "Vosotros": "habréis ocurrido",
+    "Ellos": "habrán ocurrido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría ocurrido",
+    "Tu": "habrías ocurrido",
+    "El": "habría ocurrido",
+    "Nosotros": "habríamos ocurrido",
+    "Vosotros": "habríais ocurrido",
+    "Ellos": "habrían ocurrido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ocurra",
+    "Tu": "ocurras",
+    "El": "ocurra",
+    "Nosotros": "ocurramos",
+    "Vosotros": "ocurráis",
+    "Ellos": "ocurran"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ocurre",
+    "El": "ocurra",
+    "Nosotros": "ocurramos",
+    "Vosotros": "ocurrid",
+    "Ellos": "ocurran"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ocurras",
+    "El": "no ocurra",
+    "Nosotros": "no ocurramos",
+    "Vosotros": "no ocurráis",
+    "Ellos": "no ocurran"
+  },
+  "ending": "ir"
+}

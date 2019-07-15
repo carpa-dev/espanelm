@@ -1,0 +1,113 @@
+{
+  "verb": "conducir",
+  "englishInfinitive": "to drive",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "conduzco",
+    "Tu": "conduces",
+    "El": "conduce",
+    "Nosotros": "conducimos",
+    "Vosotros": "conducís",
+    "Ellos": "conducen"
+  },
+  "IndicativePreterite": {
+    "Yo": "conduje",
+    "Tu": "condujiste",
+    "El": "condujo",
+    "Nosotros": "condujimos",
+    "Vosotros": "condujisteis",
+    "Ellos": "condujeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "conduciré",
+    "Tu": "conducirás",
+    "El": "conducirá",
+    "Nosotros": "conduciremos",
+    "Vosotros": "conduciréis",
+    "Ellos": "conducirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "conduciría",
+    "Tu": "conducirías",
+    "El": "conduciría",
+    "Nosotros": "conduciríamos",
+    "Vosotros": "conduciríais",
+    "Ellos": "conducirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "conducía",
+    "Tu": "conducías",
+    "El": "conducía",
+    "Nosotros": "conducíamos",
+    "Vosotros": "conducíais",
+    "Ellos": "conducían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy conduciendo",
+    "Tu": "estás conduciendo",
+    "El": "está conduciendo",
+    "Nosotros": "estamos conduciendo",
+    "Vosotros": "estáis conduciendo",
+    "Ellos": "están conduciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he conducido",
+    "Tu": "has conducido",
+    "El": "ha conducido",
+    "Nosotros": "hemos conducido",
+    "Vosotros": "habéis conducido",
+    "Ellos": "han conducido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había conducido",
+    "Tu": "habías conducido",
+    "El": "había conducido",
+    "Nosotros": "habíamos conducido",
+    "Vosotros": "habíais conducido",
+    "Ellos": "habían conducido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré conducido",
+    "Tu": "habrás conducido",
+    "El": "habrá conducido",
+    "Nosotros": "habremos conducido",
+    "Vosotros": "habréis conducido",
+    "Ellos": "habrán conducido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría conducido",
+    "Tu": "habrías conducido",
+    "El": "habría conducido",
+    "Nosotros": "habríamos conducido",
+    "Vosotros": "habríais conducido",
+    "Ellos": "habrían conducido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "conduzca",
+    "Tu": "conduzcas",
+    "El": "conduzca",
+    "Nosotros": "conduzcamos",
+    "Vosotros": "conduzcáis",
+    "Ellos": "conduzcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "conduce",
+    "El": "conduzca",
+    "Nosotros": "conduzcamos",
+    "Vosotros": "conducid",
+    "Ellos": "conduzcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no conduzcas",
+    "El": "no conduzca",
+    "Nosotros": "no conduzcamos",
+    "Vosotros": "no conduzcáis",
+    "Ellos": "no conduzcan"
+  },
+  "ending": "ir"
+}

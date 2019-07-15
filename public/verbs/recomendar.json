@@ -1,0 +1,113 @@
+{
+  "verb": "recomendar",
+  "englishInfinitive": "to recommend",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "recomiendo",
+    "Tu": "recomiendas",
+    "El": "recomienda",
+    "Nosotros": "recomendamos",
+    "Vosotros": "recomendáis",
+    "Ellos": "recomiendan"
+  },
+  "IndicativePreterite": {
+    "Yo": "recomendé",
+    "Tu": "recomendaste",
+    "El": "recomendó",
+    "Nosotros": "recomendamos",
+    "Vosotros": "recomendasteis",
+    "Ellos": "recomendaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "recomendaré",
+    "Tu": "recomendarás",
+    "El": "recomendará",
+    "Nosotros": "recomendaremos",
+    "Vosotros": "recomendaréis",
+    "Ellos": "recomendarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "recomendaría",
+    "Tu": "recomendarías",
+    "El": "recomendaría",
+    "Nosotros": "recomendaríamos",
+    "Vosotros": "recomendaríais",
+    "Ellos": "recomendarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "recomendaba",
+    "Tu": "recomendabas",
+    "El": "recomendaba",
+    "Nosotros": "recomendábamos",
+    "Vosotros": "recomendabais",
+    "Ellos": "recomendaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy recomendando",
+    "Tu": "estás recomendando",
+    "El": "está recomendando",
+    "Nosotros": "estamos recomendando",
+    "Vosotros": "estáis recomendando",
+    "Ellos": "están recomendando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he recomendado",
+    "Tu": "has recomendado",
+    "El": "ha recomendado",
+    "Nosotros": "hemos recomendado",
+    "Vosotros": "habéis recomendado",
+    "Ellos": "han recomendado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había recomendado",
+    "Tu": "habías recomendado",
+    "El": "había recomendado",
+    "Nosotros": "habíamos recomendado",
+    "Vosotros": "habíais recomendado",
+    "Ellos": "habían recomendado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré recomendado",
+    "Tu": "habrás recomendado",
+    "El": "habrá recomendado",
+    "Nosotros": "habremos recomendado",
+    "Vosotros": "habréis recomendado",
+    "Ellos": "habrán recomendado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría recomendado",
+    "Tu": "habrías recomendado",
+    "El": "habría recomendado",
+    "Nosotros": "habríamos recomendado",
+    "Vosotros": "habríais recomendado",
+    "Ellos": "habrían recomendado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "recomiende",
+    "Tu": "recomiendes",
+    "El": "recomiende",
+    "Nosotros": "recomendemos",
+    "Vosotros": "recomendéis",
+    "Ellos": "recomienden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "recomienda",
+    "El": "recomiende",
+    "Nosotros": "recomendemos",
+    "Vosotros": "recomendad",
+    "Ellos": "recomienden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no recomiendes",
+    "El": "no recomiende",
+    "Nosotros": "no recomendemos",
+    "Vosotros": "no recomendéis",
+    "Ellos": "no recomienden"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "acontecer",
+  "englishInfinitive": "to happen",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "acontezco",
+    "Tu": "aconteces",
+    "El": "acontece",
+    "Nosotros": "acontecemos",
+    "Vosotros": "acontecéis",
+    "Ellos": "acontecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "acontecí",
+    "Tu": "aconteciste",
+    "El": "aconteció",
+    "Nosotros": "acontecimos",
+    "Vosotros": "acontecisteis",
+    "Ellos": "acontecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "aconteceré",
+    "Tu": "acontecerás",
+    "El": "acontecerá",
+    "Nosotros": "aconteceremos",
+    "Vosotros": "aconteceréis",
+    "Ellos": "acontecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "acontecería",
+    "Tu": "acontecerías",
+    "El": "acontecería",
+    "Nosotros": "aconteceríamos",
+    "Vosotros": "aconteceríais",
+    "Ellos": "acontecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "acontecía",
+    "Tu": "acontecías",
+    "El": "acontecía",
+    "Nosotros": "acontecíamos",
+    "Vosotros": "acontecíais",
+    "Ellos": "acontecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy aconteciendo",
+    "Tu": "estás aconteciendo",
+    "El": "está aconteciendo",
+    "Nosotros": "estamos aconteciendo",
+    "Vosotros": "estáis aconteciendo",
+    "Ellos": "están aconteciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he acontecido",
+    "Tu": "has acontecido",
+    "El": "ha acontecido",
+    "Nosotros": "hemos acontecido",
+    "Vosotros": "habéis acontecido",
+    "Ellos": "han acontecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había acontecido",
+    "Tu": "habías acontecido",
+    "El": "había acontecido",
+    "Nosotros": "habíamos acontecido",
+    "Vosotros": "habíais acontecido",
+    "Ellos": "habían acontecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré acontecido",
+    "Tu": "habrás acontecido",
+    "El": "habrá acontecido",
+    "Nosotros": "habremos acontecido",
+    "Vosotros": "habréis acontecido",
+    "Ellos": "habrán acontecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría acontecido",
+    "Tu": "habrías acontecido",
+    "El": "habría acontecido",
+    "Nosotros": "habríamos acontecido",
+    "Vosotros": "habríais acontecido",
+    "Ellos": "habrían acontecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "acontezca",
+    "Tu": "acontezcas",
+    "El": "acontezca",
+    "Nosotros": "acontezcamos",
+    "Vosotros": "acontezcáis",
+    "Ellos": "acontezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "acontece",
+    "El": "acontezca",
+    "Nosotros": "acontezcamos",
+    "Vosotros": "aconteced",
+    "Ellos": "acontezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no acontezcas",
+    "El": "no acontezca",
+    "Nosotros": "no acontezcamos",
+    "Vosotros": "no acontezcáis",
+    "Ellos": "no acontezcan"
+  },
+  "ending": "er"
+}

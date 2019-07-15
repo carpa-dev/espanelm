@@ -1,0 +1,113 @@
+{
+  "verb": "estudiar",
+  "englishInfinitive": "to study",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "estudio",
+    "Tu": "estudias",
+    "El": "estudia",
+    "Nosotros": "estudiamos",
+    "Vosotros": "estudiáis",
+    "Ellos": "estudian"
+  },
+  "IndicativePreterite": {
+    "Yo": "estudié",
+    "Tu": "estudiaste",
+    "El": "estudió",
+    "Nosotros": "estudiamos",
+    "Vosotros": "estudiasteis",
+    "Ellos": "estudiaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "estudiaré",
+    "Tu": "estudiarás",
+    "El": "estudiará",
+    "Nosotros": "estudiaremos",
+    "Vosotros": "estudiaréis",
+    "Ellos": "estudiarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "estudiaría",
+    "Tu": "estudiarías",
+    "El": "estudiaría",
+    "Nosotros": "estudiaríamos",
+    "Vosotros": "estudiaríais",
+    "Ellos": "estudiarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "estudiaba",
+    "Tu": "estudiabas",
+    "El": "estudiaba",
+    "Nosotros": "estudiábamos",
+    "Vosotros": "estudiabais",
+    "Ellos": "estudiaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy estudiando",
+    "Tu": "estás estudiando",
+    "El": "está estudiando",
+    "Nosotros": "estamos estudiando",
+    "Vosotros": "estáis estudiando",
+    "Ellos": "están estudiando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he estudiado",
+    "Tu": "has estudiado",
+    "El": "ha estudiado",
+    "Nosotros": "hemos estudiado",
+    "Vosotros": "habéis estudiado",
+    "Ellos": "han estudiado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había estudiado",
+    "Tu": "habías estudiado",
+    "El": "había estudiado",
+    "Nosotros": "habíamos estudiado",
+    "Vosotros": "habíais estudiado",
+    "Ellos": "habían estudiado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré estudiado",
+    "Tu": "habrás estudiado",
+    "El": "habrá estudiado",
+    "Nosotros": "habremos estudiado",
+    "Vosotros": "habréis estudiado",
+    "Ellos": "habrán estudiado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría estudiado",
+    "Tu": "habrías estudiado",
+    "El": "habría estudiado",
+    "Nosotros": "habríamos estudiado",
+    "Vosotros": "habríais estudiado",
+    "Ellos": "habrían estudiado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "estudie",
+    "Tu": "estudies",
+    "El": "estudie",
+    "Nosotros": "estudiemos",
+    "Vosotros": "estudiéis",
+    "Ellos": "estudien"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "estudia",
+    "El": "estudie",
+    "Nosotros": "estudiemos",
+    "Vosotros": "estudiad",
+    "Ellos": "estudien"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no estudies",
+    "El": "no estudie",
+    "Nosotros": "no estudiemos",
+    "Vosotros": "no estudiéis",
+    "Ellos": "no estudien"
+  },
+  "ending": "ar"
+}

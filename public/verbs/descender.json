@@ -1,0 +1,113 @@
+{
+  "verb": "descender",
+  "englishInfinitive": "to descend",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "desciendo",
+    "Tu": "desciendes",
+    "El": "desciende",
+    "Nosotros": "descendemos",
+    "Vosotros": "descendéis",
+    "Ellos": "descienden"
+  },
+  "IndicativePreterite": {
+    "Yo": "descendí",
+    "Tu": "descendiste",
+    "El": "descendió",
+    "Nosotros": "descendimos",
+    "Vosotros": "descendisteis",
+    "Ellos": "descendieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "descenderé",
+    "Tu": "descenderás",
+    "El": "descenderá",
+    "Nosotros": "descenderemos",
+    "Vosotros": "descenderéis",
+    "Ellos": "descenderán"
+  },
+  "ConditionalPresent": {
+    "Yo": "descendería",
+    "Tu": "descenderías",
+    "El": "descendería",
+    "Nosotros": "descenderíamos",
+    "Vosotros": "descenderíais",
+    "Ellos": "descenderían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "descendía",
+    "Tu": "descendías",
+    "El": "descendía",
+    "Nosotros": "descendíamos",
+    "Vosotros": "descendíais",
+    "Ellos": "descendían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy descendiendo",
+    "Tu": "estás descendiendo",
+    "El": "está descendiendo",
+    "Nosotros": "estamos descendiendo",
+    "Vosotros": "estáis descendiendo",
+    "Ellos": "están descendiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he descendido",
+    "Tu": "has descendido",
+    "El": "ha descendido",
+    "Nosotros": "hemos descendido",
+    "Vosotros": "habéis descendido",
+    "Ellos": "han descendido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había descendido",
+    "Tu": "habías descendido",
+    "El": "había descendido",
+    "Nosotros": "habíamos descendido",
+    "Vosotros": "habíais descendido",
+    "Ellos": "habían descendido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré descendido",
+    "Tu": "habrás descendido",
+    "El": "habrá descendido",
+    "Nosotros": "habremos descendido",
+    "Vosotros": "habréis descendido",
+    "Ellos": "habrán descendido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría descendido",
+    "Tu": "habrías descendido",
+    "El": "habría descendido",
+    "Nosotros": "habríamos descendido",
+    "Vosotros": "habríais descendido",
+    "Ellos": "habrían descendido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "descienda",
+    "Tu": "desciendas",
+    "El": "descienda",
+    "Nosotros": "descendamos",
+    "Vosotros": "descendáis",
+    "Ellos": "desciendan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "desciende",
+    "El": "descienda",
+    "Nosotros": "descendamos",
+    "Vosotros": "descended",
+    "Ellos": "desciendan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no desciendas",
+    "El": "no descienda",
+    "Nosotros": "no descendamos",
+    "Vosotros": "no descendáis",
+    "Ellos": "no desciendan"
+  },
+  "ending": "er"
+}

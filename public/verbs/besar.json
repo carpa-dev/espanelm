@@ -1,0 +1,113 @@
+{
+  "verb": "besar",
+  "englishInfinitive": "k i s s",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "beso",
+    "Tu": "besas",
+    "El": "besa",
+    "Nosotros": "besamos",
+    "Vosotros": "besáis",
+    "Ellos": "besan"
+  },
+  "IndicativePreterite": {
+    "Yo": "besé",
+    "Tu": "besaste",
+    "El": "besó",
+    "Nosotros": "besamos",
+    "Vosotros": "besasteis",
+    "Ellos": "besaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "besaré",
+    "Tu": "besarás",
+    "El": "besará",
+    "Nosotros": "besaremos",
+    "Vosotros": "besaréis",
+    "Ellos": "besarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "besaría",
+    "Tu": "besarías",
+    "El": "besaría",
+    "Nosotros": "besaríamos",
+    "Vosotros": "besaríais",
+    "Ellos": "besarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "besaba",
+    "Tu": "besabas",
+    "El": "besaba",
+    "Nosotros": "besábamos",
+    "Vosotros": "besabais",
+    "Ellos": "besaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy besando",
+    "Tu": "estás besando",
+    "El": "está besando",
+    "Nosotros": "estamos besando",
+    "Vosotros": "estáis besando",
+    "Ellos": "están besando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he besado",
+    "Tu": "has besado",
+    "El": "ha besado",
+    "Nosotros": "hemos besado",
+    "Vosotros": "habéis besado",
+    "Ellos": "han besado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había besado",
+    "Tu": "habías besado",
+    "El": "había besado",
+    "Nosotros": "habíamos besado",
+    "Vosotros": "habíais besado",
+    "Ellos": "habían besado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré besado",
+    "Tu": "habrás besado",
+    "El": "habrá besado",
+    "Nosotros": "habremos besado",
+    "Vosotros": "habréis besado",
+    "Ellos": "habrán besado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría besado",
+    "Tu": "habrías besado",
+    "El": "habría besado",
+    "Nosotros": "habríamos besado",
+    "Vosotros": "habríais besado",
+    "Ellos": "habrían besado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "bese",
+    "Tu": "beses",
+    "El": "bese",
+    "Nosotros": "besemos",
+    "Vosotros": "beséis",
+    "Ellos": "besen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "besa",
+    "El": "bese",
+    "Nosotros": "besemos",
+    "Vosotros": "besad",
+    "Ellos": "besen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no beses",
+    "El": "no bese",
+    "Nosotros": "no besemos",
+    "Vosotros": "no beséis",
+    "Ellos": "no besen"
+  },
+  "ending": "ar"
+}

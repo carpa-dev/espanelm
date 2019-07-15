@@ -1,0 +1,113 @@
+{
+  "verb": "asistir",
+  "englishInfinitive": "to attend",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "asisto",
+    "Tu": "asistes",
+    "El": "asiste",
+    "Nosotros": "asistimos",
+    "Vosotros": "asistís",
+    "Ellos": "asisten"
+  },
+  "IndicativePreterite": {
+    "Yo": "asistí",
+    "Tu": "asististe",
+    "El": "asistió",
+    "Nosotros": "asistimos",
+    "Vosotros": "asististeis",
+    "Ellos": "asistieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "asistiré",
+    "Tu": "asistirás",
+    "El": "asistirá",
+    "Nosotros": "asistiremos",
+    "Vosotros": "asistiréis",
+    "Ellos": "asistirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "asistiría",
+    "Tu": "asistirías",
+    "El": "asistiría",
+    "Nosotros": "asistiríamos",
+    "Vosotros": "asistiríais",
+    "Ellos": "asistirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "asistía",
+    "Tu": "asistías",
+    "El": "asistía",
+    "Nosotros": "asistíamos",
+    "Vosotros": "asistíais",
+    "Ellos": "asistían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy asistiendo",
+    "Tu": "estás asistiendo",
+    "El": "está asistiendo",
+    "Nosotros": "estamos asistiendo",
+    "Vosotros": "estáis asistiendo",
+    "Ellos": "están asistiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he asistido",
+    "Tu": "has asistido",
+    "El": "ha asistido",
+    "Nosotros": "hemos asistido",
+    "Vosotros": "habéis asistido",
+    "Ellos": "han asistido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había asistido",
+    "Tu": "habías asistido",
+    "El": "había asistido",
+    "Nosotros": "habíamos asistido",
+    "Vosotros": "habíais asistido",
+    "Ellos": "habían asistido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré asistido",
+    "Tu": "habrás asistido",
+    "El": "habrá asistido",
+    "Nosotros": "habremos asistido",
+    "Vosotros": "habréis asistido",
+    "Ellos": "habrán asistido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría asistido",
+    "Tu": "habrías asistido",
+    "El": "habría asistido",
+    "Nosotros": "habríamos asistido",
+    "Vosotros": "habríais asistido",
+    "Ellos": "habrían asistido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "asista",
+    "Tu": "asistas",
+    "El": "asista",
+    "Nosotros": "asistamos",
+    "Vosotros": "asistáis",
+    "Ellos": "asistan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "asiste",
+    "El": "asista",
+    "Nosotros": "asistamos",
+    "Vosotros": "asistid",
+    "Ellos": "asistan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no asistas",
+    "El": "no asista",
+    "Nosotros": "no asistamos",
+    "Vosotros": "no asistáis",
+    "Ellos": "no asistan"
+  },
+  "ending": "ir"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "levantar",
+  "englishInfinitive": "to raise",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "levanto",
+    "Tu": "levantas",
+    "El": "levanta",
+    "Nosotros": "levantamos",
+    "Vosotros": "levantáis",
+    "Ellos": "levantan"
+  },
+  "IndicativePreterite": {
+    "Yo": "levanté",
+    "Tu": "levantaste",
+    "El": "levantó",
+    "Nosotros": "levantamos",
+    "Vosotros": "levantasteis",
+    "Ellos": "levantaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "levantaré",
+    "Tu": "levantarás",
+    "El": "levantará",
+    "Nosotros": "levantaremos",
+    "Vosotros": "levantaréis",
+    "Ellos": "levantarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "levantaría",
+    "Tu": "levantarías",
+    "El": "levantaría",
+    "Nosotros": "levantaríamos",
+    "Vosotros": "levantaríais",
+    "Ellos": "levantarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "levantaba",
+    "Tu": "levantabas",
+    "El": "levantaba",
+    "Nosotros": "levantábamos",
+    "Vosotros": "levantabais",
+    "Ellos": "levantaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy levantando",
+    "Tu": "estás levantando",
+    "El": "está levantando",
+    "Nosotros": "estamos levantando",
+    "Vosotros": "estáis levantando",
+    "Ellos": "están levantando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he levantado",
+    "Tu": "has levantado",
+    "El": "ha levantado",
+    "Nosotros": "hemos levantado",
+    "Vosotros": "habéis levantado",
+    "Ellos": "han levantado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había levantado",
+    "Tu": "habías levantado",
+    "El": "había levantado",
+    "Nosotros": "habíamos levantado",
+    "Vosotros": "habíais levantado",
+    "Ellos": "habían levantado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré levantado",
+    "Tu": "habrás levantado",
+    "El": "habrá levantado",
+    "Nosotros": "habremos levantado",
+    "Vosotros": "habréis levantado",
+    "Ellos": "habrán levantado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría levantado",
+    "Tu": "habrías levantado",
+    "El": "habría levantado",
+    "Nosotros": "habríamos levantado",
+    "Vosotros": "habríais levantado",
+    "Ellos": "habrían levantado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "levante",
+    "Tu": "levantes",
+    "El": "levante",
+    "Nosotros": "levantemos",
+    "Vosotros": "levantéis",
+    "Ellos": "levanten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "levanta",
+    "El": "levante",
+    "Nosotros": "levantemos",
+    "Vosotros": "levantad",
+    "Ellos": "levanten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no levantes",
+    "El": "no levante",
+    "Nosotros": "no levantemos",
+    "Vosotros": "no levantéis",
+    "Ellos": "no levanten"
+  },
+  "ending": "ar"
+}

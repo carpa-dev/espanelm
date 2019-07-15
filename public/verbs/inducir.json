@@ -1,0 +1,113 @@
+{
+  "verb": "inducir",
+  "englishInfinitive": "to induce",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "induzco",
+    "Tu": "induces",
+    "El": "induce",
+    "Nosotros": "inducimos",
+    "Vosotros": "inducís",
+    "Ellos": "inducen"
+  },
+  "IndicativePreterite": {
+    "Yo": "induje",
+    "Tu": "indujiste",
+    "El": "indujo",
+    "Nosotros": "indujimos",
+    "Vosotros": "indujisteis",
+    "Ellos": "indujeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "induciré",
+    "Tu": "inducirás",
+    "El": "inducirá",
+    "Nosotros": "induciremos",
+    "Vosotros": "induciréis",
+    "Ellos": "inducirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "induciría",
+    "Tu": "inducirías",
+    "El": "induciría",
+    "Nosotros": "induciríamos",
+    "Vosotros": "induciríais",
+    "Ellos": "inducirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "inducía",
+    "Tu": "inducías",
+    "El": "inducía",
+    "Nosotros": "inducíamos",
+    "Vosotros": "inducíais",
+    "Ellos": "inducían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy induciendo",
+    "Tu": "estás induciendo",
+    "El": "está induciendo",
+    "Nosotros": "estamos induciendo",
+    "Vosotros": "estáis induciendo",
+    "Ellos": "están induciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he inducido",
+    "Tu": "has inducido",
+    "El": "ha inducido",
+    "Nosotros": "hemos inducido",
+    "Vosotros": "habéis inducido",
+    "Ellos": "han inducido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había inducido",
+    "Tu": "habías inducido",
+    "El": "había inducido",
+    "Nosotros": "habíamos inducido",
+    "Vosotros": "habíais inducido",
+    "Ellos": "habían inducido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré inducido",
+    "Tu": "habrás inducido",
+    "El": "habrá inducido",
+    "Nosotros": "habremos inducido",
+    "Vosotros": "habréis inducido",
+    "Ellos": "habrán inducido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría inducido",
+    "Tu": "habrías inducido",
+    "El": "habría inducido",
+    "Nosotros": "habríamos inducido",
+    "Vosotros": "habríais inducido",
+    "Ellos": "habrían inducido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "induzca",
+    "Tu": "induzcas",
+    "El": "induzca",
+    "Nosotros": "induzcamos",
+    "Vosotros": "induzcáis",
+    "Ellos": "induzcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "induce",
+    "El": "induzca",
+    "Nosotros": "induzcamos",
+    "Vosotros": "inducid",
+    "Ellos": "induzcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no induzcas",
+    "El": "no induzca",
+    "Nosotros": "no induzcamos",
+    "Vosotros": "no induzcáis",
+    "Ellos": "no induzcan"
+  },
+  "ending": "ir"
+}

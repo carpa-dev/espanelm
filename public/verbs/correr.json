@@ -1,0 +1,113 @@
+{
+  "verb": "correr",
+  "englishInfinitive": "to run",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "corro",
+    "Tu": "corres",
+    "El": "corre",
+    "Nosotros": "corremos",
+    "Vosotros": "corréis",
+    "Ellos": "corren"
+  },
+  "IndicativePreterite": {
+    "Yo": "corrí",
+    "Tu": "corriste",
+    "El": "corrió",
+    "Nosotros": "corrimos",
+    "Vosotros": "corristeis",
+    "Ellos": "corrieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "correré",
+    "Tu": "correrás",
+    "El": "correrá",
+    "Nosotros": "correremos",
+    "Vosotros": "correréis",
+    "Ellos": "correrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "correría",
+    "Tu": "correrías",
+    "El": "correría",
+    "Nosotros": "correríamos",
+    "Vosotros": "correríais",
+    "Ellos": "correrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "corría",
+    "Tu": "corrías",
+    "El": "corría",
+    "Nosotros": "corríamos",
+    "Vosotros": "corríais",
+    "Ellos": "corrían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy corriendo",
+    "Tu": "estás corriendo",
+    "El": "está corriendo",
+    "Nosotros": "estamos corriendo",
+    "Vosotros": "estáis corriendo",
+    "Ellos": "están corriendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he corrido",
+    "Tu": "has corrido",
+    "El": "ha corrido",
+    "Nosotros": "hemos corrido",
+    "Vosotros": "habéis corrido",
+    "Ellos": "han corrido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había corrido",
+    "Tu": "habías corrido",
+    "El": "había corrido",
+    "Nosotros": "habíamos corrido",
+    "Vosotros": "habíais corrido",
+    "Ellos": "habían corrido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré corrido",
+    "Tu": "habrás corrido",
+    "El": "habrá corrido",
+    "Nosotros": "habremos corrido",
+    "Vosotros": "habréis corrido",
+    "Ellos": "habrán corrido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría corrido",
+    "Tu": "habrías corrido",
+    "El": "habría corrido",
+    "Nosotros": "habríamos corrido",
+    "Vosotros": "habríais corrido",
+    "Ellos": "habrían corrido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "corra",
+    "Tu": "corras",
+    "El": "corra",
+    "Nosotros": "corramos",
+    "Vosotros": "corráis",
+    "Ellos": "corran"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "corre",
+    "El": "corra",
+    "Nosotros": "corramos",
+    "Vosotros": "corred",
+    "Ellos": "corran"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no corras",
+    "El": "no corra",
+    "Nosotros": "no corramos",
+    "Vosotros": "no corráis",
+    "Ellos": "no corran"
+  },
+  "ending": "er"
+}

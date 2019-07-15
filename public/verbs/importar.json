@@ -1,0 +1,113 @@
+{
+  "verb": "importar",
+  "englishInfinitive": "to import",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "importo",
+    "Tu": "importas",
+    "El": "importa",
+    "Nosotros": "importamos",
+    "Vosotros": "importáis",
+    "Ellos": "importan"
+  },
+  "IndicativePreterite": {
+    "Yo": "importé",
+    "Tu": "importaste",
+    "El": "importó",
+    "Nosotros": "importamos",
+    "Vosotros": "importasteis",
+    "Ellos": "importaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "importaré",
+    "Tu": "importarás",
+    "El": "importará",
+    "Nosotros": "importaremos",
+    "Vosotros": "importaréis",
+    "Ellos": "importarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "importaría",
+    "Tu": "importarías",
+    "El": "importaría",
+    "Nosotros": "importaríamos",
+    "Vosotros": "importaríais",
+    "Ellos": "importarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "importaba",
+    "Tu": "importabas",
+    "El": "importaba",
+    "Nosotros": "importábamos",
+    "Vosotros": "importabais",
+    "Ellos": "importaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy importando",
+    "Tu": "estás importando",
+    "El": "está importando",
+    "Nosotros": "estamos importando",
+    "Vosotros": "estáis importando",
+    "Ellos": "están importando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he importado",
+    "Tu": "has importado",
+    "El": "ha importado",
+    "Nosotros": "hemos importado",
+    "Vosotros": "habéis importado",
+    "Ellos": "han importado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había importado",
+    "Tu": "habías importado",
+    "El": "había importado",
+    "Nosotros": "habíamos importado",
+    "Vosotros": "habíais importado",
+    "Ellos": "habían importado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré importado",
+    "Tu": "habrás importado",
+    "El": "habrá importado",
+    "Nosotros": "habremos importado",
+    "Vosotros": "habréis importado",
+    "Ellos": "habrán importado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría importado",
+    "Tu": "habrías importado",
+    "El": "habría importado",
+    "Nosotros": "habríamos importado",
+    "Vosotros": "habríais importado",
+    "Ellos": "habrían importado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "importe",
+    "Tu": "importes",
+    "El": "importe",
+    "Nosotros": "importemos",
+    "Vosotros": "importéis",
+    "Ellos": "importen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "importa",
+    "El": "importe",
+    "Nosotros": "importemos",
+    "Vosotros": "importad",
+    "Ellos": "importen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no importes",
+    "El": "no importe",
+    "Nosotros": "no importemos",
+    "Vosotros": "no importéis",
+    "Ellos": "no importen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "nadar",
+  "englishInfinitive": "to swim",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "nado",
+    "Tu": "nadas",
+    "El": "nada",
+    "Nosotros": "nadamos",
+    "Vosotros": "nadáis",
+    "Ellos": "nadan"
+  },
+  "IndicativePreterite": {
+    "Yo": "nadé",
+    "Tu": "nadaste",
+    "El": "nadó",
+    "Nosotros": "nadamos",
+    "Vosotros": "nadasteis",
+    "Ellos": "nadaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "nadaré",
+    "Tu": "nadarás",
+    "El": "nadará",
+    "Nosotros": "nadaremos",
+    "Vosotros": "nadaréis",
+    "Ellos": "nadarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "nadaría",
+    "Tu": "nadarías",
+    "El": "nadaría",
+    "Nosotros": "nadaríamos",
+    "Vosotros": "nadaríais",
+    "Ellos": "nadarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "nadaba",
+    "Tu": "nadabas",
+    "El": "nadaba",
+    "Nosotros": "nadábamos",
+    "Vosotros": "nadabais",
+    "Ellos": "nadaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy nadando",
+    "Tu": "estás nadando",
+    "El": "está nadando",
+    "Nosotros": "estamos nadando",
+    "Vosotros": "estáis nadando",
+    "Ellos": "están nadando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he nadado",
+    "Tu": "has nadado",
+    "El": "ha nadado",
+    "Nosotros": "hemos nadado",
+    "Vosotros": "habéis nadado",
+    "Ellos": "han nadado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había nadado",
+    "Tu": "habías nadado",
+    "El": "había nadado",
+    "Nosotros": "habíamos nadado",
+    "Vosotros": "habíais nadado",
+    "Ellos": "habían nadado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré nadado",
+    "Tu": "habrás nadado",
+    "El": "habrá nadado",
+    "Nosotros": "habremos nadado",
+    "Vosotros": "habréis nadado",
+    "Ellos": "habrán nadado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría nadado",
+    "Tu": "habrías nadado",
+    "El": "habría nadado",
+    "Nosotros": "habríamos nadado",
+    "Vosotros": "habríais nadado",
+    "Ellos": "habrían nadado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "nade",
+    "Tu": "nades",
+    "El": "nade",
+    "Nosotros": "nademos",
+    "Vosotros": "nadéis",
+    "Ellos": "naden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "nada",
+    "El": "nade",
+    "Nosotros": "nademos",
+    "Vosotros": "nadad",
+    "Ellos": "naden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no nades",
+    "El": "no nade",
+    "Nosotros": "no nademos",
+    "Vosotros": "no nadéis",
+    "Ellos": "no naden"
+  },
+  "ending": "ar"
+}

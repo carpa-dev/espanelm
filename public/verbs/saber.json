@@ -1,0 +1,113 @@
+{
+  "verb": "saber",
+  "englishInfinitive": "to know",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "sé",
+    "Tu": "sabes",
+    "El": "sabe",
+    "Nosotros": "sabemos",
+    "Vosotros": "sabéis",
+    "Ellos": "saben"
+  },
+  "IndicativePreterite": {
+    "Yo": "supe",
+    "Tu": "supiste",
+    "El": "supo",
+    "Nosotros": "supimos",
+    "Vosotros": "supisteis",
+    "Ellos": "supieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "sabré",
+    "Tu": "sabrás",
+    "El": "sabrá",
+    "Nosotros": "sabremos",
+    "Vosotros": "sabréis",
+    "Ellos": "sabrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "sabría",
+    "Tu": "sabrías",
+    "El": "sabría",
+    "Nosotros": "sabríamos",
+    "Vosotros": "sabríais",
+    "Ellos": "sabrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "sabía",
+    "Tu": "sabías",
+    "El": "sabía",
+    "Nosotros": "sabíamos",
+    "Vosotros": "sabíais",
+    "Ellos": "sabían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy sabiendo",
+    "Tu": "estás sabiendo",
+    "El": "está sabiendo",
+    "Nosotros": "estamos sabiendo",
+    "Vosotros": "estáis sabiendo",
+    "Ellos": "están sabiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he sabido",
+    "Tu": "has sabido",
+    "El": "ha sabido",
+    "Nosotros": "hemos sabido",
+    "Vosotros": "habéis sabido",
+    "Ellos": "han sabido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había sabido",
+    "Tu": "habías sabido",
+    "El": "había sabido",
+    "Nosotros": "habíamos sabido",
+    "Vosotros": "habíais sabido",
+    "Ellos": "habían sabido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré sabido",
+    "Tu": "habrás sabido",
+    "El": "habrá sabido",
+    "Nosotros": "habremos sabido",
+    "Vosotros": "habréis sabido",
+    "Ellos": "habrán sabido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría sabido",
+    "Tu": "habrías sabido",
+    "El": "habría sabido",
+    "Nosotros": "habríamos sabido",
+    "Vosotros": "habríais sabido",
+    "Ellos": "habrían sabido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "sepa",
+    "Tu": "sepas",
+    "El": "sepa",
+    "Nosotros": "sepamos",
+    "Vosotros": "sepáis",
+    "Ellos": "sepan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sabe",
+    "El": "sepa",
+    "Nosotros": "sepamos",
+    "Vosotros": "sabed",
+    "Ellos": "sepan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sepas",
+    "El": "no sepa",
+    "Nosotros": "no sepamos",
+    "Vosotros": "no sepáis",
+    "Ellos": "no sepan"
+  },
+  "ending": "er"
+}

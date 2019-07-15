@@ -1,0 +1,113 @@
+{
+  "verb": "cobrar",
+  "englishInfinitive": "to charge [a price]",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "cobro",
+    "Tu": "cobras",
+    "El": "cobra",
+    "Nosotros": "cobramos",
+    "Vosotros": "cobráis",
+    "Ellos": "cobran"
+  },
+  "IndicativePreterite": {
+    "Yo": "cobré",
+    "Tu": "cobraste",
+    "El": "cobró",
+    "Nosotros": "cobramos",
+    "Vosotros": "cobrasteis",
+    "Ellos": "cobraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cobraré",
+    "Tu": "cobrarás",
+    "El": "cobrará",
+    "Nosotros": "cobraremos",
+    "Vosotros": "cobraréis",
+    "Ellos": "cobrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cobraría",
+    "Tu": "cobrarías",
+    "El": "cobraría",
+    "Nosotros": "cobraríamos",
+    "Vosotros": "cobraríais",
+    "Ellos": "cobrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cobraba",
+    "Tu": "cobrabas",
+    "El": "cobraba",
+    "Nosotros": "cobrábamos",
+    "Vosotros": "cobrabais",
+    "Ellos": "cobraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cobrando",
+    "Tu": "estás cobrando",
+    "El": "está cobrando",
+    "Nosotros": "estamos cobrando",
+    "Vosotros": "estáis cobrando",
+    "Ellos": "están cobrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cobrado",
+    "Tu": "has cobrado",
+    "El": "ha cobrado",
+    "Nosotros": "hemos cobrado",
+    "Vosotros": "habéis cobrado",
+    "Ellos": "han cobrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cobrado",
+    "Tu": "habías cobrado",
+    "El": "había cobrado",
+    "Nosotros": "habíamos cobrado",
+    "Vosotros": "habíais cobrado",
+    "Ellos": "habían cobrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cobrado",
+    "Tu": "habrás cobrado",
+    "El": "habrá cobrado",
+    "Nosotros": "habremos cobrado",
+    "Vosotros": "habréis cobrado",
+    "Ellos": "habrán cobrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cobrado",
+    "Tu": "habrías cobrado",
+    "El": "habría cobrado",
+    "Nosotros": "habríamos cobrado",
+    "Vosotros": "habríais cobrado",
+    "Ellos": "habrían cobrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cobre",
+    "Tu": "cobres",
+    "El": "cobre",
+    "Nosotros": "cobremos",
+    "Vosotros": "cobréis",
+    "Ellos": "cobren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cobra",
+    "El": "cobre",
+    "Nosotros": "cobremos",
+    "Vosotros": "cobrad",
+    "Ellos": "cobren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cobres",
+    "El": "no cobre",
+    "Nosotros": "no cobremos",
+    "Vosotros": "no cobréis",
+    "Ellos": "no cobren"
+  },
+  "ending": "ar"
+}

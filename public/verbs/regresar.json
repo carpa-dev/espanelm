@@ -1,0 +1,113 @@
+{
+  "verb": "regresar",
+  "englishInfinitive": "to return",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "regreso",
+    "Tu": "regresas",
+    "El": "regresa",
+    "Nosotros": "regresamos",
+    "Vosotros": "regresáis",
+    "Ellos": "regresan"
+  },
+  "IndicativePreterite": {
+    "Yo": "regresé",
+    "Tu": "regresaste",
+    "El": "regresó",
+    "Nosotros": "regresamos",
+    "Vosotros": "regresasteis",
+    "Ellos": "regresaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "regresaré",
+    "Tu": "regresarás",
+    "El": "regresará",
+    "Nosotros": "regresaremos",
+    "Vosotros": "regresaréis",
+    "Ellos": "regresarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "regresaría",
+    "Tu": "regresarías",
+    "El": "regresaría",
+    "Nosotros": "regresaríamos",
+    "Vosotros": "regresaríais",
+    "Ellos": "regresarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "regresaba",
+    "Tu": "regresabas",
+    "El": "regresaba",
+    "Nosotros": "regresábamos",
+    "Vosotros": "regresabais",
+    "Ellos": "regresaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy regresando",
+    "Tu": "estás regresando",
+    "El": "está regresando",
+    "Nosotros": "estamos regresando",
+    "Vosotros": "estáis regresando",
+    "Ellos": "están regresando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he regresado",
+    "Tu": "has regresado",
+    "El": "ha regresado",
+    "Nosotros": "hemos regresado",
+    "Vosotros": "habéis regresado",
+    "Ellos": "han regresado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había regresado",
+    "Tu": "habías regresado",
+    "El": "había regresado",
+    "Nosotros": "habíamos regresado",
+    "Vosotros": "habíais regresado",
+    "Ellos": "habían regresado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré regresado",
+    "Tu": "habrás regresado",
+    "El": "habrá regresado",
+    "Nosotros": "habremos regresado",
+    "Vosotros": "habréis regresado",
+    "Ellos": "habrán regresado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría regresado",
+    "Tu": "habrías regresado",
+    "El": "habría regresado",
+    "Nosotros": "habríamos regresado",
+    "Vosotros": "habríais regresado",
+    "Ellos": "habrían regresado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "regrese",
+    "Tu": "regreses",
+    "El": "regrese",
+    "Nosotros": "regresemos",
+    "Vosotros": "regreséis",
+    "Ellos": "regresen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "regresa",
+    "El": "regrese",
+    "Nosotros": "regresemos",
+    "Vosotros": "regresad",
+    "Ellos": "regresen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no regreses",
+    "El": "no regrese",
+    "Nosotros": "no regresemos",
+    "Vosotros": "no regreséis",
+    "Ellos": "no regresen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "apreciar",
+  "englishInfinitive": "to appreciate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "aprecio",
+    "Tu": "aprecias",
+    "El": "aprecia",
+    "Nosotros": "apreciamos",
+    "Vosotros": "apreciáis",
+    "Ellos": "aprecian"
+  },
+  "IndicativePreterite": {
+    "Yo": "aprecié",
+    "Tu": "apreciaste",
+    "El": "apreció",
+    "Nosotros": "apreciamos",
+    "Vosotros": "apreciasteis",
+    "Ellos": "apreciaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "apreciaré",
+    "Tu": "apreciarás",
+    "El": "apreciará",
+    "Nosotros": "apreciaremos",
+    "Vosotros": "apreciaréis",
+    "Ellos": "apreciarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "apreciaría",
+    "Tu": "apreciarías",
+    "El": "apreciaría",
+    "Nosotros": "apreciaríamos",
+    "Vosotros": "apreciaríais",
+    "Ellos": "apreciarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "apreciaba",
+    "Tu": "apreciabas",
+    "El": "apreciaba",
+    "Nosotros": "apreciábamos",
+    "Vosotros": "apreciabais",
+    "Ellos": "apreciaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy apreciando",
+    "Tu": "estás apreciando",
+    "El": "está apreciando",
+    "Nosotros": "estamos apreciando",
+    "Vosotros": "estáis apreciando",
+    "Ellos": "están apreciando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he apreciado",
+    "Tu": "has apreciado",
+    "El": "ha apreciado",
+    "Nosotros": "hemos apreciado",
+    "Vosotros": "habéis apreciado",
+    "Ellos": "han apreciado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había apreciado",
+    "Tu": "habías apreciado",
+    "El": "había apreciado",
+    "Nosotros": "habíamos apreciado",
+    "Vosotros": "habíais apreciado",
+    "Ellos": "habían apreciado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré apreciado",
+    "Tu": "habrás apreciado",
+    "El": "habrá apreciado",
+    "Nosotros": "habremos apreciado",
+    "Vosotros": "habréis apreciado",
+    "Ellos": "habrán apreciado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría apreciado",
+    "Tu": "habrías apreciado",
+    "El": "habría apreciado",
+    "Nosotros": "habríamos apreciado",
+    "Vosotros": "habríais apreciado",
+    "Ellos": "habrían apreciado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "aprecie",
+    "Tu": "aprecies",
+    "El": "aprecie",
+    "Nosotros": "apreciemos",
+    "Vosotros": "apreciéis",
+    "Ellos": "aprecien"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "aprecia",
+    "El": "aprecie",
+    "Nosotros": "apreciemos",
+    "Vosotros": "apreciad",
+    "Ellos": "aprecien"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no aprecies",
+    "El": "no aprecie",
+    "Nosotros": "no apreciemos",
+    "Vosotros": "no apreciéis",
+    "Ellos": "no aprecien"
+  },
+  "ending": "ar"
+}

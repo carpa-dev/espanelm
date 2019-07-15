@@ -1,0 +1,113 @@
+{
+  "verb": "mentir",
+  "englishInfinitive": "to lie",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "miento",
+    "Tu": "mientes",
+    "El": "miente",
+    "Nosotros": "mentimos",
+    "Vosotros": "mentís",
+    "Ellos": "mienten"
+  },
+  "IndicativePreterite": {
+    "Yo": "mentí",
+    "Tu": "mentiste",
+    "El": "mintió",
+    "Nosotros": "mentimos",
+    "Vosotros": "mentisteis",
+    "Ellos": "mintieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "mentiré",
+    "Tu": "mentirás",
+    "El": "mentirá",
+    "Nosotros": "mentiremos",
+    "Vosotros": "mentiréis",
+    "Ellos": "mentirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "mentiría",
+    "Tu": "mentirías",
+    "El": "mentiría",
+    "Nosotros": "mentiríamos",
+    "Vosotros": "mentiríais",
+    "Ellos": "mentirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "mentía",
+    "Tu": "mentías",
+    "El": "mentía",
+    "Nosotros": "mentíamos",
+    "Vosotros": "mentíais",
+    "Ellos": "mentían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy mintiendo",
+    "Tu": "estás mintiendo",
+    "El": "está mintiendo",
+    "Nosotros": "estamos mintiendo",
+    "Vosotros": "estáis mintiendo",
+    "Ellos": "están mintiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he mentido",
+    "Tu": "has mentido",
+    "El": "ha mentido",
+    "Nosotros": "hemos mentido",
+    "Vosotros": "habéis mentido",
+    "Ellos": "han mentido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había mentido",
+    "Tu": "habías mentido",
+    "El": "había mentido",
+    "Nosotros": "habíamos mentido",
+    "Vosotros": "habíais mentido",
+    "Ellos": "habían mentido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré mentido",
+    "Tu": "habrás mentido",
+    "El": "habrá mentido",
+    "Nosotros": "habremos mentido",
+    "Vosotros": "habréis mentido",
+    "Ellos": "habrán mentido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría mentido",
+    "Tu": "habrías mentido",
+    "El": "habría mentido",
+    "Nosotros": "habríamos mentido",
+    "Vosotros": "habríais mentido",
+    "Ellos": "habrían mentido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "mienta",
+    "Tu": "mientas",
+    "El": "mienta",
+    "Nosotros": "mintamos",
+    "Vosotros": "mintáis",
+    "Ellos": "mientan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "miente",
+    "El": "mienta",
+    "Nosotros": "mintamos",
+    "Vosotros": "mentid",
+    "Ellos": "mientan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no mientas",
+    "El": "no mienta",
+    "Nosotros": "no mintamos",
+    "Vosotros": "no mintáis",
+    "Ellos": "no mientan"
+  },
+  "ending": "ir"
+}

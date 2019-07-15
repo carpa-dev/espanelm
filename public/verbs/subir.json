@@ -1,0 +1,113 @@
+{
+  "verb": "subir",
+  "englishInfinitive": "to go up",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "subo",
+    "Tu": "subes",
+    "El": "sube",
+    "Nosotros": "subimos",
+    "Vosotros": "subís",
+    "Ellos": "suben"
+  },
+  "IndicativePreterite": {
+    "Yo": "subí",
+    "Tu": "subiste",
+    "El": "subió",
+    "Nosotros": "subimos",
+    "Vosotros": "subisteis",
+    "Ellos": "subieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "subiré",
+    "Tu": "subirás",
+    "El": "subirá",
+    "Nosotros": "subiremos",
+    "Vosotros": "subiréis",
+    "Ellos": "subirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "subiría",
+    "Tu": "subirías",
+    "El": "subiría",
+    "Nosotros": "subiríamos",
+    "Vosotros": "subiríais",
+    "Ellos": "subirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "subía",
+    "Tu": "subías",
+    "El": "subía",
+    "Nosotros": "subíamos",
+    "Vosotros": "subíais",
+    "Ellos": "subían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy subiendo",
+    "Tu": "estás subiendo",
+    "El": "está subiendo",
+    "Nosotros": "estamos subiendo",
+    "Vosotros": "estáis subiendo",
+    "Ellos": "están subiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he subido",
+    "Tu": "has subido",
+    "El": "ha subido",
+    "Nosotros": "hemos subido",
+    "Vosotros": "habéis subido",
+    "Ellos": "han subido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había subido",
+    "Tu": "habías subido",
+    "El": "había subido",
+    "Nosotros": "habíamos subido",
+    "Vosotros": "habíais subido",
+    "Ellos": "habían subido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré subido",
+    "Tu": "habrás subido",
+    "El": "habrá subido",
+    "Nosotros": "habremos subido",
+    "Vosotros": "habréis subido",
+    "Ellos": "habrán subido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría subido",
+    "Tu": "habrías subido",
+    "El": "habría subido",
+    "Nosotros": "habríamos subido",
+    "Vosotros": "habríais subido",
+    "Ellos": "habrían subido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "suba",
+    "Tu": "subas",
+    "El": "suba",
+    "Nosotros": "subamos",
+    "Vosotros": "subáis",
+    "Ellos": "suban"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sube",
+    "El": "suba",
+    "Nosotros": "subamos",
+    "Vosotros": "subid",
+    "Ellos": "suban"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no subas",
+    "El": "no suba",
+    "Nosotros": "no subamos",
+    "Vosotros": "no subáis",
+    "Ellos": "no suban"
+  },
+  "ending": "ir"
+}

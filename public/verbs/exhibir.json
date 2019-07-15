@@ -1,0 +1,113 @@
+{
+  "verb": "exhibir",
+  "englishInfinitive": "to exhibit",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "exhibo",
+    "Tu": "exhibes",
+    "El": "exhibe",
+    "Nosotros": "exhibimos",
+    "Vosotros": "exhibís",
+    "Ellos": "exhiben"
+  },
+  "IndicativePreterite": {
+    "Yo": "exhibí",
+    "Tu": "exhibiste",
+    "El": "exhibió",
+    "Nosotros": "exhibimos",
+    "Vosotros": "exhibisteis",
+    "Ellos": "exhibieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "exhibiré",
+    "Tu": "exhibirás",
+    "El": "exhibirá",
+    "Nosotros": "exhibiremos",
+    "Vosotros": "exhibiréis",
+    "Ellos": "exhibirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "exhibiría",
+    "Tu": "exhibirías",
+    "El": "exhibiría",
+    "Nosotros": "exhibiríamos",
+    "Vosotros": "exhibiríais",
+    "Ellos": "exhibirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "exhibía",
+    "Tu": "exhibías",
+    "El": "exhibía",
+    "Nosotros": "exhibíamos",
+    "Vosotros": "exhibíais",
+    "Ellos": "exhibían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy exhibiendo",
+    "Tu": "estás exhibiendo",
+    "El": "está exhibiendo",
+    "Nosotros": "estamos exhibiendo",
+    "Vosotros": "estáis exhibiendo",
+    "Ellos": "están exhibiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he exhibido",
+    "Tu": "has exhibido",
+    "El": "ha exhibido",
+    "Nosotros": "hemos exhibido",
+    "Vosotros": "habéis exhibido",
+    "Ellos": "han exhibido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había exhibido",
+    "Tu": "habías exhibido",
+    "El": "había exhibido",
+    "Nosotros": "habíamos exhibido",
+    "Vosotros": "habíais exhibido",
+    "Ellos": "habían exhibido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré exhibido",
+    "Tu": "habrás exhibido",
+    "El": "habrá exhibido",
+    "Nosotros": "habremos exhibido",
+    "Vosotros": "habréis exhibido",
+    "Ellos": "habrán exhibido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría exhibido",
+    "Tu": "habrías exhibido",
+    "El": "habría exhibido",
+    "Nosotros": "habríamos exhibido",
+    "Vosotros": "habríais exhibido",
+    "Ellos": "habrían exhibido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "exhiba",
+    "Tu": "exhibas",
+    "El": "exhiba",
+    "Nosotros": "exhibamos",
+    "Vosotros": "exhibáis",
+    "Ellos": "exhiban"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "exhibe",
+    "El": "exhiba",
+    "Nosotros": "exhibamos",
+    "Vosotros": "exhibid",
+    "Ellos": "exhiban"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no exhibas",
+    "El": "no exhiba",
+    "Nosotros": "no exhibamos",
+    "Vosotros": "no exhibáis",
+    "Ellos": "no exhiban"
+  },
+  "ending": "ir"
+}

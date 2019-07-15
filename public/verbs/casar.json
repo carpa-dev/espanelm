@@ -1,0 +1,113 @@
+{
+  "verb": "casar",
+  "englishInfinitive": "to marry",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "caso",
+    "Tu": "casas",
+    "El": "casa",
+    "Nosotros": "casamos",
+    "Vosotros": "casáis",
+    "Ellos": "casan"
+  },
+  "IndicativePreterite": {
+    "Yo": "casé",
+    "Tu": "casaste",
+    "El": "casó",
+    "Nosotros": "casamos",
+    "Vosotros": "casasteis",
+    "Ellos": "casaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "casaré",
+    "Tu": "casarás",
+    "El": "casará",
+    "Nosotros": "casaremos",
+    "Vosotros": "casaréis",
+    "Ellos": "casarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "casaría",
+    "Tu": "casarías",
+    "El": "casaría",
+    "Nosotros": "casaríamos",
+    "Vosotros": "casaríais",
+    "Ellos": "casarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "casaba",
+    "Tu": "casabas",
+    "El": "casaba",
+    "Nosotros": "casábamos",
+    "Vosotros": "casabais",
+    "Ellos": "casaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy casando",
+    "Tu": "estás casando",
+    "El": "está casando",
+    "Nosotros": "estamos casando",
+    "Vosotros": "estáis casando",
+    "Ellos": "están casando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he casado",
+    "Tu": "has casado",
+    "El": "ha casado",
+    "Nosotros": "hemos casado",
+    "Vosotros": "habéis casado",
+    "Ellos": "han casado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había casado",
+    "Tu": "habías casado",
+    "El": "había casado",
+    "Nosotros": "habíamos casado",
+    "Vosotros": "habíais casado",
+    "Ellos": "habían casado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré casado",
+    "Tu": "habrás casado",
+    "El": "habrá casado",
+    "Nosotros": "habremos casado",
+    "Vosotros": "habréis casado",
+    "Ellos": "habrán casado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría casado",
+    "Tu": "habrías casado",
+    "El": "habría casado",
+    "Nosotros": "habríamos casado",
+    "Vosotros": "habríais casado",
+    "Ellos": "habrían casado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "case",
+    "Tu": "cases",
+    "El": "case",
+    "Nosotros": "casemos",
+    "Vosotros": "caséis",
+    "Ellos": "casen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "casa",
+    "El": "case",
+    "Nosotros": "casemos",
+    "Vosotros": "casad",
+    "Ellos": "casen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cases",
+    "El": "no case",
+    "Nosotros": "no casemos",
+    "Vosotros": "no caséis",
+    "Ellos": "no casen"
+  },
+  "ending": "ar"
+}

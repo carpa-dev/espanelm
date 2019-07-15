@@ -1,0 +1,113 @@
+{
+  "verb": "cultivar",
+  "englishInfinitive": "to cultivate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "cultivo",
+    "Tu": "cultivas",
+    "El": "cultiva",
+    "Nosotros": "cultivamos",
+    "Vosotros": "cultiváis",
+    "Ellos": "cultivan"
+  },
+  "IndicativePreterite": {
+    "Yo": "cultivé",
+    "Tu": "cultivaste",
+    "El": "cultivó",
+    "Nosotros": "cultivamos",
+    "Vosotros": "cultivasteis",
+    "Ellos": "cultivaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cultivaré",
+    "Tu": "cultivarás",
+    "El": "cultivará",
+    "Nosotros": "cultivaremos",
+    "Vosotros": "cultivaréis",
+    "Ellos": "cultivarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cultivaría",
+    "Tu": "cultivarías",
+    "El": "cultivaría",
+    "Nosotros": "cultivaríamos",
+    "Vosotros": "cultivaríais",
+    "Ellos": "cultivarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cultivaba",
+    "Tu": "cultivabas",
+    "El": "cultivaba",
+    "Nosotros": "cultivábamos",
+    "Vosotros": "cultivabais",
+    "Ellos": "cultivaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cultivando",
+    "Tu": "estás cultivando",
+    "El": "está cultivando",
+    "Nosotros": "estamos cultivando",
+    "Vosotros": "estáis cultivando",
+    "Ellos": "están cultivando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cultivado",
+    "Tu": "has cultivado",
+    "El": "ha cultivado",
+    "Nosotros": "hemos cultivado",
+    "Vosotros": "habéis cultivado",
+    "Ellos": "han cultivado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cultivado",
+    "Tu": "habías cultivado",
+    "El": "había cultivado",
+    "Nosotros": "habíamos cultivado",
+    "Vosotros": "habíais cultivado",
+    "Ellos": "habían cultivado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cultivado",
+    "Tu": "habrás cultivado",
+    "El": "habrá cultivado",
+    "Nosotros": "habremos cultivado",
+    "Vosotros": "habréis cultivado",
+    "Ellos": "habrán cultivado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cultivado",
+    "Tu": "habrías cultivado",
+    "El": "habría cultivado",
+    "Nosotros": "habríamos cultivado",
+    "Vosotros": "habríais cultivado",
+    "Ellos": "habrían cultivado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cultive",
+    "Tu": "cultives",
+    "El": "cultive",
+    "Nosotros": "cultivemos",
+    "Vosotros": "cultivéis",
+    "Ellos": "cultiven"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cultiva",
+    "El": "cultive",
+    "Nosotros": "cultivemos",
+    "Vosotros": "cultivad",
+    "Ellos": "cultiven"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cultives",
+    "El": "no cultive",
+    "Nosotros": "no cultivemos",
+    "Vosotros": "no cultivéis",
+    "Ellos": "no cultiven"
+  },
+  "ending": "ar"
+}

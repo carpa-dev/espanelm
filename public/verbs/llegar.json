@@ -1,0 +1,113 @@
+{
+  "verb": "llegar",
+  "englishInfinitive": "to arrive",
+  "irregular": true,
+  "type": "g > gu (-gar)",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "llego",
+    "Tu": "llegas",
+    "El": "llega",
+    "Nosotros": "llegamos",
+    "Vosotros": "llegáis",
+    "Ellos": "llegan"
+  },
+  "IndicativePreterite": {
+    "Yo": "llegué",
+    "Tu": "llegaste",
+    "El": "llegó",
+    "Nosotros": "llegamos",
+    "Vosotros": "llegasteis",
+    "Ellos": "llegaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "llegaré",
+    "Tu": "llegarás",
+    "El": "llegará",
+    "Nosotros": "llegaremos",
+    "Vosotros": "llegaréis",
+    "Ellos": "llegarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "llegaría",
+    "Tu": "llegarías",
+    "El": "llegaría",
+    "Nosotros": "llegaríamos",
+    "Vosotros": "llegaríais",
+    "Ellos": "llegarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "llegaba",
+    "Tu": "llegabas",
+    "El": "llegaba",
+    "Nosotros": "llegábamos",
+    "Vosotros": "llegabais",
+    "Ellos": "llegaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy llegando",
+    "Tu": "estás llegando",
+    "El": "está llegando",
+    "Nosotros": "estamos llegando",
+    "Vosotros": "estáis llegando",
+    "Ellos": "están llegando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he llegado",
+    "Tu": "has llegado",
+    "El": "ha llegado",
+    "Nosotros": "hemos llegado",
+    "Vosotros": "habéis llegado",
+    "Ellos": "han llegado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había llegado",
+    "Tu": "habías llegado",
+    "El": "había llegado",
+    "Nosotros": "habíamos llegado",
+    "Vosotros": "habíais llegado",
+    "Ellos": "habían llegado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré llegado",
+    "Tu": "habrás llegado",
+    "El": "habrá llegado",
+    "Nosotros": "habremos llegado",
+    "Vosotros": "habréis llegado",
+    "Ellos": "habrán llegado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría llegado",
+    "Tu": "habrías llegado",
+    "El": "habría llegado",
+    "Nosotros": "habríamos llegado",
+    "Vosotros": "habríais llegado",
+    "Ellos": "habrían llegado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "llegue",
+    "Tu": "llegues",
+    "El": "llegue",
+    "Nosotros": "lleguemos",
+    "Vosotros": "lleguéis",
+    "Ellos": "lleguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "llega",
+    "El": "llegue",
+    "Nosotros": "lleguemos",
+    "Vosotros": "llegad",
+    "Ellos": "lleguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no llegues",
+    "El": "no llegue",
+    "Nosotros": "no lleguemos",
+    "Vosotros": "no lleguéis",
+    "Ellos": "no lleguen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "ladrar",
+  "englishInfinitive": "to bark",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "ladro",
+    "Tu": "ladras",
+    "El": "ladra",
+    "Nosotros": "ladramos",
+    "Vosotros": "ladráis",
+    "Ellos": "ladran"
+  },
+  "IndicativePreterite": {
+    "Yo": "ladré",
+    "Tu": "ladraste",
+    "El": "ladró",
+    "Nosotros": "ladramos",
+    "Vosotros": "ladrasteis",
+    "Ellos": "ladraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "ladraré",
+    "Tu": "ladrarás",
+    "El": "ladrará",
+    "Nosotros": "ladraremos",
+    "Vosotros": "ladraréis",
+    "Ellos": "ladrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "ladraría",
+    "Tu": "ladrarías",
+    "El": "ladraría",
+    "Nosotros": "ladraríamos",
+    "Vosotros": "ladraríais",
+    "Ellos": "ladrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "ladraba",
+    "Tu": "ladrabas",
+    "El": "ladraba",
+    "Nosotros": "ladrábamos",
+    "Vosotros": "ladrabais",
+    "Ellos": "ladraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy ladrando",
+    "Tu": "estás ladrando",
+    "El": "está ladrando",
+    "Nosotros": "estamos ladrando",
+    "Vosotros": "estáis ladrando",
+    "Ellos": "están ladrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he ladrado",
+    "Tu": "has ladrado",
+    "El": "ha ladrado",
+    "Nosotros": "hemos ladrado",
+    "Vosotros": "habéis ladrado",
+    "Ellos": "han ladrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había ladrado",
+    "Tu": "habías ladrado",
+    "El": "había ladrado",
+    "Nosotros": "habíamos ladrado",
+    "Vosotros": "habíais ladrado",
+    "Ellos": "habían ladrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré ladrado",
+    "Tu": "habrás ladrado",
+    "El": "habrá ladrado",
+    "Nosotros": "habremos ladrado",
+    "Vosotros": "habréis ladrado",
+    "Ellos": "habrán ladrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría ladrado",
+    "Tu": "habrías ladrado",
+    "El": "habría ladrado",
+    "Nosotros": "habríamos ladrado",
+    "Vosotros": "habríais ladrado",
+    "Ellos": "habrían ladrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ladre",
+    "Tu": "ladres",
+    "El": "ladre",
+    "Nosotros": "ladremos",
+    "Vosotros": "ladréis",
+    "Ellos": "ladren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ladra",
+    "El": "ladre",
+    "Nosotros": "ladremos",
+    "Vosotros": "ladrad",
+    "Ellos": "ladren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ladres",
+    "El": "no ladre",
+    "Nosotros": "no ladremos",
+    "Vosotros": "no ladréis",
+    "Ellos": "no ladren"
+  },
+  "ending": "ar"
+}

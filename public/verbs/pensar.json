@@ -1,0 +1,113 @@
+{
+  "verb": "pensar",
+  "englishInfinitive": "to think",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "pienso",
+    "Tu": "piensas",
+    "El": "piensa",
+    "Nosotros": "pensamos",
+    "Vosotros": "pensáis",
+    "Ellos": "piensan"
+  },
+  "IndicativePreterite": {
+    "Yo": "pensé",
+    "Tu": "pensaste",
+    "El": "pensó",
+    "Nosotros": "pensamos",
+    "Vosotros": "pensasteis",
+    "Ellos": "pensaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "pensaré",
+    "Tu": "pensarás",
+    "El": "pensará",
+    "Nosotros": "pensaremos",
+    "Vosotros": "pensaréis",
+    "Ellos": "pensarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "pensaría",
+    "Tu": "pensarías",
+    "El": "pensaría",
+    "Nosotros": "pensaríamos",
+    "Vosotros": "pensaríais",
+    "Ellos": "pensarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "pensaba",
+    "Tu": "pensabas",
+    "El": "pensaba",
+    "Nosotros": "pensábamos",
+    "Vosotros": "pensabais",
+    "Ellos": "pensaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy pensando",
+    "Tu": "estás pensando",
+    "El": "está pensando",
+    "Nosotros": "estamos pensando",
+    "Vosotros": "estáis pensando",
+    "Ellos": "están pensando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he pensado",
+    "Tu": "has pensado",
+    "El": "ha pensado",
+    "Nosotros": "hemos pensado",
+    "Vosotros": "habéis pensado",
+    "Ellos": "han pensado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había pensado",
+    "Tu": "habías pensado",
+    "El": "había pensado",
+    "Nosotros": "habíamos pensado",
+    "Vosotros": "habíais pensado",
+    "Ellos": "habían pensado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré pensado",
+    "Tu": "habrás pensado",
+    "El": "habrá pensado",
+    "Nosotros": "habremos pensado",
+    "Vosotros": "habréis pensado",
+    "Ellos": "habrán pensado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría pensado",
+    "Tu": "habrías pensado",
+    "El": "habría pensado",
+    "Nosotros": "habríamos pensado",
+    "Vosotros": "habríais pensado",
+    "Ellos": "habrían pensado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "piense",
+    "Tu": "pienses",
+    "El": "piense",
+    "Nosotros": "pensemos",
+    "Vosotros": "penséis",
+    "Ellos": "piensen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "piensa",
+    "El": "piense",
+    "Nosotros": "pensemos",
+    "Vosotros": "pensad",
+    "Ellos": "piensen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no pienses",
+    "El": "no piense",
+    "Nosotros": "no pensemos",
+    "Vosotros": "no penséis",
+    "Ellos": "no piensen"
+  },
+  "ending": "ar"
+}

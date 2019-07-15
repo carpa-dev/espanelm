@@ -1,0 +1,113 @@
+{
+  "verb": "surgir",
+  "englishInfinitive": "to arise",
+  "irregular": true,
+  "type": "g > j",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "surjo",
+    "Tu": "surges",
+    "El": "surge",
+    "Nosotros": "surgimos",
+    "Vosotros": "surgís",
+    "Ellos": "surgen"
+  },
+  "IndicativePreterite": {
+    "Yo": "surgí",
+    "Tu": "surgiste",
+    "El": "surgió",
+    "Nosotros": "surgimos",
+    "Vosotros": "surgisteis",
+    "Ellos": "surgieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "surgiré",
+    "Tu": "surgirás",
+    "El": "surgirá",
+    "Nosotros": "surgiremos",
+    "Vosotros": "surgiréis",
+    "Ellos": "surgirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "surgiría",
+    "Tu": "surgirías",
+    "El": "surgiría",
+    "Nosotros": "surgiríamos",
+    "Vosotros": "surgiríais",
+    "Ellos": "surgirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "surgía",
+    "Tu": "surgías",
+    "El": "surgía",
+    "Nosotros": "surgíamos",
+    "Vosotros": "surgíais",
+    "Ellos": "surgían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy surgiendo",
+    "Tu": "estás surgiendo",
+    "El": "está surgiendo",
+    "Nosotros": "estamos surgiendo",
+    "Vosotros": "estáis surgiendo",
+    "Ellos": "están surgiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he surgido",
+    "Tu": "has surgido",
+    "El": "ha surgido",
+    "Nosotros": "hemos surgido",
+    "Vosotros": "habéis surgido",
+    "Ellos": "han surgido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había surgido",
+    "Tu": "habías surgido",
+    "El": "había surgido",
+    "Nosotros": "habíamos surgido",
+    "Vosotros": "habíais surgido",
+    "Ellos": "habían surgido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré surgido",
+    "Tu": "habrás surgido",
+    "El": "habrá surgido",
+    "Nosotros": "habremos surgido",
+    "Vosotros": "habréis surgido",
+    "Ellos": "habrán surgido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría surgido",
+    "Tu": "habrías surgido",
+    "El": "habría surgido",
+    "Nosotros": "habríamos surgido",
+    "Vosotros": "habríais surgido",
+    "Ellos": "habrían surgido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "surja",
+    "Tu": "surjas",
+    "El": "surja",
+    "Nosotros": "surjamos",
+    "Vosotros": "surjáis",
+    "Ellos": "surjan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "surge",
+    "El": "surja",
+    "Nosotros": "surjamos",
+    "Vosotros": "surgid",
+    "Ellos": "surjan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no surjas",
+    "El": "no surja",
+    "Nosotros": "no surjamos",
+    "Vosotros": "no surjáis",
+    "Ellos": "no surjan"
+  },
+  "ending": "ir"
+}

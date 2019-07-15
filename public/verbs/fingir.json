@@ -1,0 +1,113 @@
+{
+  "verb": "fingir",
+  "englishInfinitive": "to fake",
+  "irregular": true,
+  "type": "g > j",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "finjo",
+    "Tu": "finges",
+    "El": "finge",
+    "Nosotros": "fingimos",
+    "Vosotros": "fingís",
+    "Ellos": "fingen"
+  },
+  "IndicativePreterite": {
+    "Yo": "fingí",
+    "Tu": "fingiste",
+    "El": "fingió",
+    "Nosotros": "fingimos",
+    "Vosotros": "fingisteis",
+    "Ellos": "fingieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "fingiré",
+    "Tu": "fingirás",
+    "El": "fingirá",
+    "Nosotros": "fingiremos",
+    "Vosotros": "fingiréis",
+    "Ellos": "fingirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "fingiría",
+    "Tu": "fingirías",
+    "El": "fingiría",
+    "Nosotros": "fingiríamos",
+    "Vosotros": "fingiríais",
+    "Ellos": "fingirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "fingía",
+    "Tu": "fingías",
+    "El": "fingía",
+    "Nosotros": "fingíamos",
+    "Vosotros": "fingíais",
+    "Ellos": "fingían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy fingiendo",
+    "Tu": "estás fingiendo",
+    "El": "está fingiendo",
+    "Nosotros": "estamos fingiendo",
+    "Vosotros": "estáis fingiendo",
+    "Ellos": "están fingiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he fingido",
+    "Tu": "has fingido",
+    "El": "ha fingido",
+    "Nosotros": "hemos fingido",
+    "Vosotros": "habéis fingido",
+    "Ellos": "han fingido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había fingido",
+    "Tu": "habías fingido",
+    "El": "había fingido",
+    "Nosotros": "habíamos fingido",
+    "Vosotros": "habíais fingido",
+    "Ellos": "habían fingido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré fingido",
+    "Tu": "habrás fingido",
+    "El": "habrá fingido",
+    "Nosotros": "habremos fingido",
+    "Vosotros": "habréis fingido",
+    "Ellos": "habrán fingido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría fingido",
+    "Tu": "habrías fingido",
+    "El": "habría fingido",
+    "Nosotros": "habríamos fingido",
+    "Vosotros": "habríais fingido",
+    "Ellos": "habrían fingido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "finja",
+    "Tu": "finjas",
+    "El": "finja",
+    "Nosotros": "finjamos",
+    "Vosotros": "finjáis",
+    "Ellos": "finjan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "finge",
+    "El": "finja",
+    "Nosotros": "finjamos",
+    "Vosotros": "fingid",
+    "Ellos": "finjan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no finjas",
+    "El": "no finja",
+    "Nosotros": "no finjamos",
+    "Vosotros": "no finjáis",
+    "Ellos": "no finjan"
+  },
+  "ending": "ir"
+}

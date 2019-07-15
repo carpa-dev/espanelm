@@ -1,0 +1,113 @@
+{
+  "verb": "arrojar",
+  "englishInfinitive": "to throw",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "arrojo",
+    "Tu": "arrojas",
+    "El": "arroja",
+    "Nosotros": "arrojamos",
+    "Vosotros": "arrojáis",
+    "Ellos": "arrojan"
+  },
+  "IndicativePreterite": {
+    "Yo": "arrojé",
+    "Tu": "arrojaste",
+    "El": "arrojó",
+    "Nosotros": "arrojamos",
+    "Vosotros": "arrojasteis",
+    "Ellos": "arrojaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "arrojaré",
+    "Tu": "arrojarás",
+    "El": "arrojará",
+    "Nosotros": "arrojaremos",
+    "Vosotros": "arrojaréis",
+    "Ellos": "arrojarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "arrojaría",
+    "Tu": "arrojarías",
+    "El": "arrojaría",
+    "Nosotros": "arrojaríamos",
+    "Vosotros": "arrojaríais",
+    "Ellos": "arrojarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "arrojaba",
+    "Tu": "arrojabas",
+    "El": "arrojaba",
+    "Nosotros": "arrojábamos",
+    "Vosotros": "arrojabais",
+    "Ellos": "arrojaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy arrojando",
+    "Tu": "estás arrojando",
+    "El": "está arrojando",
+    "Nosotros": "estamos arrojando",
+    "Vosotros": "estáis arrojando",
+    "Ellos": "están arrojando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he arrojado",
+    "Tu": "has arrojado",
+    "El": "ha arrojado",
+    "Nosotros": "hemos arrojado",
+    "Vosotros": "habéis arrojado",
+    "Ellos": "han arrojado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había arrojado",
+    "Tu": "habías arrojado",
+    "El": "había arrojado",
+    "Nosotros": "habíamos arrojado",
+    "Vosotros": "habíais arrojado",
+    "Ellos": "habían arrojado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré arrojado",
+    "Tu": "habrás arrojado",
+    "El": "habrá arrojado",
+    "Nosotros": "habremos arrojado",
+    "Vosotros": "habréis arrojado",
+    "Ellos": "habrán arrojado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría arrojado",
+    "Tu": "habrías arrojado",
+    "El": "habría arrojado",
+    "Nosotros": "habríamos arrojado",
+    "Vosotros": "habríais arrojado",
+    "Ellos": "habrían arrojado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "arroje",
+    "Tu": "arrojes",
+    "El": "arroje",
+    "Nosotros": "arrojemos",
+    "Vosotros": "arrojéis",
+    "Ellos": "arrojen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "arroja",
+    "El": "arroje",
+    "Nosotros": "arrojemos",
+    "Vosotros": "arrojad",
+    "Ellos": "arrojen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no arrojes",
+    "El": "no arroje",
+    "Nosotros": "no arrojemos",
+    "Vosotros": "no arrojéis",
+    "Ellos": "no arrojen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "matricularse",
+  "englishInfinitive": "to register",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me matriculo",
+    "Tu": "te matriculas",
+    "El": "se matricula",
+    "Nosotros": "nos matriculamos",
+    "Vosotros": "os matriculáis",
+    "Ellos": "se matriculan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me matriculé",
+    "Tu": "te matriculaste",
+    "El": "se matriculó",
+    "Nosotros": "nos matriculamos",
+    "Vosotros": "os matriculasteis",
+    "Ellos": "se matricularon"
+  },
+  "IndicativeFuture": {
+    "Yo": "me matricularé",
+    "Tu": "te matricularás",
+    "El": "se matriculará",
+    "Nosotros": "nos matricularemos",
+    "Vosotros": "os matricularéis",
+    "Ellos": "se matricularán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me matricularía",
+    "Tu": "te matricularías",
+    "El": "se matricularía",
+    "Nosotros": "nos matricularíamos",
+    "Vosotros": "os matricularíais",
+    "Ellos": "se matricularían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me matriculaba",
+    "Tu": "te matriculabas",
+    "El": "se matriculaba",
+    "Nosotros": "nos matriculábamos",
+    "Vosotros": "os matriculabais",
+    "Ellos": "se matriculaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy matriculando,estoy matriculándome",
+    "Tu": "te estás matriculando,estás matriculándote",
+    "El": "se está matriculando,está matriculándose",
+    "Nosotros": "nos estamos matriculando,estamos matriculándonos",
+    "Vosotros": "os estáis matriculando,estáis matriculándoos",
+    "Ellos": "se están matriculando,están matriculándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he matriculado",
+    "Tu": "te has matriculado",
+    "El": "se ha matriculado",
+    "Nosotros": "nos hemos matriculado",
+    "Vosotros": "os habéis matriculado",
+    "Ellos": "se han matriculado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había matriculado",
+    "Tu": "te habías matriculado",
+    "El": "se había matriculado",
+    "Nosotros": "nos habíamos matriculado",
+    "Vosotros": "os habíais matriculado",
+    "Ellos": "se habían matriculado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré matriculado",
+    "Tu": "te habrás matriculado",
+    "El": "se habrá matriculado",
+    "Nosotros": "nos habremos matriculado",
+    "Vosotros": "os habréis matriculado",
+    "Ellos": "se habrán matriculado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría matriculado",
+    "Tu": "te habrías matriculado",
+    "El": "se habría matriculado",
+    "Nosotros": "nos habríamos matriculado",
+    "Vosotros": "os habríais matriculado",
+    "Ellos": "se habrían matriculado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me matricule",
+    "Tu": "te matricules",
+    "El": "se matricule",
+    "Nosotros": "nos matriculemos",
+    "Vosotros": "os matriculéis",
+    "Ellos": "se matriculen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "matricúlate",
+    "El": "matricúlese",
+    "Nosotros": "matriculémonos",
+    "Vosotros": "matriculaos",
+    "Ellos": "matricúlense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te matricules",
+    "El": "no se matricule",
+    "Nosotros": "no nos matriculemos",
+    "Vosotros": "no os matriculéis",
+    "Ellos": "no se matriculen"
+  },
+  "ending": "ar"
+}

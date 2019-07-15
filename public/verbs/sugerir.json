@@ -1,0 +1,113 @@
+{
+  "verb": "sugerir",
+  "englishInfinitive": "to suggest",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "sugiero",
+    "Tu": "sugieres",
+    "El": "sugiere",
+    "Nosotros": "sugerimos",
+    "Vosotros": "sugerís",
+    "Ellos": "sugieren"
+  },
+  "IndicativePreterite": {
+    "Yo": "sugerí",
+    "Tu": "sugeriste",
+    "El": "sugirió",
+    "Nosotros": "sugerimos",
+    "Vosotros": "sugeristeis",
+    "Ellos": "sugirieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "sugeriré",
+    "Tu": "sugerirás",
+    "El": "sugerirá",
+    "Nosotros": "sugeriremos",
+    "Vosotros": "sugeriréis",
+    "Ellos": "sugerirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "sugeriría",
+    "Tu": "sugerirías",
+    "El": "sugeriría",
+    "Nosotros": "sugeriríamos",
+    "Vosotros": "sugeriríais",
+    "Ellos": "sugerirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "sugería",
+    "Tu": "sugerías",
+    "El": "sugería",
+    "Nosotros": "sugeríamos",
+    "Vosotros": "sugeríais",
+    "Ellos": "sugerían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy sugiriendo",
+    "Tu": "estás sugiriendo",
+    "El": "está sugiriendo",
+    "Nosotros": "estamos sugiriendo",
+    "Vosotros": "estáis sugiriendo",
+    "Ellos": "están sugiriendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he sugerido",
+    "Tu": "has sugerido",
+    "El": "ha sugerido",
+    "Nosotros": "hemos sugerido",
+    "Vosotros": "habéis sugerido",
+    "Ellos": "han sugerido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había sugerido",
+    "Tu": "habías sugerido",
+    "El": "había sugerido",
+    "Nosotros": "habíamos sugerido",
+    "Vosotros": "habíais sugerido",
+    "Ellos": "habían sugerido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré sugerido",
+    "Tu": "habrás sugerido",
+    "El": "habrá sugerido",
+    "Nosotros": "habremos sugerido",
+    "Vosotros": "habréis sugerido",
+    "Ellos": "habrán sugerido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría sugerido",
+    "Tu": "habrías sugerido",
+    "El": "habría sugerido",
+    "Nosotros": "habríamos sugerido",
+    "Vosotros": "habríais sugerido",
+    "Ellos": "habrían sugerido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "sugiera",
+    "Tu": "sugieras",
+    "El": "sugiera",
+    "Nosotros": "sugiramos",
+    "Vosotros": "sugiráis",
+    "Ellos": "sugieran"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sugiere",
+    "El": "sugiera",
+    "Nosotros": "sugiramos",
+    "Vosotros": "sugerid",
+    "Ellos": "sugieran"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sugieras",
+    "El": "no sugiera",
+    "Nosotros": "no sugiramos",
+    "Vosotros": "no sugiráis",
+    "Ellos": "no sugieran"
+  },
+  "ending": "ir"
+}

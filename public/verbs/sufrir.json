@@ -1,0 +1,113 @@
+{
+  "verb": "sufrir",
+  "englishInfinitive": "to suffer",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "sufro",
+    "Tu": "sufres",
+    "El": "sufre",
+    "Nosotros": "sufrimos",
+    "Vosotros": "sufrís",
+    "Ellos": "sufren"
+  },
+  "IndicativePreterite": {
+    "Yo": "sufrí",
+    "Tu": "sufriste",
+    "El": "sufrió",
+    "Nosotros": "sufrimos",
+    "Vosotros": "sufristeis",
+    "Ellos": "sufrieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "sufriré",
+    "Tu": "sufrirás",
+    "El": "sufrirá",
+    "Nosotros": "sufriremos",
+    "Vosotros": "sufriréis",
+    "Ellos": "sufrirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "sufriría",
+    "Tu": "sufrirías",
+    "El": "sufriría",
+    "Nosotros": "sufriríamos",
+    "Vosotros": "sufriríais",
+    "Ellos": "sufrirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "sufría",
+    "Tu": "sufrías",
+    "El": "sufría",
+    "Nosotros": "sufríamos",
+    "Vosotros": "sufríais",
+    "Ellos": "sufrían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy sufriendo",
+    "Tu": "estás sufriendo",
+    "El": "está sufriendo",
+    "Nosotros": "estamos sufriendo",
+    "Vosotros": "estáis sufriendo",
+    "Ellos": "están sufriendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he sufrido",
+    "Tu": "has sufrido",
+    "El": "ha sufrido",
+    "Nosotros": "hemos sufrido",
+    "Vosotros": "habéis sufrido",
+    "Ellos": "han sufrido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había sufrido",
+    "Tu": "habías sufrido",
+    "El": "había sufrido",
+    "Nosotros": "habíamos sufrido",
+    "Vosotros": "habíais sufrido",
+    "Ellos": "habían sufrido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré sufrido",
+    "Tu": "habrás sufrido",
+    "El": "habrá sufrido",
+    "Nosotros": "habremos sufrido",
+    "Vosotros": "habréis sufrido",
+    "Ellos": "habrán sufrido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría sufrido",
+    "Tu": "habrías sufrido",
+    "El": "habría sufrido",
+    "Nosotros": "habríamos sufrido",
+    "Vosotros": "habríais sufrido",
+    "Ellos": "habrían sufrido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "sufra",
+    "Tu": "sufras",
+    "El": "sufra",
+    "Nosotros": "suframos",
+    "Vosotros": "sufráis",
+    "Ellos": "sufran"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sufre",
+    "El": "sufra",
+    "Nosotros": "suframos",
+    "Vosotros": "sufrid",
+    "Ellos": "sufran"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sufras",
+    "El": "no sufra",
+    "Nosotros": "no suframos",
+    "Vosotros": "no sufráis",
+    "Ellos": "no sufran"
+  },
+  "ending": "ir"
+}

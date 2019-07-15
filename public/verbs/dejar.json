@@ -1,0 +1,113 @@
+{
+  "verb": "dejar",
+  "englishInfinitive": "to leave",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "dejo",
+    "Tu": "dejas",
+    "El": "deja",
+    "Nosotros": "dejamos",
+    "Vosotros": "dejáis",
+    "Ellos": "dejan"
+  },
+  "IndicativePreterite": {
+    "Yo": "dejé",
+    "Tu": "dejaste",
+    "El": "dejó",
+    "Nosotros": "dejamos",
+    "Vosotros": "dejasteis",
+    "Ellos": "dejaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "dejaré",
+    "Tu": "dejarás",
+    "El": "dejará",
+    "Nosotros": "dejaremos",
+    "Vosotros": "dejaréis",
+    "Ellos": "dejarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "dejaría",
+    "Tu": "dejarías",
+    "El": "dejaría",
+    "Nosotros": "dejaríamos",
+    "Vosotros": "dejaríais",
+    "Ellos": "dejarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "dejaba",
+    "Tu": "dejabas",
+    "El": "dejaba",
+    "Nosotros": "dejábamos",
+    "Vosotros": "dejabais",
+    "Ellos": "dejaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy dejando",
+    "Tu": "estás dejando",
+    "El": "está dejando",
+    "Nosotros": "estamos dejando",
+    "Vosotros": "estáis dejando",
+    "Ellos": "están dejando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he dejado",
+    "Tu": "has dejado",
+    "El": "ha dejado",
+    "Nosotros": "hemos dejado",
+    "Vosotros": "habéis dejado",
+    "Ellos": "han dejado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había dejado",
+    "Tu": "habías dejado",
+    "El": "había dejado",
+    "Nosotros": "habíamos dejado",
+    "Vosotros": "habíais dejado",
+    "Ellos": "habían dejado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré dejado",
+    "Tu": "habrás dejado",
+    "El": "habrá dejado",
+    "Nosotros": "habremos dejado",
+    "Vosotros": "habréis dejado",
+    "Ellos": "habrán dejado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría dejado",
+    "Tu": "habrías dejado",
+    "El": "habría dejado",
+    "Nosotros": "habríamos dejado",
+    "Vosotros": "habríais dejado",
+    "Ellos": "habrían dejado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "deje",
+    "Tu": "dejes",
+    "El": "deje",
+    "Nosotros": "dejemos",
+    "Vosotros": "dejéis",
+    "Ellos": "dejen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "deja",
+    "El": "deje",
+    "Nosotros": "dejemos",
+    "Vosotros": "dejad",
+    "Ellos": "dejen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no dejes",
+    "El": "no deje",
+    "Nosotros": "no dejemos",
+    "Vosotros": "no dejéis",
+    "Ellos": "no dejen"
+  },
+  "ending": "ar"
+}

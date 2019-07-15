@@ -1,0 +1,113 @@
+{
+  "verb": "picar",
+  "englishInfinitive": "to prick",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "pico",
+    "Tu": "picas",
+    "El": "pica",
+    "Nosotros": "picamos",
+    "Vosotros": "picáis",
+    "Ellos": "pican"
+  },
+  "IndicativePreterite": {
+    "Yo": "piqué",
+    "Tu": "picaste",
+    "El": "picó",
+    "Nosotros": "picamos",
+    "Vosotros": "picasteis",
+    "Ellos": "picaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "picaré",
+    "Tu": "picarás",
+    "El": "picará",
+    "Nosotros": "picaremos",
+    "Vosotros": "picaréis",
+    "Ellos": "picarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "picaría",
+    "Tu": "picarías",
+    "El": "picaría",
+    "Nosotros": "picaríamos",
+    "Vosotros": "picaríais",
+    "Ellos": "picarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "picaba",
+    "Tu": "picabas",
+    "El": "picaba",
+    "Nosotros": "picábamos",
+    "Vosotros": "picabais",
+    "Ellos": "picaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy picando",
+    "Tu": "estás picando",
+    "El": "está picando",
+    "Nosotros": "estamos picando",
+    "Vosotros": "estáis picando",
+    "Ellos": "están picando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he picado",
+    "Tu": "has picado",
+    "El": "ha picado",
+    "Nosotros": "hemos picado",
+    "Vosotros": "habéis picado",
+    "Ellos": "han picado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había picado",
+    "Tu": "habías picado",
+    "El": "había picado",
+    "Nosotros": "habíamos picado",
+    "Vosotros": "habíais picado",
+    "Ellos": "habían picado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré picado",
+    "Tu": "habrás picado",
+    "El": "habrá picado",
+    "Nosotros": "habremos picado",
+    "Vosotros": "habréis picado",
+    "Ellos": "habrán picado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría picado",
+    "Tu": "habrías picado",
+    "El": "habría picado",
+    "Nosotros": "habríamos picado",
+    "Vosotros": "habríais picado",
+    "Ellos": "habrían picado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "pique",
+    "Tu": "piques",
+    "El": "pique",
+    "Nosotros": "piquemos",
+    "Vosotros": "piquéis",
+    "Ellos": "piquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "pica",
+    "El": "pique",
+    "Nosotros": "piquemos",
+    "Vosotros": "picad",
+    "Ellos": "piquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no piques",
+    "El": "no pique",
+    "Nosotros": "no piquemos",
+    "Vosotros": "no piquéis",
+    "Ellos": "no piquen"
+  },
+  "ending": "ar"
+}

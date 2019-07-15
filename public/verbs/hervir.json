@@ -1,0 +1,113 @@
+{
+  "verb": "hervir",
+  "englishInfinitive": "to boil",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "hiervo",
+    "Tu": "hierves",
+    "El": "hierve",
+    "Nosotros": "hervimos",
+    "Vosotros": "hervís",
+    "Ellos": "hierven"
+  },
+  "IndicativePreterite": {
+    "Yo": "herví",
+    "Tu": "herviste",
+    "El": "hirvió",
+    "Nosotros": "hervimos",
+    "Vosotros": "hervisteis",
+    "Ellos": "hirvieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "herviré",
+    "Tu": "hervirás",
+    "El": "hervirá",
+    "Nosotros": "herviremos",
+    "Vosotros": "herviréis",
+    "Ellos": "hervirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "herviría",
+    "Tu": "hervirías",
+    "El": "herviría",
+    "Nosotros": "herviríamos",
+    "Vosotros": "herviríais",
+    "Ellos": "hervirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "hervía",
+    "Tu": "hervías",
+    "El": "hervía",
+    "Nosotros": "hervíamos",
+    "Vosotros": "hervíais",
+    "Ellos": "hervían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy hirviendo",
+    "Tu": "estás hirviendo",
+    "El": "está hirviendo",
+    "Nosotros": "estamos hirviendo",
+    "Vosotros": "estáis hirviendo",
+    "Ellos": "están hirviendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he hervido",
+    "Tu": "has hervido",
+    "El": "ha hervido",
+    "Nosotros": "hemos hervido",
+    "Vosotros": "habéis hervido",
+    "Ellos": "han hervido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había hervido",
+    "Tu": "habías hervido",
+    "El": "había hervido",
+    "Nosotros": "habíamos hervido",
+    "Vosotros": "habíais hervido",
+    "Ellos": "habían hervido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré hervido",
+    "Tu": "habrás hervido",
+    "El": "habrá hervido",
+    "Nosotros": "habremos hervido",
+    "Vosotros": "habréis hervido",
+    "Ellos": "habrán hervido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría hervido",
+    "Tu": "habrías hervido",
+    "El": "habría hervido",
+    "Nosotros": "habríamos hervido",
+    "Vosotros": "habríais hervido",
+    "Ellos": "habrían hervido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "hierva",
+    "Tu": "hiervas",
+    "El": "hierva",
+    "Nosotros": "hirvamos",
+    "Vosotros": "hirváis",
+    "Ellos": "hiervan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "hierve",
+    "El": "hierva",
+    "Nosotros": "hirvamos",
+    "Vosotros": "hervid",
+    "Ellos": "hiervan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no hiervas",
+    "El": "no hierva",
+    "Nosotros": "no hirvamos",
+    "Vosotros": "no hirváis",
+    "Ellos": "no hiervan"
+  },
+  "ending": "ir"
+}

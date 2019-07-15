@@ -1,0 +1,113 @@
+{
+  "verb": "regular",
+  "englishInfinitive": "to regulate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "regulo",
+    "Tu": "regulas",
+    "El": "regula",
+    "Nosotros": "regulamos",
+    "Vosotros": "reguláis",
+    "Ellos": "regulan"
+  },
+  "IndicativePreterite": {
+    "Yo": "regulé",
+    "Tu": "regulaste",
+    "El": "reguló",
+    "Nosotros": "regulamos",
+    "Vosotros": "regulasteis",
+    "Ellos": "regularon"
+  },
+  "IndicativeFuture": {
+    "Yo": "regularé",
+    "Tu": "regularás",
+    "El": "regulará",
+    "Nosotros": "regularemos",
+    "Vosotros": "regularéis",
+    "Ellos": "regularán"
+  },
+  "ConditionalPresent": {
+    "Yo": "regularía",
+    "Tu": "regularías",
+    "El": "regularía",
+    "Nosotros": "regularíamos",
+    "Vosotros": "regularíais",
+    "Ellos": "regularían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "regulaba",
+    "Tu": "regulabas",
+    "El": "regulaba",
+    "Nosotros": "regulábamos",
+    "Vosotros": "regulabais",
+    "Ellos": "regulaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy regulando",
+    "Tu": "estás regulando",
+    "El": "está regulando",
+    "Nosotros": "estamos regulando",
+    "Vosotros": "estáis regulando",
+    "Ellos": "están regulando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he regulado",
+    "Tu": "has regulado",
+    "El": "ha regulado",
+    "Nosotros": "hemos regulado",
+    "Vosotros": "habéis regulado",
+    "Ellos": "han regulado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había regulado",
+    "Tu": "habías regulado",
+    "El": "había regulado",
+    "Nosotros": "habíamos regulado",
+    "Vosotros": "habíais regulado",
+    "Ellos": "habían regulado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré regulado",
+    "Tu": "habrás regulado",
+    "El": "habrá regulado",
+    "Nosotros": "habremos regulado",
+    "Vosotros": "habréis regulado",
+    "Ellos": "habrán regulado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría regulado",
+    "Tu": "habrías regulado",
+    "El": "habría regulado",
+    "Nosotros": "habríamos regulado",
+    "Vosotros": "habríais regulado",
+    "Ellos": "habrían regulado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "regule",
+    "Tu": "regules",
+    "El": "regule",
+    "Nosotros": "regulemos",
+    "Vosotros": "reguléis",
+    "Ellos": "regulen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "regula",
+    "El": "regule",
+    "Nosotros": "regulemos",
+    "Vosotros": "regulad",
+    "Ellos": "regulen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no regules",
+    "El": "no regule",
+    "Nosotros": "no regulemos",
+    "Vosotros": "no reguléis",
+    "Ellos": "no regulen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "confiscar",
+  "englishInfinitive": "to confiscate",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "confisco",
+    "Tu": "confiscas",
+    "El": "confisca",
+    "Nosotros": "confiscamos",
+    "Vosotros": "confiscáis",
+    "Ellos": "confiscan"
+  },
+  "IndicativePreterite": {
+    "Yo": "confisqué",
+    "Tu": "confiscaste",
+    "El": "confiscó",
+    "Nosotros": "confiscamos",
+    "Vosotros": "confiscasteis",
+    "Ellos": "confiscaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "confiscaré",
+    "Tu": "confiscarás",
+    "El": "confiscará",
+    "Nosotros": "confiscaremos",
+    "Vosotros": "confiscaréis",
+    "Ellos": "confiscarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "confiscaría",
+    "Tu": "confiscarías",
+    "El": "confiscaría",
+    "Nosotros": "confiscaríamos",
+    "Vosotros": "confiscaríais",
+    "Ellos": "confiscarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "confiscaba",
+    "Tu": "confiscabas",
+    "El": "confiscaba",
+    "Nosotros": "confiscábamos",
+    "Vosotros": "confiscabais",
+    "Ellos": "confiscaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy confiscando",
+    "Tu": "estás confiscando",
+    "El": "está confiscando",
+    "Nosotros": "estamos confiscando",
+    "Vosotros": "estáis confiscando",
+    "Ellos": "están confiscando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he confiscado",
+    "Tu": "has confiscado",
+    "El": "ha confiscado",
+    "Nosotros": "hemos confiscado",
+    "Vosotros": "habéis confiscado",
+    "Ellos": "han confiscado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había confiscado",
+    "Tu": "habías confiscado",
+    "El": "había confiscado",
+    "Nosotros": "habíamos confiscado",
+    "Vosotros": "habíais confiscado",
+    "Ellos": "habían confiscado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré confiscado",
+    "Tu": "habrás confiscado",
+    "El": "habrá confiscado",
+    "Nosotros": "habremos confiscado",
+    "Vosotros": "habréis confiscado",
+    "Ellos": "habrán confiscado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría confiscado",
+    "Tu": "habrías confiscado",
+    "El": "habría confiscado",
+    "Nosotros": "habríamos confiscado",
+    "Vosotros": "habríais confiscado",
+    "Ellos": "habrían confiscado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "confisque",
+    "Tu": "confisques",
+    "El": "confisque",
+    "Nosotros": "confisquemos",
+    "Vosotros": "confisquéis",
+    "Ellos": "confisquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "confisca",
+    "El": "confisque",
+    "Nosotros": "confisquemos",
+    "Vosotros": "confiscad",
+    "Ellos": "confisquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no confisques",
+    "El": "no confisque",
+    "Nosotros": "no confisquemos",
+    "Vosotros": "no confisquéis",
+    "Ellos": "no confisquen"
+  },
+  "ending": "ar"
+}

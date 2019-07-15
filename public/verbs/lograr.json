@@ -1,0 +1,113 @@
+{
+  "verb": "lograr",
+  "englishInfinitive": "to get",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "logro",
+    "Tu": "logras",
+    "El": "logra",
+    "Nosotros": "logramos",
+    "Vosotros": "lográis",
+    "Ellos": "logran"
+  },
+  "IndicativePreterite": {
+    "Yo": "logré",
+    "Tu": "lograste",
+    "El": "logró",
+    "Nosotros": "logramos",
+    "Vosotros": "lograsteis",
+    "Ellos": "lograron"
+  },
+  "IndicativeFuture": {
+    "Yo": "lograré",
+    "Tu": "lograrás",
+    "El": "logrará",
+    "Nosotros": "lograremos",
+    "Vosotros": "lograréis",
+    "Ellos": "lograrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "lograría",
+    "Tu": "lograrías",
+    "El": "lograría",
+    "Nosotros": "lograríamos",
+    "Vosotros": "lograríais",
+    "Ellos": "lograrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "lograba",
+    "Tu": "lograbas",
+    "El": "lograba",
+    "Nosotros": "lográbamos",
+    "Vosotros": "lograbais",
+    "Ellos": "lograban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy logrando",
+    "Tu": "estás logrando",
+    "El": "está logrando",
+    "Nosotros": "estamos logrando",
+    "Vosotros": "estáis logrando",
+    "Ellos": "están logrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he logrado",
+    "Tu": "has logrado",
+    "El": "ha logrado",
+    "Nosotros": "hemos logrado",
+    "Vosotros": "habéis logrado",
+    "Ellos": "han logrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había logrado",
+    "Tu": "habías logrado",
+    "El": "había logrado",
+    "Nosotros": "habíamos logrado",
+    "Vosotros": "habíais logrado",
+    "Ellos": "habían logrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré logrado",
+    "Tu": "habrás logrado",
+    "El": "habrá logrado",
+    "Nosotros": "habremos logrado",
+    "Vosotros": "habréis logrado",
+    "Ellos": "habrán logrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría logrado",
+    "Tu": "habrías logrado",
+    "El": "habría logrado",
+    "Nosotros": "habríamos logrado",
+    "Vosotros": "habríais logrado",
+    "Ellos": "habrían logrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "logre",
+    "Tu": "logres",
+    "El": "logre",
+    "Nosotros": "logremos",
+    "Vosotros": "logréis",
+    "Ellos": "logren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "logra",
+    "El": "logre",
+    "Nosotros": "logremos",
+    "Vosotros": "lograd",
+    "Ellos": "logren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no logres",
+    "El": "no logre",
+    "Nosotros": "no logremos",
+    "Vosotros": "no logréis",
+    "Ellos": "no logren"
+  },
+  "ending": "ar"
+}

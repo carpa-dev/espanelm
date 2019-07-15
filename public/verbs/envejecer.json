@@ -1,0 +1,113 @@
+{
+  "verb": "envejecer",
+  "englishInfinitive": "to age",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "envejezco",
+    "Tu": "envejeces",
+    "El": "envejece",
+    "Nosotros": "envejecemos",
+    "Vosotros": "envejecéis",
+    "Ellos": "envejecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "envejecí",
+    "Tu": "envejeciste",
+    "El": "envejeció",
+    "Nosotros": "envejecimos",
+    "Vosotros": "envejecisteis",
+    "Ellos": "envejecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "envejeceré",
+    "Tu": "envejecerás",
+    "El": "envejecerá",
+    "Nosotros": "envejeceremos",
+    "Vosotros": "envejeceréis",
+    "Ellos": "envejecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "envejecería",
+    "Tu": "envejecerías",
+    "El": "envejecería",
+    "Nosotros": "envejeceríamos",
+    "Vosotros": "envejeceríais",
+    "Ellos": "envejecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "envejecía",
+    "Tu": "envejecías",
+    "El": "envejecía",
+    "Nosotros": "envejecíamos",
+    "Vosotros": "envejecíais",
+    "Ellos": "envejecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy envejeciendo",
+    "Tu": "estás envejeciendo",
+    "El": "está envejeciendo",
+    "Nosotros": "estamos envejeciendo",
+    "Vosotros": "estáis envejeciendo",
+    "Ellos": "están envejeciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he envejecido",
+    "Tu": "has envejecido",
+    "El": "ha envejecido",
+    "Nosotros": "hemos envejecido",
+    "Vosotros": "habéis envejecido",
+    "Ellos": "han envejecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había envejecido",
+    "Tu": "habías envejecido",
+    "El": "había envejecido",
+    "Nosotros": "habíamos envejecido",
+    "Vosotros": "habíais envejecido",
+    "Ellos": "habían envejecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré envejecido",
+    "Tu": "habrás envejecido",
+    "El": "habrá envejecido",
+    "Nosotros": "habremos envejecido",
+    "Vosotros": "habréis envejecido",
+    "Ellos": "habrán envejecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría envejecido",
+    "Tu": "habrías envejecido",
+    "El": "habría envejecido",
+    "Nosotros": "habríamos envejecido",
+    "Vosotros": "habríais envejecido",
+    "Ellos": "habrían envejecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "envejezca",
+    "Tu": "envejezcas",
+    "El": "envejezca",
+    "Nosotros": "envejezcamos",
+    "Vosotros": "envejezcáis",
+    "Ellos": "envejezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "envejece",
+    "El": "envejezca",
+    "Nosotros": "envejezcamos",
+    "Vosotros": "envejeced",
+    "Ellos": "envejezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no envejezcas",
+    "El": "no envejezca",
+    "Nosotros": "no envejezcamos",
+    "Vosotros": "no envejezcáis",
+    "Ellos": "no envejezcan"
+  },
+  "ending": "er"
+}

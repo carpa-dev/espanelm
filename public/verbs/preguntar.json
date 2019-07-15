@@ -1,0 +1,113 @@
+{
+  "verb": "preguntar",
+  "englishInfinitive": "to ask",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "pregunto",
+    "Tu": "preguntas",
+    "El": "pregunta",
+    "Nosotros": "preguntamos",
+    "Vosotros": "preguntáis",
+    "Ellos": "preguntan"
+  },
+  "IndicativePreterite": {
+    "Yo": "pregunté",
+    "Tu": "preguntaste",
+    "El": "preguntó",
+    "Nosotros": "preguntamos",
+    "Vosotros": "preguntasteis",
+    "Ellos": "preguntaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "preguntaré",
+    "Tu": "preguntarás",
+    "El": "preguntará",
+    "Nosotros": "preguntaremos",
+    "Vosotros": "preguntaréis",
+    "Ellos": "preguntarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "preguntaría",
+    "Tu": "preguntarías",
+    "El": "preguntaría",
+    "Nosotros": "preguntaríamos",
+    "Vosotros": "preguntaríais",
+    "Ellos": "preguntarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "preguntaba",
+    "Tu": "preguntabas",
+    "El": "preguntaba",
+    "Nosotros": "preguntábamos",
+    "Vosotros": "preguntabais",
+    "Ellos": "preguntaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy preguntando",
+    "Tu": "estás preguntando",
+    "El": "está preguntando",
+    "Nosotros": "estamos preguntando",
+    "Vosotros": "estáis preguntando",
+    "Ellos": "están preguntando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he preguntado",
+    "Tu": "has preguntado",
+    "El": "ha preguntado",
+    "Nosotros": "hemos preguntado",
+    "Vosotros": "habéis preguntado",
+    "Ellos": "han preguntado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había preguntado",
+    "Tu": "habías preguntado",
+    "El": "había preguntado",
+    "Nosotros": "habíamos preguntado",
+    "Vosotros": "habíais preguntado",
+    "Ellos": "habían preguntado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré preguntado",
+    "Tu": "habrás preguntado",
+    "El": "habrá preguntado",
+    "Nosotros": "habremos preguntado",
+    "Vosotros": "habréis preguntado",
+    "Ellos": "habrán preguntado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría preguntado",
+    "Tu": "habrías preguntado",
+    "El": "habría preguntado",
+    "Nosotros": "habríamos preguntado",
+    "Vosotros": "habríais preguntado",
+    "Ellos": "habrían preguntado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "pregunte",
+    "Tu": "preguntes",
+    "El": "pregunte",
+    "Nosotros": "preguntemos",
+    "Vosotros": "preguntéis",
+    "Ellos": "pregunten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "pregunta",
+    "El": "pregunte",
+    "Nosotros": "preguntemos",
+    "Vosotros": "preguntad",
+    "Ellos": "pregunten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no preguntes",
+    "El": "no pregunte",
+    "Nosotros": "no preguntemos",
+    "Vosotros": "no preguntéis",
+    "Ellos": "no pregunten"
+  },
+  "ending": "ar"
+}

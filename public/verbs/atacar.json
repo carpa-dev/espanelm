@@ -1,0 +1,113 @@
+{
+  "verb": "atacar",
+  "englishInfinitive": "to attack",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "ataco",
+    "Tu": "atacas",
+    "El": "ataca",
+    "Nosotros": "atacamos",
+    "Vosotros": "atacáis",
+    "Ellos": "atacan"
+  },
+  "IndicativePreterite": {
+    "Yo": "ataqué",
+    "Tu": "atacaste",
+    "El": "atacó",
+    "Nosotros": "atacamos",
+    "Vosotros": "atacasteis",
+    "Ellos": "atacaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "atacaré",
+    "Tu": "atacarás",
+    "El": "atacará",
+    "Nosotros": "atacaremos",
+    "Vosotros": "atacaréis",
+    "Ellos": "atacarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "atacaría",
+    "Tu": "atacarías",
+    "El": "atacaría",
+    "Nosotros": "atacaríamos",
+    "Vosotros": "atacaríais",
+    "Ellos": "atacarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "atacaba",
+    "Tu": "atacabas",
+    "El": "atacaba",
+    "Nosotros": "atacábamos",
+    "Vosotros": "atacabais",
+    "Ellos": "atacaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy atacando",
+    "Tu": "estás atacando",
+    "El": "está atacando",
+    "Nosotros": "estamos atacando",
+    "Vosotros": "estáis atacando",
+    "Ellos": "están atacando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he atacado",
+    "Tu": "has atacado",
+    "El": "ha atacado",
+    "Nosotros": "hemos atacado",
+    "Vosotros": "habéis atacado",
+    "Ellos": "han atacado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había atacado",
+    "Tu": "habías atacado",
+    "El": "había atacado",
+    "Nosotros": "habíamos atacado",
+    "Vosotros": "habíais atacado",
+    "Ellos": "habían atacado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré atacado",
+    "Tu": "habrás atacado",
+    "El": "habrá atacado",
+    "Nosotros": "habremos atacado",
+    "Vosotros": "habréis atacado",
+    "Ellos": "habrán atacado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría atacado",
+    "Tu": "habrías atacado",
+    "El": "habría atacado",
+    "Nosotros": "habríamos atacado",
+    "Vosotros": "habríais atacado",
+    "Ellos": "habrían atacado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ataque",
+    "Tu": "ataques",
+    "El": "ataque",
+    "Nosotros": "ataquemos",
+    "Vosotros": "ataquéis",
+    "Ellos": "ataquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ataca",
+    "El": "ataque",
+    "Nosotros": "ataquemos",
+    "Vosotros": "atacad",
+    "Ellos": "ataquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ataques",
+    "El": "no ataque",
+    "Nosotros": "no ataquemos",
+    "Vosotros": "no ataquéis",
+    "Ellos": "no ataquen"
+  },
+  "ending": "ar"
+}

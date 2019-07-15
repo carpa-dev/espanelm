@@ -1,0 +1,113 @@
+{
+  "verb": "enriquecerse",
+  "englishInfinitive": "to get rich",
+  "irregular": true,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me enriquezco",
+    "Tu": "te enriqueces",
+    "El": "se enriquece",
+    "Nosotros": "nos enriquecemos",
+    "Vosotros": "os enriquecéis",
+    "Ellos": "se enriquecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "me enriquecí",
+    "Tu": "te enriqueciste",
+    "El": "se enriqueció",
+    "Nosotros": "nos enriquecimos",
+    "Vosotros": "os enriquecisteis",
+    "Ellos": "se enriquecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me enriqueceré",
+    "Tu": "te enriquecerás",
+    "El": "se enriquecerá",
+    "Nosotros": "nos enriqueceremos",
+    "Vosotros": "os enriqueceréis",
+    "Ellos": "se enriquecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me enriquecería",
+    "Tu": "te enriquecerías",
+    "El": "se enriquecería",
+    "Nosotros": "nos enriqueceríamos",
+    "Vosotros": "os enriqueceríais",
+    "Ellos": "se enriquecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me enriquecía",
+    "Tu": "te enriquecías",
+    "El": "se enriquecía",
+    "Nosotros": "nos enriquecíamos",
+    "Vosotros": "os enriquecíais",
+    "Ellos": "se enriquecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy enriqueciendo,estoy enriqueciéndome",
+    "Tu": "te estás enriqueciendo,estás enriqueciéndote",
+    "El": "se está enriqueciendo,está enriqueciéndose",
+    "Nosotros": "nos estamos enriqueciendo,estamos enriqueciéndonos",
+    "Vosotros": "os estáis enriqueciendo,estáis enriqueciéndoos",
+    "Ellos": "se están enriqueciendo,están enriqueciéndose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he enriquecido",
+    "Tu": "te has enriquecido",
+    "El": "se ha enriquecido",
+    "Nosotros": "nos hemos enriquecido",
+    "Vosotros": "os habéis enriquecido",
+    "Ellos": "se han enriquecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había enriquecido",
+    "Tu": "te habías enriquecido",
+    "El": "se había enriquecido",
+    "Nosotros": "nos habíamos enriquecido",
+    "Vosotros": "os habíais enriquecido",
+    "Ellos": "se habían enriquecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré enriquecido",
+    "Tu": "te habrás enriquecido",
+    "El": "se habrá enriquecido",
+    "Nosotros": "nos habremos enriquecido",
+    "Vosotros": "os habréis enriquecido",
+    "Ellos": "se habrán enriquecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría enriquecido",
+    "Tu": "te habrías enriquecido",
+    "El": "se habría enriquecido",
+    "Nosotros": "nos habríamos enriquecido",
+    "Vosotros": "os habríais enriquecido",
+    "Ellos": "se habrían enriquecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me enriquezca",
+    "Tu": "te enriquezcas",
+    "El": "se enriquezca",
+    "Nosotros": "nos enriquezcamos",
+    "Vosotros": "os enriquezcáis",
+    "Ellos": "se enriquezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "enriquécete",
+    "El": "enriquézcase",
+    "Nosotros": "enriquezcámonos",
+    "Vosotros": "enriqueceos",
+    "Ellos": "enriquézcanse"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te enriquezcas",
+    "El": "no se enriquezca",
+    "Nosotros": "no nos enriquezcamos",
+    "Vosotros": "no os enriquezcáis",
+    "Ellos": "no se enriquezcan"
+  },
+  "ending": "er"
+}

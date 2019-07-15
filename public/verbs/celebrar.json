@@ -1,0 +1,113 @@
+{
+  "verb": "celebrar",
+  "englishInfinitive": "to celebrate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "celebro",
+    "Tu": "celebras",
+    "El": "celebra",
+    "Nosotros": "celebramos",
+    "Vosotros": "celebráis",
+    "Ellos": "celebran"
+  },
+  "IndicativePreterite": {
+    "Yo": "celebré",
+    "Tu": "celebraste",
+    "El": "celebró",
+    "Nosotros": "celebramos",
+    "Vosotros": "celebrasteis",
+    "Ellos": "celebraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "celebraré",
+    "Tu": "celebrarás",
+    "El": "celebrará",
+    "Nosotros": "celebraremos",
+    "Vosotros": "celebraréis",
+    "Ellos": "celebrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "celebraría",
+    "Tu": "celebrarías",
+    "El": "celebraría",
+    "Nosotros": "celebraríamos",
+    "Vosotros": "celebraríais",
+    "Ellos": "celebrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "celebraba",
+    "Tu": "celebrabas",
+    "El": "celebraba",
+    "Nosotros": "celebrábamos",
+    "Vosotros": "celebrabais",
+    "Ellos": "celebraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy celebrando",
+    "Tu": "estás celebrando",
+    "El": "está celebrando",
+    "Nosotros": "estamos celebrando",
+    "Vosotros": "estáis celebrando",
+    "Ellos": "están celebrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he celebrado",
+    "Tu": "has celebrado",
+    "El": "ha celebrado",
+    "Nosotros": "hemos celebrado",
+    "Vosotros": "habéis celebrado",
+    "Ellos": "han celebrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había celebrado",
+    "Tu": "habías celebrado",
+    "El": "había celebrado",
+    "Nosotros": "habíamos celebrado",
+    "Vosotros": "habíais celebrado",
+    "Ellos": "habían celebrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré celebrado",
+    "Tu": "habrás celebrado",
+    "El": "habrá celebrado",
+    "Nosotros": "habremos celebrado",
+    "Vosotros": "habréis celebrado",
+    "Ellos": "habrán celebrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría celebrado",
+    "Tu": "habrías celebrado",
+    "El": "habría celebrado",
+    "Nosotros": "habríamos celebrado",
+    "Vosotros": "habríais celebrado",
+    "Ellos": "habrían celebrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "celebre",
+    "Tu": "celebres",
+    "El": "celebre",
+    "Nosotros": "celebremos",
+    "Vosotros": "celebréis",
+    "Ellos": "celebren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "celebra",
+    "El": "celebre",
+    "Nosotros": "celebremos",
+    "Vosotros": "celebrad",
+    "Ellos": "celebren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no celebres",
+    "El": "no celebre",
+    "Nosotros": "no celebremos",
+    "Vosotros": "no celebréis",
+    "Ellos": "no celebren"
+  },
+  "ending": "ar"
+}

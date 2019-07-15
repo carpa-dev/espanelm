@@ -1,0 +1,113 @@
+{
+  "verb": "entrar",
+  "englishInfinitive": "to enter",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "entro",
+    "Tu": "entras",
+    "El": "entra",
+    "Nosotros": "entramos",
+    "Vosotros": "entráis",
+    "Ellos": "entran"
+  },
+  "IndicativePreterite": {
+    "Yo": "entré",
+    "Tu": "entraste",
+    "El": "entró",
+    "Nosotros": "entramos",
+    "Vosotros": "entrasteis",
+    "Ellos": "entraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "entraré",
+    "Tu": "entrarás",
+    "El": "entrará",
+    "Nosotros": "entraremos",
+    "Vosotros": "entraréis",
+    "Ellos": "entrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "entraría",
+    "Tu": "entrarías",
+    "El": "entraría",
+    "Nosotros": "entraríamos",
+    "Vosotros": "entraríais",
+    "Ellos": "entrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "entraba",
+    "Tu": "entrabas",
+    "El": "entraba",
+    "Nosotros": "entrábamos",
+    "Vosotros": "entrabais",
+    "Ellos": "entraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy entrando",
+    "Tu": "estás entrando",
+    "El": "está entrando",
+    "Nosotros": "estamos entrando",
+    "Vosotros": "estáis entrando",
+    "Ellos": "están entrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he entrado",
+    "Tu": "has entrado",
+    "El": "ha entrado",
+    "Nosotros": "hemos entrado",
+    "Vosotros": "habéis entrado",
+    "Ellos": "han entrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había entrado",
+    "Tu": "habías entrado",
+    "El": "había entrado",
+    "Nosotros": "habíamos entrado",
+    "Vosotros": "habíais entrado",
+    "Ellos": "habían entrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré entrado",
+    "Tu": "habrás entrado",
+    "El": "habrá entrado",
+    "Nosotros": "habremos entrado",
+    "Vosotros": "habréis entrado",
+    "Ellos": "habrán entrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría entrado",
+    "Tu": "habrías entrado",
+    "El": "habría entrado",
+    "Nosotros": "habríamos entrado",
+    "Vosotros": "habríais entrado",
+    "Ellos": "habrían entrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "entre",
+    "Tu": "entres",
+    "El": "entre",
+    "Nosotros": "entremos",
+    "Vosotros": "entréis",
+    "Ellos": "entren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "entra",
+    "El": "entre",
+    "Nosotros": "entremos",
+    "Vosotros": "entrad",
+    "Ellos": "entren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no entres",
+    "El": "no entre",
+    "Nosotros": "no entremos",
+    "Vosotros": "no entréis",
+    "Ellos": "no entren"
+  },
+  "ending": "ar"
+}

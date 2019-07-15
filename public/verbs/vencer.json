@@ -1,0 +1,113 @@
+{
+  "verb": "vencer",
+  "englishInfinitive": "to conquer",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "venzo",
+    "Tu": "vences",
+    "El": "vence",
+    "Nosotros": "vencemos",
+    "Vosotros": "vencéis",
+    "Ellos": "vencen"
+  },
+  "IndicativePreterite": {
+    "Yo": "vencí",
+    "Tu": "venciste",
+    "El": "venció",
+    "Nosotros": "vencimos",
+    "Vosotros": "vencisteis",
+    "Ellos": "vencieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "venceré",
+    "Tu": "vencerás",
+    "El": "vencerá",
+    "Nosotros": "venceremos",
+    "Vosotros": "venceréis",
+    "Ellos": "vencerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "vencería",
+    "Tu": "vencerías",
+    "El": "vencería",
+    "Nosotros": "venceríamos",
+    "Vosotros": "venceríais",
+    "Ellos": "vencerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "vencía",
+    "Tu": "vencías",
+    "El": "vencía",
+    "Nosotros": "vencíamos",
+    "Vosotros": "vencíais",
+    "Ellos": "vencían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy venciendo",
+    "Tu": "estás venciendo",
+    "El": "está venciendo",
+    "Nosotros": "estamos venciendo",
+    "Vosotros": "estáis venciendo",
+    "Ellos": "están venciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he vencido",
+    "Tu": "has vencido",
+    "El": "ha vencido",
+    "Nosotros": "hemos vencido",
+    "Vosotros": "habéis vencido",
+    "Ellos": "han vencido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había vencido",
+    "Tu": "habías vencido",
+    "El": "había vencido",
+    "Nosotros": "habíamos vencido",
+    "Vosotros": "habíais vencido",
+    "Ellos": "habían vencido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré vencido",
+    "Tu": "habrás vencido",
+    "El": "habrá vencido",
+    "Nosotros": "habremos vencido",
+    "Vosotros": "habréis vencido",
+    "Ellos": "habrán vencido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría vencido",
+    "Tu": "habrías vencido",
+    "El": "habría vencido",
+    "Nosotros": "habríamos vencido",
+    "Vosotros": "habríais vencido",
+    "Ellos": "habrían vencido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "venza",
+    "Tu": "venzas",
+    "El": "venza",
+    "Nosotros": "venzamos",
+    "Vosotros": "venzáis",
+    "Ellos": "venzan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "vence",
+    "El": "venza",
+    "Nosotros": "venzamos",
+    "Vosotros": "venced",
+    "Ellos": "venzan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no venzas",
+    "El": "no venza",
+    "Nosotros": "no venzamos",
+    "Vosotros": "no venzáis",
+    "Ellos": "no venzan"
+  },
+  "ending": "er"
+}

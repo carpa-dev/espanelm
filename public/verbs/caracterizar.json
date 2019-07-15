@@ -1,0 +1,113 @@
+{
+  "verb": "caracterizar",
+  "englishInfinitive": "to characterize",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "caracterizo",
+    "Tu": "caracterizas",
+    "El": "caracteriza",
+    "Nosotros": "caracterizamos",
+    "Vosotros": "caracterizáis",
+    "Ellos": "caracterizan"
+  },
+  "IndicativePreterite": {
+    "Yo": "caractericé",
+    "Tu": "caracterizaste",
+    "El": "caracterizó",
+    "Nosotros": "caracterizamos",
+    "Vosotros": "caracterizasteis",
+    "Ellos": "caracterizaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "caracterizaré",
+    "Tu": "caracterizarás",
+    "El": "caracterizará",
+    "Nosotros": "caracterizaremos",
+    "Vosotros": "caracterizaréis",
+    "Ellos": "caracterizarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "caracterizaría",
+    "Tu": "caracterizarías",
+    "El": "caracterizaría",
+    "Nosotros": "caracterizaríamos",
+    "Vosotros": "caracterizaríais",
+    "Ellos": "caracterizarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "caracterizaba",
+    "Tu": "caracterizabas",
+    "El": "caracterizaba",
+    "Nosotros": "caracterizábamos",
+    "Vosotros": "caracterizabais",
+    "Ellos": "caracterizaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy caracterizando",
+    "Tu": "estás caracterizando",
+    "El": "está caracterizando",
+    "Nosotros": "estamos caracterizando",
+    "Vosotros": "estáis caracterizando",
+    "Ellos": "están caracterizando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he caracterizado",
+    "Tu": "has caracterizado",
+    "El": "ha caracterizado",
+    "Nosotros": "hemos caracterizado",
+    "Vosotros": "habéis caracterizado",
+    "Ellos": "han caracterizado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había caracterizado",
+    "Tu": "habías caracterizado",
+    "El": "había caracterizado",
+    "Nosotros": "habíamos caracterizado",
+    "Vosotros": "habíais caracterizado",
+    "Ellos": "habían caracterizado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré caracterizado",
+    "Tu": "habrás caracterizado",
+    "El": "habrá caracterizado",
+    "Nosotros": "habremos caracterizado",
+    "Vosotros": "habréis caracterizado",
+    "Ellos": "habrán caracterizado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría caracterizado",
+    "Tu": "habrías caracterizado",
+    "El": "habría caracterizado",
+    "Nosotros": "habríamos caracterizado",
+    "Vosotros": "habríais caracterizado",
+    "Ellos": "habrían caracterizado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "caracterice",
+    "Tu": "caracterices",
+    "El": "caracterice",
+    "Nosotros": "caractericemos",
+    "Vosotros": "caractericéis",
+    "Ellos": "caractericen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "caracteriza",
+    "El": "caracterice",
+    "Nosotros": "caractericemos",
+    "Vosotros": "caracterizad",
+    "Ellos": "caractericen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no caracterices",
+    "El": "no caracterice",
+    "Nosotros": "no caractericemos",
+    "Vosotros": "no caractericéis",
+    "Ellos": "no caractericen"
+  },
+  "ending": "ar"
+}

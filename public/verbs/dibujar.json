@@ -1,0 +1,113 @@
+{
+  "verb": "dibujar",
+  "englishInfinitive": "to draw",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "dibujo",
+    "Tu": "dibujas",
+    "El": "dibuja",
+    "Nosotros": "dibujamos",
+    "Vosotros": "dibujáis",
+    "Ellos": "dibujan"
+  },
+  "IndicativePreterite": {
+    "Yo": "dibujé",
+    "Tu": "dibujaste",
+    "El": "dibujó",
+    "Nosotros": "dibujamos",
+    "Vosotros": "dibujasteis",
+    "Ellos": "dibujaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "dibujaré",
+    "Tu": "dibujarás",
+    "El": "dibujará",
+    "Nosotros": "dibujaremos",
+    "Vosotros": "dibujaréis",
+    "Ellos": "dibujarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "dibujaría",
+    "Tu": "dibujarías",
+    "El": "dibujaría",
+    "Nosotros": "dibujaríamos",
+    "Vosotros": "dibujaríais",
+    "Ellos": "dibujarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "dibujaba",
+    "Tu": "dibujabas",
+    "El": "dibujaba",
+    "Nosotros": "dibujábamos",
+    "Vosotros": "dibujabais",
+    "Ellos": "dibujaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy dibujando",
+    "Tu": "estás dibujando",
+    "El": "está dibujando",
+    "Nosotros": "estamos dibujando",
+    "Vosotros": "estáis dibujando",
+    "Ellos": "están dibujando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he dibujado",
+    "Tu": "has dibujado",
+    "El": "ha dibujado",
+    "Nosotros": "hemos dibujado",
+    "Vosotros": "habéis dibujado",
+    "Ellos": "han dibujado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había dibujado",
+    "Tu": "habías dibujado",
+    "El": "había dibujado",
+    "Nosotros": "habíamos dibujado",
+    "Vosotros": "habíais dibujado",
+    "Ellos": "habían dibujado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré dibujado",
+    "Tu": "habrás dibujado",
+    "El": "habrá dibujado",
+    "Nosotros": "habremos dibujado",
+    "Vosotros": "habréis dibujado",
+    "Ellos": "habrán dibujado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría dibujado",
+    "Tu": "habrías dibujado",
+    "El": "habría dibujado",
+    "Nosotros": "habríamos dibujado",
+    "Vosotros": "habríais dibujado",
+    "Ellos": "habrían dibujado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "dibuje",
+    "Tu": "dibujes",
+    "El": "dibuje",
+    "Nosotros": "dibujemos",
+    "Vosotros": "dibujéis",
+    "Ellos": "dibujen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "dibuja",
+    "El": "dibuje",
+    "Nosotros": "dibujemos",
+    "Vosotros": "dibujad",
+    "Ellos": "dibujen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no dibujes",
+    "El": "no dibuje",
+    "Nosotros": "no dibujemos",
+    "Vosotros": "no dibujéis",
+    "Ellos": "no dibujen"
+  },
+  "ending": "ar"
+}

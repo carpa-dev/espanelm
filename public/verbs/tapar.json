@@ -1,0 +1,113 @@
+{
+  "verb": "tapar",
+  "englishInfinitive": "to cover",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "tapo",
+    "Tu": "tapas",
+    "El": "tapa",
+    "Nosotros": "tapamos",
+    "Vosotros": "tapáis",
+    "Ellos": "tapan"
+  },
+  "IndicativePreterite": {
+    "Yo": "tapé",
+    "Tu": "tapaste",
+    "El": "tapó",
+    "Nosotros": "tapamos",
+    "Vosotros": "tapasteis",
+    "Ellos": "taparon"
+  },
+  "IndicativeFuture": {
+    "Yo": "taparé",
+    "Tu": "taparás",
+    "El": "tapará",
+    "Nosotros": "taparemos",
+    "Vosotros": "taparéis",
+    "Ellos": "taparán"
+  },
+  "ConditionalPresent": {
+    "Yo": "taparía",
+    "Tu": "taparías",
+    "El": "taparía",
+    "Nosotros": "taparíamos",
+    "Vosotros": "taparíais",
+    "Ellos": "taparían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "tapaba",
+    "Tu": "tapabas",
+    "El": "tapaba",
+    "Nosotros": "tapábamos",
+    "Vosotros": "tapabais",
+    "Ellos": "tapaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy tapando",
+    "Tu": "estás tapando",
+    "El": "está tapando",
+    "Nosotros": "estamos tapando",
+    "Vosotros": "estáis tapando",
+    "Ellos": "están tapando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he tapado",
+    "Tu": "has tapado",
+    "El": "ha tapado",
+    "Nosotros": "hemos tapado",
+    "Vosotros": "habéis tapado",
+    "Ellos": "han tapado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había tapado",
+    "Tu": "habías tapado",
+    "El": "había tapado",
+    "Nosotros": "habíamos tapado",
+    "Vosotros": "habíais tapado",
+    "Ellos": "habían tapado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré tapado",
+    "Tu": "habrás tapado",
+    "El": "habrá tapado",
+    "Nosotros": "habremos tapado",
+    "Vosotros": "habréis tapado",
+    "Ellos": "habrán tapado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría tapado",
+    "Tu": "habrías tapado",
+    "El": "habría tapado",
+    "Nosotros": "habríamos tapado",
+    "Vosotros": "habríais tapado",
+    "Ellos": "habrían tapado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "tape",
+    "Tu": "tapes",
+    "El": "tape",
+    "Nosotros": "tapemos",
+    "Vosotros": "tapéis",
+    "Ellos": "tapen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "tapa",
+    "El": "tape",
+    "Nosotros": "tapemos",
+    "Vosotros": "tapad",
+    "Ellos": "tapen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no tapes",
+    "El": "no tape",
+    "Nosotros": "no tapemos",
+    "Vosotros": "no tapéis",
+    "Ellos": "no tapen"
+  },
+  "ending": "ar"
+}

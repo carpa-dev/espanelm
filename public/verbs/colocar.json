@@ -1,0 +1,113 @@
+{
+  "verb": "colocar",
+  "englishInfinitive": "to locate",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "coloco",
+    "Tu": "colocas",
+    "El": "coloca",
+    "Nosotros": "colocamos",
+    "Vosotros": "colocáis",
+    "Ellos": "colocan"
+  },
+  "IndicativePreterite": {
+    "Yo": "coloqué",
+    "Tu": "colocaste",
+    "El": "colocó",
+    "Nosotros": "colocamos",
+    "Vosotros": "colocasteis",
+    "Ellos": "colocaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "colocaré",
+    "Tu": "colocarás",
+    "El": "colocará",
+    "Nosotros": "colocaremos",
+    "Vosotros": "colocaréis",
+    "Ellos": "colocarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "colocaría",
+    "Tu": "colocarías",
+    "El": "colocaría",
+    "Nosotros": "colocaríamos",
+    "Vosotros": "colocaríais",
+    "Ellos": "colocarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "colocaba",
+    "Tu": "colocabas",
+    "El": "colocaba",
+    "Nosotros": "colocábamos",
+    "Vosotros": "colocabais",
+    "Ellos": "colocaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy colocando",
+    "Tu": "estás colocando",
+    "El": "está colocando",
+    "Nosotros": "estamos colocando",
+    "Vosotros": "estáis colocando",
+    "Ellos": "están colocando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he colocado",
+    "Tu": "has colocado",
+    "El": "ha colocado",
+    "Nosotros": "hemos colocado",
+    "Vosotros": "habéis colocado",
+    "Ellos": "han colocado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había colocado",
+    "Tu": "habías colocado",
+    "El": "había colocado",
+    "Nosotros": "habíamos colocado",
+    "Vosotros": "habíais colocado",
+    "Ellos": "habían colocado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré colocado",
+    "Tu": "habrás colocado",
+    "El": "habrá colocado",
+    "Nosotros": "habremos colocado",
+    "Vosotros": "habréis colocado",
+    "Ellos": "habrán colocado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría colocado",
+    "Tu": "habrías colocado",
+    "El": "habría colocado",
+    "Nosotros": "habríamos colocado",
+    "Vosotros": "habríais colocado",
+    "Ellos": "habrían colocado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "coloque",
+    "Tu": "coloques",
+    "El": "coloque",
+    "Nosotros": "coloquemos",
+    "Vosotros": "coloquéis",
+    "Ellos": "coloquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "coloca",
+    "El": "coloque",
+    "Nosotros": "coloquemos",
+    "Vosotros": "colocad",
+    "Ellos": "coloquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no coloques",
+    "El": "no coloque",
+    "Nosotros": "no coloquemos",
+    "Vosotros": "no coloquéis",
+    "Ellos": "no coloquen"
+  },
+  "ending": "ar"
+}

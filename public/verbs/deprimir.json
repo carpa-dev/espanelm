@@ -1,0 +1,113 @@
+{
+  "verb": "deprimir",
+  "englishInfinitive": "to depress",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "deprimo",
+    "Tu": "deprimes",
+    "El": "deprime",
+    "Nosotros": "deprimimos",
+    "Vosotros": "deprimís",
+    "Ellos": "deprimen"
+  },
+  "IndicativePreterite": {
+    "Yo": "deprimí",
+    "Tu": "deprimiste",
+    "El": "deprimió",
+    "Nosotros": "deprimimos",
+    "Vosotros": "deprimisteis",
+    "Ellos": "deprimieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "deprimiré",
+    "Tu": "deprimirás",
+    "El": "deprimirá",
+    "Nosotros": "deprimiremos",
+    "Vosotros": "deprimiréis",
+    "Ellos": "deprimirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "deprimiría",
+    "Tu": "deprimirías",
+    "El": "deprimiría",
+    "Nosotros": "deprimiríamos",
+    "Vosotros": "deprimiríais",
+    "Ellos": "deprimirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "deprimía",
+    "Tu": "deprimías",
+    "El": "deprimía",
+    "Nosotros": "deprimíamos",
+    "Vosotros": "deprimíais",
+    "Ellos": "deprimían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy deprimiendo",
+    "Tu": "estás deprimiendo",
+    "El": "está deprimiendo",
+    "Nosotros": "estamos deprimiendo",
+    "Vosotros": "estáis deprimiendo",
+    "Ellos": "están deprimiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he deprimido",
+    "Tu": "has deprimido",
+    "El": "ha deprimido",
+    "Nosotros": "hemos deprimido",
+    "Vosotros": "habéis deprimido",
+    "Ellos": "han deprimido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había deprimido",
+    "Tu": "habías deprimido",
+    "El": "había deprimido",
+    "Nosotros": "habíamos deprimido",
+    "Vosotros": "habíais deprimido",
+    "Ellos": "habían deprimido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré deprimido",
+    "Tu": "habrás deprimido",
+    "El": "habrá deprimido",
+    "Nosotros": "habremos deprimido",
+    "Vosotros": "habréis deprimido",
+    "Ellos": "habrán deprimido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría deprimido",
+    "Tu": "habrías deprimido",
+    "El": "habría deprimido",
+    "Nosotros": "habríamos deprimido",
+    "Vosotros": "habríais deprimido",
+    "Ellos": "habrían deprimido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "deprima",
+    "Tu": "deprimas",
+    "El": "deprima",
+    "Nosotros": "deprimamos",
+    "Vosotros": "deprimáis",
+    "Ellos": "depriman"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "deprime",
+    "El": "deprima",
+    "Nosotros": "deprimamos",
+    "Vosotros": "deprimid",
+    "Ellos": "depriman"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no deprimas",
+    "El": "no deprima",
+    "Nosotros": "no deprimamos",
+    "Vosotros": "no deprimáis",
+    "Ellos": "no depriman"
+  },
+  "ending": "ir"
+}

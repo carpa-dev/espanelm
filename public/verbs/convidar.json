@@ -1,0 +1,113 @@
+{
+  "verb": "convidar",
+  "englishInfinitive": "to invite",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "convido",
+    "Tu": "convidas",
+    "El": "convida",
+    "Nosotros": "convidamos",
+    "Vosotros": "convidáis",
+    "Ellos": "convidan"
+  },
+  "IndicativePreterite": {
+    "Yo": "convidé",
+    "Tu": "convidaste",
+    "El": "convidó",
+    "Nosotros": "convidamos",
+    "Vosotros": "convidasteis",
+    "Ellos": "convidaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "convidaré",
+    "Tu": "convidarás",
+    "El": "convidará",
+    "Nosotros": "convidaremos",
+    "Vosotros": "convidaréis",
+    "Ellos": "convidarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "convidaría",
+    "Tu": "convidarías",
+    "El": "convidaría",
+    "Nosotros": "convidaríamos",
+    "Vosotros": "convidaríais",
+    "Ellos": "convidarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "convidaba",
+    "Tu": "convidabas",
+    "El": "convidaba",
+    "Nosotros": "convidábamos",
+    "Vosotros": "convidabais",
+    "Ellos": "convidaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy convidando",
+    "Tu": "estás convidando",
+    "El": "está convidando",
+    "Nosotros": "estamos convidando",
+    "Vosotros": "estáis convidando",
+    "Ellos": "están convidando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he convidado",
+    "Tu": "has convidado",
+    "El": "ha convidado",
+    "Nosotros": "hemos convidado",
+    "Vosotros": "habéis convidado",
+    "Ellos": "han convidado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había convidado",
+    "Tu": "habías convidado",
+    "El": "había convidado",
+    "Nosotros": "habíamos convidado",
+    "Vosotros": "habíais convidado",
+    "Ellos": "habían convidado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré convidado",
+    "Tu": "habrás convidado",
+    "El": "habrá convidado",
+    "Nosotros": "habremos convidado",
+    "Vosotros": "habréis convidado",
+    "Ellos": "habrán convidado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría convidado",
+    "Tu": "habrías convidado",
+    "El": "habría convidado",
+    "Nosotros": "habríamos convidado",
+    "Vosotros": "habríais convidado",
+    "Ellos": "habrían convidado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "convide",
+    "Tu": "convides",
+    "El": "convide",
+    "Nosotros": "convidemos",
+    "Vosotros": "convidéis",
+    "Ellos": "conviden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "convida",
+    "El": "convide",
+    "Nosotros": "convidemos",
+    "Vosotros": "convidad",
+    "Ellos": "conviden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no convides",
+    "El": "no convide",
+    "Nosotros": "no convidemos",
+    "Vosotros": "no convidéis",
+    "Ellos": "no conviden"
+  },
+  "ending": "ar"
+}

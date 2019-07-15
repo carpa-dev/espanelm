@@ -1,0 +1,113 @@
+{
+  "verb": "divorciarse",
+  "englishInfinitive": "to get divorced [from somebody]",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me divorcio",
+    "Tu": "te divorcias",
+    "El": "se divorcia",
+    "Nosotros": "nos divorciamos",
+    "Vosotros": "os divorciáis",
+    "Ellos": "se divorcian"
+  },
+  "IndicativePreterite": {
+    "Yo": "me divorcié",
+    "Tu": "te divorciaste",
+    "El": "se divorció",
+    "Nosotros": "nos divorciamos",
+    "Vosotros": "divorciasteis",
+    "Ellos": "se divorciaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me divorciaré",
+    "Tu": "te divorciarás",
+    "El": "se divorciará",
+    "Nosotros": "nos divorciaremos",
+    "Vosotros": "os divorciaréis",
+    "Ellos": "se divorciarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me divorciaría",
+    "Tu": "te divorciarías",
+    "El": "se divorciaría",
+    "Nosotros": "nos divorciaríamos",
+    "Vosotros": "os divorciaríais",
+    "Ellos": "se divorciarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me divorciaba",
+    "Tu": "te divorciabas",
+    "El": "se divorciaba",
+    "Nosotros": "nos divorciábamos",
+    "Vosotros": "os divorciabais",
+    "Ellos": "se divorciaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy divorciando,estoy divorciándome",
+    "Tu": "te estás divorciando,estás divorciándote",
+    "El": "se está divorciando,está divorciándose",
+    "Nosotros": "nos estamos divorciando,estamos divorciándonos",
+    "Vosotros": "os estáis divorciando,estáis divorciándoos",
+    "Ellos": "se están divorciando,están divorciándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he divorciado",
+    "Tu": "te has divorciado",
+    "El": "se ha divorciado",
+    "Nosotros": "nos hemos divorciado",
+    "Vosotros": "os habéis divorciado",
+    "Ellos": "se han divorciado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había divorciado",
+    "Tu": "te habías divorciado",
+    "El": "se había divorciado",
+    "Nosotros": "nos habíamos divorciado",
+    "Vosotros": "os habíais divorciado",
+    "Ellos": "se habían divorciado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré divorciado",
+    "Tu": "te habrás divorciado",
+    "El": "se habrá divorciado",
+    "Nosotros": "nos habremos divorciado",
+    "Vosotros": "os habréis divorciado",
+    "Ellos": "se habrán divorciado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría divorciado",
+    "Tu": "te habrías divorciado",
+    "El": "se habría divorciado",
+    "Nosotros": "nos habríamos divorciado",
+    "Vosotros": "os habríais divorciado",
+    "Ellos": "se habrían divorciado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me divorcie",
+    "Tu": "te divorcies",
+    "El": "se divorcie",
+    "Nosotros": "nos divorciemos",
+    "Vosotros": "os divorciéis",
+    "Ellos": "se divorcien"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "divórciate",
+    "El": "divórciese",
+    "Nosotros": "divorciémonos",
+    "Vosotros": "divorciaos",
+    "Ellos": "divórciense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te divorcies",
+    "El": "no se divorcie",
+    "Nosotros": "no nos divorciemos",
+    "Vosotros": "no os divorciéis",
+    "Ellos": "no se divorcien"
+  },
+  "ending": "ar"
+}

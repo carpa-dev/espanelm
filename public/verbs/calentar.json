@@ -1,0 +1,113 @@
+{
+  "verb": "calentar",
+  "englishInfinitive": "to heat [up]",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "caliento",
+    "Tu": "calientas",
+    "El": "calienta",
+    "Nosotros": "calentamos",
+    "Vosotros": "calentáis",
+    "Ellos": "calientan"
+  },
+  "IndicativePreterite": {
+    "Yo": "calenté",
+    "Tu": "calentaste",
+    "El": "calentó",
+    "Nosotros": "calentamos",
+    "Vosotros": "calentasteis",
+    "Ellos": "calentaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "calentaré",
+    "Tu": "calentarás",
+    "El": "calentará",
+    "Nosotros": "calentaremos",
+    "Vosotros": "calentaréis",
+    "Ellos": "calentarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "calentaría",
+    "Tu": "calentarías",
+    "El": "calentaría",
+    "Nosotros": "calentaríamos",
+    "Vosotros": "calentaríais",
+    "Ellos": "calentarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "calentaba",
+    "Tu": "calentabas",
+    "El": "calentaba",
+    "Nosotros": "calentábamos",
+    "Vosotros": "calentabais",
+    "Ellos": "calentaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy calentando",
+    "Tu": "estás calentando",
+    "El": "está calentando",
+    "Nosotros": "estamos calentando",
+    "Vosotros": "estáis calentando",
+    "Ellos": "están calentando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he calentado",
+    "Tu": "has calentado",
+    "El": "ha calentado",
+    "Nosotros": "hemos calentado",
+    "Vosotros": "habéis calentado",
+    "Ellos": "han calentado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había calentado",
+    "Tu": "habías calentado",
+    "El": "había calentado",
+    "Nosotros": "habíamos calentado",
+    "Vosotros": "habíais calentado",
+    "Ellos": "habían calentado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré calentado",
+    "Tu": "habrás calentado",
+    "El": "habrá calentado",
+    "Nosotros": "habremos calentado",
+    "Vosotros": "habréis calentado",
+    "Ellos": "habrán calentado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría calentado",
+    "Tu": "habrías calentado",
+    "El": "habría calentado",
+    "Nosotros": "habríamos calentado",
+    "Vosotros": "habríais calentado",
+    "Ellos": "habrían calentado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "caliente",
+    "Tu": "calientes",
+    "El": "caliente",
+    "Nosotros": "calentemos",
+    "Vosotros": "calentéis",
+    "Ellos": "calienten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "calienta",
+    "El": "caliente",
+    "Nosotros": "calentemos",
+    "Vosotros": "calentad",
+    "Ellos": "calienten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no calientes",
+    "El": "no caliente",
+    "Nosotros": "no calentemos",
+    "Vosotros": "no calentéis",
+    "Ellos": "no calienten"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "escribir",
+  "englishInfinitive": "to write",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "escribo",
+    "Tu": "escribes",
+    "El": "escribe",
+    "Nosotros": "escribimos",
+    "Vosotros": "escribís",
+    "Ellos": "escriben"
+  },
+  "IndicativePreterite": {
+    "Yo": "escribí",
+    "Tu": "escribiste",
+    "El": "escribió",
+    "Nosotros": "escribimos",
+    "Vosotros": "escribisteis",
+    "Ellos": "escribieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "escribiré",
+    "Tu": "escribirás",
+    "El": "escribirá",
+    "Nosotros": "escribiremos",
+    "Vosotros": "escribiréis",
+    "Ellos": "escribirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "escribiría",
+    "Tu": "escribirías",
+    "El": "escribiría",
+    "Nosotros": "escribiríamos",
+    "Vosotros": "escribiríais",
+    "Ellos": "escribirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "escribía",
+    "Tu": "escribías",
+    "El": "escribía",
+    "Nosotros": "escribíamos",
+    "Vosotros": "escribíais",
+    "Ellos": "escribían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy escribiendo",
+    "Tu": "estás escribiendo",
+    "El": "está escribiendo",
+    "Nosotros": "estamos escribiendo",
+    "Vosotros": "estáis escribiendo",
+    "Ellos": "están escribiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he escrito",
+    "Tu": "has escrito",
+    "El": "ha escrito",
+    "Nosotros": "hemos escrito",
+    "Vosotros": "habéis escrito",
+    "Ellos": "han escrito"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había escrito",
+    "Tu": "habías escrito",
+    "El": "había escrito",
+    "Nosotros": "habíamos escrito",
+    "Vosotros": "habíais escrito",
+    "Ellos": "habían escrito"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré escrito",
+    "Tu": "habrás escrito",
+    "El": "habrá escrito",
+    "Nosotros": "habremos escrito",
+    "Vosotros": "habréis escrito",
+    "Ellos": "habrán escrito"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría escrito",
+    "Tu": "habrías escrito",
+    "El": "habría escrito",
+    "Nosotros": "habríamos escrito",
+    "Vosotros": "habríais escrito",
+    "Ellos": "habrían escrito"
+  },
+  "SubjunctivePresent": {
+    "Yo": "escriba",
+    "Tu": "escribas",
+    "El": "escriba",
+    "Nosotros": "escribamos",
+    "Vosotros": "escribáis",
+    "Ellos": "escriban"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "escribe",
+    "El": "escriba",
+    "Nosotros": "escribamos",
+    "Vosotros": "escribid",
+    "Ellos": "escriban"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no escribas",
+    "El": "no escriba",
+    "Nosotros": "no escribamos",
+    "Vosotros": "no escribáis",
+    "Ellos": "no escriban"
+  },
+  "ending": "ir"
+}

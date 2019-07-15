@@ -1,0 +1,113 @@
+{
+  "verb": "conocer",
+  "englishInfinitive": "to know",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "conozco",
+    "Tu": "conoces",
+    "El": "conoce",
+    "Nosotros": "conocemos",
+    "Vosotros": "conocéis",
+    "Ellos": "conocen"
+  },
+  "IndicativePreterite": {
+    "Yo": "conocí",
+    "Tu": "conociste",
+    "El": "conoció",
+    "Nosotros": "conocimos",
+    "Vosotros": "conocisteis",
+    "Ellos": "conocieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "conoceré",
+    "Tu": "conocerás",
+    "El": "conocerá",
+    "Nosotros": "conoceremos",
+    "Vosotros": "conoceréis",
+    "Ellos": "conocerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "conocería",
+    "Tu": "conocerías",
+    "El": "conocería",
+    "Nosotros": "conoceríamos",
+    "Vosotros": "conoceríais",
+    "Ellos": "conocerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "conocía",
+    "Tu": "conocías",
+    "El": "conocía",
+    "Nosotros": "conocíamos",
+    "Vosotros": "conocíais",
+    "Ellos": "conocían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy conociendo",
+    "Tu": "estás conociendo",
+    "El": "está conociendo",
+    "Nosotros": "estamos conociendo",
+    "Vosotros": "estáis conociendo",
+    "Ellos": "están conociendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he conocido",
+    "Tu": "has conocido",
+    "El": "ha conocido",
+    "Nosotros": "hemos conocido",
+    "Vosotros": "habéis conocido",
+    "Ellos": "han conocido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había conocido",
+    "Tu": "habías conocido",
+    "El": "había conocido",
+    "Nosotros": "habíamos conocido",
+    "Vosotros": "habíais conocido",
+    "Ellos": "habían conocido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré conocido",
+    "Tu": "habrás conocido",
+    "El": "habrá conocido",
+    "Nosotros": "habremos conocido",
+    "Vosotros": "habréis conocido",
+    "Ellos": "habrán conocido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría conocido",
+    "Tu": "habrías conocido",
+    "El": "habría conocido",
+    "Nosotros": "habríamos conocido",
+    "Vosotros": "habríais conocido",
+    "Ellos": "habrían conocido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "conozca",
+    "Tu": "conozcas",
+    "El": "conozca",
+    "Nosotros": "conozcamos",
+    "Vosotros": "conozcáis",
+    "Ellos": "conozcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "conoce",
+    "El": "conozca",
+    "Nosotros": "conozcamos",
+    "Vosotros": "conoced",
+    "Ellos": "conozcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no conozcas",
+    "El": "no conozca",
+    "Nosotros": "no conozcamos",
+    "Vosotros": "no conozcáis",
+    "Ellos": "no conozcan"
+  },
+  "ending": "er"
+}

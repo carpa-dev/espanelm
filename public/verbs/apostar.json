@@ -1,0 +1,113 @@
+{
+  "verb": "apostar",
+  "englishInfinitive": "to bet",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "apuesto",
+    "Tu": "apuestas",
+    "El": "apuesta",
+    "Nosotros": "apostamos",
+    "Vosotros": "apostáis",
+    "Ellos": "apuestan"
+  },
+  "IndicativePreterite": {
+    "Yo": "aposté",
+    "Tu": "apostaste",
+    "El": "apostó",
+    "Nosotros": "apostamos",
+    "Vosotros": "apostasteis",
+    "Ellos": "apostaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "apostaré",
+    "Tu": "apostarás",
+    "El": "apostará",
+    "Nosotros": "apostaremos",
+    "Vosotros": "apostaréis",
+    "Ellos": "apostarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "apostaría",
+    "Tu": "apostarías",
+    "El": "apostaría",
+    "Nosotros": "apostaríamos",
+    "Vosotros": "apostaríais",
+    "Ellos": "apostarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "apostaba",
+    "Tu": "apostabas",
+    "El": "apostaba",
+    "Nosotros": "apostábamos",
+    "Vosotros": "apostabais",
+    "Ellos": "apostaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy apostando",
+    "Tu": "estás apostando",
+    "El": "está apostando",
+    "Nosotros": "estamos apostando",
+    "Vosotros": "estáis apostando",
+    "Ellos": "están apostando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he apostado",
+    "Tu": "has apostado",
+    "El": "ha apostado",
+    "Nosotros": "hemos apostado",
+    "Vosotros": "habéis apostado",
+    "Ellos": "han apostado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había apostado",
+    "Tu": "habías apostado",
+    "El": "había apostado",
+    "Nosotros": "habíamos apostado",
+    "Vosotros": "habíais apostado",
+    "Ellos": "habían apostado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré apostado",
+    "Tu": "habrás apostado",
+    "El": "habrá apostado",
+    "Nosotros": "habremos apostado",
+    "Vosotros": "habréis apostado",
+    "Ellos": "habrán apostado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría apostado",
+    "Tu": "habrías apostado",
+    "El": "habría apostado",
+    "Nosotros": "habríamos apostado",
+    "Vosotros": "habríais apostado",
+    "Ellos": "habrían apostado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "apueste",
+    "Tu": "apuestes",
+    "El": "apueste",
+    "Nosotros": "apostemos",
+    "Vosotros": "apostéis",
+    "Ellos": "apuesten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "apuesta",
+    "El": "apueste",
+    "Nosotros": "apostemos",
+    "Vosotros": "apostad",
+    "Ellos": "apuesten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no apuestes",
+    "El": "no apueste",
+    "Nosotros": "no apostemos",
+    "Vosotros": "no apostéis",
+    "Ellos": "no apuesten"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "caer",
+  "englishInfinitive": "to fall",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "caigo",
+    "Tu": "caes",
+    "El": "cae",
+    "Nosotros": "caemos",
+    "Vosotros": "caéis",
+    "Ellos": "caen"
+  },
+  "IndicativePreterite": {
+    "Yo": "caí",
+    "Tu": "caíste",
+    "El": "cayó",
+    "Nosotros": "caímos",
+    "Vosotros": "caísteis",
+    "Ellos": "cayeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "caeré",
+    "Tu": "caerás",
+    "El": "caerá",
+    "Nosotros": "caeremos",
+    "Vosotros": "caeréis",
+    "Ellos": "caerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "caería",
+    "Tu": "caerías",
+    "El": "caería",
+    "Nosotros": "caeríamos",
+    "Vosotros": "caeríais",
+    "Ellos": "caerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "caía",
+    "Tu": "caías",
+    "El": "caía",
+    "Nosotros": "caíamos",
+    "Vosotros": "caíais",
+    "Ellos": "caían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cayendo",
+    "Tu": "estás cayendo",
+    "El": "está cayendo",
+    "Nosotros": "estamos cayendo",
+    "Vosotros": "estáis cayendo",
+    "Ellos": "están cayendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he caído",
+    "Tu": "has caído",
+    "El": "ha caído",
+    "Nosotros": "hemos caído",
+    "Vosotros": "habéis caído",
+    "Ellos": "han caído"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había caído",
+    "Tu": "habías caído",
+    "El": "había caído",
+    "Nosotros": "habíamos caído",
+    "Vosotros": "habíais caído",
+    "Ellos": "habían caído"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré caído",
+    "Tu": "habrás caído",
+    "El": "habrá caído",
+    "Nosotros": "habremos caído",
+    "Vosotros": "habréis caído",
+    "Ellos": "habrán caído"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría caído",
+    "Tu": "habrías caído",
+    "El": "habría caído",
+    "Nosotros": "habríamos caído",
+    "Vosotros": "habríais caído",
+    "Ellos": "habrían caído"
+  },
+  "SubjunctivePresent": {
+    "Yo": "caiga",
+    "Tu": "caigas",
+    "El": "caiga",
+    "Nosotros": "caigamos",
+    "Vosotros": "caigáis",
+    "Ellos": "caigan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cae",
+    "El": "caiga",
+    "Nosotros": "caigamos",
+    "Vosotros": "caed",
+    "Ellos": "caigan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no caigas",
+    "El": "no caiga",
+    "Nosotros": "no caigamos",
+    "Vosotros": "no caigáis",
+    "Ellos": "no caigan"
+  },
+  "ending": "er"
+}

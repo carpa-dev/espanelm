@@ -1,0 +1,113 @@
+{
+  "verb": "bucear",
+  "englishInfinitive": "to skin-dive",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "buceo",
+    "Tu": "buceas",
+    "El": "bucea",
+    "Nosotros": "buceamos",
+    "Vosotros": "buceáis",
+    "Ellos": "bucean"
+  },
+  "IndicativePreterite": {
+    "Yo": "buceé",
+    "Tu": "buceaste",
+    "El": "buceó",
+    "Nosotros": "buceamos",
+    "Vosotros": "buceasteis",
+    "Ellos": "bucearon"
+  },
+  "IndicativeFuture": {
+    "Yo": "bucearé",
+    "Tu": "bucearás",
+    "El": "buceará",
+    "Nosotros": "bucearemos",
+    "Vosotros": "bucearéis",
+    "Ellos": "bucearán"
+  },
+  "ConditionalPresent": {
+    "Yo": "bucearía",
+    "Tu": "bucearías",
+    "El": "bucearía",
+    "Nosotros": "bucearíamos",
+    "Vosotros": "bucearíais",
+    "Ellos": "bucearían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "buceaba",
+    "Tu": "buceabas",
+    "El": "buceaba",
+    "Nosotros": "buceábamos",
+    "Vosotros": "buceabais",
+    "Ellos": "buceaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy buceando",
+    "Tu": "estás buceando",
+    "El": "está buceando",
+    "Nosotros": "estamos buceando",
+    "Vosotros": "estáis buceando",
+    "Ellos": "están buceando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he buceado",
+    "Tu": "has buceado",
+    "El": "ha buceado",
+    "Nosotros": "hemos buceado",
+    "Vosotros": "habéis buceado",
+    "Ellos": "han buceado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había buceado",
+    "Tu": "habías buceado",
+    "El": "había buceado",
+    "Nosotros": "habíamos buceado",
+    "Vosotros": "habíais buceado",
+    "Ellos": "habían buceado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré buceado",
+    "Tu": "habrás buceado",
+    "El": "habrá buceado",
+    "Nosotros": "habremos buceado",
+    "Vosotros": "habréis buceado",
+    "Ellos": "habrán buceado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría buceado",
+    "Tu": "habrías buceado",
+    "El": "habría buceado",
+    "Nosotros": "habríamos buceado",
+    "Vosotros": "habríais buceado",
+    "Ellos": "habrían buceado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "bucee",
+    "Tu": "bucees",
+    "El": "bucee",
+    "Nosotros": "buceemos",
+    "Vosotros": "buceéis",
+    "Ellos": "buceen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "bucea",
+    "El": "bucee",
+    "Nosotros": "buceemos",
+    "Vosotros": "bucead",
+    "Ellos": "buceen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no bucees",
+    "El": "no bucee",
+    "Nosotros": "no buceemos",
+    "Vosotros": "no buceéis",
+    "Ellos": "no buceen"
+  },
+  "ending": "ar"
+}

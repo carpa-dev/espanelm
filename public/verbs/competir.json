@@ -1,0 +1,113 @@
+{
+  "verb": "competir",
+  "englishInfinitive": "to compete",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "compito",
+    "Tu": "compites",
+    "El": "compite",
+    "Nosotros": "competimos",
+    "Vosotros": "competís",
+    "Ellos": "compiten"
+  },
+  "IndicativePreterite": {
+    "Yo": "competí",
+    "Tu": "competiste",
+    "El": "compitió",
+    "Nosotros": "competimos",
+    "Vosotros": "competisteis",
+    "Ellos": "compitieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "competiré",
+    "Tu": "competirás",
+    "El": "competirá",
+    "Nosotros": "competiremos",
+    "Vosotros": "competiréis",
+    "Ellos": "competirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "competiría",
+    "Tu": "competirías",
+    "El": "competiría",
+    "Nosotros": "competiríamos",
+    "Vosotros": "competiríais",
+    "Ellos": "competirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "competía",
+    "Tu": "competías",
+    "El": "competía",
+    "Nosotros": "competíamos",
+    "Vosotros": "competíais",
+    "Ellos": "competían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy compitiendo",
+    "Tu": "estás compitiendo",
+    "El": "está compitiendo",
+    "Nosotros": "estamos compitiendo",
+    "Vosotros": "estáis compitiendo",
+    "Ellos": "están compitiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he competido",
+    "Tu": "has competido",
+    "El": "ha competido",
+    "Nosotros": "hemos competido",
+    "Vosotros": "habéis competido",
+    "Ellos": "han competido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había competido",
+    "Tu": "habías competido",
+    "El": "había competido",
+    "Nosotros": "habíamos competido",
+    "Vosotros": "habíais competido",
+    "Ellos": "habían competido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré competido",
+    "Tu": "habrás competido",
+    "El": "habrá competido",
+    "Nosotros": "habremos competido",
+    "Vosotros": "habréis competido",
+    "Ellos": "habrán competido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría competido",
+    "Tu": "habrías competido",
+    "El": "habría competido",
+    "Nosotros": "habríamos competido",
+    "Vosotros": "habríais competido",
+    "Ellos": "habrían competido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "compita",
+    "Tu": "compitas",
+    "El": "compita",
+    "Nosotros": "compitamos",
+    "Vosotros": "compitáis",
+    "Ellos": "compitan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "compite",
+    "El": "compita",
+    "Nosotros": "compitamos",
+    "Vosotros": "competid",
+    "Ellos": "compitan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no compitas",
+    "El": "no compita",
+    "Nosotros": "no compitamos",
+    "Vosotros": "no compitáis",
+    "Ellos": "no compitan"
+  },
+  "ending": "ir"
+}

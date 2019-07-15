@@ -1,0 +1,113 @@
+{
+  "verb": "freír",
+  "englishInfinitive": "to fry",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "frío",
+    "Tu": "fríes",
+    "El": "fríe",
+    "Nosotros": "freímos",
+    "Vosotros": "freís",
+    "Ellos": "fríen"
+  },
+  "IndicativePreterite": {
+    "Yo": "freí",
+    "Tu": "freíste",
+    "El": "frió",
+    "Nosotros": "freímos",
+    "Vosotros": "freísteis",
+    "Ellos": "frieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "freiré",
+    "Tu": "freirás",
+    "El": "freirá",
+    "Nosotros": "freiremos",
+    "Vosotros": "freiréis",
+    "Ellos": "freirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "freiría",
+    "Tu": "freirías",
+    "El": "freiría",
+    "Nosotros": "freiríamos",
+    "Vosotros": "freiríais",
+    "Ellos": "freirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "freía",
+    "Tu": "freías",
+    "El": "freía",
+    "Nosotros": "freíamos",
+    "Vosotros": "freíais",
+    "Ellos": "freían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy friendo",
+    "Tu": "estás friendo",
+    "El": "está friendo",
+    "Nosotros": "estamos friendo",
+    "Vosotros": "estáis friendo",
+    "Ellos": "están friendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he frito",
+    "Tu": "has frito",
+    "El": "ha frito",
+    "Nosotros": "hemos frito",
+    "Vosotros": "habéis frito",
+    "Ellos": "han frito"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había frito",
+    "Tu": "habías frito",
+    "El": "había frito",
+    "Nosotros": "habíamos frito",
+    "Vosotros": "habíais frito",
+    "Ellos": "habían frito"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré frito",
+    "Tu": "habrás frito",
+    "El": "habrá frito",
+    "Nosotros": "habremos frito",
+    "Vosotros": "habréis frito",
+    "Ellos": "habrán frito"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría frito",
+    "Tu": "habrías frito",
+    "El": "habría frito",
+    "Nosotros": "habríamos frito",
+    "Vosotros": "habríais frito",
+    "Ellos": "habrían frito"
+  },
+  "SubjunctivePresent": {
+    "Yo": "fría",
+    "Tu": "frías",
+    "El": "fría",
+    "Nosotros": "friamos",
+    "Vosotros": "friáis",
+    "Ellos": "frían"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "fríe",
+    "El": "fría",
+    "Nosotros": "friamos",
+    "Vosotros": "freíd",
+    "Ellos": "frían"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no frías",
+    "El": "no fría",
+    "Nosotros": "no friamos",
+    "Vosotros": "no friáis",
+    "Ellos": "no frían"
+  },
+  "ending": "ir"
+}

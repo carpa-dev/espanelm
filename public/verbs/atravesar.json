@@ -1,0 +1,113 @@
+{
+  "verb": "atravesar",
+  "englishInfinitive": "to cross",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "atravieso",
+    "Tu": "atraviesas",
+    "El": "atraviesa",
+    "Nosotros": "atravesamos",
+    "Vosotros": "atravesáis",
+    "Ellos": "atraviesan"
+  },
+  "IndicativePreterite": {
+    "Yo": "atravesé",
+    "Tu": "atravesaste",
+    "El": "atravesó",
+    "Nosotros": "atravesamos",
+    "Vosotros": "atravesasteis",
+    "Ellos": "atravesaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "atravesaré",
+    "Tu": "atravesarás",
+    "El": "atravesará",
+    "Nosotros": "atravesaremos",
+    "Vosotros": "atravesaréis",
+    "Ellos": "atravesarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "atravesaría",
+    "Tu": "atravesarías",
+    "El": "atravesaría",
+    "Nosotros": "atravesaríamos",
+    "Vosotros": "atravesaríais",
+    "Ellos": "atravesarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "atravesaba",
+    "Tu": "atravesabas",
+    "El": "atravesaba",
+    "Nosotros": "atravesábamos",
+    "Vosotros": "atravesabais",
+    "Ellos": "atravesaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy atravesando",
+    "Tu": "estás atravesando",
+    "El": "está atravesando",
+    "Nosotros": "estamos atravesando",
+    "Vosotros": "estáis atravesando",
+    "Ellos": "están atravesando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he atravesado",
+    "Tu": "has atravesado",
+    "El": "ha atravesado",
+    "Nosotros": "hemos atravesado",
+    "Vosotros": "habéis atravesado",
+    "Ellos": "han atravesado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había atravesado",
+    "Tu": "habías atravesado",
+    "El": "había atravesado",
+    "Nosotros": "habíamos atravesado",
+    "Vosotros": "habíais atravesado",
+    "Ellos": "habían atravesado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré atravesado",
+    "Tu": "habrás atravesado",
+    "El": "habrá atravesado",
+    "Nosotros": "habremos atravesado",
+    "Vosotros": "habréis atravesado",
+    "Ellos": "habrán atravesado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría atravesado",
+    "Tu": "habrías atravesado",
+    "El": "habría atravesado",
+    "Nosotros": "habríamos atravesado",
+    "Vosotros": "habríais atravesado",
+    "Ellos": "habrían atravesado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "atraviese",
+    "Tu": "atravieses",
+    "El": "atraviese",
+    "Nosotros": "atravesemos",
+    "Vosotros": "atraveséis",
+    "Ellos": "atraviesen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "atraviesa",
+    "El": "atraviese",
+    "Nosotros": "atravesemos",
+    "Vosotros": "atravesad",
+    "Ellos": "atraviesen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no atravieses",
+    "El": "no atraviese",
+    "Nosotros": "no atravesemos",
+    "Vosotros": "no atraveséis",
+    "Ellos": "no atraviesen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "coger",
+  "englishInfinitive": "to catch",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "cojo",
+    "Tu": "coges",
+    "El": "coge",
+    "Nosotros": "cogemos",
+    "Vosotros": "cogéis",
+    "Ellos": "cogen"
+  },
+  "IndicativePreterite": {
+    "Yo": "cogí",
+    "Tu": "cogiste",
+    "El": "cogió",
+    "Nosotros": "cogimos",
+    "Vosotros": "cogisteis",
+    "Ellos": "cogieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cogeré",
+    "Tu": "cogerás",
+    "El": "cogerá",
+    "Nosotros": "cogeremos",
+    "Vosotros": "cogeréis",
+    "Ellos": "cogerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cogería",
+    "Tu": "cogerías",
+    "El": "cogería",
+    "Nosotros": "cogeríamos",
+    "Vosotros": "cogeríais",
+    "Ellos": "cogerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cogía",
+    "Tu": "cogías",
+    "El": "cogía",
+    "Nosotros": "cogíamos",
+    "Vosotros": "cogíais",
+    "Ellos": "cogían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cogiendo",
+    "Tu": "estás cogiendo",
+    "El": "está cogiendo",
+    "Nosotros": "estamos cogiendo",
+    "Vosotros": "estáis cogiendo",
+    "Ellos": "están cogiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cogido",
+    "Tu": "has cogido",
+    "El": "ha cogido",
+    "Nosotros": "hemos cogido",
+    "Vosotros": "habéis cogido",
+    "Ellos": "han cogido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cogido",
+    "Tu": "habías cogido",
+    "El": "había cogido",
+    "Nosotros": "habíamos cogido",
+    "Vosotros": "habíais cogido",
+    "Ellos": "habían cogido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cogido",
+    "Tu": "habrás cogido",
+    "El": "habrá cogido",
+    "Nosotros": "habremos cogido",
+    "Vosotros": "habréis cogido",
+    "Ellos": "habrán cogido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cogido",
+    "Tu": "habrías cogido",
+    "El": "habría cogido",
+    "Nosotros": "habríamos cogido",
+    "Vosotros": "habríais cogido",
+    "Ellos": "habrían cogido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "coja",
+    "Tu": "cojas",
+    "El": "coja",
+    "Nosotros": "cojamos",
+    "Vosotros": "cojáis",
+    "Ellos": "cojan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "coge",
+    "El": "coja",
+    "Nosotros": "cojamos",
+    "Vosotros": "coged",
+    "Ellos": "cojan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cojas",
+    "El": "no coja",
+    "Nosotros": "no cojamos",
+    "Vosotros": "no cojáis",
+    "Ellos": "no cojan"
+  },
+  "ending": "er"
+}

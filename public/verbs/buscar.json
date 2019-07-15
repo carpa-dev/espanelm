@@ -1,0 +1,113 @@
+{
+  "verb": "buscar",
+  "englishInfinitive": "to search for",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "busco",
+    "Tu": "buscas",
+    "El": "busca",
+    "Nosotros": "buscamos",
+    "Vosotros": "buscáis",
+    "Ellos": "buscan"
+  },
+  "IndicativePreterite": {
+    "Yo": "busqué",
+    "Tu": "buscaste",
+    "El": "buscó",
+    "Nosotros": "buscamos",
+    "Vosotros": "buscasteis",
+    "Ellos": "buscaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "buscaré",
+    "Tu": "buscarás",
+    "El": "buscará",
+    "Nosotros": "buscaremos",
+    "Vosotros": "buscaréis",
+    "Ellos": "buscarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "buscaría",
+    "Tu": "buscarías",
+    "El": "buscaría",
+    "Nosotros": "buscaríamos",
+    "Vosotros": "buscaríais",
+    "Ellos": "buscarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "buscaba",
+    "Tu": "buscabas",
+    "El": "buscaba",
+    "Nosotros": "buscábamos",
+    "Vosotros": "buscabais",
+    "Ellos": "buscaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy buscando",
+    "Tu": "estás buscando",
+    "El": "está buscando",
+    "Nosotros": "estamos buscando",
+    "Vosotros": "estáis buscando",
+    "Ellos": "están buscando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he buscado",
+    "Tu": "has buscado",
+    "El": "ha buscado",
+    "Nosotros": "hemos buscado",
+    "Vosotros": "habéis buscado",
+    "Ellos": "han buscado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había buscado",
+    "Tu": "habías buscado",
+    "El": "había buscado",
+    "Nosotros": "habíamos buscado",
+    "Vosotros": "habíais buscado",
+    "Ellos": "habían buscado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré buscado",
+    "Tu": "habrás buscado",
+    "El": "habrá buscado",
+    "Nosotros": "habremos buscado",
+    "Vosotros": "habréis buscado",
+    "Ellos": "habrán buscado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría buscado",
+    "Tu": "habrías buscado",
+    "El": "habría buscado",
+    "Nosotros": "habríamos buscado",
+    "Vosotros": "habríais buscado",
+    "Ellos": "habrían buscado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "busque",
+    "Tu": "busques",
+    "El": "busque",
+    "Nosotros": "busquemos",
+    "Vosotros": "busquéis",
+    "Ellos": "busquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "busca",
+    "El": "busque",
+    "Nosotros": "busquemos",
+    "Vosotros": "buscad",
+    "Ellos": "busquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no busques",
+    "El": "no busque",
+    "Nosotros": "no busquemos",
+    "Vosotros": "no busquéis",
+    "Ellos": "no busquen"
+  },
+  "ending": "ar"
+}

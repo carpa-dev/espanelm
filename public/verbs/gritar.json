@@ -1,0 +1,113 @@
+{
+  "verb": "gritar",
+  "englishInfinitive": "to shout",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "grito",
+    "Tu": "gritas",
+    "El": "grita",
+    "Nosotros": "gritamos",
+    "Vosotros": "gritáis",
+    "Ellos": "gritan"
+  },
+  "IndicativePreterite": {
+    "Yo": "grité",
+    "Tu": "gritaste",
+    "El": "gritó",
+    "Nosotros": "gritamos",
+    "Vosotros": "gritasteis",
+    "Ellos": "gritaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "gritaré",
+    "Tu": "gritarás",
+    "El": "gritará",
+    "Nosotros": "gritaremos",
+    "Vosotros": "gritaréis",
+    "Ellos": "gritarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "gritaría",
+    "Tu": "gritarías",
+    "El": "gritaría",
+    "Nosotros": "gritaríamos",
+    "Vosotros": "gritaríais",
+    "Ellos": "gritarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "gritaba",
+    "Tu": "gritabas",
+    "El": "gritaba",
+    "Nosotros": "gritábamos",
+    "Vosotros": "gritabais",
+    "Ellos": "gritaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy gritando",
+    "Tu": "estás gritando",
+    "El": "está gritando",
+    "Nosotros": "estamos gritando",
+    "Vosotros": "estáis gritando",
+    "Ellos": "están gritando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he gritado",
+    "Tu": "has gritado",
+    "El": "ha gritado",
+    "Nosotros": "hemos gritado",
+    "Vosotros": "habéis gritado",
+    "Ellos": "han gritado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había gritado",
+    "Tu": "habías gritado",
+    "El": "había gritado",
+    "Nosotros": "habíamos gritado",
+    "Vosotros": "habíais gritado",
+    "Ellos": "habían gritado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré gritado",
+    "Tu": "habrás gritado",
+    "El": "habrá gritado",
+    "Nosotros": "habremos gritado",
+    "Vosotros": "habréis gritado",
+    "Ellos": "habrán gritado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría gritado",
+    "Tu": "habrías gritado",
+    "El": "habría gritado",
+    "Nosotros": "habríamos gritado",
+    "Vosotros": "habríais gritado",
+    "Ellos": "habrían gritado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "grite",
+    "Tu": "grites",
+    "El": "grite",
+    "Nosotros": "gritemos",
+    "Vosotros": "gritéis",
+    "Ellos": "griten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "grita",
+    "El": "grite",
+    "Nosotros": "gritemos",
+    "Vosotros": "gritad",
+    "Ellos": "griten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no grites",
+    "El": "no grite",
+    "Nosotros": "no gritemos",
+    "Vosotros": "no gritéis",
+    "Ellos": "no griten"
+  },
+  "ending": "ar"
+}

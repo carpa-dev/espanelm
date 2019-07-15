@@ -1,0 +1,113 @@
+{
+  "verb": "confesar",
+  "englishInfinitive": "to confess",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "confieso",
+    "Tu": "confiesas",
+    "El": "confiesa",
+    "Nosotros": "confesamos",
+    "Vosotros": "confesáis",
+    "Ellos": "confiesan"
+  },
+  "IndicativePreterite": {
+    "Yo": "confesé",
+    "Tu": "confesaste",
+    "El": "confesó",
+    "Nosotros": "confesamos",
+    "Vosotros": "confesasteis",
+    "Ellos": "confesaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "confesaré",
+    "Tu": "confesarás",
+    "El": "confesará",
+    "Nosotros": "confesaremos",
+    "Vosotros": "confesaréis",
+    "Ellos": "confesarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "confesaría",
+    "Tu": "confesarías",
+    "El": "confesaría",
+    "Nosotros": "confesaríamos",
+    "Vosotros": "confesaríais",
+    "Ellos": "confesarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "confesaba",
+    "Tu": "confesabas",
+    "El": "confesaba",
+    "Nosotros": "confesábamos",
+    "Vosotros": "confesabais",
+    "Ellos": "confesaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy confesando",
+    "Tu": "estás confesando",
+    "El": "está confesando",
+    "Nosotros": "estamos confesando",
+    "Vosotros": "estáis confesando",
+    "Ellos": "están confesando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he confesado",
+    "Tu": "has confesado",
+    "El": "ha confesado",
+    "Nosotros": "hemos confesado",
+    "Vosotros": "habéis confesado",
+    "Ellos": "han confesado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había confesado",
+    "Tu": "habías confesado",
+    "El": "había confesado",
+    "Nosotros": "habíamos confesado",
+    "Vosotros": "habíais confesado",
+    "Ellos": "habían confesado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré confesado",
+    "Tu": "habrás confesado",
+    "El": "habrá confesado",
+    "Nosotros": "habremos confesado",
+    "Vosotros": "habréis confesado",
+    "Ellos": "habrán confesado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría confesado",
+    "Tu": "habrías confesado",
+    "El": "habría confesado",
+    "Nosotros": "habríamos confesado",
+    "Vosotros": "habríais confesado",
+    "Ellos": "habrían confesado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "confiese",
+    "Tu": "confieses",
+    "El": "confiese",
+    "Nosotros": "confesemos",
+    "Vosotros": "confeséis",
+    "Ellos": "confiesen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "confiesa",
+    "El": "confiese",
+    "Nosotros": "confesemos",
+    "Vosotros": "confesad",
+    "Ellos": "confiesen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no confieses",
+    "El": "no confiese",
+    "Nosotros": "no confesemos",
+    "Vosotros": "no confeséis",
+    "Ellos": "no confiesen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "cocinar",
+  "englishInfinitive": "to cook",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "cocino",
+    "Tu": "cocinas",
+    "El": "cocina",
+    "Nosotros": "cocinamos",
+    "Vosotros": "cocináis",
+    "Ellos": "cocinan"
+  },
+  "IndicativePreterite": {
+    "Yo": "cociné",
+    "Tu": "cocinaste",
+    "El": "cocinó",
+    "Nosotros": "cocinamos",
+    "Vosotros": "cocinasteis",
+    "Ellos": "cocinaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cocinaré",
+    "Tu": "cocinarás",
+    "El": "cocinará",
+    "Nosotros": "cocinaremos",
+    "Vosotros": "cocinaréis",
+    "Ellos": "cocinarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cocinaría",
+    "Tu": "cocinarías",
+    "El": "cocinaría",
+    "Nosotros": "cocinaríamos",
+    "Vosotros": "cocinaríais",
+    "Ellos": "cocinarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cocinaba",
+    "Tu": "cocinabas",
+    "El": "cocinaba",
+    "Nosotros": "cocinábamos",
+    "Vosotros": "cocinabais",
+    "Ellos": "cocinaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cocinando",
+    "Tu": "estás cocinando",
+    "El": "está cocinando",
+    "Nosotros": "estamos cocinando",
+    "Vosotros": "estáis cocinando",
+    "Ellos": "están cocinando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cocinado",
+    "Tu": "has cocinado",
+    "El": "ha cocinado",
+    "Nosotros": "hemos cocinado",
+    "Vosotros": "habéis cocinado",
+    "Ellos": "han cocinado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cocinado",
+    "Tu": "habías cocinado",
+    "El": "había cocinado",
+    "Nosotros": "habíamos cocinado",
+    "Vosotros": "habíais cocinado",
+    "Ellos": "habían cocinado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cocinado",
+    "Tu": "habrás cocinado",
+    "El": "habrá cocinado",
+    "Nosotros": "habremos cocinado",
+    "Vosotros": "habréis cocinado",
+    "Ellos": "habrán cocinado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cocinado",
+    "Tu": "habrías cocinado",
+    "El": "habría cocinado",
+    "Nosotros": "habríamos cocinado",
+    "Vosotros": "habríais cocinado",
+    "Ellos": "habrían cocinado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cocine",
+    "Tu": "cocines",
+    "El": "cocine",
+    "Nosotros": "cocinemos",
+    "Vosotros": "cocinéis",
+    "Ellos": "cocinen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cocina",
+    "El": "cocine",
+    "Nosotros": "cocinemos",
+    "Vosotros": "cocinad",
+    "Ellos": "cocinen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cocines",
+    "El": "no cocine",
+    "Nosotros": "no cocinemos",
+    "Vosotros": "no cocinéis",
+    "Ellos": "no cocinen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "tomar",
+  "englishInfinitive": "to take",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "tomo",
+    "Tu": "tomas",
+    "El": "toma",
+    "Nosotros": "tomamos",
+    "Vosotros": "tomáis",
+    "Ellos": "toman"
+  },
+  "IndicativePreterite": {
+    "Yo": "tomé",
+    "Tu": "tomaste",
+    "El": "tomó",
+    "Nosotros": "tomamos",
+    "Vosotros": "tomasteis",
+    "Ellos": "tomaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "tomaré",
+    "Tu": "tomarás",
+    "El": "tomará",
+    "Nosotros": "tomaremos",
+    "Vosotros": "tomaréis",
+    "Ellos": "tomarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "tomaría",
+    "Tu": "tomarías",
+    "El": "tomaría",
+    "Nosotros": "tomaríamos",
+    "Vosotros": "tomaríais",
+    "Ellos": "tomarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "tomaba",
+    "Tu": "tomabas",
+    "El": "tomaba",
+    "Nosotros": "tomábamos",
+    "Vosotros": "tomabais",
+    "Ellos": "tomaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy tomando",
+    "Tu": "estás tomando",
+    "El": "está tomando",
+    "Nosotros": "estamos tomando",
+    "Vosotros": "estáis tomando",
+    "Ellos": "están tomando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he tomado",
+    "Tu": "has tomado",
+    "El": "ha tomado",
+    "Nosotros": "hemos tomado",
+    "Vosotros": "habéis tomado",
+    "Ellos": "han tomado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había tomado",
+    "Tu": "habías tomado",
+    "El": "había tomado",
+    "Nosotros": "habíamos tomado",
+    "Vosotros": "habíais tomado",
+    "Ellos": "habían tomado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré tomado",
+    "Tu": "habrás tomado",
+    "El": "habrá tomado",
+    "Nosotros": "habremos tomado",
+    "Vosotros": "habréis tomado",
+    "Ellos": "habrán tomado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría tomado",
+    "Tu": "habrías tomado",
+    "El": "habría tomado",
+    "Nosotros": "habríamos tomado",
+    "Vosotros": "habríais tomado",
+    "Ellos": "habrían tomado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "tome",
+    "Tu": "tomes",
+    "El": "tome",
+    "Nosotros": "tomemos",
+    "Vosotros": "toméis",
+    "Ellos": "tomen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "toma",
+    "El": "tome",
+    "Nosotros": "tomemos",
+    "Vosotros": "tomad",
+    "Ellos": "tomen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no tomes",
+    "El": "no tome",
+    "Nosotros": "no tomemos",
+    "Vosotros": "no toméis",
+    "Ellos": "no tomen"
+  },
+  "ending": "ar"
+}

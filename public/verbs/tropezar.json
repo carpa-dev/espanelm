@@ -1,0 +1,113 @@
+{
+  "verb": "tropezar",
+  "englishInfinitive": "to trip",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "tropiezo",
+    "Tu": "tropiezas",
+    "El": "tropieza",
+    "Nosotros": "tropezamos",
+    "Vosotros": "tropezáis",
+    "Ellos": "tropiezan"
+  },
+  "IndicativePreterite": {
+    "Yo": "tropecé",
+    "Tu": "tropezaste",
+    "El": "tropezó",
+    "Nosotros": "tropezamos",
+    "Vosotros": "tropezasteis",
+    "Ellos": "tropezaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "tropezaré",
+    "Tu": "tropezarás",
+    "El": "tropezará",
+    "Nosotros": "tropezaremos",
+    "Vosotros": "tropezaréis",
+    "Ellos": "tropezarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "tropezaría",
+    "Tu": "tropezarías",
+    "El": "tropezaría",
+    "Nosotros": "tropezaríamos",
+    "Vosotros": "tropezaríais",
+    "Ellos": "tropezarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "tropezaba",
+    "Tu": "tropezabas",
+    "El": "tropezaba",
+    "Nosotros": "tropezábamos",
+    "Vosotros": "tropezabais",
+    "Ellos": "tropezaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy tropezando",
+    "Tu": "estás tropezando",
+    "El": "está tropezando",
+    "Nosotros": "estamos tropezando",
+    "Vosotros": "estáis tropezando",
+    "Ellos": "están tropezando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he tropezado",
+    "Tu": "has tropezado",
+    "El": "ha tropezado",
+    "Nosotros": "hemos tropezado",
+    "Vosotros": "habéis tropezado",
+    "Ellos": "han tropezado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había tropezado",
+    "Tu": "habías tropezado",
+    "El": "había tropezado",
+    "Nosotros": "habíamos tropezado",
+    "Vosotros": "habíais tropezado",
+    "Ellos": "habían tropezado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré tropezado",
+    "Tu": "habrás tropezado",
+    "El": "habrá tropezado",
+    "Nosotros": "habremos tropezado",
+    "Vosotros": "habréis tropezado",
+    "Ellos": "habrán tropezado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría tropezado",
+    "Tu": "habrías tropezado",
+    "El": "habría tropezado",
+    "Nosotros": "habríamos tropezado",
+    "Vosotros": "habríais tropezado",
+    "Ellos": "habrían tropezado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "tropiece",
+    "Tu": "tropieces",
+    "El": "tropiece",
+    "Nosotros": "tropecemos",
+    "Vosotros": "tropezéis",
+    "Ellos": "tropiecen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "tropieza",
+    "El": "tropiece",
+    "Nosotros": "tropecemos",
+    "Vosotros": "tropezad",
+    "Ellos": "tropiecen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no tropieces",
+    "El": "no tropiece",
+    "Nosotros": "no tropecemos",
+    "Vosotros": "no tropezéis",
+    "Ellos": "no tropiecen"
+  },
+  "ending": "ar"
+}

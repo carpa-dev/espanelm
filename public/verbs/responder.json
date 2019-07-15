@@ -1,0 +1,113 @@
+{
+  "verb": "responder",
+  "englishInfinitive": "to respond",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "respondo",
+    "Tu": "respondes",
+    "El": "responde",
+    "Nosotros": "respondemos",
+    "Vosotros": "respondéis",
+    "Ellos": "responden"
+  },
+  "IndicativePreterite": {
+    "Yo": "respondí",
+    "Tu": "respondiste",
+    "El": "respondió",
+    "Nosotros": "respondimos",
+    "Vosotros": "respondisteis",
+    "Ellos": "respondieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "responderé",
+    "Tu": "responderás",
+    "El": "responderá",
+    "Nosotros": "responderemos",
+    "Vosotros": "responderéis",
+    "Ellos": "responderán"
+  },
+  "ConditionalPresent": {
+    "Yo": "respondería",
+    "Tu": "responderías",
+    "El": "respondería",
+    "Nosotros": "responderíamos",
+    "Vosotros": "responderíais",
+    "Ellos": "responderían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "respondía",
+    "Tu": "respondías",
+    "El": "respondía",
+    "Nosotros": "respondíamos",
+    "Vosotros": "respondíais",
+    "Ellos": "respondían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy respondiendo",
+    "Tu": "estás respondiendo",
+    "El": "está respondiendo",
+    "Nosotros": "estamos respondiendo",
+    "Vosotros": "estáis respondiendo",
+    "Ellos": "están respondiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he respondido",
+    "Tu": "has respondido",
+    "El": "ha respondido",
+    "Nosotros": "hemos respondido",
+    "Vosotros": "habéis respondido",
+    "Ellos": "han respondido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había respondido",
+    "Tu": "habías respondido",
+    "El": "había respondido",
+    "Nosotros": "habíamos respondido",
+    "Vosotros": "habíais respondido",
+    "Ellos": "habían respondido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré respondido",
+    "Tu": "habrás respondido",
+    "El": "habrá respondido",
+    "Nosotros": "habremos respondido",
+    "Vosotros": "habréis respondido",
+    "Ellos": "habrán respondido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría respondido",
+    "Tu": "habrías respondido",
+    "El": "habría respondido",
+    "Nosotros": "habríamos respondido",
+    "Vosotros": "habríais respondido",
+    "Ellos": "habrían respondido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "responda",
+    "Tu": "respondas",
+    "El": "responda",
+    "Nosotros": "respondamos",
+    "Vosotros": "respondáis",
+    "Ellos": "respondan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "responde",
+    "El": "responda",
+    "Nosotros": "respondamos",
+    "Vosotros": "responded",
+    "Ellos": "respondan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no respondas",
+    "El": "no responda",
+    "Nosotros": "no respondamos",
+    "Vosotros": "no respondáis",
+    "Ellos": "no respondan"
+  },
+  "ending": "er"
+}

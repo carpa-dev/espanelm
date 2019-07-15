@@ -1,0 +1,113 @@
+{
+  "verb": "callar",
+  "englishInfinitive": "to keep quiet about",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "callo",
+    "Tu": "callas",
+    "El": "calla",
+    "Nosotros": "callamos",
+    "Vosotros": "calláis",
+    "Ellos": "callan"
+  },
+  "IndicativePreterite": {
+    "Yo": "callé",
+    "Tu": "callaste",
+    "El": "calló",
+    "Nosotros": "callamos",
+    "Vosotros": "callasteis",
+    "Ellos": "callaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "callaré",
+    "Tu": "callarás",
+    "El": "callará",
+    "Nosotros": "callaremos",
+    "Vosotros": "callaréis",
+    "Ellos": "callarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "callaría",
+    "Tu": "callarías",
+    "El": "callaría",
+    "Nosotros": "callaríamos",
+    "Vosotros": "callaríais",
+    "Ellos": "callarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "callaba",
+    "Tu": "callabas",
+    "El": "callaba",
+    "Nosotros": "callábamos",
+    "Vosotros": "callabais",
+    "Ellos": "callaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy callando",
+    "Tu": "estás callando",
+    "El": "está callando",
+    "Nosotros": "estamos callando",
+    "Vosotros": "estáis callando",
+    "Ellos": "están callando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he callado",
+    "Tu": "has callado",
+    "El": "ha callado",
+    "Nosotros": "hemos callado",
+    "Vosotros": "habéis callado",
+    "Ellos": "han callado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había callado",
+    "Tu": "habías callado",
+    "El": "había callado",
+    "Nosotros": "habíamos callado",
+    "Vosotros": "habíais callado",
+    "Ellos": "habían callado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré callado",
+    "Tu": "habrás callado",
+    "El": "habrá callado",
+    "Nosotros": "habremos callado",
+    "Vosotros": "habréis callado",
+    "Ellos": "habrán callado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría callado",
+    "Tu": "habrías callado",
+    "El": "habría callado",
+    "Nosotros": "habríamos callado",
+    "Vosotros": "habríais callado",
+    "Ellos": "habrían callado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "calle",
+    "Tu": "calles",
+    "El": "calle",
+    "Nosotros": "callemos",
+    "Vosotros": "calléis",
+    "Ellos": "callen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "calla",
+    "El": "calle",
+    "Nosotros": "callemos",
+    "Vosotros": "callad",
+    "Ellos": "callen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no calles",
+    "El": "no calle",
+    "Nosotros": "no callemos",
+    "Vosotros": "no calléis",
+    "Ellos": "no callen"
+  },
+  "ending": "ar"
+}

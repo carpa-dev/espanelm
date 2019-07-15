@@ -1,0 +1,113 @@
+{
+  "verb": "fumar",
+  "englishInfinitive": "to smoke",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "fumo",
+    "Tu": "fumas",
+    "El": "fuma",
+    "Nosotros": "fumamos",
+    "Vosotros": "fumáis",
+    "Ellos": "fuman"
+  },
+  "IndicativePreterite": {
+    "Yo": "fumé",
+    "Tu": "fumaste",
+    "El": "fumó",
+    "Nosotros": "fumamos",
+    "Vosotros": "fumasteis",
+    "Ellos": "fumaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "fumaré",
+    "Tu": "fumarás",
+    "El": "fumará",
+    "Nosotros": "fumaremos",
+    "Vosotros": "fumaréis",
+    "Ellos": "fumarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "fumaría",
+    "Tu": "fumarías",
+    "El": "fumaría",
+    "Nosotros": "fumaríamos",
+    "Vosotros": "fumaríais",
+    "Ellos": "fumarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "fumaba",
+    "Tu": "fumabas",
+    "El": "fumaba",
+    "Nosotros": "fumábamos",
+    "Vosotros": "fumabais",
+    "Ellos": "fumaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy fumando",
+    "Tu": "estás fumando",
+    "El": "está fumando",
+    "Nosotros": "estamos fumando",
+    "Vosotros": "estáis fumando",
+    "Ellos": "están fumando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he fumado",
+    "Tu": "has fumado",
+    "El": "ha fumado",
+    "Nosotros": "hemos fumado",
+    "Vosotros": "habéis fumado",
+    "Ellos": "han fumado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había fumado",
+    "Tu": "habías fumado",
+    "El": "había fumado",
+    "Nosotros": "habíamos fumado",
+    "Vosotros": "habíais fumado",
+    "Ellos": "habían fumado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré fumado",
+    "Tu": "habrás fumado",
+    "El": "habrá fumado",
+    "Nosotros": "habremos fumado",
+    "Vosotros": "habréis fumado",
+    "Ellos": "habrán fumado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría fumado",
+    "Tu": "habrías fumado",
+    "El": "habría fumado",
+    "Nosotros": "habríamos fumado",
+    "Vosotros": "habríais fumado",
+    "Ellos": "habrían fumado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "fume",
+    "Tu": "fumes",
+    "El": "fume",
+    "Nosotros": "fumemos",
+    "Vosotros": "fuméis",
+    "Ellos": "fumen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "fuma",
+    "El": "fume",
+    "Nosotros": "fumemos",
+    "Vosotros": "fumad",
+    "Ellos": "fumen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no fumes",
+    "El": "no fume",
+    "Nosotros": "no fumemos",
+    "Vosotros": "no fuméis",
+    "Ellos": "no fumen"
+  },
+  "ending": "ar"
+}

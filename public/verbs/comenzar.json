@@ -1,0 +1,113 @@
+{
+  "verb": "comenzar",
+  "englishInfinitive": "to begin",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "comienzo",
+    "Tu": "comienzas",
+    "El": "comienza",
+    "Nosotros": "comenzamos",
+    "Vosotros": "comenzáis",
+    "Ellos": "comienzan"
+  },
+  "IndicativePreterite": {
+    "Yo": "comencé",
+    "Tu": "comenzaste",
+    "El": "comenzó",
+    "Nosotros": "comenzamos",
+    "Vosotros": "comenzasteis",
+    "Ellos": "comenzaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "comenzaré",
+    "Tu": "comenzarás",
+    "El": "comenzará",
+    "Nosotros": "comenzaremos",
+    "Vosotros": "comenzaréis",
+    "Ellos": "comenzarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "comenzaría",
+    "Tu": "comenzarías",
+    "El": "comenzaría",
+    "Nosotros": "comenzaríamos",
+    "Vosotros": "comenzaríais",
+    "Ellos": "comenzarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "comenzaba",
+    "Tu": "comenzabas",
+    "El": "comenzaba",
+    "Nosotros": "comenzábamos",
+    "Vosotros": "comenzabais",
+    "Ellos": "comenzaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy comenzando",
+    "Tu": "estás comenzando",
+    "El": "está comenzando",
+    "Nosotros": "estamos comenzando",
+    "Vosotros": "estáis comenzando",
+    "Ellos": "están comenzando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he comenzado",
+    "Tu": "has comenzado",
+    "El": "ha comenzado",
+    "Nosotros": "hemos comenzado",
+    "Vosotros": "habéis comenzado",
+    "Ellos": "han comenzado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había comenzado",
+    "Tu": "habías comenzado",
+    "El": "había comenzado",
+    "Nosotros": "habíamos comenzado",
+    "Vosotros": "habíais comenzado",
+    "Ellos": "habían comenzado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré comenzado",
+    "Tu": "habrás comenzado",
+    "El": "habrá comenzado",
+    "Nosotros": "habremos comenzado",
+    "Vosotros": "habréis comenzado",
+    "Ellos": "habrán comenzado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría comenzado",
+    "Tu": "habrías comenzado",
+    "El": "habría comenzado",
+    "Nosotros": "habríamos comenzado",
+    "Vosotros": "habríais comenzado",
+    "Ellos": "habrían comenzado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "comience",
+    "Tu": "comiences",
+    "El": "comience",
+    "Nosotros": "comencemos",
+    "Vosotros": "comencéis",
+    "Ellos": "comiencen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "comienza",
+    "El": "comience",
+    "Nosotros": "comencemos",
+    "Vosotros": "comenzad",
+    "Ellos": "comiencen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no comiences",
+    "El": "no comience",
+    "Nosotros": "no comencemos",
+    "Vosotros": "no comencéis",
+    "Ellos": "no comiencen"
+  },
+  "ending": "ar"
+}

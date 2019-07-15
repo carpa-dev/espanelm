@@ -1,0 +1,113 @@
+{
+  "verb": "dormirse",
+  "englishInfinitive": "to go to sleep",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me duermo",
+    "Tu": "te duermes",
+    "El": "se duerme",
+    "Nosotros": "nos dormimos",
+    "Vosotros": "os dormís",
+    "Ellos": "se duermen"
+  },
+  "IndicativePreterite": {
+    "Yo": "me dormí",
+    "Tu": "te dormiste",
+    "El": "se durmió",
+    "Nosotros": "nos dormimos",
+    "Vosotros": "os dormisteis",
+    "Ellos": "se durmieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me dormiré",
+    "Tu": "te dormirás",
+    "El": "se dormirá",
+    "Nosotros": "nos dormiremos",
+    "Vosotros": "os dormiréis",
+    "Ellos": "se dormirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me dormiría",
+    "Tu": "te dormirías",
+    "El": "se dormiría",
+    "Nosotros": "nos dormiríamos",
+    "Vosotros": "os dormiríais",
+    "Ellos": "se dormirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me dormía",
+    "Tu": "te dormías",
+    "El": "se dormía",
+    "Nosotros": "nos dormíamos",
+    "Vosotros": "os dormíais",
+    "Ellos": "se dormían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy durmiendo,estoy durmiéndome",
+    "Tu": "te estás durmiendo,estás durmiéndote",
+    "El": "se está durmiendo,está durmiéndose",
+    "Nosotros": "nos estamos durmiendo,estamos durmiéndonos",
+    "Vosotros": "os estáis durmiendo,estáis durmiéndoos",
+    "Ellos": "se están durmiendo,están durmiéndose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he dormido",
+    "Tu": "te has dormido",
+    "El": "se ha dormido",
+    "Nosotros": "nos hemos dormido",
+    "Vosotros": "os habéis dormido",
+    "Ellos": "se han dormido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había dormido",
+    "Tu": "te habías dormido",
+    "El": "se había dormido",
+    "Nosotros": "nos habíamos dormido",
+    "Vosotros": "os habíais dormido",
+    "Ellos": "se habían dormido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré dormido",
+    "Tu": "te habrás dormido",
+    "El": "se habrá dormido",
+    "Nosotros": "nos habremos dormido",
+    "Vosotros": "os habréis dormido",
+    "Ellos": "se habrán dormido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría dormido",
+    "Tu": "te habrías dormido",
+    "El": "se habría dormido",
+    "Nosotros": "nos habríamos dormido",
+    "Vosotros": "os habríais dormido",
+    "Ellos": "se habrían dormido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me duerma",
+    "Tu": "te duermas",
+    "El": "se duerma",
+    "Nosotros": "nos durmamos",
+    "Vosotros": "os durmáis",
+    "Ellos": "se duerman"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "duérmete",
+    "El": "duérmase",
+    "Nosotros": "durmámonos",
+    "Vosotros": "dormíos",
+    "Ellos": "duérmanse"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te duermas",
+    "El": "no se duerma",
+    "Nosotros": "no nos durmamos",
+    "Vosotros": "no os durmáis",
+    "Ellos": "no se duerman"
+  },
+  "ending": "ir"
+}

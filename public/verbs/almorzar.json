@@ -1,0 +1,113 @@
+{
+  "verb": "almorzar",
+  "englishInfinitive": "to lunch",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "almuerzo",
+    "Tu": "almuerzas",
+    "El": "almuerza",
+    "Nosotros": "almorzamos",
+    "Vosotros": "almorzáis",
+    "Ellos": "almuerzan"
+  },
+  "IndicativePreterite": {
+    "Yo": "almorcé",
+    "Tu": "almorzaste",
+    "El": "almorzó",
+    "Nosotros": "almorzamos",
+    "Vosotros": "almorzasteis",
+    "Ellos": "almorzaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "almorzaré",
+    "Tu": "almorzarás",
+    "El": "almorzará",
+    "Nosotros": "almorzaremos",
+    "Vosotros": "almorzaréis",
+    "Ellos": "almorzarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "almorzaría",
+    "Tu": "almorzarías",
+    "El": "almorzaría",
+    "Nosotros": "almorzaríamos",
+    "Vosotros": "almorzaríais",
+    "Ellos": "almorzarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "almorzaba",
+    "Tu": "almorzabas",
+    "El": "almorzaba",
+    "Nosotros": "almorzábamos",
+    "Vosotros": "almorzabais",
+    "Ellos": "almorzaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy almorzando",
+    "Tu": "estás almorzando",
+    "El": "está almorzando",
+    "Nosotros": "estamos almorzando",
+    "Vosotros": "estáis almorzando",
+    "Ellos": "están almorzando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he almorzado",
+    "Tu": "has almorzado",
+    "El": "ha almorzado",
+    "Nosotros": "hemos almorzado",
+    "Vosotros": "habéis almorzado",
+    "Ellos": "han almorzado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había almorzado",
+    "Tu": "habías almorzado",
+    "El": "había almorzado",
+    "Nosotros": "habíamos almorzado",
+    "Vosotros": "habíais almorzado",
+    "Ellos": "habían almorzado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré almorzado",
+    "Tu": "habrás almorzado",
+    "El": "habrá almorzado",
+    "Nosotros": "habremos almorzado",
+    "Vosotros": "habréis almorzado",
+    "Ellos": "habrán almorzado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría almorzado",
+    "Tu": "habrías almorzado",
+    "El": "habría almorzado",
+    "Nosotros": "habríamos almorzado",
+    "Vosotros": "habríais almorzado",
+    "Ellos": "habrían almorzado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "almuerce",
+    "Tu": "almuerces",
+    "El": "almuerce",
+    "Nosotros": "almorcemos",
+    "Vosotros": "almorcéis",
+    "Ellos": "almuercen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "almuerza",
+    "El": "almuerce",
+    "Nosotros": "almorcemos",
+    "Vosotros": "almorzad",
+    "Ellos": "almuercen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no almuerces",
+    "El": "no almuerce",
+    "Nosotros": "no almorcemos",
+    "Vosotros": "no almorcéis",
+    "Ellos": "no almuercen"
+  },
+  "ending": "ar"
+}

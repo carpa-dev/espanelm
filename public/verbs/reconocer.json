@@ -1,0 +1,113 @@
+{
+  "verb": "reconocer",
+  "englishInfinitive": "to recognize",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "reconozco",
+    "Tu": "reconoces",
+    "El": "reconoce",
+    "Nosotros": "reconocemos",
+    "Vosotros": "reconocéis",
+    "Ellos": "reconocen"
+  },
+  "IndicativePreterite": {
+    "Yo": "reconocí",
+    "Tu": "reconociste",
+    "El": "reconoció",
+    "Nosotros": "reconocimos",
+    "Vosotros": "reconocisteis",
+    "Ellos": "reconocieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "reconoceré",
+    "Tu": "reconocerás",
+    "El": "reconocerá",
+    "Nosotros": "reconoceremos",
+    "Vosotros": "reconoceréis",
+    "Ellos": "reconocerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "reconocería",
+    "Tu": "reconocerías",
+    "El": "reconocería",
+    "Nosotros": "reconoceríamos",
+    "Vosotros": "reconoceríais",
+    "Ellos": "reconocerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "reconocía",
+    "Tu": "reconocías",
+    "El": "reconocía",
+    "Nosotros": "reconocíamos",
+    "Vosotros": "reconocíais",
+    "Ellos": "reconocían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy reconociendo",
+    "Tu": "estás reconociendo",
+    "El": "está reconociendo",
+    "Nosotros": "estamos reconociendo",
+    "Vosotros": "estáis reconociendo",
+    "Ellos": "están reconociendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he reconocido",
+    "Tu": "has reconocido",
+    "El": "ha reconocido",
+    "Nosotros": "hemos reconocido",
+    "Vosotros": "habéis reconocido",
+    "Ellos": "han reconocido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había reconocido",
+    "Tu": "habías reconocido",
+    "El": "había reconocido",
+    "Nosotros": "habíamos reconocido",
+    "Vosotros": "habíais reconocido",
+    "Ellos": "habían reconocido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré reconocido",
+    "Tu": "habrás reconocido",
+    "El": "habrá reconocido",
+    "Nosotros": "habremos reconocido",
+    "Vosotros": "habréis reconocido",
+    "Ellos": "habrán reconocido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría reconocido",
+    "Tu": "habrías reconocido",
+    "El": "habría reconocido",
+    "Nosotros": "habríamos reconocido",
+    "Vosotros": "habríais reconocido",
+    "Ellos": "habrían reconocido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "reconozca",
+    "Tu": "reconozcas",
+    "El": "reconozca",
+    "Nosotros": "reconozcamos",
+    "Vosotros": "reconozcáis",
+    "Ellos": "reconozcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "reconoce",
+    "El": "reconozca",
+    "Nosotros": "reconozcamos",
+    "Vosotros": "reconoced",
+    "Ellos": "reconozcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no reconozcas",
+    "El": "no reconozca",
+    "Nosotros": "no reconozcamos",
+    "Vosotros": "no reconozcáis",
+    "Ellos": "no reconozcan"
+  },
+  "ending": "er"
+}

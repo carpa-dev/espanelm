@@ -1,0 +1,113 @@
+{
+  "verb": "formar",
+  "englishInfinitive": "to form",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "formo",
+    "Tu": "formas",
+    "El": "forma",
+    "Nosotros": "formamos",
+    "Vosotros": "formáis",
+    "Ellos": "forman"
+  },
+  "IndicativePreterite": {
+    "Yo": "formé",
+    "Tu": "formaste",
+    "El": "formó",
+    "Nosotros": "formamos",
+    "Vosotros": "formasteis",
+    "Ellos": "formaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "formaré",
+    "Tu": "formarás",
+    "El": "formará",
+    "Nosotros": "formaremos",
+    "Vosotros": "formaréis",
+    "Ellos": "formarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "formaría",
+    "Tu": "formarías",
+    "El": "formaría",
+    "Nosotros": "formaríamos",
+    "Vosotros": "formaríais",
+    "Ellos": "formarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "formaba",
+    "Tu": "formabas",
+    "El": "formaba",
+    "Nosotros": "formábamos",
+    "Vosotros": "formabais",
+    "Ellos": "formaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy formando",
+    "Tu": "estás formando",
+    "El": "está formando",
+    "Nosotros": "estamos formando",
+    "Vosotros": "estáis formando",
+    "Ellos": "están formando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he formado",
+    "Tu": "has formado",
+    "El": "ha formado",
+    "Nosotros": "hemos formado",
+    "Vosotros": "habéis formado",
+    "Ellos": "han formado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había formado",
+    "Tu": "habías formado",
+    "El": "había formado",
+    "Nosotros": "habíamos formado",
+    "Vosotros": "habíais formado",
+    "Ellos": "habían formado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré formado",
+    "Tu": "habrás formado",
+    "El": "habrá formado",
+    "Nosotros": "habremos formado",
+    "Vosotros": "habréis formado",
+    "Ellos": "habrán formado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría formado",
+    "Tu": "habrías formado",
+    "El": "habría formado",
+    "Nosotros": "habríamos formado",
+    "Vosotros": "habríais formado",
+    "Ellos": "habrían formado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "forme",
+    "Tu": "formes",
+    "El": "forme",
+    "Nosotros": "formemos",
+    "Vosotros": "forméis",
+    "Ellos": "formen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "forma",
+    "El": "forme",
+    "Nosotros": "formemos",
+    "Vosotros": "formad",
+    "Ellos": "formen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no formes",
+    "El": "no forme",
+    "Nosotros": "no formemos",
+    "Vosotros": "no forméis",
+    "Ellos": "no formen"
+  },
+  "ending": "ar"
+}

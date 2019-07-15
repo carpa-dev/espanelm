@@ -1,0 +1,113 @@
+{
+  "verb": "jactarse",
+  "englishInfinitive": "to boast",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me jacto",
+    "Tu": "te jactas",
+    "El": "se jacta",
+    "Nosotros": "nos jactamos",
+    "Vosotros": "os jactáis",
+    "Ellos": "se jactan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me jacté",
+    "Tu": "te jactaste",
+    "El": "se jactó",
+    "Nosotros": "nos jactamos",
+    "Vosotros": "os jactasteis",
+    "Ellos": "se jactaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me jactaré",
+    "Tu": "te jactarás",
+    "El": "se jactará",
+    "Nosotros": "nos jactaremos",
+    "Vosotros": "os jactaréis",
+    "Ellos": "se jactarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me jactaría",
+    "Tu": "te jactarías",
+    "El": "se jactaría",
+    "Nosotros": "nos jactaríamos",
+    "Vosotros": "os jactaríais",
+    "Ellos": "se jactarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me jactaba",
+    "Tu": "te jactabas",
+    "El": "se jactaba",
+    "Nosotros": "nos jactábamos",
+    "Vosotros": "os jactabais",
+    "Ellos": "se jactaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy jactando,estoy jactándome",
+    "Tu": "te estás jactando,estás jactándote",
+    "El": "se está jactando,está jactándose",
+    "Nosotros": "nos estamos jactando,estamos jactándonos",
+    "Vosotros": "os estáis jactando,estáis jactándoos",
+    "Ellos": "se están jactando,están jactándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he jactado",
+    "Tu": "te has jactado",
+    "El": "se ha jactado",
+    "Nosotros": "nos hemos jactado",
+    "Vosotros": "os habéis jactado",
+    "Ellos": "se han jactado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había jactado",
+    "Tu": "te habías jactado",
+    "El": "se había jactado",
+    "Nosotros": "nos habíamos jactado",
+    "Vosotros": "os habíais jactado",
+    "Ellos": "se habían jactado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré jactado",
+    "Tu": "te habrás jactado",
+    "El": "se habrá jactado",
+    "Nosotros": "nos habremos jactado",
+    "Vosotros": "os habréis jactado",
+    "Ellos": "se habrán jactado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría jactado",
+    "Tu": "te habrías jactado",
+    "El": "se habría jactado",
+    "Nosotros": "nos habríamos jactado",
+    "Vosotros": "os habríais jactado",
+    "Ellos": "se habrían jactado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me jacte",
+    "Tu": "te jactes",
+    "El": "se jacte",
+    "Nosotros": "nos jactemos",
+    "Vosotros": "os jactéis",
+    "Ellos": "se jacten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "jáctate",
+    "El": "jáctese",
+    "Nosotros": "jactémonos",
+    "Vosotros": "jactaos",
+    "Ellos": "jáctense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te jactes",
+    "El": "no se jacte",
+    "Nosotros": "no nos jactemos",
+    "Vosotros": "no os jactéis",
+    "Ellos": "no se jacten"
+  },
+  "ending": "ar"
+}

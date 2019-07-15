@@ -1,0 +1,113 @@
+{
+  "verb": "dedicarse",
+  "englishInfinitive": "to devote oneself",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me dedico",
+    "Tu": "te dedicas",
+    "El": "se dedica",
+    "Nosotros": "nos dedicamos",
+    "Vosotros": "os dedicáis",
+    "Ellos": "se dedican"
+  },
+  "IndicativePreterite": {
+    "Yo": "me dediqué",
+    "Tu": "te dedicaste",
+    "El": "se dedicó",
+    "Nosotros": "nos dedicamos",
+    "Vosotros": "os dedicasteis",
+    "Ellos": "se dedicaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me dedicaré",
+    "Tu": "te dedicarás",
+    "El": "se dedicará",
+    "Nosotros": "nos dedicaremos",
+    "Vosotros": "os dedicaréis",
+    "Ellos": "se dedicarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me dedicaría",
+    "Tu": "te dedicarías",
+    "El": "se dedicaría",
+    "Nosotros": "nos dedicaríamos",
+    "Vosotros": "os dedicaríais",
+    "Ellos": "se dedicarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me dedicaba",
+    "Tu": "te dedicabas",
+    "El": "se dedicaba",
+    "Nosotros": "nos dedicábamos",
+    "Vosotros": "os dedicabais",
+    "Ellos": "se dedicaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy dedicando,estoy dedicándome",
+    "Tu": "te estás dedicando,estás dedicándote",
+    "El": "se está dedicando,está dedicándose",
+    "Nosotros": "nos estamos dedicando,estamos dedicándonos",
+    "Vosotros": "os estáis dedicando,estáis dedicándoos",
+    "Ellos": "se están dedicando,están dedicándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he dedicado",
+    "Tu": "te has dedicado",
+    "El": "se ha dedicado",
+    "Nosotros": "nos hemos dedicado",
+    "Vosotros": "os habéis dedicado",
+    "Ellos": "se han dedicado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había dedicado",
+    "Tu": "te habías dedicado",
+    "El": "se había dedicado",
+    "Nosotros": "nos habíamos dedicado",
+    "Vosotros": "os habíais dedicado",
+    "Ellos": "se habían dedicado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré dedicado",
+    "Tu": "te habrás dedicado",
+    "El": "se habrá dedicado",
+    "Nosotros": "nos habremos dedicado",
+    "Vosotros": "os habréis dedicado",
+    "Ellos": "se habrán dedicado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría dedicado",
+    "Tu": "te habrías dedicado",
+    "El": "se habría dedicado",
+    "Nosotros": "nos habríamos dedicado",
+    "Vosotros": "os habríais dedicado",
+    "Ellos": "se habrían dedicado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me dedique",
+    "Tu": "te dediques",
+    "El": "se dedique",
+    "Nosotros": "nos dediquemos",
+    "Vosotros": "os dediquéis",
+    "Ellos": "se dediquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "dedícate",
+    "El": "dedíquese",
+    "Nosotros": "dediquémonos",
+    "Vosotros": "dedicaos",
+    "Ellos": "dedíquense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te dediques",
+    "El": "no se dedique",
+    "Nosotros": "no nos dediquemos",
+    "Vosotros": "no os dediquéis",
+    "Ellos": "no se dediquen"
+  },
+  "ending": "ar"
+}

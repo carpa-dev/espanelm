@@ -1,0 +1,113 @@
+{
+  "verb": "describir",
+  "englishInfinitive": "to describe",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "describo",
+    "Tu": "describes",
+    "El": "describe",
+    "Nosotros": "describimos",
+    "Vosotros": "describís",
+    "Ellos": "describen"
+  },
+  "IndicativePreterite": {
+    "Yo": "describí",
+    "Tu": "describiste",
+    "El": "describió",
+    "Nosotros": "describimos",
+    "Vosotros": "describisteis",
+    "Ellos": "describieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "describiré",
+    "Tu": "describirás",
+    "El": "describirá",
+    "Nosotros": "describiremos",
+    "Vosotros": "describiréis",
+    "Ellos": "describirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "describiría",
+    "Tu": "describirías",
+    "El": "describiría",
+    "Nosotros": "describiríamos",
+    "Vosotros": "describiríais",
+    "Ellos": "describirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "describía",
+    "Tu": "describías",
+    "El": "describía",
+    "Nosotros": "describíamos",
+    "Vosotros": "describíais",
+    "Ellos": "describían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy describiendo",
+    "Tu": "estás describiendo",
+    "El": "está describiendo",
+    "Nosotros": "estamos describiendo",
+    "Vosotros": "estáis describiendo",
+    "Ellos": "están describiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he descrito",
+    "Tu": "has descrito",
+    "El": "ha descrito",
+    "Nosotros": "hemos descrito",
+    "Vosotros": "habéis descrito",
+    "Ellos": "han descrito"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había descrito",
+    "Tu": "habías descrito",
+    "El": "había descrito",
+    "Nosotros": "habíamos descrito",
+    "Vosotros": "habíais descrito",
+    "Ellos": "habían descrito"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré descrito",
+    "Tu": "habrás descrito",
+    "El": "habrá descrito",
+    "Nosotros": "habremos descrito",
+    "Vosotros": "habréis descrito",
+    "Ellos": "habrán descrito"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría descrito",
+    "Tu": "habrías descrito",
+    "El": "habría descrito",
+    "Nosotros": "habríamos descrito",
+    "Vosotros": "habríais descrito",
+    "Ellos": "habrían descrito"
+  },
+  "SubjunctivePresent": {
+    "Yo": "describa",
+    "Tu": "describas",
+    "El": "describa",
+    "Nosotros": "describamos",
+    "Vosotros": "describáis",
+    "Ellos": "describan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "describe",
+    "El": "describa",
+    "Nosotros": "describamos",
+    "Vosotros": "describid",
+    "Ellos": "describan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no describas",
+    "El": "no describa",
+    "Nosotros": "no describamos",
+    "Vosotros": "no describáis",
+    "Ellos": "no describan"
+  },
+  "ending": "ir"
+}

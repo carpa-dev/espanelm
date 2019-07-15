@@ -1,0 +1,113 @@
+{
+  "verb": "presentar",
+  "englishInfinitive": "t o i n t r o d u c e",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "presento",
+    "Tu": "presentas",
+    "El": "presenta",
+    "Nosotros": "presentamos",
+    "Vosotros": "presentáis",
+    "Ellos": "presentan"
+  },
+  "IndicativePreterite": {
+    "Yo": "presenté",
+    "Tu": "presentaste",
+    "El": "presentó",
+    "Nosotros": "presentamos",
+    "Vosotros": "presentasteis",
+    "Ellos": "presentaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "presentaré",
+    "Tu": "presentarás",
+    "El": "presentará",
+    "Nosotros": "presentaremos",
+    "Vosotros": "presentaréis",
+    "Ellos": "presentarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "presentaría",
+    "Tu": "presentarías",
+    "El": "presentaría",
+    "Nosotros": "presentaríamos",
+    "Vosotros": "presentaríais",
+    "Ellos": "presentarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "presentaba",
+    "Tu": "presentabas",
+    "El": "presentaba",
+    "Nosotros": "presentábamos",
+    "Vosotros": "presentabais",
+    "Ellos": "presentaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy presentando",
+    "Tu": "estás presentando",
+    "El": "está presentando",
+    "Nosotros": "estamos presentando",
+    "Vosotros": "estáis presentando",
+    "Ellos": "están presentando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he presentado",
+    "Tu": "has presentado",
+    "El": "ha presentado",
+    "Nosotros": "hemos presentado",
+    "Vosotros": "habéis presentado",
+    "Ellos": "han presentado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había presentado",
+    "Tu": "habías presentado",
+    "El": "había presentado",
+    "Nosotros": "habíamos presentado",
+    "Vosotros": "habíais presentado",
+    "Ellos": "habían presentado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré presentado",
+    "Tu": "habrás presentado",
+    "El": "habrá presentado",
+    "Nosotros": "habremos presentado",
+    "Vosotros": "habréis presentado",
+    "Ellos": "habrán presentado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría presentado",
+    "Tu": "habrías presentado",
+    "El": "habría presentado",
+    "Nosotros": "habríamos presentado",
+    "Vosotros": "habríais presentado",
+    "Ellos": "habrían presentado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "presente",
+    "Tu": "presentes",
+    "El": "presente",
+    "Nosotros": "presentemos",
+    "Vosotros": "presentéis",
+    "Ellos": "presenten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "presenta",
+    "El": "presente",
+    "Nosotros": "presentemos",
+    "Vosotros": "presentad",
+    "Ellos": "presenten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no presentes",
+    "El": "no presente",
+    "Nosotros": "no presentemos",
+    "Vosotros": "no presentéis",
+    "Ellos": "no presenten"
+  },
+  "ending": "ar"
+}

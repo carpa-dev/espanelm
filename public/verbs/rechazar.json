@@ -1,0 +1,113 @@
+{
+  "verb": "rechazar",
+  "englishInfinitive": "to reject",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "rechazo",
+    "Tu": "rechazas",
+    "El": "rechaza",
+    "Nosotros": "rechazamos",
+    "Vosotros": "rechazáis",
+    "Ellos": "rechazan"
+  },
+  "IndicativePreterite": {
+    "Yo": "rechacé",
+    "Tu": "rechazaste",
+    "El": "rechazó",
+    "Nosotros": "rechazamos",
+    "Vosotros": "rechazasteis",
+    "Ellos": "rechazaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "rechazaré",
+    "Tu": "rechazarás",
+    "El": "rechazará",
+    "Nosotros": "rechazaremos",
+    "Vosotros": "rechazaréis",
+    "Ellos": "rechazarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "rechazaría",
+    "Tu": "rechazarías",
+    "El": "rechazaría",
+    "Nosotros": "rechazaríamos",
+    "Vosotros": "rechazaríais",
+    "Ellos": "rechazarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "rechazaba",
+    "Tu": "rechazabas",
+    "El": "rechazaba",
+    "Nosotros": "rechazábamos",
+    "Vosotros": "rechazabais",
+    "Ellos": "rechazaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy rechazando",
+    "Tu": "estás rechazando",
+    "El": "está rechazando",
+    "Nosotros": "estamos rechazando",
+    "Vosotros": "estáis rechazando",
+    "Ellos": "están rechazando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he rechazado",
+    "Tu": "has rechazado",
+    "El": "ha rechazado",
+    "Nosotros": "hemos rechazado",
+    "Vosotros": "habéis rechazado",
+    "Ellos": "han rechazado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había rechazado",
+    "Tu": "habías rechazado",
+    "El": "había rechazado",
+    "Nosotros": "habíamos rechazado",
+    "Vosotros": "habíais rechazado",
+    "Ellos": "habían rechazado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré rechazado",
+    "Tu": "habrás rechazado",
+    "El": "habrá rechazado",
+    "Nosotros": "habremos rechazado",
+    "Vosotros": "habréis rechazado",
+    "Ellos": "habrán rechazado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría rechazado",
+    "Tu": "habrías rechazado",
+    "El": "habría rechazado",
+    "Nosotros": "habríamos rechazado",
+    "Vosotros": "habríais rechazado",
+    "Ellos": "habrían rechazado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "rechace",
+    "Tu": "rechaces",
+    "El": "rechace",
+    "Nosotros": "rechacemos",
+    "Vosotros": "rechacéis",
+    "Ellos": "rechacen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "rechaza",
+    "El": "rechace",
+    "Nosotros": "rechacemos",
+    "Vosotros": "rechazad",
+    "Ellos": "rechacen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no rechaces",
+    "El": "no rechace",
+    "Nosotros": "no rechacemos",
+    "Vosotros": "no rechacéis",
+    "Ellos": "no rechacen"
+  },
+  "ending": "ar"
+}

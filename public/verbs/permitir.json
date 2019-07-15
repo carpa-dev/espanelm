@@ -1,0 +1,113 @@
+{
+  "verb": "permitir",
+  "englishInfinitive": "to permit",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "permito",
+    "Tu": "permites",
+    "El": "permite",
+    "Nosotros": "permitimos",
+    "Vosotros": "permitís",
+    "Ellos": "permiten"
+  },
+  "IndicativePreterite": {
+    "Yo": "permití",
+    "Tu": "permitiste",
+    "El": "permitió",
+    "Nosotros": "permitimos",
+    "Vosotros": "permitisteis",
+    "Ellos": "permitieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "permitiré",
+    "Tu": "permitirás",
+    "El": "permitirá",
+    "Nosotros": "permitiremos",
+    "Vosotros": "permitiréis",
+    "Ellos": "permitirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "permitiría",
+    "Tu": "permitirías",
+    "El": "permitiría",
+    "Nosotros": "permitiríamos",
+    "Vosotros": "permitiríais",
+    "Ellos": "permitirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "permitía",
+    "Tu": "permitías",
+    "El": "permitía",
+    "Nosotros": "permitíamos",
+    "Vosotros": "permitíais",
+    "Ellos": "permitían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy permitiendo",
+    "Tu": "estás permitiendo",
+    "El": "está permitiendo",
+    "Nosotros": "estamos permitiendo",
+    "Vosotros": "estáis permitiendo",
+    "Ellos": "están permitiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he permitido",
+    "Tu": "has permitido",
+    "El": "ha permitido",
+    "Nosotros": "hemos permitido",
+    "Vosotros": "habéis permitido",
+    "Ellos": "han permitido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había permitido",
+    "Tu": "habías permitido",
+    "El": "había permitido",
+    "Nosotros": "habíamos permitido",
+    "Vosotros": "habíais permitido",
+    "Ellos": "habían permitido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré permitido",
+    "Tu": "habrás permitido",
+    "El": "habrá permitido",
+    "Nosotros": "habremos permitido",
+    "Vosotros": "habréis permitido",
+    "Ellos": "habrán permitido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría permitido",
+    "Tu": "habrías permitido",
+    "El": "habría permitido",
+    "Nosotros": "habríamos permitido",
+    "Vosotros": "habríais permitido",
+    "Ellos": "habrían permitido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "permita",
+    "Tu": "permitas",
+    "El": "permita",
+    "Nosotros": "permitamos",
+    "Vosotros": "permitáis",
+    "Ellos": "permitan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "permite",
+    "El": "permita",
+    "Nosotros": "permitamos",
+    "Vosotros": "permitid",
+    "Ellos": "permitan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no permitas",
+    "El": "no permita",
+    "Nosotros": "no permitamos",
+    "Vosotros": "no permitáis",
+    "Ellos": "no permitan"
+  },
+  "ending": "ir"
+}

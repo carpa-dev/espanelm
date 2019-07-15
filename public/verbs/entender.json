@@ -1,0 +1,113 @@
+{
+  "verb": "entender",
+  "englishInfinitive": "to understand",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "entiendo",
+    "Tu": "entiendes",
+    "El": "entiende",
+    "Nosotros": "entendemos",
+    "Vosotros": "entendéis",
+    "Ellos": "entienden"
+  },
+  "IndicativePreterite": {
+    "Yo": "entendí",
+    "Tu": "entendiste",
+    "El": "entendió",
+    "Nosotros": "entendimos",
+    "Vosotros": "entendisteis",
+    "Ellos": "entendieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "entenderé",
+    "Tu": "entenderás",
+    "El": "entenderá",
+    "Nosotros": "entenderemos",
+    "Vosotros": "entenderéis",
+    "Ellos": "entenderán"
+  },
+  "ConditionalPresent": {
+    "Yo": "entendería",
+    "Tu": "entenderías",
+    "El": "entendería",
+    "Nosotros": "entenderíamos",
+    "Vosotros": "entenderíais",
+    "Ellos": "entenderían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "entendía",
+    "Tu": "entendías",
+    "El": "entendía",
+    "Nosotros": "entendíamos",
+    "Vosotros": "entendíais",
+    "Ellos": "entendían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy entendiendo",
+    "Tu": "estás entendiendo",
+    "El": "está entendiendo",
+    "Nosotros": "estamos entendiendo",
+    "Vosotros": "estáis entendiendo",
+    "Ellos": "están entendiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he entendido",
+    "Tu": "has entendido",
+    "El": "ha entendido",
+    "Nosotros": "hemos entendido",
+    "Vosotros": "habéis entendido",
+    "Ellos": "han entendido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había entendido",
+    "Tu": "habías entendido",
+    "El": "había entendido",
+    "Nosotros": "habíamos entendido",
+    "Vosotros": "habíais entendido",
+    "Ellos": "habían entendido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré entendido",
+    "Tu": "habrás entendido",
+    "El": "habrá entendido",
+    "Nosotros": "habremos entendido",
+    "Vosotros": "habréis entendido",
+    "Ellos": "habrán entendido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría entendido",
+    "Tu": "habrías entendido",
+    "El": "habría entendido",
+    "Nosotros": "habríamos entendido",
+    "Vosotros": "habríais entendido",
+    "Ellos": "habrían entendido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "entienda",
+    "Tu": "entiendas",
+    "El": "entienda",
+    "Nosotros": "entendamos",
+    "Vosotros": "entendáis",
+    "Ellos": "entiendan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "entiende",
+    "El": "entienda",
+    "Nosotros": "entendamos",
+    "Vosotros": "entended",
+    "Ellos": "entiendan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no entiendas",
+    "El": "no entienda",
+    "Nosotros": "no entendamos",
+    "Vosotros": "no entendáis",
+    "Ellos": "no entiendan"
+  },
+  "ending": "er"
+}

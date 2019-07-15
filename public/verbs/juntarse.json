@@ -1,0 +1,113 @@
+{
+  "verb": "juntarse",
+  "englishInfinitive": "to join",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me junto",
+    "Tu": "te juntas",
+    "El": "se junta",
+    "Nosotros": "nos juntamos",
+    "Vosotros": "os juntáis",
+    "Ellos": "se juntan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me junté",
+    "Tu": "te juntaste",
+    "El": "se juntó",
+    "Nosotros": "nos juntamos",
+    "Vosotros": "os juntasteis",
+    "Ellos": "se juntaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me juntaré",
+    "Tu": "te juntarás",
+    "El": "se juntará",
+    "Nosotros": "nos juntaremos",
+    "Vosotros": "os juntaréis",
+    "Ellos": "se juntarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me juntaría",
+    "Tu": "te juntarías",
+    "El": "se juntaría",
+    "Nosotros": "nos juntaríamos",
+    "Vosotros": "os juntaríais",
+    "Ellos": "se juntarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me juntaba",
+    "Tu": "te juntabas",
+    "El": "se juntaba",
+    "Nosotros": "nos juntábamos",
+    "Vosotros": "os juntabais",
+    "Ellos": "se juntaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy juntando,estoy juntándome",
+    "Tu": "te estás juntando,estás juntándote",
+    "El": "se está juntando,está juntándose",
+    "Nosotros": "nos estamos juntando,estamos juntándonos",
+    "Vosotros": "os estáis juntando,estáis juntándoos",
+    "Ellos": "se están juntando,están juntándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he juntado",
+    "Tu": "te has juntado",
+    "El": "se ha juntado",
+    "Nosotros": "nos hemos juntado",
+    "Vosotros": "os habéis juntado",
+    "Ellos": "se han juntado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había juntado",
+    "Tu": "te habías juntado",
+    "El": "se había juntado",
+    "Nosotros": "nos habíamos juntado",
+    "Vosotros": "os habíais juntado",
+    "Ellos": "se habían juntado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré juntado",
+    "Tu": "te habrás juntado",
+    "El": "se habrá juntado",
+    "Nosotros": "nos habremos juntado",
+    "Vosotros": "os habréis juntado",
+    "Ellos": "se habrán juntado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría juntado",
+    "Tu": "te habrías juntado",
+    "El": "se habría juntado",
+    "Nosotros": "nos habríamos juntado",
+    "Vosotros": "os habríais juntado",
+    "Ellos": "se habrían juntado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me junte",
+    "Tu": "te juntes",
+    "El": "se junte",
+    "Nosotros": "nos juntemos",
+    "Vosotros": "os juntéis",
+    "Ellos": "se junten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "júntate",
+    "El": "júntese",
+    "Nosotros": "juntémonos",
+    "Vosotros": "juntaos",
+    "Ellos": "júntense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te juntes",
+    "El": "no se junte",
+    "Nosotros": "no nos juntemos",
+    "Vosotros": "no os juntéis",
+    "Ellos": "no se junten"
+  },
+  "ending": "ar"
+}

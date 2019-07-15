@@ -1,0 +1,113 @@
+{
+  "verb": "glorificar",
+  "englishInfinitive": "to glorify",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "glorifico",
+    "Tu": "glorificas",
+    "El": "glorifica",
+    "Nosotros": "glorificamos",
+    "Vosotros": "glorificáis",
+    "Ellos": "glorifican"
+  },
+  "IndicativePreterite": {
+    "Yo": "glorifiqué",
+    "Tu": "glorificaste",
+    "El": "glorificó",
+    "Nosotros": "glorificamos",
+    "Vosotros": "glorificasteis",
+    "Ellos": "glorificaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "glorificaré",
+    "Tu": "glorificarás",
+    "El": "glorificará",
+    "Nosotros": "glorificaremos",
+    "Vosotros": "glorificaréis",
+    "Ellos": "glorificarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "glorificaría",
+    "Tu": "glorificarías",
+    "El": "glorificaría",
+    "Nosotros": "glorificaríamos",
+    "Vosotros": "glorificaríais",
+    "Ellos": "glorificarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "glorificaba",
+    "Tu": "glorificabas",
+    "El": "glorificaba",
+    "Nosotros": "glorificábamos",
+    "Vosotros": "glorificabais",
+    "Ellos": "glorificaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy glorificando",
+    "Tu": "estás glorificando",
+    "El": "está glorificando",
+    "Nosotros": "estamos glorificando",
+    "Vosotros": "estáis glorificando",
+    "Ellos": "están glorificando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he glorificado",
+    "Tu": "has glorificado",
+    "El": "ha glorificado",
+    "Nosotros": "hemos glorificado",
+    "Vosotros": "habéis glorificado",
+    "Ellos": "han glorificado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había glorificado",
+    "Tu": "habías glorificado",
+    "El": "había glorificado",
+    "Nosotros": "habíamos glorificado",
+    "Vosotros": "habíais glorificado",
+    "Ellos": "habían glorificado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré glorificado",
+    "Tu": "habrás glorificado",
+    "El": "habrá glorificado",
+    "Nosotros": "habremos glorificado",
+    "Vosotros": "habréis glorificado",
+    "Ellos": "habrán glorificado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría glorificado",
+    "Tu": "habrías glorificado",
+    "El": "habría glorificado",
+    "Nosotros": "habríamos glorificado",
+    "Vosotros": "habríais glorificado",
+    "Ellos": "habrían glorificado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "glorifique",
+    "Tu": "glorifiques",
+    "El": "glorifique",
+    "Nosotros": "glorifiquemos",
+    "Vosotros": "glorifiquéis",
+    "Ellos": "glorifiquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "glorifica",
+    "El": "glorifique",
+    "Nosotros": "glorifiquemos",
+    "Vosotros": "glorificad",
+    "Ellos": "glorifiquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no glorifiques",
+    "El": "no glorifique",
+    "Nosotros": "no glorifiquemos",
+    "Vosotros": "no glorifiquéis",
+    "Ellos": "no glorifiquen"
+  },
+  "ending": "ar"
+}

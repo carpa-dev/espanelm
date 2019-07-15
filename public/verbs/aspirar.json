@@ -1,0 +1,113 @@
+{
+  "verb": "aspirar",
+  "englishInfinitive": "to breath in",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "aspiro",
+    "Tu": "aspiras",
+    "El": "aspira",
+    "Nosotros": "aspiramos",
+    "Vosotros": "aspiráis",
+    "Ellos": "aspiran"
+  },
+  "IndicativePreterite": {
+    "Yo": "aspiré",
+    "Tu": "aspiraste",
+    "El": "aspiró",
+    "Nosotros": "aspiramos",
+    "Vosotros": "aspirasteis",
+    "Ellos": "aspiraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "aspiraré",
+    "Tu": "aspirarás",
+    "El": "aspirará",
+    "Nosotros": "aspiraremos",
+    "Vosotros": "aspiraréis",
+    "Ellos": "aspirarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "aspiraría",
+    "Tu": "aspirarías",
+    "El": "aspiraría",
+    "Nosotros": "aspiraríamos",
+    "Vosotros": "aspiraríais",
+    "Ellos": "aspirarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "aspiraba",
+    "Tu": "aspirabas",
+    "El": "aspiraba",
+    "Nosotros": "aspirábamos",
+    "Vosotros": "aspirabais",
+    "Ellos": "aspiraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy aspirando",
+    "Tu": "estás aspirando",
+    "El": "está aspirando",
+    "Nosotros": "estamos aspirando",
+    "Vosotros": "estáis aspirando",
+    "Ellos": "están aspirando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he aspirado",
+    "Tu": "has aspirado",
+    "El": "ha aspirado",
+    "Nosotros": "hemos aspirado",
+    "Vosotros": "habéis aspirado",
+    "Ellos": "han aspirado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había aspirado",
+    "Tu": "habías aspirado",
+    "El": "había aspirado",
+    "Nosotros": "habíamos aspirado",
+    "Vosotros": "habíais aspirado",
+    "Ellos": "habían aspirado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré aspirado",
+    "Tu": "habrás aspirado",
+    "El": "habrá aspirado",
+    "Nosotros": "habremos aspirado",
+    "Vosotros": "habréis aspirado",
+    "Ellos": "habrán aspirado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría aspirado",
+    "Tu": "habrías aspirado",
+    "El": "habría aspirado",
+    "Nosotros": "habríamos aspirado",
+    "Vosotros": "habríais aspirado",
+    "Ellos": "habrían aspirado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "aspire",
+    "Tu": "aspires",
+    "El": "aspire",
+    "Nosotros": "aspiremos",
+    "Vosotros": "aspiréis",
+    "Ellos": "aspiren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "aspira",
+    "El": "aspire",
+    "Nosotros": "aspiremos",
+    "Vosotros": "aspirad",
+    "Ellos": "aspiren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no aspires",
+    "El": "no aspire",
+    "Nosotros": "no aspiremos",
+    "Vosotros": "no aspiréis",
+    "Ellos": "no aspiren"
+  },
+  "ending": "ar"
+}

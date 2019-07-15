@@ -1,0 +1,113 @@
+{
+  "verb": "conseguir",
+  "englishInfinitive": "to get",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "consigo",
+    "Tu": "consigues",
+    "El": "consigue",
+    "Nosotros": "conseguimos",
+    "Vosotros": "conseguís",
+    "Ellos": "consiguen"
+  },
+  "IndicativePreterite": {
+    "Yo": "conseguí",
+    "Tu": "conseguiste",
+    "El": "consiguió",
+    "Nosotros": "conseguimos",
+    "Vosotros": "conseguisteis",
+    "Ellos": "consiguieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "conseguiré",
+    "Tu": "conseguirás",
+    "El": "conseguirá",
+    "Nosotros": "conseguiremos",
+    "Vosotros": "conseguiréis",
+    "Ellos": "conseguirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "conseguiría",
+    "Tu": "conseguirías",
+    "El": "conseguiría",
+    "Nosotros": "conseguiríamos",
+    "Vosotros": "conseguiríais",
+    "Ellos": "conseguirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "conseguía",
+    "Tu": "conseguías",
+    "El": "conseguía",
+    "Nosotros": "conseguíamos",
+    "Vosotros": "conseguíais",
+    "Ellos": "conseguían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy consiguiendo",
+    "Tu": "estás consiguiendo",
+    "El": "está consiguiendo",
+    "Nosotros": "estamos consiguiendo",
+    "Vosotros": "estáis consiguiendo",
+    "Ellos": "están consiguiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he conseguido",
+    "Tu": "has conseguido",
+    "El": "ha conseguido",
+    "Nosotros": "hemos conseguido",
+    "Vosotros": "habéis conseguido",
+    "Ellos": "han conseguido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había conseguido",
+    "Tu": "habías conseguido",
+    "El": "había conseguido",
+    "Nosotros": "habíamos conseguido",
+    "Vosotros": "habíais conseguido",
+    "Ellos": "habían conseguido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré conseguido",
+    "Tu": "habrás conseguido",
+    "El": "habrá conseguido",
+    "Nosotros": "habremos conseguido",
+    "Vosotros": "habréis conseguido",
+    "Ellos": "habrán conseguido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría conseguido",
+    "Tu": "habrías conseguido",
+    "El": "habría conseguido",
+    "Nosotros": "habríamos conseguido",
+    "Vosotros": "habríais conseguido",
+    "Ellos": "habrían conseguido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "consiga",
+    "Tu": "consigas",
+    "El": "consiga",
+    "Nosotros": "consigamos",
+    "Vosotros": "consigáis",
+    "Ellos": "consigan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "consigue",
+    "El": "consiga",
+    "Nosotros": "consigamos",
+    "Vosotros": "conseguid",
+    "Ellos": "consigan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no consigas",
+    "El": "no consiga",
+    "Nosotros": "no consigamos",
+    "Vosotros": "no consigáis",
+    "Ellos": "no consigan"
+  },
+  "ending": "ir"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "patinar",
+  "englishInfinitive": "to skate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "patino",
+    "Tu": "patinas",
+    "El": "patina",
+    "Nosotros": "patinamos",
+    "Vosotros": "patináis",
+    "Ellos": "patinan"
+  },
+  "IndicativePreterite": {
+    "Yo": "patiné",
+    "Tu": "patinaste",
+    "El": "patinó",
+    "Nosotros": "patinamos",
+    "Vosotros": "patinasteis",
+    "Ellos": "patinaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "patinaré",
+    "Tu": "patinarás",
+    "El": "patinará",
+    "Nosotros": "patinaremos",
+    "Vosotros": "patinaréis",
+    "Ellos": "patinarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "patinaría",
+    "Tu": "patinarías",
+    "El": "patinaría",
+    "Nosotros": "patinaríamos",
+    "Vosotros": "patinaríais",
+    "Ellos": "patinarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "patinaba",
+    "Tu": "patinabas",
+    "El": "patinaba",
+    "Nosotros": "patinábamos",
+    "Vosotros": "patinabais",
+    "Ellos": "patinaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy patinando",
+    "Tu": "estás patinando",
+    "El": "está patinando",
+    "Nosotros": "estamos patinando",
+    "Vosotros": "estáis patinando",
+    "Ellos": "están patinando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he patinado",
+    "Tu": "has patinado",
+    "El": "ha patinado",
+    "Nosotros": "hemos patinado",
+    "Vosotros": "habéis patinado",
+    "Ellos": "han patinado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había patinado",
+    "Tu": "habías patinado",
+    "El": "había patinado",
+    "Nosotros": "habíamos patinado",
+    "Vosotros": "habíais patinado",
+    "Ellos": "habían patinado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré patinado",
+    "Tu": "habrás patinado",
+    "El": "habrá patinado",
+    "Nosotros": "habremos patinado",
+    "Vosotros": "habréis patinado",
+    "Ellos": "habrán patinado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría patinado",
+    "Tu": "habrías patinado",
+    "El": "habría patinado",
+    "Nosotros": "habríamos patinado",
+    "Vosotros": "habríais patinado",
+    "Ellos": "habrían patinado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "patine",
+    "Tu": "patines",
+    "El": "patine",
+    "Nosotros": "patinemos",
+    "Vosotros": "patinéis",
+    "Ellos": "patinen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "patina",
+    "El": "patine",
+    "Nosotros": "patinemos",
+    "Vosotros": "patinad",
+    "Ellos": "patinen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no patines",
+    "El": "no patine",
+    "Nosotros": "no patinemos",
+    "Vosotros": "no patinéis",
+    "Ellos": "no patinen"
+  },
+  "ending": "ar"
+}

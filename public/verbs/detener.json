@@ -1,0 +1,113 @@
+{
+  "verb": "detener",
+  "englishInfinitive": "to stop",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "detengo",
+    "Tu": "detienes",
+    "El": "detiene",
+    "Nosotros": "detenemos",
+    "Vosotros": "detenéis",
+    "Ellos": "detienen"
+  },
+  "IndicativePreterite": {
+    "Yo": "detuve",
+    "Tu": "detuviste",
+    "El": "detuvo",
+    "Nosotros": "detuvimos",
+    "Vosotros": "detuvisteis",
+    "Ellos": "detuvieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "detendré",
+    "Tu": "detendrás",
+    "El": "detendrá",
+    "Nosotros": "detendremos",
+    "Vosotros": "detendréis",
+    "Ellos": "detendrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "detendría",
+    "Tu": "detendrías",
+    "El": "detendría",
+    "Nosotros": "detendríamos",
+    "Vosotros": "detendríais",
+    "Ellos": "detendrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "detenía",
+    "Tu": "detenías",
+    "El": "detenía",
+    "Nosotros": "deteníamos",
+    "Vosotros": "deteníais",
+    "Ellos": "detenían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy deteniendo",
+    "Tu": "estás deteniendo",
+    "El": "está deteniendo",
+    "Nosotros": "estamos deteniendo",
+    "Vosotros": "estáis deteniendo",
+    "Ellos": "están deteniendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he detenido",
+    "Tu": "has detenido",
+    "El": "ha detenido",
+    "Nosotros": "hemos detenido",
+    "Vosotros": "habéis detenido",
+    "Ellos": "han detenido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había detenido",
+    "Tu": "habías detenido",
+    "El": "había detenido",
+    "Nosotros": "habíamos detenido",
+    "Vosotros": "habíais detenido",
+    "Ellos": "habían detenido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré detenido",
+    "Tu": "habrás detenido",
+    "El": "habrá detenido",
+    "Nosotros": "habremos detenido",
+    "Vosotros": "habréis detenido",
+    "Ellos": "habrán detenido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría detenido",
+    "Tu": "habrías detenido",
+    "El": "habría detenido",
+    "Nosotros": "habríamos detenido",
+    "Vosotros": "habríais detenido",
+    "Ellos": "habrían detenido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "detenga",
+    "Tu": "detengas",
+    "El": "detenga",
+    "Nosotros": "detengamos",
+    "Vosotros": "detengáis",
+    "Ellos": "detengan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "detén",
+    "El": "detenga",
+    "Nosotros": "detengamos",
+    "Vosotros": "detened",
+    "Ellos": "detengan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no detengas",
+    "El": "no detenga",
+    "Nosotros": "no detengamos",
+    "Vosotros": "no detengáis",
+    "Ellos": "no detengan"
+  },
+  "ending": "er"
+}

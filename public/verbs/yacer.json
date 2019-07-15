@@ -1,0 +1,113 @@
+{
+  "verb": "yacer",
+  "englishInfinitive": "to lie",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "yazco",
+    "Tu": "yaces",
+    "El": "yace",
+    "Nosotros": "yacemos",
+    "Vosotros": "yacéis",
+    "Ellos": "yacen"
+  },
+  "IndicativePreterite": {
+    "Yo": "yací",
+    "Tu": "yaciste",
+    "El": "yació",
+    "Nosotros": "yacimos",
+    "Vosotros": "yacisteis",
+    "Ellos": "yacieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "yaceré",
+    "Tu": "yacerás",
+    "El": "yacerá",
+    "Nosotros": "yaceremos",
+    "Vosotros": "yaceréis",
+    "Ellos": "yacerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "yacería",
+    "Tu": "yacerías",
+    "El": "yacería",
+    "Nosotros": "yaceríamos",
+    "Vosotros": "yaceríais",
+    "Ellos": "yacerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "yacía",
+    "Tu": "yacías",
+    "El": "yacía",
+    "Nosotros": "yacíamos",
+    "Vosotros": "yacíais",
+    "Ellos": "yacían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy yaciendo",
+    "Tu": "estás yaciendo",
+    "El": "está yaciendo",
+    "Nosotros": "estamos yaciendo",
+    "Vosotros": "estáis yaciendo",
+    "Ellos": "están yaciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he yacido",
+    "Tu": "has yacido",
+    "El": "ha yacido",
+    "Nosotros": "hemos yacido",
+    "Vosotros": "habéis yacido",
+    "Ellos": "han yacido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había yacido",
+    "Tu": "habías yacido",
+    "El": "había yacido",
+    "Nosotros": "habíamos yacido",
+    "Vosotros": "habíais yacido",
+    "Ellos": "habían yacido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré yacido",
+    "Tu": "habrás yacido",
+    "El": "habrá yacido",
+    "Nosotros": "habremos yacido",
+    "Vosotros": "habréis yacido",
+    "Ellos": "habrán yacido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría yacido",
+    "Tu": "habrías yacido",
+    "El": "habría yacido",
+    "Nosotros": "habríamos yacido",
+    "Vosotros": "habríais yacido",
+    "Ellos": "habrían yacido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "yazca",
+    "Tu": "yazcas",
+    "El": "yazca",
+    "Nosotros": "yazcamos",
+    "Vosotros": "yazcáis",
+    "Ellos": "yazcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "yace",
+    "El": "yazca",
+    "Nosotros": "yazcamos",
+    "Vosotros": "yaced",
+    "Ellos": "yazcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no yazcas",
+    "El": "no yazca",
+    "Nosotros": "no yazcamos",
+    "Vosotros": "no yazcáis",
+    "Ellos": "no yazcan"
+  },
+  "ending": "er"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "satisfacer",
+  "englishInfinitive": "to satisfy",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "satisfago",
+    "Tu": "satisfaces",
+    "El": "satisface",
+    "Nosotros": "satisfacemos",
+    "Vosotros": "satisfacéis",
+    "Ellos": "satisfacen"
+  },
+  "IndicativePreterite": {
+    "Yo": "satisfice",
+    "Tu": "satisficiste",
+    "El": "satisfizo",
+    "Nosotros": "satisficimos",
+    "Vosotros": "satisficisteis",
+    "Ellos": "satisficieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "satisfaré",
+    "Tu": "satisfarás",
+    "El": "satisfará",
+    "Nosotros": "satisfaremos",
+    "Vosotros": "satisfaréis",
+    "Ellos": "satisfarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "satisfaría",
+    "Tu": "satisfarías",
+    "El": "satisfaría",
+    "Nosotros": "satisfaríamos",
+    "Vosotros": "satisfaríais",
+    "Ellos": "satisfarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "satisfacía",
+    "Tu": "satisfacías",
+    "El": "satisfacía",
+    "Nosotros": "satisfacíamos",
+    "Vosotros": "satisfacíais",
+    "Ellos": "satisfacían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy satisfaciendo",
+    "Tu": "estás satisfaciendo",
+    "El": "está satisfaciendo",
+    "Nosotros": "estamos satisfaciendo",
+    "Vosotros": "estáis satisfaciendo",
+    "Ellos": "están satisfaciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he satisfecho",
+    "Tu": "has satisfecho",
+    "El": "ha satisfecho",
+    "Nosotros": "hemos satisfecho",
+    "Vosotros": "habéis satisfecho",
+    "Ellos": "han satisfecho"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había satisfecho",
+    "Tu": "habías satisfecho",
+    "El": "había satisfecho",
+    "Nosotros": "habíamos satisfecho",
+    "Vosotros": "habíais satisfecho",
+    "Ellos": "habían satisfecho"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré satisfecho",
+    "Tu": "habrás satisfecho",
+    "El": "habrá satisfecho",
+    "Nosotros": "habremos satisfecho",
+    "Vosotros": "habréis satisfecho",
+    "Ellos": "habrán satisfecho"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría satisfecho",
+    "Tu": "habrías satisfecho",
+    "El": "habría satisfecho",
+    "Nosotros": "habríamos satisfecho",
+    "Vosotros": "habríais satisfecho",
+    "Ellos": "habrían satisfecho"
+  },
+  "SubjunctivePresent": {
+    "Yo": "satisfaga",
+    "Tu": "satisfagas",
+    "El": "satisfaga",
+    "Nosotros": "satisfagamos",
+    "Vosotros": "satisfagáis",
+    "Ellos": "satisfagan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "satisfaz",
+    "El": "satisfaga",
+    "Nosotros": "satisfagamos",
+    "Vosotros": "satisfaced",
+    "Ellos": "satisfagan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no satisfagas",
+    "El": "no satisfaga",
+    "Nosotros": "no satisfagamos",
+    "Vosotros": "no satisfagáis",
+    "Ellos": "no satisfagan"
+  },
+  "ending": "er"
+}

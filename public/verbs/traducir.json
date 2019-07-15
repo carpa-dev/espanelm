@@ -1,0 +1,113 @@
+{
+  "verb": "traducir",
+  "englishInfinitive": "to translate",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "traduzco",
+    "Tu": "traduces",
+    "El": "traduce",
+    "Nosotros": "traducimos",
+    "Vosotros": "traducís",
+    "Ellos": "traducen"
+  },
+  "IndicativePreterite": {
+    "Yo": "traduje",
+    "Tu": "tradujiste",
+    "El": "tradujo",
+    "Nosotros": "tradujimos",
+    "Vosotros": "tradujisteis",
+    "Ellos": "tradujeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "traduciré",
+    "Tu": "traducirás",
+    "El": "traducirá",
+    "Nosotros": "traduciremos",
+    "Vosotros": "traduciréis",
+    "Ellos": "traducirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "traduciría",
+    "Tu": "traducirías",
+    "El": "traduciría",
+    "Nosotros": "traduciríamos",
+    "Vosotros": "traduciríais",
+    "Ellos": "traducirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "traducía",
+    "Tu": "traducías",
+    "El": "traducía",
+    "Nosotros": "traducíamos",
+    "Vosotros": "traducíais",
+    "Ellos": "traducían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy traduciendo",
+    "Tu": "estás traduciendo",
+    "El": "está traduciendo",
+    "Nosotros": "estamos traduciendo",
+    "Vosotros": "estáis traduciendo",
+    "Ellos": "están traduciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he traducido",
+    "Tu": "has traducido",
+    "El": "ha traducido",
+    "Nosotros": "hemos traducido",
+    "Vosotros": "habéis traducido",
+    "Ellos": "han traducido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había traducido",
+    "Tu": "habías traducido",
+    "El": "había traducido",
+    "Nosotros": "habíamos traducido",
+    "Vosotros": "habíais traducido",
+    "Ellos": "habían traducido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré traducido",
+    "Tu": "habrás traducido",
+    "El": "habrá traducido",
+    "Nosotros": "habremos traducido",
+    "Vosotros": "habréis traducido",
+    "Ellos": "habrán traducido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría traducido",
+    "Tu": "habrías traducido",
+    "El": "habría traducido",
+    "Nosotros": "habríamos traducido",
+    "Vosotros": "habríais traducido",
+    "Ellos": "habrían traducido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "traduzca",
+    "Tu": "traduzcas",
+    "El": "traduzca",
+    "Nosotros": "traduzcamos",
+    "Vosotros": "traduzcáis",
+    "Ellos": "traduzcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "traduce",
+    "El": "traduzca",
+    "Nosotros": "traduzcamos",
+    "Vosotros": "traducid",
+    "Ellos": "traduzcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no traduzcas",
+    "El": "no traduzca",
+    "Nosotros": "no traduzcamos",
+    "Vosotros": "no traduzcáis",
+    "Ellos": "no traduzcan"
+  },
+  "ending": "ir"
+}

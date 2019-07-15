@@ -1,0 +1,113 @@
+{
+  "verb": "censurar",
+  "englishInfinitive": "to censor",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "censuro",
+    "Tu": "censuras",
+    "El": "censura",
+    "Nosotros": "censuramos",
+    "Vosotros": "censuráis",
+    "Ellos": "censuran"
+  },
+  "IndicativePreterite": {
+    "Yo": "censuré",
+    "Tu": "censuraste",
+    "El": "censuró",
+    "Nosotros": "censuramos",
+    "Vosotros": "censurasteis",
+    "Ellos": "censuraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "censuraré",
+    "Tu": "censurarás",
+    "El": "censurará",
+    "Nosotros": "censuraremos",
+    "Vosotros": "censuraréis",
+    "Ellos": "censurarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "censuraría",
+    "Tu": "censurarías",
+    "El": "censuraría",
+    "Nosotros": "censuraríamos",
+    "Vosotros": "censuraríais",
+    "Ellos": "censurarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "censuraba",
+    "Tu": "censurabas",
+    "El": "censuraba",
+    "Nosotros": "censurábamos",
+    "Vosotros": "censurabais",
+    "Ellos": "censuraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy censurando",
+    "Tu": "estás censurando",
+    "El": "está censurando",
+    "Nosotros": "estamos censurando",
+    "Vosotros": "estáis censurando",
+    "Ellos": "están censurando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he censurado",
+    "Tu": "has censurado",
+    "El": "ha censurado",
+    "Nosotros": "hemos censurado",
+    "Vosotros": "habéis censurado",
+    "Ellos": "han censurado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había censurado",
+    "Tu": "habías censurado",
+    "El": "había censurado",
+    "Nosotros": "habíamos censurado",
+    "Vosotros": "habíais censurado",
+    "Ellos": "habían censurado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré censurado",
+    "Tu": "habrás censurado",
+    "El": "habrá censurado",
+    "Nosotros": "habremos censurado",
+    "Vosotros": "habréis censurado",
+    "Ellos": "habrán censurado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría censurado",
+    "Tu": "habrías censurado",
+    "El": "habría censurado",
+    "Nosotros": "habríamos censurado",
+    "Vosotros": "habríais censurado",
+    "Ellos": "habrían censurado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "censure",
+    "Tu": "censures",
+    "El": "censure",
+    "Nosotros": "censuremos",
+    "Vosotros": "censuréis",
+    "Ellos": "censuren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "censura",
+    "El": "censure",
+    "Nosotros": "censuremos",
+    "Vosotros": "censurad",
+    "Ellos": "censuren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no censures",
+    "El": "no censure",
+    "Nosotros": "no censuremos",
+    "Vosotros": "no censuréis",
+    "Ellos": "no censuren"
+  },
+  "ending": "ar"
+}

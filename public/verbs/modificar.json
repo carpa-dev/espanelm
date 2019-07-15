@@ -1,0 +1,113 @@
+{
+  "verb": "modificar",
+  "englishInfinitive": "to modify",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "modifico",
+    "Tu": "modificas",
+    "El": "modifica",
+    "Nosotros": "modificamos",
+    "Vosotros": "modificáis",
+    "Ellos": "modifican"
+  },
+  "IndicativePreterite": {
+    "Yo": "modifiqué",
+    "Tu": "modificaste",
+    "El": "modificó",
+    "Nosotros": "modificamos",
+    "Vosotros": "modificasteis",
+    "Ellos": "modificaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "modificaré",
+    "Tu": "modificarás",
+    "El": "modificará",
+    "Nosotros": "modificaremos",
+    "Vosotros": "modificaréis",
+    "Ellos": "modificarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "modificaría",
+    "Tu": "modificarías",
+    "El": "modificaría",
+    "Nosotros": "modificaríamos",
+    "Vosotros": "modificaríais",
+    "Ellos": "modificarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "modificaba",
+    "Tu": "modificabas",
+    "El": "modificaba",
+    "Nosotros": "modificábamos",
+    "Vosotros": "modificabais",
+    "Ellos": "modificaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy modificando",
+    "Tu": "estás modificando",
+    "El": "está modificando",
+    "Nosotros": "estamos modificando",
+    "Vosotros": "estáis modificando",
+    "Ellos": "están modificando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he modificado",
+    "Tu": "has modificado",
+    "El": "ha modificado",
+    "Nosotros": "hemos modificado",
+    "Vosotros": "habéis modificado",
+    "Ellos": "han modificado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había modificado",
+    "Tu": "habías modificado",
+    "El": "había modificado",
+    "Nosotros": "habíamos modificado",
+    "Vosotros": "habíais modificado",
+    "Ellos": "habían modificado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré modificado",
+    "Tu": "habrás modificado",
+    "El": "habrá modificado",
+    "Nosotros": "habremos modificado",
+    "Vosotros": "habréis modificado",
+    "Ellos": "habrán modificado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría modificado",
+    "Tu": "habrías modificado",
+    "El": "habría modificado",
+    "Nosotros": "habríamos modificado",
+    "Vosotros": "habríais modificado",
+    "Ellos": "habrían modificado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "modifique",
+    "Tu": "modifiques",
+    "El": "modifique",
+    "Nosotros": "modifiquemos",
+    "Vosotros": "modifiquéis",
+    "Ellos": "modifiquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "modifica",
+    "El": "modifique",
+    "Nosotros": "modifiquemos",
+    "Vosotros": "modificad",
+    "Ellos": "modifiquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no modifiques",
+    "El": "no modifique",
+    "Nosotros": "no modifiquemos",
+    "Vosotros": "no modifiquéis",
+    "Ellos": "no modifiquen"
+  },
+  "ending": "ar"
+}

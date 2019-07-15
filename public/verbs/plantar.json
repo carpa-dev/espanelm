@@ -1,0 +1,113 @@
+{
+  "verb": "plantar",
+  "englishInfinitive": "to plant",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "planto",
+    "Tu": "plantas",
+    "El": "planta",
+    "Nosotros": "plantamos",
+    "Vosotros": "plantáis",
+    "Ellos": "plantan"
+  },
+  "IndicativePreterite": {
+    "Yo": "planté",
+    "Tu": "plantaste",
+    "El": "plantó",
+    "Nosotros": "plantamos",
+    "Vosotros": "plantasteis",
+    "Ellos": "plantaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "plantaré",
+    "Tu": "plantarás",
+    "El": "plantará",
+    "Nosotros": "plantaremos",
+    "Vosotros": "plantaréis",
+    "Ellos": "plantarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "plantaría",
+    "Tu": "plantarías",
+    "El": "plantaría",
+    "Nosotros": "plantaríamos",
+    "Vosotros": "plantaríais",
+    "Ellos": "plantarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "plantaba",
+    "Tu": "plantabas",
+    "El": "plantaba",
+    "Nosotros": "plantábamos",
+    "Vosotros": "plantabais",
+    "Ellos": "plantaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy plantando",
+    "Tu": "estás plantando",
+    "El": "está plantando",
+    "Nosotros": "estamos plantando",
+    "Vosotros": "estáis plantando",
+    "Ellos": "están plantando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he plantado",
+    "Tu": "has plantado",
+    "El": "ha plantado",
+    "Nosotros": "hemos plantado",
+    "Vosotros": "habéis plantado",
+    "Ellos": "han plantado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había plantado",
+    "Tu": "habías plantado",
+    "El": "había plantado",
+    "Nosotros": "habíamos plantado",
+    "Vosotros": "habíais plantado",
+    "Ellos": "habían plantado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré plantado",
+    "Tu": "habrás plantado",
+    "El": "habrá plantado",
+    "Nosotros": "habremos plantado",
+    "Vosotros": "habréis plantado",
+    "Ellos": "habrán plantado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría plantado",
+    "Tu": "habrías plantado",
+    "El": "habría plantado",
+    "Nosotros": "habríamos plantado",
+    "Vosotros": "habríais plantado",
+    "Ellos": "habrían plantado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "plante",
+    "Tu": "plantes",
+    "El": "plante",
+    "Nosotros": "plantemos",
+    "Vosotros": "plantéis",
+    "Ellos": "planten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "planta",
+    "El": "plante",
+    "Nosotros": "plantemos",
+    "Vosotros": "plantad",
+    "Ellos": "planten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no plantes",
+    "El": "no plante",
+    "Nosotros": "no plantemos",
+    "Vosotros": "no plantéis",
+    "Ellos": "no planten"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "arrepentirse",
+  "englishInfinitive": "to repent",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me arrepiento",
+    "Tu": "te arrepientes",
+    "El": "se arrepiente",
+    "Nosotros": "nos arrepentimos",
+    "Vosotros": "os arrepentís",
+    "Ellos": "se arrepienten"
+  },
+  "IndicativePreterite": {
+    "Yo": "me arrepentí",
+    "Tu": "te arrepentiste",
+    "El": "se arrepintió",
+    "Nosotros": "nos arrepentimos",
+    "Vosotros": "os arrepentisteis",
+    "Ellos": "se arrepintieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me arrepentiré",
+    "Tu": "te arrepentirás",
+    "El": "se arrepentirá",
+    "Nosotros": "nos arrepentiremos",
+    "Vosotros": "os arrepentiréis",
+    "Ellos": "se arrepentirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me arrepentiría",
+    "Tu": "te arrepentirías",
+    "El": "se arrepentiría",
+    "Nosotros": "nos arrepentiríamos",
+    "Vosotros": "os arrepentiríais",
+    "Ellos": "se arrepentirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me arrepentía",
+    "Tu": "te arrepentías",
+    "El": "se arrepentía",
+    "Nosotros": "nos arrepentíamos",
+    "Vosotros": "os arrepentíais",
+    "Ellos": "se arrepentían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy arrepintiendo,estoy arrepintiéndome",
+    "Tu": "te estás arrepintiendo,estás arrepintiéndote",
+    "El": "se está arrepintiendo,está arrepintiéndose",
+    "Nosotros": "nos estamos arrepintiendo,estamos arrepintiéndonos",
+    "Vosotros": "os estáis arrepintiendo,estáis arrepintiéndoos",
+    "Ellos": "se están arrepintiendo,están arrepintiéndose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he arrepentido",
+    "Tu": "te has arrepentido",
+    "El": "se ha arrepentido",
+    "Nosotros": "nos hemos arrepentido",
+    "Vosotros": "os habéis arrepentido",
+    "Ellos": "se han arrepentido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había arrepentido",
+    "Tu": "te habías arrepentido",
+    "El": "se había arrepentido",
+    "Nosotros": "nos habíamos arrepentido",
+    "Vosotros": "os habíais arrepentido",
+    "Ellos": "se habían arrepentido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré arrepentido",
+    "Tu": "te habrás arrepentido",
+    "El": "se habrá arrepentido",
+    "Nosotros": "nos habremos arrepentido",
+    "Vosotros": "os habréis arrepentido",
+    "Ellos": "se habrán arrepentido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría arrepentido",
+    "Tu": "te habrías arrepentido",
+    "El": "se habría arrepentido",
+    "Nosotros": "nos habríamos arrepentido",
+    "Vosotros": "os habríais arrepentido",
+    "Ellos": "se habrían arrepentido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me arrepienta",
+    "Tu": "te arrepientas",
+    "El": "se arrepienta",
+    "Nosotros": "nos arrepintamos",
+    "Vosotros": "os arrepintáis",
+    "Ellos": "se arrepientan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "arrepiéntete",
+    "El": "arrepiéntase",
+    "Nosotros": "arrepintámonos",
+    "Vosotros": "arrepentíos",
+    "Ellos": "arrepiéntanse"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te arrepientas",
+    "El": "no se arrepienta",
+    "Nosotros": "no nos arrepintamos",
+    "Vosotros": "no os arrepentáis",
+    "Ellos": "no se arrepientan"
+  },
+  "ending": "ir"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "burlarse",
+  "englishInfinitive": "to mock",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "me burlo",
+    "Tu": "te burlas",
+    "El": "se burla",
+    "Nosotros": "nos burlamos",
+    "Vosotros": "os burláis",
+    "Ellos": "se burlan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me burlé",
+    "Tu": "te burlaste",
+    "El": "se burló",
+    "Nosotros": "nos burlamos",
+    "Vosotros": "os burlasteis",
+    "Ellos": "se burlaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me burlaré",
+    "Tu": "te burlarás",
+    "El": "se burlará",
+    "Nosotros": "nos burlaremos",
+    "Vosotros": "os burlaréis",
+    "Ellos": "se burlarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me burlaría",
+    "Tu": "te burlarías",
+    "El": "se burlaría",
+    "Nosotros": "nos burlaríamos",
+    "Vosotros": "os burlaríais",
+    "Ellos": "se burlarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me burlaba",
+    "Tu": "te burlabas",
+    "El": "se burlaba",
+    "Nosotros": "nos burlábamos",
+    "Vosotros": "os burlabais",
+    "Ellos": "se burlaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy burlando,estoy burlándome",
+    "Tu": "te estás burlando,estás burlándote",
+    "El": "se está burlando,está burlándose",
+    "Nosotros": "nos estamos burlando,estamos burlándonos",
+    "Vosotros": "os estáis burlando,estáis burlándoos",
+    "Ellos": "se están burlando,están burlándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he burlado",
+    "Tu": "te has burlado",
+    "El": "se ha burlado",
+    "Nosotros": "nos hemos burlado",
+    "Vosotros": "os habéis burlado",
+    "Ellos": "se han burlado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había burlado",
+    "Tu": "te habías burlado",
+    "El": "se había burlado",
+    "Nosotros": "nos habíamos burlado",
+    "Vosotros": "os habíais burlado",
+    "Ellos": "se habían burlado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré burlado",
+    "Tu": "te habrás burlado",
+    "El": "se habrá burlado",
+    "Nosotros": "nos habremos burlado",
+    "Vosotros": "os habréis burlado",
+    "Ellos": "se habrán burlado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría burlado",
+    "Tu": "te habrías burlado",
+    "El": "se habría burlado",
+    "Nosotros": "nos habríamos burlado",
+    "Vosotros": "os habríais burlado",
+    "Ellos": "se habrían burlado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me burle",
+    "Tu": "te burles",
+    "El": "se burle",
+    "Nosotros": "nos burlemos",
+    "Vosotros": "os burléis",
+    "Ellos": "se burlen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "búrlate",
+    "El": "búrlese",
+    "Nosotros": "burlémonos",
+    "Vosotros": "burlaos",
+    "Ellos": "búrlense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te burles",
+    "El": "no se burle",
+    "Nosotros": "no nos burlemos",
+    "Vosotros": "no os burléis",
+    "Ellos": "no se burlen"
+  },
+  "ending": "ar"
+}

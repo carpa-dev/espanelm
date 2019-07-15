@@ -1,0 +1,113 @@
+{
+  "verb": "presentir",
+  "englishInfinitive": "to have a premonition of",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "presiento",
+    "Tu": "presientes",
+    "El": "presiente",
+    "Nosotros": "presentimos",
+    "Vosotros": "presentís",
+    "Ellos": "presienten"
+  },
+  "IndicativePreterite": {
+    "Yo": "presentí",
+    "Tu": "presentiste",
+    "El": "presintió",
+    "Nosotros": "presentimos",
+    "Vosotros": "presentisteis",
+    "Ellos": "presintieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "presentiré",
+    "Tu": "presentirás",
+    "El": "presentirá",
+    "Nosotros": "presentiremos",
+    "Vosotros": "presentiréis",
+    "Ellos": "presentirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "presentiría",
+    "Tu": "presentirías",
+    "El": "presentiría",
+    "Nosotros": "presentiríamos",
+    "Vosotros": "presentiríais",
+    "Ellos": "presentirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "presentía",
+    "Tu": "presentías",
+    "El": "presentía",
+    "Nosotros": "presentíamos",
+    "Vosotros": "presentíais",
+    "Ellos": "presentían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy presintiendo",
+    "Tu": "estás presintiendo",
+    "El": "está presintiendo",
+    "Nosotros": "estamos presintiendo",
+    "Vosotros": "estáis presintiendo",
+    "Ellos": "están presintiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he presentido",
+    "Tu": "has presentido",
+    "El": "ha presentido",
+    "Nosotros": "hemos presentido",
+    "Vosotros": "habéis presentido",
+    "Ellos": "han presentido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había presentido",
+    "Tu": "habías presentido",
+    "El": "había presentido",
+    "Nosotros": "habíamos presentido",
+    "Vosotros": "habíais presentido",
+    "Ellos": "habían presentido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré presentido",
+    "Tu": "habrás presentido",
+    "El": "habrá presentido",
+    "Nosotros": "habremos presentido",
+    "Vosotros": "habréis presentido",
+    "Ellos": "habrán presentido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría presentido",
+    "Tu": "habrías presentido",
+    "El": "habría presentido",
+    "Nosotros": "habríamos presentido",
+    "Vosotros": "habríais presentido",
+    "Ellos": "habrían presentido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "presienta",
+    "Tu": "presientas",
+    "El": "presienta",
+    "Nosotros": "presintamos",
+    "Vosotros": "presintáis",
+    "Ellos": "presientan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "presiente",
+    "El": "presienta",
+    "Nosotros": "presintamos",
+    "Vosotros": "presentid",
+    "Ellos": "presientan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no presientas",
+    "El": "no presienta",
+    "Nosotros": "no presintamos",
+    "Vosotros": "no presintáis",
+    "Ellos": "no presientan"
+  },
+  "ending": "ir"
+}

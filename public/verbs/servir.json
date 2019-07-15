@@ -1,0 +1,113 @@
+{
+  "verb": "servir",
+  "englishInfinitive": "to serve",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "sirvo",
+    "Tu": "sirves",
+    "El": "sirve",
+    "Nosotros": "servimos",
+    "Vosotros": "servís",
+    "Ellos": "sirven"
+  },
+  "IndicativePreterite": {
+    "Yo": "serví",
+    "Tu": "serviste",
+    "El": "sirvió",
+    "Nosotros": "servimos",
+    "Vosotros": "servisteis",
+    "Ellos": "sirvieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "serviré",
+    "Tu": "servirás",
+    "El": "servirá",
+    "Nosotros": "serviremos",
+    "Vosotros": "serviréis",
+    "Ellos": "servirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "serviría",
+    "Tu": "servirías",
+    "El": "serviría",
+    "Nosotros": "serviríamos",
+    "Vosotros": "serviríais",
+    "Ellos": "servirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "servía",
+    "Tu": "servías",
+    "El": "servía",
+    "Nosotros": "servíamos",
+    "Vosotros": "servíais",
+    "Ellos": "servían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy sirviendo",
+    "Tu": "estás sirviendo",
+    "El": "está sirviendo",
+    "Nosotros": "estamos sirviendo",
+    "Vosotros": "estáis sirviendo",
+    "Ellos": "están sirviendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he servido",
+    "Tu": "has servido",
+    "El": "ha servido",
+    "Nosotros": "hemos servido",
+    "Vosotros": "habéis servido",
+    "Ellos": "han servido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había servido",
+    "Tu": "habías servido",
+    "El": "había servido",
+    "Nosotros": "habíamos servido",
+    "Vosotros": "habíais servido",
+    "Ellos": "habían servido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré servido",
+    "Tu": "habrás servido",
+    "El": "habrá servido",
+    "Nosotros": "habremos servido",
+    "Vosotros": "habréis servido",
+    "Ellos": "habrán servido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría servido",
+    "Tu": "habrías servido",
+    "El": "habría servido",
+    "Nosotros": "habríamos servido",
+    "Vosotros": "habríais servido",
+    "Ellos": "habrían servido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "sirva",
+    "Tu": "sirvas",
+    "El": "sirva",
+    "Nosotros": "sirvamos",
+    "Vosotros": "sirváis",
+    "Ellos": "sirvan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sirve",
+    "El": "sirva",
+    "Nosotros": "sirvamos",
+    "Vosotros": "servid",
+    "Ellos": "sirvan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sirvas",
+    "El": "no sirva",
+    "Nosotros": "no sirvamos",
+    "Vosotros": "no sirváis",
+    "Ellos": "no sirvan"
+  },
+  "ending": "ir"
+}

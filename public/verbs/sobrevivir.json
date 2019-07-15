@@ -1,0 +1,113 @@
+{
+  "verb": "sobrevivir",
+  "englishInfinitive": "to survive",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "sobrevivo",
+    "Tu": "sobrevives",
+    "El": "sobrevive",
+    "Nosotros": "sobrevivimos",
+    "Vosotros": "sobrevivís",
+    "Ellos": "sobreviven"
+  },
+  "IndicativePreterite": {
+    "Yo": "sobreviví",
+    "Tu": "sobreviviste",
+    "El": "sobrevivió",
+    "Nosotros": "sobrevivimos",
+    "Vosotros": "sobrevivisteis",
+    "Ellos": "sobrevivieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "sobreviviré",
+    "Tu": "sobrevivirás",
+    "El": "sobrevivirá",
+    "Nosotros": "sobreviviremos",
+    "Vosotros": "sobreviviréis",
+    "Ellos": "sobrevivirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "sobreviviría",
+    "Tu": "sobrevivirías",
+    "El": "sobreviviría",
+    "Nosotros": "sobreviviríamos",
+    "Vosotros": "sobreviviríais",
+    "Ellos": "sobrevivirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "sobrevivía",
+    "Tu": "sobrevivías",
+    "El": "sobrevivía",
+    "Nosotros": "sobrevivíamos",
+    "Vosotros": "sobrevivíais",
+    "Ellos": "sobrevivían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy sobreviviendo",
+    "Tu": "estás sobreviviendo",
+    "El": "está sobreviviendo",
+    "Nosotros": "estamos sobreviviendo",
+    "Vosotros": "estáis sobreviviendo",
+    "Ellos": "están sobreviviendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he sobrevivido",
+    "Tu": "has sobrevivido",
+    "El": "ha sobrevivido",
+    "Nosotros": "hemos sobrevivido",
+    "Vosotros": "habéis sobrevivido",
+    "Ellos": "han sobrevivido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había sobrevivido",
+    "Tu": "habías sobrevivido",
+    "El": "había sobrevivido",
+    "Nosotros": "habíamos sobrevivido",
+    "Vosotros": "habíais sobrevivido",
+    "Ellos": "habían sobrevivido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré sobrevivido",
+    "Tu": "habrás sobrevivido",
+    "El": "habrá sobrevivido",
+    "Nosotros": "habremos sobrevivido",
+    "Vosotros": "habréis sobrevivido",
+    "Ellos": "habrán sobrevivido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría sobrevivido",
+    "Tu": "habrías sobrevivido",
+    "El": "habría sobrevivido",
+    "Nosotros": "habríamos sobrevivido",
+    "Vosotros": "habríais sobrevivido",
+    "Ellos": "habrían sobrevivido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "sobreviva",
+    "Tu": "sobrevivas",
+    "El": "sobreviva",
+    "Nosotros": "sobrevivamos",
+    "Vosotros": "sobreviváis",
+    "Ellos": "sobrevivan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sobrevive",
+    "El": "sobreviva",
+    "Nosotros": "sobrevivamos",
+    "Vosotros": "sobrevivid",
+    "Ellos": "sobrevivan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sobrevivas",
+    "El": "no sobreviva",
+    "Nosotros": "no sobrevivamos",
+    "Vosotros": "no sobreviváis",
+    "Ellos": "no sobrevivan"
+  },
+  "ending": "ir"
+}

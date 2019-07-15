@@ -1,0 +1,113 @@
+{
+  "verb": "simbolizar",
+  "englishInfinitive": "to symbolize",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "simbolizo",
+    "Tu": "simbolizas",
+    "El": "simboliza",
+    "Nosotros": "simbolizamos",
+    "Vosotros": "simbolizáis",
+    "Ellos": "simbolizan"
+  },
+  "IndicativePreterite": {
+    "Yo": "simbolicé",
+    "Tu": "simbolizaste",
+    "El": "simbolizó",
+    "Nosotros": "simbolizamos",
+    "Vosotros": "simbolizasteis",
+    "Ellos": "simbolizaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "simbolizaré",
+    "Tu": "simbolizarás",
+    "El": "simbolizará",
+    "Nosotros": "simbolizaremos",
+    "Vosotros": "simbolizaréis",
+    "Ellos": "simbolizarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "simbolizaría",
+    "Tu": "simbolizarías",
+    "El": "simbolizaría",
+    "Nosotros": "simbolizaríamos",
+    "Vosotros": "simbolizaríais",
+    "Ellos": "simbolizarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "simbolizaba",
+    "Tu": "simbolizabas",
+    "El": "simbolizaba",
+    "Nosotros": "simbolizábamos",
+    "Vosotros": "simbolizabais",
+    "Ellos": "simbolizaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy simbolizando",
+    "Tu": "estás simbolizando",
+    "El": "está simbolizando",
+    "Nosotros": "estamos simbolizando",
+    "Vosotros": "estáis simbolizando",
+    "Ellos": "están simbolizando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he simbolizado",
+    "Tu": "has simbolizado",
+    "El": "ha simbolizado",
+    "Nosotros": "hemos simbolizado",
+    "Vosotros": "habéis simbolizado",
+    "Ellos": "han simbolizado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había simbolizado",
+    "Tu": "habías simbolizado",
+    "El": "había simbolizado",
+    "Nosotros": "habíamos simbolizado",
+    "Vosotros": "habíais simbolizado",
+    "Ellos": "habían simbolizado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré simbolizado",
+    "Tu": "habrás simbolizado",
+    "El": "habrá simbolizado",
+    "Nosotros": "habremos simbolizado",
+    "Vosotros": "habréis simbolizado",
+    "Ellos": "habrán simbolizado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría simbolizado",
+    "Tu": "habrías simbolizado",
+    "El": "habría simbolizado",
+    "Nosotros": "habríamos simbolizado",
+    "Vosotros": "habríais simbolizado",
+    "Ellos": "habrían simbolizado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "simbolice",
+    "Tu": "simbolices",
+    "El": "simbolice",
+    "Nosotros": "simbolicemos",
+    "Vosotros": "simbolicéis",
+    "Ellos": "simbolicen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "simboliza",
+    "El": "simbolice",
+    "Nosotros": "simbolicemos",
+    "Vosotros": "simbolizad",
+    "Ellos": "simbolicen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no simbolices",
+    "El": "no simbolice",
+    "Nosotros": "no simbolicemos",
+    "Vosotros": "no simbolicéis",
+    "Ellos": "no simbolicen"
+  },
+  "ending": "ar"
+}

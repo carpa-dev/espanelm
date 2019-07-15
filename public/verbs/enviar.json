@@ -1,0 +1,113 @@
+{
+  "verb": "enviar",
+  "englishInfinitive": "to send",
+  "irregular": true,
+  "type": "i > í",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "envío",
+    "Tu": "envías",
+    "El": "envía",
+    "Nosotros": "enviamos",
+    "Vosotros": "enviáis",
+    "Ellos": "envían"
+  },
+  "IndicativePreterite": {
+    "Yo": "envié",
+    "Tu": "enviaste",
+    "El": "envió",
+    "Nosotros": "enviamos",
+    "Vosotros": "enviasteis",
+    "Ellos": "enviaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "enviaré",
+    "Tu": "enviarás",
+    "El": "enviará",
+    "Nosotros": "enviaremos",
+    "Vosotros": "enviaréis",
+    "Ellos": "enviarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "enviaría",
+    "Tu": "enviarías",
+    "El": "enviaría",
+    "Nosotros": "enviaríamos",
+    "Vosotros": "enviaríais",
+    "Ellos": "enviarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "enviaba",
+    "Tu": "enviabas",
+    "El": "enviaba",
+    "Nosotros": "enviábamos",
+    "Vosotros": "enviabais",
+    "Ellos": "enviaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy enviando",
+    "Tu": "estás enviando",
+    "El": "está enviando",
+    "Nosotros": "estamos enviando",
+    "Vosotros": "estáis enviando",
+    "Ellos": "están enviando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he enviado",
+    "Tu": "has enviado",
+    "El": "ha enviado",
+    "Nosotros": "hemos enviado",
+    "Vosotros": "habéis enviado",
+    "Ellos": "han enviado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había enviado",
+    "Tu": "habías enviado",
+    "El": "había enviado",
+    "Nosotros": "habíamos enviado",
+    "Vosotros": "habíais enviado",
+    "Ellos": "habían enviado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré enviado",
+    "Tu": "habrás enviado",
+    "El": "habrá enviado",
+    "Nosotros": "habremos enviado",
+    "Vosotros": "habréis enviado",
+    "Ellos": "habrán enviado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría enviado",
+    "Tu": "habrías enviado",
+    "El": "habría enviado",
+    "Nosotros": "habríamos enviado",
+    "Vosotros": "habríais enviado",
+    "Ellos": "habrían enviado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "envíe",
+    "Tu": "envíes",
+    "El": "envíe",
+    "Nosotros": "enviemos",
+    "Vosotros": "enviéis",
+    "Ellos": "envíen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "envía",
+    "El": "envíe",
+    "Nosotros": "enviemos",
+    "Vosotros": "enviad",
+    "Ellos": "envíen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no envíes",
+    "El": "no envíe",
+    "Nosotros": "no enviemos",
+    "Vosotros": "no enviéis",
+    "Ellos": "no envíen"
+  },
+  "ending": "ar"
+}

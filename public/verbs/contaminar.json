@@ -1,0 +1,113 @@
+{
+  "verb": "contaminar",
+  "englishInfinitive": "to contaminate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "contamino",
+    "Tu": "contaminas",
+    "El": "contamina",
+    "Nosotros": "contaminamos",
+    "Vosotros": "contamináis",
+    "Ellos": "contaminan"
+  },
+  "IndicativePreterite": {
+    "Yo": "contaminé",
+    "Tu": "contaminaste",
+    "El": "contaminó",
+    "Nosotros": "contaminamos",
+    "Vosotros": "contaminasteis",
+    "Ellos": "contaminaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "contaminaré",
+    "Tu": "contaminarás",
+    "El": "contaminará",
+    "Nosotros": "contaminaremos",
+    "Vosotros": "contaminaréis",
+    "Ellos": "contaminarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "contaminaría",
+    "Tu": "contaminarías",
+    "El": "contaminaría",
+    "Nosotros": "contaminaríamos",
+    "Vosotros": "contaminaríais",
+    "Ellos": "contaminarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "contaminaba",
+    "Tu": "contaminabas",
+    "El": "contaminaba",
+    "Nosotros": "contaminábamos",
+    "Vosotros": "contaminabais",
+    "Ellos": "contaminaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy contaminando",
+    "Tu": "estás contaminando",
+    "El": "está contaminando",
+    "Nosotros": "estamos contaminando",
+    "Vosotros": "estáis contaminando",
+    "Ellos": "están contaminando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he contaminado",
+    "Tu": "has contaminado",
+    "El": "ha contaminado",
+    "Nosotros": "hemos contaminado",
+    "Vosotros": "habéis contaminado",
+    "Ellos": "han contaminado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había contaminado",
+    "Tu": "habías contaminado",
+    "El": "había contaminado",
+    "Nosotros": "habíamos contaminado",
+    "Vosotros": "habíais contaminado",
+    "Ellos": "habían contaminado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré contaminado",
+    "Tu": "habrás contaminado",
+    "El": "habrá contaminado",
+    "Nosotros": "habremos contaminado",
+    "Vosotros": "habréis contaminado",
+    "Ellos": "habrán contaminado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría contaminado",
+    "Tu": "habrías contaminado",
+    "El": "habría contaminado",
+    "Nosotros": "habríamos contaminado",
+    "Vosotros": "habríais contaminado",
+    "Ellos": "habrían contaminado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "contamine",
+    "Tu": "contamines",
+    "El": "contamine",
+    "Nosotros": "contaminemos",
+    "Vosotros": "contaminéis",
+    "Ellos": "contaminen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "contamina",
+    "El": "contamine",
+    "Nosotros": "contaminemos",
+    "Vosotros": "contaminad",
+    "Ellos": "contaminen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no contamines",
+    "El": "no contamine",
+    "Nosotros": "no contaminemos",
+    "Vosotros": "no contaminéis",
+    "Ellos": "no contaminen"
+  },
+  "ending": "ar"
+}

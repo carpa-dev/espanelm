@@ -1,0 +1,113 @@
+{
+  "verb": "satirizar",
+  "englishInfinitive": "to satirize",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "satirizo",
+    "Tu": "satirizas",
+    "El": "satiriza",
+    "Nosotros": "satirizamos",
+    "Vosotros": "satirizáis",
+    "Ellos": "satirizan"
+  },
+  "IndicativePreterite": {
+    "Yo": "satiricé",
+    "Tu": "satirizaste",
+    "El": "satirizó",
+    "Nosotros": "satirizamos",
+    "Vosotros": "satirizasteis",
+    "Ellos": "satirizaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "satirizaré",
+    "Tu": "satirizarás",
+    "El": "satirizará",
+    "Nosotros": "satirizaremos",
+    "Vosotros": "satirizaréis",
+    "Ellos": "satirizarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "satirizaría",
+    "Tu": "satirizarías",
+    "El": "satirizaría",
+    "Nosotros": "satirizaríamos",
+    "Vosotros": "satirizaríais",
+    "Ellos": "satirizarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "satirizaba",
+    "Tu": "satirizabas",
+    "El": "satirizaba",
+    "Nosotros": "satirizábamos",
+    "Vosotros": "satirizabais",
+    "Ellos": "satirizaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy satirizando",
+    "Tu": "estás satirizando",
+    "El": "está satirizando",
+    "Nosotros": "estamos satirizando",
+    "Vosotros": "estáis satirizando",
+    "Ellos": "están satirizando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he satirizado",
+    "Tu": "has satirizado",
+    "El": "ha satirizado",
+    "Nosotros": "hemos satirizado",
+    "Vosotros": "habéis satirizado",
+    "Ellos": "han satirizado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había satirizado",
+    "Tu": "habías satirizado",
+    "El": "había satirizado",
+    "Nosotros": "habíamos satirizado",
+    "Vosotros": "habíais satirizado",
+    "Ellos": "habían satirizado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré satirizado",
+    "Tu": "habrás satirizado",
+    "El": "habrá satirizado",
+    "Nosotros": "habremos satirizado",
+    "Vosotros": "habréis satirizado",
+    "Ellos": "habrán satirizado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría satirizado",
+    "Tu": "habrías satirizado",
+    "El": "habría satirizado",
+    "Nosotros": "habríamos satirizado",
+    "Vosotros": "habríais satirizado",
+    "Ellos": "habrían satirizado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "satirice",
+    "Tu": "satirices",
+    "El": "satirice",
+    "Nosotros": "satiricemos",
+    "Vosotros": "satiricéis",
+    "Ellos": "satiricen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "satiriza",
+    "El": "satirice",
+    "Nosotros": "satiricemos",
+    "Vosotros": "satirizad",
+    "Ellos": "satiricen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no satirices",
+    "El": "no satirice",
+    "Nosotros": "no satiricemos",
+    "Vosotros": "no satiricéis",
+    "Ellos": "no satiricen"
+  },
+  "ending": "ar"
+}

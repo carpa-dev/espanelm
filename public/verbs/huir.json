@@ -1,0 +1,113 @@
+{
+  "verb": "huir",
+  "englishInfinitive": "to flee",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "huyo",
+    "Tu": "huyes",
+    "El": "huye",
+    "Nosotros": "huimos",
+    "Vosotros": "huís",
+    "Ellos": "huyen"
+  },
+  "IndicativePreterite": {
+    "Yo": "huí",
+    "Tu": "huiste",
+    "El": "huyó",
+    "Nosotros": "huimos",
+    "Vosotros": "huisteis",
+    "Ellos": "huyeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "huiré",
+    "Tu": "huirás",
+    "El": "huirá",
+    "Nosotros": "huiremos",
+    "Vosotros": "huiréis",
+    "Ellos": "huirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "huiría",
+    "Tu": "huirías",
+    "El": "huiría",
+    "Nosotros": "huiríamos",
+    "Vosotros": "huiríais",
+    "Ellos": "huirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "huía",
+    "Tu": "huías",
+    "El": "huía",
+    "Nosotros": "huíamos",
+    "Vosotros": "huíais",
+    "Ellos": "huían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy huyendo",
+    "Tu": "estás huyendo",
+    "El": "está huyendo",
+    "Nosotros": "estamos huyendo",
+    "Vosotros": "estáis huyendo",
+    "Ellos": "están huyendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he huido",
+    "Tu": "has huido",
+    "El": "ha huido",
+    "Nosotros": "hemos huido",
+    "Vosotros": "habéis huido",
+    "Ellos": "han huido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había huido",
+    "Tu": "habías huido",
+    "El": "había huido",
+    "Nosotros": "habíamos huido",
+    "Vosotros": "habíais huido",
+    "Ellos": "habían huido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré huido",
+    "Tu": "habrás huido",
+    "El": "habrá huido",
+    "Nosotros": "habremos huido",
+    "Vosotros": "habréis huido",
+    "Ellos": "habrán huido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría huido",
+    "Tu": "habrías huido",
+    "El": "habría huido",
+    "Nosotros": "habríamos huido",
+    "Vosotros": "habríais huido",
+    "Ellos": "habrían huido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "huya",
+    "Tu": "huyas",
+    "El": "huya",
+    "Nosotros": "huyamos",
+    "Vosotros": "huyáis",
+    "Ellos": "huyan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "huye",
+    "El": "huya",
+    "Nosotros": "huyamos",
+    "Vosotros": "huid",
+    "Ellos": "huyan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no huyas",
+    "El": "no huya",
+    "Nosotros": "no huyamos",
+    "Vosotros": "no huyáis",
+    "Ellos": "no huyan"
+  },
+  "ending": "ir"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "confiar",
+  "englishInfinitive": "to trust",
+  "irregular": true,
+  "type": "i > í",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "confío",
+    "Tu": "confías",
+    "El": "confía",
+    "Nosotros": "confiamos",
+    "Vosotros": "confiáis",
+    "Ellos": "confían"
+  },
+  "IndicativePreterite": {
+    "Yo": "confié",
+    "Tu": "confiaste",
+    "El": "confió",
+    "Nosotros": "confiamos",
+    "Vosotros": "confiasteis",
+    "Ellos": "confiaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "confiaré",
+    "Tu": "confiarás",
+    "El": "confiará",
+    "Nosotros": "confiaremos",
+    "Vosotros": "confiaréis",
+    "Ellos": "confiarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "confiaría",
+    "Tu": "confiarías",
+    "El": "confiaría",
+    "Nosotros": "confiaríamos",
+    "Vosotros": "confiaríais",
+    "Ellos": "confiarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "confiaba",
+    "Tu": "confiabas",
+    "El": "confiaba",
+    "Nosotros": "confiábamos",
+    "Vosotros": "confiabais",
+    "Ellos": "confiaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy confiando",
+    "Tu": "estás confiando",
+    "El": "está confiando",
+    "Nosotros": "estamos confiando",
+    "Vosotros": "estáis confiando",
+    "Ellos": "están confiando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he confiado",
+    "Tu": "has confiado",
+    "El": "ha confiado",
+    "Nosotros": "hemos confiado",
+    "Vosotros": "habéis confiado",
+    "Ellos": "han confiado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había confiado",
+    "Tu": "habías confiado",
+    "El": "había confiado",
+    "Nosotros": "habíamos confiado",
+    "Vosotros": "habíais confiado",
+    "Ellos": "habían confiado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré confiado",
+    "Tu": "habrás confiado",
+    "El": "habrá confiado",
+    "Nosotros": "habremos confiado",
+    "Vosotros": "habréis confiado",
+    "Ellos": "habrán confiado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría confiado",
+    "Tu": "habrías confiado",
+    "El": "habría confiado",
+    "Nosotros": "habríamos confiado",
+    "Vosotros": "habríais confiado",
+    "Ellos": "habrían confiado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "confíe",
+    "Tu": "confíes",
+    "El": "confíe",
+    "Nosotros": "confiemos",
+    "Vosotros": "confiéis",
+    "Ellos": "confíen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "confía",
+    "El": "confíe",
+    "Nosotros": "confiemos",
+    "Vosotros": "confiad",
+    "Ellos": "confíen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no confíes",
+    "El": "no confíe",
+    "Nosotros": "no confiemos",
+    "Vosotros": "no confiéis",
+    "Ellos": "no confíen"
+  },
+  "ending": "ar"
+}

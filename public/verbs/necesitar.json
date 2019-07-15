@@ -1,0 +1,113 @@
+{
+  "verb": "necesitar",
+  "englishInfinitive": "to need",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "necesito",
+    "Tu": "necesitas",
+    "El": "necesita",
+    "Nosotros": "necesitamos",
+    "Vosotros": "necesitáis",
+    "Ellos": "necesitan"
+  },
+  "IndicativePreterite": {
+    "Yo": "necesité",
+    "Tu": "necesitaste",
+    "El": "necesitó",
+    "Nosotros": "necesitamos",
+    "Vosotros": "necesitasteis",
+    "Ellos": "necesitaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "necesitaré",
+    "Tu": "necesitarás",
+    "El": "necesitará",
+    "Nosotros": "necesitaremos",
+    "Vosotros": "necesitaréis",
+    "Ellos": "necesitarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "necesitaría",
+    "Tu": "necesitarías",
+    "El": "necesitaría",
+    "Nosotros": "necesitaríamos",
+    "Vosotros": "necesitaríais",
+    "Ellos": "necesitarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "necesitaba",
+    "Tu": "necesitabas",
+    "El": "necesitaba",
+    "Nosotros": "necesitábamos",
+    "Vosotros": "necesitabais",
+    "Ellos": "necesitaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy necesitando",
+    "Tu": "estás necesitando",
+    "El": "está necesitando",
+    "Nosotros": "estamos necesitando",
+    "Vosotros": "estáis necesitando",
+    "Ellos": "están necesitando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he necesitado",
+    "Tu": "has necesitado",
+    "El": "ha necesitado",
+    "Nosotros": "hemos necesitado",
+    "Vosotros": "habéis necesitado",
+    "Ellos": "han necesitado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había necesitado",
+    "Tu": "habías necesitado",
+    "El": "había necesitado",
+    "Nosotros": "habíamos necesitado",
+    "Vosotros": "habíais necesitado",
+    "Ellos": "habían necesitado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré necesitado",
+    "Tu": "habrás necesitado",
+    "El": "habrá necesitado",
+    "Nosotros": "habremos necesitado",
+    "Vosotros": "habréis necesitado",
+    "Ellos": "habrán necesitado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría necesitado",
+    "Tu": "habrías necesitado",
+    "El": "habría necesitado",
+    "Nosotros": "habríamos necesitado",
+    "Vosotros": "habríais necesitado",
+    "Ellos": "habrían necesitado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "necesite",
+    "Tu": "necesites",
+    "El": "necesite",
+    "Nosotros": "necesitemos",
+    "Vosotros": "necesitéis",
+    "Ellos": "necesiten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "necesita",
+    "El": "necesite",
+    "Nosotros": "necesitemos",
+    "Vosotros": "necesitad",
+    "Ellos": "necesiten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no necesites",
+    "El": "no necesite",
+    "Nosotros": "no necesitemos",
+    "Vosotros": "no necesitéis",
+    "Ellos": "no necesiten"
+  },
+  "ending": "ar"
+}

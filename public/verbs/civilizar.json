@@ -1,0 +1,113 @@
+{
+  "verb": "civilizar",
+  "englishInfinitive": "to civilize",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "civilizo",
+    "Tu": "civilizas",
+    "El": "civiliza",
+    "Nosotros": "civilizamos",
+    "Vosotros": "civilizáis",
+    "Ellos": "civilizan"
+  },
+  "IndicativePreterite": {
+    "Yo": "civilicé",
+    "Tu": "civilizaste",
+    "El": "civilizó",
+    "Nosotros": "civilizamos",
+    "Vosotros": "civilizasteis",
+    "Ellos": "civilizaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "civilizaré",
+    "Tu": "civilizarás",
+    "El": "civilizará",
+    "Nosotros": "civilizaremos",
+    "Vosotros": "civilizaréis",
+    "Ellos": "civilizarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "civilizaría",
+    "Tu": "civilizarías",
+    "El": "civilizaría",
+    "Nosotros": "civilizaríamos",
+    "Vosotros": "civilizaríais",
+    "Ellos": "civilizarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "civilizaba",
+    "Tu": "civilizabas",
+    "El": "civilizaba",
+    "Nosotros": "civilizábamos",
+    "Vosotros": "civilizabais",
+    "Ellos": "civilizaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy civilizando",
+    "Tu": "estás civilizando",
+    "El": "está civilizando",
+    "Nosotros": "estamos civilizando",
+    "Vosotros": "estáis civilizando",
+    "Ellos": "están civilizando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he civilizado",
+    "Tu": "has civilizado",
+    "El": "ha civilizado",
+    "Nosotros": "hemos civilizado",
+    "Vosotros": "habéis civilizado",
+    "Ellos": "han civilizado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había civilizado",
+    "Tu": "habías civilizado",
+    "El": "había civilizado",
+    "Nosotros": "habíamos civilizado",
+    "Vosotros": "habíais civilizado",
+    "Ellos": "habían civilizado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré civilizado",
+    "Tu": "habrás civilizado",
+    "El": "habrá civilizado",
+    "Nosotros": "habremos civilizado",
+    "Vosotros": "habréis civilizado",
+    "Ellos": "habrán civilizado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría civilizado",
+    "Tu": "habrías civilizado",
+    "El": "habría civilizado",
+    "Nosotros": "habríamos civilizado",
+    "Vosotros": "habríais civilizado",
+    "Ellos": "habrían civilizado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "civilice",
+    "Tu": "civilices",
+    "El": "civilice",
+    "Nosotros": "civilicemos",
+    "Vosotros": "civilicéis",
+    "Ellos": "civilicen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "civiliza",
+    "El": "civilice",
+    "Nosotros": "civilicemos",
+    "Vosotros": "civilizad",
+    "Ellos": "civilicen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no civilices",
+    "El": "no civilice",
+    "Nosotros": "no civilicemos",
+    "Vosotros": "no civilicéis",
+    "Ellos": "no civilicen"
+  },
+  "ending": "ar"
+}

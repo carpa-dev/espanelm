@@ -1,0 +1,113 @@
+{
+  "verb": "amanecer",
+  "englishInfinitive": "to dawn",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "amanezco",
+    "Tu": "amaneces",
+    "El": "amanece",
+    "Nosotros": "amanecemos",
+    "Vosotros": "amanecéis",
+    "Ellos": "amanecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "amanecí",
+    "Tu": "amaneciste",
+    "El": "amaneció",
+    "Nosotros": "amanecimos",
+    "Vosotros": "amanecisteis",
+    "Ellos": "amanecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "amaneceré",
+    "Tu": "amanecerás",
+    "El": "amanecerá",
+    "Nosotros": "amaneceremos",
+    "Vosotros": "amaneceréis",
+    "Ellos": "amanecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "amanecería",
+    "Tu": "amanecerías",
+    "El": "amanecería",
+    "Nosotros": "amaneceríamos",
+    "Vosotros": "amaneceríais",
+    "Ellos": "amanecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "amanecía",
+    "Tu": "amanecías",
+    "El": "amanecía",
+    "Nosotros": "amanecíamos",
+    "Vosotros": "amanecíais",
+    "Ellos": "amanecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy amaneciendo",
+    "Tu": "estás amaneciendo",
+    "El": "está amaneciendo",
+    "Nosotros": "estamos amaneciendo",
+    "Vosotros": "estáis amaneciendo",
+    "Ellos": "están amaneciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he amanecido",
+    "Tu": "has amanecido",
+    "El": "ha amanecido",
+    "Nosotros": "hemos amanecido",
+    "Vosotros": "habéis amanecido",
+    "Ellos": "han amanecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había amanecido",
+    "Tu": "habías amanecido",
+    "El": "había amanecido",
+    "Nosotros": "habíamos amanecido",
+    "Vosotros": "habíais amanecido",
+    "Ellos": "habían amanecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré amanecido",
+    "Tu": "habrás amanecido",
+    "El": "habrá amanecido",
+    "Nosotros": "habremos amanecido",
+    "Vosotros": "habréis amanecido",
+    "Ellos": "habrán amanecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría amanecido",
+    "Tu": "habrías amanecido",
+    "El": "habría amanecido",
+    "Nosotros": "habríamos amanecido",
+    "Vosotros": "habríais amanecido",
+    "Ellos": "habrían amanecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "amanezca",
+    "Tu": "amanezcas",
+    "El": "amanezca",
+    "Nosotros": "amanezcamos",
+    "Vosotros": "amanezcáis",
+    "Ellos": "amanezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "amanece",
+    "El": "amanezca",
+    "Nosotros": "amanezcamos",
+    "Vosotros": "amaneced",
+    "Ellos": "amanezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no amanezcas",
+    "El": "no amanezca",
+    "Nosotros": "no amanezcamos",
+    "Vosotros": "no amanezcáis",
+    "Ellos": "no amanezcan"
+  },
+  "ending": "er"
+}

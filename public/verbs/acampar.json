@@ -1,0 +1,113 @@
+{
+  "verb": "acampar",
+  "englishInfinitive": "to camp",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "acampo",
+    "Tu": "acampas",
+    "El": "acampa",
+    "Nosotros": "acampamos",
+    "Vosotros": "acampáis",
+    "Ellos": "acampan"
+  },
+  "IndicativePreterite": {
+    "Yo": "acampé",
+    "Tu": "acampaste",
+    "El": "acampó",
+    "Nosotros": "acampamos",
+    "Vosotros": "acampasteis",
+    "Ellos": "acamparon"
+  },
+  "IndicativeFuture": {
+    "Yo": "acamparé",
+    "Tu": "acamparás",
+    "El": "acampará",
+    "Nosotros": "acamparemos",
+    "Vosotros": "acamparéis",
+    "Ellos": "acamparán"
+  },
+  "ConditionalPresent": {
+    "Yo": "acamparía",
+    "Tu": "acamparías",
+    "El": "acamparía",
+    "Nosotros": "acamparíamos",
+    "Vosotros": "acamparíais",
+    "Ellos": "acamparían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "acampaba",
+    "Tu": "acampabas",
+    "El": "acampaba",
+    "Nosotros": "acampábamos",
+    "Vosotros": "acampabais",
+    "Ellos": "acampaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy acampando",
+    "Tu": "estás acampando",
+    "El": "está acampando",
+    "Nosotros": "estamos acampando",
+    "Vosotros": "estáis acampando",
+    "Ellos": "están acampando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he acampado",
+    "Tu": "has acampado",
+    "El": "ha acampado",
+    "Nosotros": "hemos acampado",
+    "Vosotros": "habéis acampado",
+    "Ellos": "han acampado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había acampado",
+    "Tu": "habías acampado",
+    "El": "había acampado",
+    "Nosotros": "habíamos acampado",
+    "Vosotros": "habíais acampado",
+    "Ellos": "habían acampado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré acampado",
+    "Tu": "habrás acampado",
+    "El": "habrá acampado",
+    "Nosotros": "habremos acampado",
+    "Vosotros": "habréis acampado",
+    "Ellos": "habrán acampado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría acampado",
+    "Tu": "habrías acampado",
+    "El": "habría acampado",
+    "Nosotros": "habríamos acampado",
+    "Vosotros": "habríais acampado",
+    "Ellos": "habrían acampado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "acampe",
+    "Tu": "acampes",
+    "El": "acampe",
+    "Nosotros": "acampemos",
+    "Vosotros": "acampéis",
+    "Ellos": "acampen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "acampa",
+    "El": "acampe",
+    "Nosotros": "acampemos",
+    "Vosotros": "acampad",
+    "Ellos": "acampen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no acampes",
+    "El": "no acampe",
+    "Nosotros": "no acampemos",
+    "Vosotros": "no acampéis",
+    "Ellos": "no acampen"
+  },
+  "ending": "ar"
+}

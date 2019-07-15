@@ -1,0 +1,113 @@
+{
+  "verb": "soler",
+  "englishInfinitive": "to be accustomed to",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "suelo",
+    "Tu": "sueles",
+    "El": "suele",
+    "Nosotros": "solemos",
+    "Vosotros": "soléis",
+    "Ellos": "suelen"
+  },
+  "IndicativePreterite": {
+    "Yo": "solí",
+    "Tu": "soliste",
+    "El": "solió",
+    "Nosotros": "solimos",
+    "Vosotros": "solisteis",
+    "Ellos": "solieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "soleré",
+    "Tu": "solerás",
+    "El": "solerá",
+    "Nosotros": "soleremos",
+    "Vosotros": "soleréis",
+    "Ellos": "solerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "solería",
+    "Tu": "solerías",
+    "El": "solería",
+    "Nosotros": "soleríamos",
+    "Vosotros": "soleríais",
+    "Ellos": "solerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "solía",
+    "Tu": "solías",
+    "El": "solía",
+    "Nosotros": "solíamos",
+    "Vosotros": "solíais",
+    "Ellos": "solían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy soliendo",
+    "Tu": "estás soliendo",
+    "El": "está soliendo",
+    "Nosotros": "estamos soliendo",
+    "Vosotros": "estáis soliendo",
+    "Ellos": "están soliendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he solido",
+    "Tu": "has solido",
+    "El": "ha solido",
+    "Nosotros": "hemos solido",
+    "Vosotros": "habéis solido",
+    "Ellos": "han solido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había solido",
+    "Tu": "habías solido",
+    "El": "había solido",
+    "Nosotros": "habíamos solido",
+    "Vosotros": "habíais solido",
+    "Ellos": "habían solido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré solido",
+    "Tu": "habrás solido",
+    "El": "habrá solido",
+    "Nosotros": "habremos solido",
+    "Vosotros": "habréis solido",
+    "Ellos": "habrán solido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría solido",
+    "Tu": "habrías solido",
+    "El": "habría solido",
+    "Nosotros": "habríamos solido",
+    "Vosotros": "habríais solido",
+    "Ellos": "habrían solido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "suela",
+    "Tu": "suelas",
+    "El": "suela",
+    "Nosotros": "solamos",
+    "Vosotros": "soláis",
+    "Ellos": "suelan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "suele",
+    "El": "suela",
+    "Nosotros": "solamos",
+    "Vosotros": "soled",
+    "Ellos": "suelan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no suelas",
+    "El": "no suela",
+    "Nosotros": "no solamos",
+    "Vosotros": "no soláis",
+    "Ellos": "no suelan"
+  },
+  "ending": "er"
+}

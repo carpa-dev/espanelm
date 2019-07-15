@@ -1,0 +1,113 @@
+{
+  "verb": "pasar",
+  "englishInfinitive": "to pass",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "paso",
+    "Tu": "pasas",
+    "El": "pasa",
+    "Nosotros": "pasamos",
+    "Vosotros": "pasáis",
+    "Ellos": "pasan"
+  },
+  "IndicativePreterite": {
+    "Yo": "pasé",
+    "Tu": "pasaste",
+    "El": "pasó",
+    "Nosotros": "pasamos",
+    "Vosotros": "pasasteis",
+    "Ellos": "pasaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "pasaré",
+    "Tu": "pasarás",
+    "El": "pasará",
+    "Nosotros": "pasaremos",
+    "Vosotros": "pasaréis",
+    "Ellos": "pasarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "pasaría",
+    "Tu": "pasarías",
+    "El": "pasaría",
+    "Nosotros": "pasaríamos",
+    "Vosotros": "pasaríais",
+    "Ellos": "pasarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "pasaba",
+    "Tu": "pasabas",
+    "El": "pasaba",
+    "Nosotros": "pasábamos",
+    "Vosotros": "pasabais",
+    "Ellos": "pasaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy pasando",
+    "Tu": "estás pasando",
+    "El": "está pasando",
+    "Nosotros": "estamos pasando",
+    "Vosotros": "estáis pasando",
+    "Ellos": "están pasando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he pasado",
+    "Tu": "has pasado",
+    "El": "ha pasado",
+    "Nosotros": "hemos pasado",
+    "Vosotros": "habéis pasado",
+    "Ellos": "han pasado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había pasado",
+    "Tu": "habías pasado",
+    "El": "había pasado",
+    "Nosotros": "habíamos pasado",
+    "Vosotros": "habíais pasado",
+    "Ellos": "habían pasado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré pasado",
+    "Tu": "habrás pasado",
+    "El": "habrá pasado",
+    "Nosotros": "habremos pasado",
+    "Vosotros": "habréis pasado",
+    "Ellos": "habrán pasado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría pasado",
+    "Tu": "habrías pasado",
+    "El": "habría pasado",
+    "Nosotros": "habríamos pasado",
+    "Vosotros": "habríais pasado",
+    "Ellos": "habrían pasado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "pase",
+    "Tu": "pases",
+    "El": "pase",
+    "Nosotros": "pasemos",
+    "Vosotros": "paséis",
+    "Ellos": "pasen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "pasa",
+    "El": "pase",
+    "Nosotros": "pasemos",
+    "Vosotros": "pasad",
+    "Ellos": "pasen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no pases",
+    "El": "no pase",
+    "Nosotros": "no pasemos",
+    "Vosotros": "no paséis",
+    "Ellos": "no pasen"
+  },
+  "ending": "ar"
+}

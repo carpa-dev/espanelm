@@ -1,0 +1,113 @@
+{
+  "verb": "saltar",
+  "englishInfinitive": "to jump",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "salto",
+    "Tu": "saltas",
+    "El": "salta",
+    "Nosotros": "saltamos",
+    "Vosotros": "saltáis",
+    "Ellos": "saltan"
+  },
+  "IndicativePreterite": {
+    "Yo": "salté",
+    "Tu": "saltaste",
+    "El": "saltó",
+    "Nosotros": "saltamos",
+    "Vosotros": "saltasteis",
+    "Ellos": "saltaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "saltaré",
+    "Tu": "saltarás",
+    "El": "saltará",
+    "Nosotros": "saltaremos",
+    "Vosotros": "saltaréis",
+    "Ellos": "saltarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "saltaría",
+    "Tu": "saltarías",
+    "El": "saltaría",
+    "Nosotros": "saltaríamos",
+    "Vosotros": "saltaríais",
+    "Ellos": "saltarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "saltaba",
+    "Tu": "saltabas",
+    "El": "saltaba",
+    "Nosotros": "saltábamos",
+    "Vosotros": "saltabais",
+    "Ellos": "saltaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy saltando",
+    "Tu": "estás saltando",
+    "El": "está saltando",
+    "Nosotros": "estamos saltando",
+    "Vosotros": "estáis saltando",
+    "Ellos": "están saltando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he saltado",
+    "Tu": "has saltado",
+    "El": "ha saltado",
+    "Nosotros": "hemos saltado",
+    "Vosotros": "habéis saltado",
+    "Ellos": "han saltado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había saltado",
+    "Tu": "habías saltado",
+    "El": "había saltado",
+    "Nosotros": "habíamos saltado",
+    "Vosotros": "habíais saltado",
+    "Ellos": "habían saltado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré saltado",
+    "Tu": "habrás saltado",
+    "El": "habrá saltado",
+    "Nosotros": "habremos saltado",
+    "Vosotros": "habréis saltado",
+    "Ellos": "habrán saltado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría saltado",
+    "Tu": "habrías saltado",
+    "El": "habría saltado",
+    "Nosotros": "habríamos saltado",
+    "Vosotros": "habríais saltado",
+    "Ellos": "habrían saltado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "salte",
+    "Tu": "saltes",
+    "El": "salte",
+    "Nosotros": "saltemos",
+    "Vosotros": "saltéis",
+    "Ellos": "salten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "salta",
+    "El": "salte",
+    "Nosotros": "saltemos",
+    "Vosotros": "saltad",
+    "Ellos": "salten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no saltes",
+    "El": "no salte",
+    "Nosotros": "no saltemos",
+    "Vosotros": "no saltéis",
+    "Ellos": "no salten"
+  },
+  "ending": "ar"
+}

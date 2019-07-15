@@ -1,0 +1,113 @@
+{
+  "verb": "actuar",
+  "englishInfinitive": "to act",
+  "irregular": true,
+  "type": "u > ú",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "actúo",
+    "Tu": "actúas",
+    "El": "actúa",
+    "Nosotros": "actuamos",
+    "Vosotros": "actuáis",
+    "Ellos": "actúan"
+  },
+  "IndicativePreterite": {
+    "Yo": "actué",
+    "Tu": "actuaste",
+    "El": "actuó",
+    "Nosotros": "actuamos",
+    "Vosotros": "actuasteis",
+    "Ellos": "actuaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "actuaré",
+    "Tu": "actuarás",
+    "El": "actuará",
+    "Nosotros": "actuaremos",
+    "Vosotros": "actuaréis",
+    "Ellos": "actuarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "actuaría",
+    "Tu": "actuarías",
+    "El": "actuaría",
+    "Nosotros": "actuaríamos",
+    "Vosotros": "actuaríais",
+    "Ellos": "actuarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "actuaba",
+    "Tu": "actuabas",
+    "El": "actuaba",
+    "Nosotros": "actuábamos",
+    "Vosotros": "actuabais",
+    "Ellos": "actuaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy actuando",
+    "Tu": "estás actuando",
+    "El": "está actuando",
+    "Nosotros": "estamos actuando",
+    "Vosotros": "estáis actuando",
+    "Ellos": "están actuando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he actuado",
+    "Tu": "has actuado",
+    "El": "ha actuado",
+    "Nosotros": "hemos actuado",
+    "Vosotros": "habéis actuado",
+    "Ellos": "han actuado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había actuado",
+    "Tu": "habías actuado",
+    "El": "había actuado",
+    "Nosotros": "habíamos actuado",
+    "Vosotros": "habíais actuado",
+    "Ellos": "habían actuado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré actuado",
+    "Tu": "habrás actuado",
+    "El": "habrá actuado",
+    "Nosotros": "habremos actuado",
+    "Vosotros": "habréis actuado",
+    "Ellos": "habrán actuado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría actuado",
+    "Tu": "habrías actuado",
+    "El": "habría actuado",
+    "Nosotros": "habríamos actuado",
+    "Vosotros": "habríais actuado",
+    "Ellos": "habrían actuado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "actúe",
+    "Tu": "actúes",
+    "El": "actúe",
+    "Nosotros": "actuemos",
+    "Vosotros": "actuéis",
+    "Ellos": "actúen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "actúa",
+    "El": "actúe",
+    "Nosotros": "actuemos",
+    "Vosotros": "actuad",
+    "Ellos": "actúen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no actúes",
+    "El": "no actúe",
+    "Nosotros": "no actuemos",
+    "Vosotros": "no actuéis",
+    "Ellos": "no actúen"
+  },
+  "ending": "ar"
+}

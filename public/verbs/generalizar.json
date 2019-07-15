@@ -1,0 +1,113 @@
+{
+  "verb": "generalizar",
+  "englishInfinitive": "to generalize",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "generalizo",
+    "Tu": "generalizas",
+    "El": "generaliza",
+    "Nosotros": "generalizamos",
+    "Vosotros": "generalizáis",
+    "Ellos": "generalizan"
+  },
+  "IndicativePreterite": {
+    "Yo": "generalicé",
+    "Tu": "generalizaste",
+    "El": "generalizó",
+    "Nosotros": "generalizamos",
+    "Vosotros": "generalizasteis",
+    "Ellos": "generalizaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "generalizaré",
+    "Tu": "generalizarás",
+    "El": "generalizará",
+    "Nosotros": "generalizaremos",
+    "Vosotros": "generalizaréis",
+    "Ellos": "generalizarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "generalizaría",
+    "Tu": "generalizarías",
+    "El": "generalizaría",
+    "Nosotros": "generalizaríamos",
+    "Vosotros": "generalizaríais",
+    "Ellos": "generalizarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "generalizaba",
+    "Tu": "generalizabas",
+    "El": "generalizaba",
+    "Nosotros": "generalizábamos",
+    "Vosotros": "generalizabais",
+    "Ellos": "generalizaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy generalizando",
+    "Tu": "estás generalizando",
+    "El": "está generalizando",
+    "Nosotros": "estamos generalizando",
+    "Vosotros": "estáis generalizando",
+    "Ellos": "están generalizando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he generalizado",
+    "Tu": "has generalizado",
+    "El": "ha generalizado",
+    "Nosotros": "hemos generalizado",
+    "Vosotros": "habéis generalizado",
+    "Ellos": "han generalizado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había generalizado",
+    "Tu": "habías generalizado",
+    "El": "había generalizado",
+    "Nosotros": "habíamos generalizado",
+    "Vosotros": "habíais generalizado",
+    "Ellos": "habían generalizado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré generalizado",
+    "Tu": "habrás generalizado",
+    "El": "habrá generalizado",
+    "Nosotros": "habremos generalizado",
+    "Vosotros": "habréis generalizado",
+    "Ellos": "habrán generalizado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría generalizado",
+    "Tu": "habrías generalizado",
+    "El": "habría generalizado",
+    "Nosotros": "habríamos generalizado",
+    "Vosotros": "habríais generalizado",
+    "Ellos": "habrían generalizado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "generalice",
+    "Tu": "generalices",
+    "El": "generalice",
+    "Nosotros": "generalicemos",
+    "Vosotros": "generalicéis",
+    "Ellos": "generalicen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "generaliza",
+    "El": "generalice",
+    "Nosotros": "generalicemos",
+    "Vosotros": "generalizad",
+    "Ellos": "generalicen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no generalices",
+    "El": "no generalice",
+    "Nosotros": "no generalicemos",
+    "Vosotros": "no generalicéis",
+    "Ellos": "no generalicen"
+  },
+  "ending": "ar"
+}

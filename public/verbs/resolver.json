@@ -1,0 +1,113 @@
+{
+  "verb": "resolver",
+  "englishInfinitive": "to solve",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "resuelvo",
+    "Tu": "resuelves",
+    "El": "resuelve",
+    "Nosotros": "resolvemos",
+    "Vosotros": "resolvéis",
+    "Ellos": "resuelven"
+  },
+  "IndicativePreterite": {
+    "Yo": "resolví",
+    "Tu": "resolviste",
+    "El": "resolvió",
+    "Nosotros": "resolvimos",
+    "Vosotros": "resolvisteis",
+    "Ellos": "resolvieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "resolveré",
+    "Tu": "resolverás",
+    "El": "resolverá",
+    "Nosotros": "resolveremos",
+    "Vosotros": "resolveréis",
+    "Ellos": "resolverán"
+  },
+  "ConditionalPresent": {
+    "Yo": "resolvería",
+    "Tu": "resolverías",
+    "El": "resolvería",
+    "Nosotros": "resolveríamos",
+    "Vosotros": "resolveríais",
+    "Ellos": "resolverían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "resolvía",
+    "Tu": "resolvías",
+    "El": "resolvía",
+    "Nosotros": "resolvíamos",
+    "Vosotros": "resolvíais",
+    "Ellos": "resolvían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy resolviendo",
+    "Tu": "estás resolviendo",
+    "El": "está resolviendo",
+    "Nosotros": "estamos resolviendo",
+    "Vosotros": "estáis resolviendo",
+    "Ellos": "están resolviendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he resuelto",
+    "Tu": "has resuelto",
+    "El": "ha resuelto",
+    "Nosotros": "hemos resuelto",
+    "Vosotros": "habéis resuelto",
+    "Ellos": "han resuelto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había resuelto",
+    "Tu": "habías resuelto",
+    "El": "había resuelto",
+    "Nosotros": "habíamos resuelto",
+    "Vosotros": "habíais resuelto",
+    "Ellos": "habían resuelto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré resuelto",
+    "Tu": "habrás resuelto",
+    "El": "habrá resuelto",
+    "Nosotros": "habremos resuelto",
+    "Vosotros": "habréis resuelto",
+    "Ellos": "habrán resuelto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría resuelto",
+    "Tu": "habrías resuelto",
+    "El": "habría resuelto",
+    "Nosotros": "habríamos resuelto",
+    "Vosotros": "habríais resuelto",
+    "Ellos": "habrían resuelto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "resuelva",
+    "Tu": "resuelvas",
+    "El": "resuelva",
+    "Nosotros": "resolvamos",
+    "Vosotros": "resolváis",
+    "Ellos": "resuelvan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "resuelve",
+    "El": "resuelva",
+    "Nosotros": "resolvamos",
+    "Vosotros": "resolved",
+    "Ellos": "resuelvan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no resuelvas",
+    "El": "no resuelva",
+    "Nosotros": "no resolvamos",
+    "Vosotros": "no resolváis",
+    "Ellos": "no resuelvan"
+  },
+  "ending": "er"
+}

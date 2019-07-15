@@ -1,0 +1,113 @@
+{
+  "verb": "quemarse",
+  "englishInfinitive": "to burn [oneself]",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me quemo",
+    "Tu": "te quemas",
+    "El": "se quema",
+    "Nosotros": "nos quemamos",
+    "Vosotros": "os quemáis",
+    "Ellos": "se queman"
+  },
+  "IndicativePreterite": {
+    "Yo": "me quemé",
+    "Tu": "te quemaste",
+    "El": "se quemó",
+    "Nosotros": "nos quemamos",
+    "Vosotros": "os quemasteis",
+    "Ellos": "se quemaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me quemaré",
+    "Tu": "te quemarás",
+    "El": "se quemará",
+    "Nosotros": "nos quemaremos",
+    "Vosotros": "os quemaréis",
+    "Ellos": "se quemarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me quemaría",
+    "Tu": "te quemarías",
+    "El": "se quemaría",
+    "Nosotros": "nos quemaríamos",
+    "Vosotros": "os quemaríais",
+    "Ellos": "se quemarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me quemaba",
+    "Tu": "te quemabas",
+    "El": "se quemaba",
+    "Nosotros": "nos quemábamos",
+    "Vosotros": "os quemabais",
+    "Ellos": "se quemaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy quemando,estoy quemándome",
+    "Tu": "te estás quemando,estás quemándote",
+    "El": "se está quemando,está quemándose",
+    "Nosotros": "nos estamos quemando,estamos quemándonos",
+    "Vosotros": "os estáis quemando,estáis quemándoos",
+    "Ellos": "se están quemando,están quemándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he quemado",
+    "Tu": "te has quemado",
+    "El": "se ha quemado",
+    "Nosotros": "nos hemos quemado",
+    "Vosotros": "os habéis quemado",
+    "Ellos": "se han quemado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había quemado",
+    "Tu": "te habías quemado",
+    "El": "se había quemado",
+    "Nosotros": "nos habíamos quemado",
+    "Vosotros": "os habíais quemado",
+    "Ellos": "se habían quemado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré quemado",
+    "Tu": "te habrás quemado",
+    "El": "se habrá quemado",
+    "Nosotros": "nos habremos quemado",
+    "Vosotros": "os habréis quemado",
+    "Ellos": "se habrán quemado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría quemado",
+    "Tu": "te habrías quemado",
+    "El": "se habría quemado",
+    "Nosotros": "nos habríamos quemado",
+    "Vosotros": "os habríais quemado",
+    "Ellos": "se habrían quemado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me queme",
+    "Tu": "te quemes",
+    "El": "se queme",
+    "Nosotros": "nos quememos",
+    "Vosotros": "os queméis",
+    "Ellos": "se quemen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "quémate",
+    "El": "quémese",
+    "Nosotros": "quemémonos",
+    "Vosotros": "quemaos",
+    "Ellos": "quémense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te quemes",
+    "El": "no se queme",
+    "Nosotros": "no nos quememos",
+    "Vosotros": "no os queméis",
+    "Ellos": "no se quemen"
+  },
+  "ending": "ar"
+}

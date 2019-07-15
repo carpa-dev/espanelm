@@ -1,0 +1,113 @@
+{
+  "verb": "perdonar",
+  "englishInfinitive": "to forgive",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "perdono",
+    "Tu": "perdonas",
+    "El": "perdona",
+    "Nosotros": "perdonamos",
+    "Vosotros": "perdonáis",
+    "Ellos": "perdonan"
+  },
+  "IndicativePreterite": {
+    "Yo": "perdoné",
+    "Tu": "perdonaste",
+    "El": "perdonó",
+    "Nosotros": "perdonamos",
+    "Vosotros": "perdonasteis",
+    "Ellos": "perdonaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "perdonaré",
+    "Tu": "perdonarás",
+    "El": "perdonará",
+    "Nosotros": "perdonaremos",
+    "Vosotros": "perdonaréis",
+    "Ellos": "perdonarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "perdonaría",
+    "Tu": "perdonarías",
+    "El": "perdonaría",
+    "Nosotros": "perdonaríamos",
+    "Vosotros": "perdonaríais",
+    "Ellos": "perdonarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "perdonaba",
+    "Tu": "perdonabas",
+    "El": "perdonaba",
+    "Nosotros": "perdonábamos",
+    "Vosotros": "perdonabais",
+    "Ellos": "perdonaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy perdonando",
+    "Tu": "estás perdonando",
+    "El": "está perdonando",
+    "Nosotros": "estamos perdonando",
+    "Vosotros": "estáis perdonando",
+    "Ellos": "están perdonando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he perdonado",
+    "Tu": "has perdonado",
+    "El": "ha perdonado",
+    "Nosotros": "hemos perdonado",
+    "Vosotros": "habéis perdonado",
+    "Ellos": "han perdonado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había perdonado",
+    "Tu": "habías perdonado",
+    "El": "había perdonado",
+    "Nosotros": "habíamos perdonado",
+    "Vosotros": "habíais perdonado",
+    "Ellos": "habían perdonado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré perdonado",
+    "Tu": "habrás perdonado",
+    "El": "habrá perdonado",
+    "Nosotros": "habremos perdonado",
+    "Vosotros": "habréis perdonado",
+    "Ellos": "habrán perdonado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría perdonado",
+    "Tu": "habrías perdonado",
+    "El": "habría perdonado",
+    "Nosotros": "habríamos perdonado",
+    "Vosotros": "habríais perdonado",
+    "Ellos": "habrían perdonado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "perdone",
+    "Tu": "perdones",
+    "El": "perdone",
+    "Nosotros": "perdonemos",
+    "Vosotros": "perdonéis",
+    "Ellos": "perdonen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "perdona",
+    "El": "perdone",
+    "Nosotros": "perdonemos",
+    "Vosotros": "perdonad",
+    "Ellos": "perdonen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no perdones",
+    "El": "no perdone",
+    "Nosotros": "no perdonemos",
+    "Vosotros": "no perdonéis",
+    "Ellos": "no perdonen"
+  },
+  "ending": "ar"
+}

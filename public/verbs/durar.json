@@ -1,0 +1,113 @@
+{
+  "verb": "durar",
+  "englishInfinitive": "to last",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "duro",
+    "Tu": "duras",
+    "El": "dura",
+    "Nosotros": "duramos",
+    "Vosotros": "duráis",
+    "Ellos": "duran"
+  },
+  "IndicativePreterite": {
+    "Yo": "duré",
+    "Tu": "duraste",
+    "El": "duró",
+    "Nosotros": "duramos",
+    "Vosotros": "durasteis",
+    "Ellos": "duraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "duraré",
+    "Tu": "durarás",
+    "El": "durará",
+    "Nosotros": "duraremos",
+    "Vosotros": "duraréis",
+    "Ellos": "durarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "duraría",
+    "Tu": "durarías",
+    "El": "duraría",
+    "Nosotros": "duraríamos",
+    "Vosotros": "duraríais",
+    "Ellos": "durarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "duraba",
+    "Tu": "durabas",
+    "El": "duraba",
+    "Nosotros": "durábamos",
+    "Vosotros": "durabais",
+    "Ellos": "duraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy durando",
+    "Tu": "estás durando",
+    "El": "está durando",
+    "Nosotros": "estamos durando",
+    "Vosotros": "estáis durando",
+    "Ellos": "están durando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he durado",
+    "Tu": "has durado",
+    "El": "ha durado",
+    "Nosotros": "hemos durado",
+    "Vosotros": "habéis durado",
+    "Ellos": "han durado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había durado",
+    "Tu": "habías durado",
+    "El": "había durado",
+    "Nosotros": "habíamos durado",
+    "Vosotros": "habíais durado",
+    "Ellos": "habían durado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré durado",
+    "Tu": "habrás durado",
+    "El": "habrá durado",
+    "Nosotros": "habremos durado",
+    "Vosotros": "habréis durado",
+    "Ellos": "habrán durado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría durado",
+    "Tu": "habrías durado",
+    "El": "habría durado",
+    "Nosotros": "habríamos durado",
+    "Vosotros": "habríais durado",
+    "Ellos": "habrían durado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "dure",
+    "Tu": "dures",
+    "El": "dure",
+    "Nosotros": "duremos",
+    "Vosotros": "duréis",
+    "Ellos": "duren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "dura",
+    "El": "dure",
+    "Nosotros": "duremos",
+    "Vosotros": "durad",
+    "Ellos": "duren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no dures",
+    "El": "no dure",
+    "Nosotros": "no duremos",
+    "Vosotros": "no duréis",
+    "Ellos": "no duren"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "funcionar",
+  "englishInfinitive": "to function",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "funciono",
+    "Tu": "funcionas",
+    "El": "funciona",
+    "Nosotros": "funcionamos",
+    "Vosotros": "funcionáis",
+    "Ellos": "funcionan"
+  },
+  "IndicativePreterite": {
+    "Yo": "funcioné",
+    "Tu": "funcionaste",
+    "El": "funcionó",
+    "Nosotros": "funcionamos",
+    "Vosotros": "funcionasteis",
+    "Ellos": "funcionaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "funcionaré",
+    "Tu": "funcionarás",
+    "El": "funcionará",
+    "Nosotros": "funcionaremos",
+    "Vosotros": "funcionaréis",
+    "Ellos": "funcionarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "funcionaría",
+    "Tu": "funcionarías",
+    "El": "funcionaría",
+    "Nosotros": "funcionaríamos",
+    "Vosotros": "funcionaríais",
+    "Ellos": "funcionarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "funcionaba",
+    "Tu": "funcionabas",
+    "El": "funcionaba",
+    "Nosotros": "funcionábamos",
+    "Vosotros": "funcionabais",
+    "Ellos": "funcionaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy funcionando",
+    "Tu": "estás funcionando",
+    "El": "está funcionando",
+    "Nosotros": "estamos funcionando",
+    "Vosotros": "estáis funcionando",
+    "Ellos": "están funcionando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he funcionado",
+    "Tu": "has funcionado",
+    "El": "ha funcionado",
+    "Nosotros": "hemos funcionado",
+    "Vosotros": "habéis funcionado",
+    "Ellos": "han funcionado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había funcionado",
+    "Tu": "habías funcionado",
+    "El": "había funcionado",
+    "Nosotros": "habíamos funcionado",
+    "Vosotros": "habíais funcionado",
+    "Ellos": "habían funcionado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré funcionado",
+    "Tu": "habrás funcionado",
+    "El": "habrá funcionado",
+    "Nosotros": "habremos funcionado",
+    "Vosotros": "habréis funcionado",
+    "Ellos": "habrán funcionado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría funcionado",
+    "Tu": "habrías funcionado",
+    "El": "habría funcionado",
+    "Nosotros": "habríamos funcionado",
+    "Vosotros": "habríais funcionado",
+    "Ellos": "habrían funcionado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "funcione",
+    "Tu": "funciones",
+    "El": "funcione",
+    "Nosotros": "funcionemos",
+    "Vosotros": "funcionéis",
+    "Ellos": "funcionen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "funciona",
+    "El": "funcione",
+    "Nosotros": "funcionemos",
+    "Vosotros": "funcionad",
+    "Ellos": "funcionen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no funciones",
+    "El": "no funcione",
+    "Nosotros": "no funcionemos",
+    "Vosotros": "no funcionéis",
+    "Ellos": "no funcionen"
+  },
+  "ending": "ar"
+}

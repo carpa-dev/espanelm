@@ -1,0 +1,113 @@
+{
+  "verb": "cesar",
+  "englishInfinitive": "to cease",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "ceso",
+    "Tu": "cesas",
+    "El": "cesa",
+    "Nosotros": "cesamos",
+    "Vosotros": "cesáis",
+    "Ellos": "cesan"
+  },
+  "IndicativePreterite": {
+    "Yo": "cesé",
+    "Tu": "cesaste",
+    "El": "cesó",
+    "Nosotros": "cesamos",
+    "Vosotros": "cesasteis",
+    "Ellos": "cesaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cesaré",
+    "Tu": "cesarás",
+    "El": "cesará",
+    "Nosotros": "cesaremos",
+    "Vosotros": "cesaréis",
+    "Ellos": "cesarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cesaría",
+    "Tu": "cesarías",
+    "El": "cesaría",
+    "Nosotros": "cesaríamos",
+    "Vosotros": "cesaríais",
+    "Ellos": "cesarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cesaba",
+    "Tu": "cesabas",
+    "El": "cesaba",
+    "Nosotros": "cesábamos",
+    "Vosotros": "cesabais",
+    "Ellos": "cesaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cesando",
+    "Tu": "estás cesando",
+    "El": "está cesando",
+    "Nosotros": "estamos cesando",
+    "Vosotros": "estáis cesando",
+    "Ellos": "están cesando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cesado",
+    "Tu": "has cesado",
+    "El": "ha cesado",
+    "Nosotros": "hemos cesado",
+    "Vosotros": "habéis cesado",
+    "Ellos": "han cesado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cesado",
+    "Tu": "habías cesado",
+    "El": "había cesado",
+    "Nosotros": "habíamos cesado",
+    "Vosotros": "habíais cesado",
+    "Ellos": "habían cesado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cesado",
+    "Tu": "habrás cesado",
+    "El": "habrá cesado",
+    "Nosotros": "habremos cesado",
+    "Vosotros": "habréis cesado",
+    "Ellos": "habrán cesado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cesado",
+    "Tu": "habrías cesado",
+    "El": "habría cesado",
+    "Nosotros": "habríamos cesado",
+    "Vosotros": "habríais cesado",
+    "Ellos": "habrían cesado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cese",
+    "Tu": "ceses",
+    "El": "cese",
+    "Nosotros": "cesemos",
+    "Vosotros": "ceséis",
+    "Ellos": "cesen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cesa",
+    "El": "cese",
+    "Nosotros": "cesemos",
+    "Vosotros": "cesad",
+    "Ellos": "cesen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ceses",
+    "El": "no cese",
+    "Nosotros": "no cesemos",
+    "Vosotros": "no ceséis",
+    "Ellos": "no cesen"
+  },
+  "ending": "ar"
+}

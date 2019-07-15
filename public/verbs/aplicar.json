@@ -1,0 +1,113 @@
+{
+  "verb": "aplicar",
+  "englishInfinitive": "to apply",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "aplico",
+    "Tu": "aplicas",
+    "El": "aplica",
+    "Nosotros": "aplicamos",
+    "Vosotros": "aplicáis",
+    "Ellos": "aplican"
+  },
+  "IndicativePreterite": {
+    "Yo": "apliqué",
+    "Tu": "aplicaste",
+    "El": "aplicó",
+    "Nosotros": "aplicamos",
+    "Vosotros": "aplicasteis",
+    "Ellos": "aplicaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "aplicaré",
+    "Tu": "aplicarás",
+    "El": "aplicará",
+    "Nosotros": "aplicaremos",
+    "Vosotros": "aplicaréis",
+    "Ellos": "aplicarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "aplicaría",
+    "Tu": "aplicarías",
+    "El": "aplicaría",
+    "Nosotros": "aplicaríamos",
+    "Vosotros": "aplicaríais",
+    "Ellos": "aplicarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "aplicaba",
+    "Tu": "aplicabas",
+    "El": "aplicaba",
+    "Nosotros": "aplicábamos",
+    "Vosotros": "aplicabais",
+    "Ellos": "aplicaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy aplicando",
+    "Tu": "estás aplicando",
+    "El": "está aplicando",
+    "Nosotros": "estamos aplicando",
+    "Vosotros": "estáis aplicando",
+    "Ellos": "están aplicando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he aplicado",
+    "Tu": "has aplicado",
+    "El": "ha aplicado",
+    "Nosotros": "hemos aplicado",
+    "Vosotros": "habéis aplicado",
+    "Ellos": "han aplicado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había aplicado",
+    "Tu": "habías aplicado",
+    "El": "había aplicado",
+    "Nosotros": "habíamos aplicado",
+    "Vosotros": "habíais aplicado",
+    "Ellos": "habían aplicado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré aplicado",
+    "Tu": "habrás aplicado",
+    "El": "habrá aplicado",
+    "Nosotros": "habremos aplicado",
+    "Vosotros": "habréis aplicado",
+    "Ellos": "habrán aplicado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría aplicado",
+    "Tu": "habrías aplicado",
+    "El": "habría aplicado",
+    "Nosotros": "habríamos aplicado",
+    "Vosotros": "habríais aplicado",
+    "Ellos": "habrían aplicado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "aplique",
+    "Tu": "apliques",
+    "El": "aplique",
+    "Nosotros": "apliquemos",
+    "Vosotros": "apliquéis",
+    "Ellos": "apliquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "aplica",
+    "El": "aplique",
+    "Nosotros": "apliquemos",
+    "Vosotros": "aplicad",
+    "Ellos": "apliquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no apliques",
+    "El": "no aplique",
+    "Nosotros": "no apliquemos",
+    "Vosotros": "no apliquéis",
+    "Ellos": "no apliquen"
+  },
+  "ending": "ar"
+}

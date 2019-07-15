@@ -1,0 +1,113 @@
+{
+  "verb": "investigar",
+  "englishInfinitive": "to investigate",
+  "irregular": true,
+  "type": "g > gu (-gar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "investigo",
+    "Tu": "investigas",
+    "El": "investiga",
+    "Nosotros": "investigamos",
+    "Vosotros": "investigáis",
+    "Ellos": "investigan"
+  },
+  "IndicativePreterite": {
+    "Yo": "investigué",
+    "Tu": "investigaste",
+    "El": "investigó",
+    "Nosotros": "investigamos",
+    "Vosotros": "investigasteis",
+    "Ellos": "investigaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "investigaré",
+    "Tu": "investigarás",
+    "El": "investigará",
+    "Nosotros": "investigaremos",
+    "Vosotros": "investigaréis",
+    "Ellos": "investigarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "investigaría",
+    "Tu": "investigarías",
+    "El": "investigaría",
+    "Nosotros": "investigaríamos",
+    "Vosotros": "investigaríais",
+    "Ellos": "investigarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "investigaba",
+    "Tu": "investigabas",
+    "El": "investigaba",
+    "Nosotros": "investigábamos",
+    "Vosotros": "investigabais",
+    "Ellos": "investigaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy investigando",
+    "Tu": "estás investigando",
+    "El": "está investigando",
+    "Nosotros": "estamos investigando",
+    "Vosotros": "estáis investigando",
+    "Ellos": "están investigando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he investigado",
+    "Tu": "has investigado",
+    "El": "ha investigado",
+    "Nosotros": "hemos investigado",
+    "Vosotros": "habéis investigado",
+    "Ellos": "han investigado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había investigado",
+    "Tu": "habías investigado",
+    "El": "había investigado",
+    "Nosotros": "habíamos investigado",
+    "Vosotros": "habíais investigado",
+    "Ellos": "habían investigado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré investigado",
+    "Tu": "habrás investigado",
+    "El": "habrá investigado",
+    "Nosotros": "habremos investigado",
+    "Vosotros": "habréis investigado",
+    "Ellos": "habrán investigado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría investigado",
+    "Tu": "habrías investigado",
+    "El": "habría investigado",
+    "Nosotros": "habríamos investigado",
+    "Vosotros": "habríais investigado",
+    "Ellos": "habrían investigado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "investigue",
+    "Tu": "investigues",
+    "El": "investigue",
+    "Nosotros": "investiguemos",
+    "Vosotros": "investiguéis",
+    "Ellos": "investiguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "investiga",
+    "El": "investigue",
+    "Nosotros": "investiguemos",
+    "Vosotros": "investigad",
+    "Ellos": "investiguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no investigues",
+    "El": "no investigue",
+    "Nosotros": "no investiguemos",
+    "Vosotros": "no investiguéis",
+    "Ellos": "no investiguen"
+  },
+  "ending": "ar"
+}

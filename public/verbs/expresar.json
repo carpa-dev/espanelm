@@ -1,0 +1,113 @@
+{
+  "verb": "expresar",
+  "englishInfinitive": "to express",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "expreso",
+    "Tu": "expresas",
+    "El": "expresa",
+    "Nosotros": "expresamos",
+    "Vosotros": "expresáis",
+    "Ellos": "expresan"
+  },
+  "IndicativePreterite": {
+    "Yo": "expresé",
+    "Tu": "expresaste",
+    "El": "expresó",
+    "Nosotros": "expresamos",
+    "Vosotros": "expresasteis",
+    "Ellos": "expresaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "expresaré",
+    "Tu": "expresarás",
+    "El": "expresará",
+    "Nosotros": "expresaremos",
+    "Vosotros": "expresaréis",
+    "Ellos": "expresarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "expresaría",
+    "Tu": "expresarías",
+    "El": "expresaría",
+    "Nosotros": "expresaríamos",
+    "Vosotros": "expresaríais",
+    "Ellos": "expresarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "expresaba",
+    "Tu": "expresabas",
+    "El": "expresaba",
+    "Nosotros": "expresábamos",
+    "Vosotros": "expresabais",
+    "Ellos": "expresaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy expresando",
+    "Tu": "estás expresando",
+    "El": "está expresando",
+    "Nosotros": "estamos expresando",
+    "Vosotros": "estáis expresando",
+    "Ellos": "están expresando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he expresado",
+    "Tu": "has expresado",
+    "El": "ha expresado",
+    "Nosotros": "hemos expresado",
+    "Vosotros": "habéis expresado",
+    "Ellos": "han expresado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había expresado",
+    "Tu": "habías expresado",
+    "El": "había expresado",
+    "Nosotros": "habíamos expresado",
+    "Vosotros": "habíais expresado",
+    "Ellos": "habían expresado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré expresado",
+    "Tu": "habrás expresado",
+    "El": "habrá expresado",
+    "Nosotros": "habremos expresado",
+    "Vosotros": "habréis expresado",
+    "Ellos": "habrán expresado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría expresado",
+    "Tu": "habrías expresado",
+    "El": "habría expresado",
+    "Nosotros": "habríamos expresado",
+    "Vosotros": "habríais expresado",
+    "Ellos": "habrían expresado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "exprese",
+    "Tu": "expreses",
+    "El": "exprese",
+    "Nosotros": "expresemos",
+    "Vosotros": "expreséis",
+    "Ellos": "expresen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "expresa",
+    "El": "exprese",
+    "Nosotros": "expresemos",
+    "Vosotros": "expresad",
+    "Ellos": "expresen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no expreses",
+    "El": "no exprese",
+    "Nosotros": "no expresemos",
+    "Vosotros": "no expreséis",
+    "Ellos": "no expresen"
+  },
+  "ending": "ar"
+}

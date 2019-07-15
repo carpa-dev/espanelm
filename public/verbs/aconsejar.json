@@ -1,0 +1,113 @@
+{
+  "verb": "aconsejar",
+  "englishInfinitive": "to advise",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "aconsejo",
+    "Tu": "aconsejas",
+    "El": "aconseja",
+    "Nosotros": "aconsejamos",
+    "Vosotros": "aconsejáis",
+    "Ellos": "aconsejan"
+  },
+  "IndicativePreterite": {
+    "Yo": "aconsejé",
+    "Tu": "aconsejaste",
+    "El": "aconsejó",
+    "Nosotros": "aconsejamos",
+    "Vosotros": "aconsejasteis",
+    "Ellos": "aconsejaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "aconsejaré",
+    "Tu": "aconsejarás",
+    "El": "aconsejará",
+    "Nosotros": "aconsejaremos",
+    "Vosotros": "aconsejaréis",
+    "Ellos": "aconsejarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "aconsejaría",
+    "Tu": "aconsejarías",
+    "El": "aconsejaría",
+    "Nosotros": "aconsejaríamos",
+    "Vosotros": "aconsejaríais",
+    "Ellos": "aconsejarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "aconsejaba",
+    "Tu": "aconsejabas",
+    "El": "aconsejaba",
+    "Nosotros": "aconsejábamos",
+    "Vosotros": "aconsejabais",
+    "Ellos": "aconsejaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy aconsejando",
+    "Tu": "estás aconsejando",
+    "El": "está aconsejando",
+    "Nosotros": "estamos aconsejando",
+    "Vosotros": "estáis aconsejando",
+    "Ellos": "están aconsejando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he aconsejado",
+    "Tu": "has aconsejado",
+    "El": "ha aconsejado",
+    "Nosotros": "hemos aconsejado",
+    "Vosotros": "habéis aconsejado",
+    "Ellos": "han aconsejado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había aconsejado",
+    "Tu": "habías aconsejado",
+    "El": "había aconsejado",
+    "Nosotros": "habíamos aconsejado",
+    "Vosotros": "habíais aconsejado",
+    "Ellos": "habían aconsejado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré aconsejado",
+    "Tu": "habrás aconsejado",
+    "El": "habrá aconsejado",
+    "Nosotros": "habremos aconsejado",
+    "Vosotros": "habréis aconsejado",
+    "Ellos": "habrán aconsejado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría aconsejado",
+    "Tu": "habrías aconsejado",
+    "El": "habría aconsejado",
+    "Nosotros": "habríamos aconsejado",
+    "Vosotros": "habríais aconsejado",
+    "Ellos": "habrían aconsejado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "aconseje",
+    "Tu": "aconsejes",
+    "El": "aconseje",
+    "Nosotros": "aconsejemos",
+    "Vosotros": "aconsejéis",
+    "Ellos": "aconsejen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "aconseja",
+    "El": "aconseje",
+    "Nosotros": "aconsejemos",
+    "Vosotros": "aconsejad",
+    "Ellos": "aconsejen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no aconsejes",
+    "El": "no aconseje",
+    "Nosotros": "no aconsejemos",
+    "Vosotros": "no aconsejéis",
+    "Ellos": "no aconsejen"
+  },
+  "ending": "ar"
+}

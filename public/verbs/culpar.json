@@ -1,0 +1,113 @@
+{
+  "verb": "culpar",
+  "englishInfinitive": "to blame",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "culpo",
+    "Tu": "culpas",
+    "El": "culpa",
+    "Nosotros": "culpamos",
+    "Vosotros": "culpáis",
+    "Ellos": "culpan"
+  },
+  "IndicativePreterite": {
+    "Yo": "culpé",
+    "Tu": "culpaste",
+    "El": "culpó",
+    "Nosotros": "culpamos",
+    "Vosotros": "culpasteis",
+    "Ellos": "culparon"
+  },
+  "IndicativeFuture": {
+    "Yo": "culparé",
+    "Tu": "culparás",
+    "El": "culpará",
+    "Nosotros": "culparemos",
+    "Vosotros": "culparéis",
+    "Ellos": "culparán"
+  },
+  "ConditionalPresent": {
+    "Yo": "culparía",
+    "Tu": "culparías",
+    "El": "culparía",
+    "Nosotros": "culparíamos",
+    "Vosotros": "culparíais",
+    "Ellos": "culparían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "culpaba",
+    "Tu": "culpabas",
+    "El": "culpaba",
+    "Nosotros": "culpábamos",
+    "Vosotros": "culpabais",
+    "Ellos": "culpaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy culpando",
+    "Tu": "estás culpando",
+    "El": "está culpando",
+    "Nosotros": "estamos culpando",
+    "Vosotros": "estáis culpando",
+    "Ellos": "están culpando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he culpado",
+    "Tu": "has culpado",
+    "El": "ha culpado",
+    "Nosotros": "hemos culpado",
+    "Vosotros": "habéis culpado",
+    "Ellos": "han culpado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había culpado",
+    "Tu": "habías culpado",
+    "El": "había culpado",
+    "Nosotros": "habíamos culpado",
+    "Vosotros": "habíais culpado",
+    "Ellos": "habían culpado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré culpado",
+    "Tu": "habrás culpado",
+    "El": "habrá culpado",
+    "Nosotros": "habremos culpado",
+    "Vosotros": "habréis culpado",
+    "Ellos": "habrán culpado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría culpado",
+    "Tu": "habrías culpado",
+    "El": "habría culpado",
+    "Nosotros": "habríamos culpado",
+    "Vosotros": "habríais culpado",
+    "Ellos": "habrían culpado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "culpe",
+    "Tu": "culpes",
+    "El": "culpe",
+    "Nosotros": "culpemos",
+    "Vosotros": "culpéis",
+    "Ellos": "culpen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "culpa",
+    "El": "culpe",
+    "Nosotros": "culpemos",
+    "Vosotros": "culpad",
+    "Ellos": "culpen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no culpes",
+    "El": "no culpe",
+    "Nosotros": "no culpemos",
+    "Vosotros": "no culpéis",
+    "Ellos": "no culpen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "volar",
+  "englishInfinitive": "to fly",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "vuelo",
+    "Tu": "vuelas",
+    "El": "vuela",
+    "Nosotros": "volamos",
+    "Vosotros": "voláis",
+    "Ellos": "vuelan"
+  },
+  "IndicativePreterite": {
+    "Yo": "volé",
+    "Tu": "volaste",
+    "El": "voló",
+    "Nosotros": "volamos",
+    "Vosotros": "volasteis",
+    "Ellos": "volaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "volaré",
+    "Tu": "volarás",
+    "El": "volará",
+    "Nosotros": "volaremos",
+    "Vosotros": "volaréis",
+    "Ellos": "volarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "volaría",
+    "Tu": "volarías",
+    "El": "volaría",
+    "Nosotros": "volaríamos",
+    "Vosotros": "volaríais",
+    "Ellos": "volarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "volaba",
+    "Tu": "volabas",
+    "El": "volaba",
+    "Nosotros": "volábamos",
+    "Vosotros": "volabais",
+    "Ellos": "volaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy volando",
+    "Tu": "estás volando",
+    "El": "está volando",
+    "Nosotros": "estamos volando",
+    "Vosotros": "estáis volando",
+    "Ellos": "están volando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he volado",
+    "Tu": "has volado",
+    "El": "ha volado",
+    "Nosotros": "hemos volado",
+    "Vosotros": "habéis volado",
+    "Ellos": "han volado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había volado",
+    "Tu": "habías volado",
+    "El": "había volado",
+    "Nosotros": "habíamos volado",
+    "Vosotros": "habíais volado",
+    "Ellos": "habían volado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré volado",
+    "Tu": "habrás volado",
+    "El": "habrá volado",
+    "Nosotros": "habremos volado",
+    "Vosotros": "habréis volado",
+    "Ellos": "habrán volado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría volado",
+    "Tu": "habrías volado",
+    "El": "habría volado",
+    "Nosotros": "habríamos volado",
+    "Vosotros": "habríais volado",
+    "Ellos": "habrían volado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "vuele",
+    "Tu": "vueles",
+    "El": "vuele",
+    "Nosotros": "volemos",
+    "Vosotros": "voléis",
+    "Ellos": "vuelen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "vuela",
+    "El": "vuele",
+    "Nosotros": "volemos",
+    "Vosotros": "volad",
+    "Ellos": "vuelen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no vueles",
+    "El": "no vuele",
+    "Nosotros": "no volemos",
+    "Vosotros": "no voléis",
+    "Ellos": "no vuelen"
+  },
+  "ending": "ar"
+}

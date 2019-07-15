@@ -1,0 +1,113 @@
+{
+  "verb": "jugar",
+  "englishInfinitive": "to play",
+  "irregular": true,
+  "type": "u > ue",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "juego",
+    "Tu": "juegas",
+    "El": "juega",
+    "Nosotros": "jugamos",
+    "Vosotros": "jugáis",
+    "Ellos": "juegan"
+  },
+  "IndicativePreterite": {
+    "Yo": "jugué",
+    "Tu": "jugaste",
+    "El": "jugó",
+    "Nosotros": "jugamos",
+    "Vosotros": "jugasteis",
+    "Ellos": "jugaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "jugaré",
+    "Tu": "jugarás",
+    "El": "jugará",
+    "Nosotros": "jugaremos",
+    "Vosotros": "jugaréis",
+    "Ellos": "jugarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "jugaría",
+    "Tu": "jugarías",
+    "El": "jugaría",
+    "Nosotros": "jugaríamos",
+    "Vosotros": "jugaríais",
+    "Ellos": "jugarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "jugaba",
+    "Tu": "jugabas",
+    "El": "jugaba",
+    "Nosotros": "jugábamos",
+    "Vosotros": "jugabais",
+    "Ellos": "jugaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy jugando",
+    "Tu": "estás jugando",
+    "El": "está jugando",
+    "Nosotros": "estamos jugando",
+    "Vosotros": "estáis jugando",
+    "Ellos": "están jugando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he jugado",
+    "Tu": "has jugado",
+    "El": "ha jugado",
+    "Nosotros": "hemos jugado",
+    "Vosotros": "habéis jugado",
+    "Ellos": "han jugado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había jugado",
+    "Tu": "habías jugado",
+    "El": "había jugado",
+    "Nosotros": "habíamos jugado",
+    "Vosotros": "habíais jugado",
+    "Ellos": "habían jugado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré jugado",
+    "Tu": "habrás jugado",
+    "El": "habrá jugado",
+    "Nosotros": "habremos jugado",
+    "Vosotros": "habréis jugado",
+    "Ellos": "habrán jugado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría jugado",
+    "Tu": "habrías jugado",
+    "El": "habría jugado",
+    "Nosotros": "habríamos jugado",
+    "Vosotros": "habríais jugado",
+    "Ellos": "habrían jugado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "juegue",
+    "Tu": "juegues",
+    "El": "juegue",
+    "Nosotros": "juguemos",
+    "Vosotros": "juguéis",
+    "Ellos": "jueguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "juega",
+    "El": "juegue",
+    "Nosotros": "juguemos",
+    "Vosotros": "jugad",
+    "Ellos": "jueguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no juegues",
+    "El": "no juegue",
+    "Nosotros": "no juguemos",
+    "Vosotros": "no juguéis",
+    "Ellos": "no jueguen"
+  },
+  "ending": "ar"
+}

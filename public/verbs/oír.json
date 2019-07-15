@@ -1,0 +1,113 @@
+{
+  "verb": "oír",
+  "englishInfinitive": "to hear",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "oigo",
+    "Tu": "oyes",
+    "El": "oye",
+    "Nosotros": "oímos",
+    "Vosotros": "oís",
+    "Ellos": "oyen"
+  },
+  "IndicativePreterite": {
+    "Yo": "oí",
+    "Tu": "oíste",
+    "El": "oyó",
+    "Nosotros": "oímos",
+    "Vosotros": "oísteis",
+    "Ellos": "oyeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "oiré",
+    "Tu": "oirás",
+    "El": "oirá",
+    "Nosotros": "oiremos",
+    "Vosotros": "oiréis",
+    "Ellos": "oirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "oiría",
+    "Tu": "oirías",
+    "El": "oiría",
+    "Nosotros": "oiríamos",
+    "Vosotros": "oiríais",
+    "Ellos": "oirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "oía",
+    "Tu": "oías",
+    "El": "oía",
+    "Nosotros": "oíamos",
+    "Vosotros": "oíais",
+    "Ellos": "oían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy oyendo",
+    "Tu": "estás oyendo",
+    "El": "está oyendo",
+    "Nosotros": "estamos oyendo",
+    "Vosotros": "estáis oyendo",
+    "Ellos": "están oyendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he oído",
+    "Tu": "has oído",
+    "El": "ha oído",
+    "Nosotros": "hemos oído",
+    "Vosotros": "habéis oído",
+    "Ellos": "han oído"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había oído",
+    "Tu": "habías oído",
+    "El": "había oído",
+    "Nosotros": "habíamos oído",
+    "Vosotros": "habíais oído",
+    "Ellos": "habían oído"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré oído",
+    "Tu": "habrás oído",
+    "El": "habrá oído",
+    "Nosotros": "habremos oído",
+    "Vosotros": "habréis oído",
+    "Ellos": "habrán oído"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría oído",
+    "Tu": "habrías oído",
+    "El": "habría oído",
+    "Nosotros": "habríamos oído",
+    "Vosotros": "habríais oído",
+    "Ellos": "habrían oído"
+  },
+  "SubjunctivePresent": {
+    "Yo": "oiga",
+    "Tu": "oigas",
+    "El": "oiga",
+    "Nosotros": "oigamos",
+    "Vosotros": "oigáis",
+    "Ellos": "oigan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "oye",
+    "El": "oiga",
+    "Nosotros": "oigamos",
+    "Vosotros": "oíd",
+    "Ellos": "oigan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no oigas",
+    "El": "no oiga",
+    "Nosotros": "no oigamos",
+    "Vosotros": "no oigáis",
+    "Ellos": "no oigan"
+  },
+  "ending": "ir"
+}

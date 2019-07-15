@@ -1,0 +1,113 @@
+{
+  "verb": "pintar",
+  "englishInfinitive": "to paint",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "pinto",
+    "Tu": "pintas",
+    "El": "pinta",
+    "Nosotros": "pintamos",
+    "Vosotros": "pintáis",
+    "Ellos": "pintan"
+  },
+  "IndicativePreterite": {
+    "Yo": "pinté",
+    "Tu": "pintaste",
+    "El": "pintó",
+    "Nosotros": "pintamos",
+    "Vosotros": "pintasteis",
+    "Ellos": "pintaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "pintaré",
+    "Tu": "pintarás",
+    "El": "pintará",
+    "Nosotros": "pintaremos",
+    "Vosotros": "pintaréis",
+    "Ellos": "pintarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "pintaría",
+    "Tu": "pintarías",
+    "El": "pintaría",
+    "Nosotros": "pintaríamos",
+    "Vosotros": "pintaríais",
+    "Ellos": "pintarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "pintaba",
+    "Tu": "pintabas",
+    "El": "pintaba",
+    "Nosotros": "pintábamos",
+    "Vosotros": "pintabais",
+    "Ellos": "pintaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy pintando",
+    "Tu": "estás pintando",
+    "El": "está pintando",
+    "Nosotros": "estamos pintando",
+    "Vosotros": "estáis pintando",
+    "Ellos": "están pintando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he pintado",
+    "Tu": "has pintado",
+    "El": "ha pintado",
+    "Nosotros": "hemos pintado",
+    "Vosotros": "habéis pintado",
+    "Ellos": "han pintado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había pintado",
+    "Tu": "habías pintado",
+    "El": "había pintado",
+    "Nosotros": "habíamos pintado",
+    "Vosotros": "habíais pintado",
+    "Ellos": "habían pintado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré pintado",
+    "Tu": "habrás pintado",
+    "El": "habrá pintado",
+    "Nosotros": "habremos pintado",
+    "Vosotros": "habréis pintado",
+    "Ellos": "habrán pintado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría pintado",
+    "Tu": "habrías pintado",
+    "El": "habría pintado",
+    "Nosotros": "habríamos pintado",
+    "Vosotros": "habríais pintado",
+    "Ellos": "habrían pintado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "pinte",
+    "Tu": "pintes",
+    "El": "pinte",
+    "Nosotros": "pintemos",
+    "Vosotros": "pintéis",
+    "Ellos": "pinten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "pinta",
+    "El": "pinte",
+    "Nosotros": "pintemos",
+    "Vosotros": "pintad",
+    "Ellos": "pinten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no pintes",
+    "El": "no pinte",
+    "Nosotros": "no pintemos",
+    "Vosotros": "no pintéis",
+    "Ellos": "no pinten"
+  },
+  "ending": "ar"
+}

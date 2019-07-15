@@ -1,0 +1,113 @@
+{
+  "verb": "regalar",
+  "englishInfinitive": "to give [as a gift]",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "regalo",
+    "Tu": "regalas",
+    "El": "regala",
+    "Nosotros": "regalamos",
+    "Vosotros": "regaláis",
+    "Ellos": "regalan"
+  },
+  "IndicativePreterite": {
+    "Yo": "regalé",
+    "Tu": "regalaste",
+    "El": "regaló",
+    "Nosotros": "regalamos",
+    "Vosotros": "regalasteis",
+    "Ellos": "regalaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "regalaré",
+    "Tu": "regalarás",
+    "El": "regalará",
+    "Nosotros": "regalaremos",
+    "Vosotros": "regalaréis",
+    "Ellos": "regalarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "regalaría",
+    "Tu": "regalarías",
+    "El": "regalaría",
+    "Nosotros": "regalaríamos",
+    "Vosotros": "regalaríais",
+    "Ellos": "regalarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "regalaba",
+    "Tu": "regalabas",
+    "El": "regalaba",
+    "Nosotros": "regalábamos",
+    "Vosotros": "regalabais",
+    "Ellos": "regalaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy regalando",
+    "Tu": "estás regalando",
+    "El": "está regalando",
+    "Nosotros": "estamos regalando",
+    "Vosotros": "estáis regalando",
+    "Ellos": "están regalando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he regalado",
+    "Tu": "has regalado",
+    "El": "ha regalado",
+    "Nosotros": "hemos regalado",
+    "Vosotros": "habéis regalado",
+    "Ellos": "han regalado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había regalado",
+    "Tu": "habías regalado",
+    "El": "había regalado",
+    "Nosotros": "habíamos regalado",
+    "Vosotros": "habíais regalado",
+    "Ellos": "habían regalado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré regalado",
+    "Tu": "habrás regalado",
+    "El": "habrá regalado",
+    "Nosotros": "habremos regalado",
+    "Vosotros": "habréis regalado",
+    "Ellos": "habrán regalado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría regalado",
+    "Tu": "habrías regalado",
+    "El": "habría regalado",
+    "Nosotros": "habríamos regalado",
+    "Vosotros": "habríais regalado",
+    "Ellos": "habrían regalado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "regale",
+    "Tu": "regales",
+    "El": "regale",
+    "Nosotros": "regalemos",
+    "Vosotros": "regaléis",
+    "Ellos": "regalen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "regala",
+    "El": "regale",
+    "Nosotros": "regalemos",
+    "Vosotros": "regalad",
+    "Ellos": "regalen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no regales",
+    "El": "no regale",
+    "Nosotros": "no regalemos",
+    "Vosotros": "no regaléis",
+    "Ellos": "no regalen"
+  },
+  "ending": "ar"
+}

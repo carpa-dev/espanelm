@@ -1,0 +1,113 @@
+{
+  "verb": "reír",
+  "englishInfinitive": "to laugh",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "río",
+    "Tu": "ríes",
+    "El": "ríe",
+    "Nosotros": "reímos",
+    "Vosotros": "reís",
+    "Ellos": "ríen"
+  },
+  "IndicativePreterite": {
+    "Yo": "reí",
+    "Tu": "reíste",
+    "El": "rio",
+    "Nosotros": "reímos",
+    "Vosotros": "reísteis",
+    "Ellos": "rieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "reiré",
+    "Tu": "reirás",
+    "El": "reirá",
+    "Nosotros": "reiremos",
+    "Vosotros": "reiréis",
+    "Ellos": "reirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "reiría",
+    "Tu": "reirías",
+    "El": "reiría",
+    "Nosotros": "reiríamos",
+    "Vosotros": "reiríais",
+    "Ellos": "reirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "reía",
+    "Tu": "reías",
+    "El": "reía",
+    "Nosotros": "reíamos",
+    "Vosotros": "reíais",
+    "Ellos": "reían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy riendo",
+    "Tu": "estás riendo",
+    "El": "está riendo",
+    "Nosotros": "estamos riendo",
+    "Vosotros": "estáis riendo",
+    "Ellos": "están riendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he reído",
+    "Tu": "has reído",
+    "El": "ha reído",
+    "Nosotros": "hemos reído",
+    "Vosotros": "habéis reído",
+    "Ellos": "han reído"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había reído",
+    "Tu": "habías reído",
+    "El": "había reído",
+    "Nosotros": "habíamos reído",
+    "Vosotros": "habíais reído",
+    "Ellos": "habían reído"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré reído",
+    "Tu": "habrás reído",
+    "El": "habrá reído",
+    "Nosotros": "habremos reído",
+    "Vosotros": "habréis reído",
+    "Ellos": "habrán reído"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría reído",
+    "Tu": "habrías reído",
+    "El": "habría reído",
+    "Nosotros": "habríamos reído",
+    "Vosotros": "habríais reído",
+    "Ellos": "habrían reído"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ría",
+    "Tu": "rías",
+    "El": "ría",
+    "Nosotros": "riamos",
+    "Vosotros": "riáis",
+    "Ellos": "rían"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ríe",
+    "El": "ría",
+    "Nosotros": "riamos",
+    "Vosotros": "reíd",
+    "Ellos": "rían"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no rías",
+    "El": "no ría",
+    "Nosotros": "no riamos",
+    "Vosotros": "no riais",
+    "Ellos": "no rían"
+  },
+  "ending": "ir"
+}

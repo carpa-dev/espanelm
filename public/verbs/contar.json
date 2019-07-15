@@ -1,0 +1,113 @@
+{
+  "verb": "contar",
+  "englishInfinitive": "to count",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "cuento",
+    "Tu": "cuentas",
+    "El": "cuenta",
+    "Nosotros": "contamos",
+    "Vosotros": "contáis",
+    "Ellos": "cuentan"
+  },
+  "IndicativePreterite": {
+    "Yo": "conté",
+    "Tu": "contaste",
+    "El": "contó",
+    "Nosotros": "contamos",
+    "Vosotros": "contasteis",
+    "Ellos": "contaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "contaré",
+    "Tu": "contarás",
+    "El": "contará",
+    "Nosotros": "contaremos",
+    "Vosotros": "contaréis",
+    "Ellos": "contarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "contaría",
+    "Tu": "contarías",
+    "El": "contaría",
+    "Nosotros": "contaríamos",
+    "Vosotros": "contaríais",
+    "Ellos": "contarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "contaba",
+    "Tu": "contabas",
+    "El": "contaba",
+    "Nosotros": "contábamos",
+    "Vosotros": "contabais",
+    "Ellos": "contaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy contando",
+    "Tu": "estás contando",
+    "El": "está contando",
+    "Nosotros": "estamos contando",
+    "Vosotros": "estáis contando",
+    "Ellos": "están contando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he contado",
+    "Tu": "has contado",
+    "El": "ha contado",
+    "Nosotros": "hemos contado",
+    "Vosotros": "habéis contado",
+    "Ellos": "han contado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había contado",
+    "Tu": "habías contado",
+    "El": "había contado",
+    "Nosotros": "habíamos contado",
+    "Vosotros": "habíais contado",
+    "Ellos": "habían contado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré contado",
+    "Tu": "habrás contado",
+    "El": "habrá contado",
+    "Nosotros": "habremos contado",
+    "Vosotros": "habréis contado",
+    "Ellos": "habrán contado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría contado",
+    "Tu": "habrías contado",
+    "El": "habría contado",
+    "Nosotros": "habríamos contado",
+    "Vosotros": "habríais contado",
+    "Ellos": "habrían contado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cuente",
+    "Tu": "cuentes",
+    "El": "cuente",
+    "Nosotros": "contemos",
+    "Vosotros": "contéis",
+    "Ellos": "cuenten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cuenta",
+    "El": "cuente",
+    "Nosotros": "contemos",
+    "Vosotros": "contad",
+    "Ellos": "cuenten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cuentes",
+    "El": "no cuente",
+    "Nosotros": "no contemos",
+    "Vosotros": "no contéis",
+    "Ellos": "no cuenten"
+  },
+  "ending": "ar"
+}

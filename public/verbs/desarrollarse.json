@@ -1,0 +1,113 @@
+{
+  "verb": "desarrollarse",
+  "englishInfinitive": "to develop",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me desarrollo",
+    "Tu": "te desarrollas",
+    "El": "se desarrolla",
+    "Nosotros": "nos desarrollamos",
+    "Vosotros": "os desarrolláis",
+    "Ellos": "se desarrollan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me desarrollé",
+    "Tu": "te desarrollaste",
+    "El": "se desarrolló",
+    "Nosotros": "nos desarrollamos",
+    "Vosotros": "os desarrollasteis",
+    "Ellos": "se desarrollaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me desarrollaré",
+    "Tu": "te desarrollarás",
+    "El": "se desarrollará",
+    "Nosotros": "nos desarrollaremos",
+    "Vosotros": "os desarrollaréis",
+    "Ellos": "se desarrollarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me desarrollaría",
+    "Tu": "te desarrollarías",
+    "El": "se desarrollaría",
+    "Nosotros": "nos desarrollaríamos",
+    "Vosotros": "os desarrollaríais",
+    "Ellos": "se desarrollarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me desarrollaba",
+    "Tu": "te desarrollabas",
+    "El": "se desarrollaba",
+    "Nosotros": "nos desarrollábamos",
+    "Vosotros": "os desarrollabais",
+    "Ellos": "se desarrollaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy desarrollando,estoy desarrollándome",
+    "Tu": "te estás desarrollando,estás desarrollándote",
+    "El": "se está desarrollando,está desarrollándose",
+    "Nosotros": "nos estamos desarrollando,estamos desarrollándonos",
+    "Vosotros": "os estáis desarrollando,estáis desarrollándoos",
+    "Ellos": "se están desarrollando,están desarrollándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he desarrollado",
+    "Tu": "te has desarrollado",
+    "El": "se ha desarrollado",
+    "Nosotros": "nos hemos desarrollado",
+    "Vosotros": "os habéis desarrollado",
+    "Ellos": "se han desarrollado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había desarrollado",
+    "Tu": "te habías desarrollado",
+    "El": "se había desarrollado",
+    "Nosotros": "nos habíamos desarrollado",
+    "Vosotros": "os habíais desarrollado",
+    "Ellos": "se habían desarrollado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré desarrollado",
+    "Tu": "te habrás desarrollado",
+    "El": "se habrá desarrollado",
+    "Nosotros": "nos habremos desarrollado",
+    "Vosotros": "os habréis desarrollado",
+    "Ellos": "se habrán desarrollado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría desarrollado",
+    "Tu": "te habrías desarrollado",
+    "El": "se habría desarrollado",
+    "Nosotros": "nos habríamos desarrollado",
+    "Vosotros": "os habríais desarrollado",
+    "Ellos": "se habrían desarrollado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me desarrolle",
+    "Tu": "te desarrolles",
+    "El": "se desarrolle",
+    "Nosotros": "nos desarrollemos",
+    "Vosotros": "os desarrolléis",
+    "Ellos": "se desarrollen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "desarróllate",
+    "El": "desarróllese",
+    "Nosotros": "desarrollémonos",
+    "Vosotros": "desarrollaos",
+    "Ellos": "desarróllense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te desarrolles",
+    "El": "no se desarrolle",
+    "Nosotros": "no nos desarrollemos",
+    "Vosotros": "no os desarrolléis",
+    "Ellos": "no se desarrollen"
+  },
+  "ending": "ar"
+}

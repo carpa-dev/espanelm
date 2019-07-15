@@ -1,0 +1,113 @@
+{
+  "verb": "calmar",
+  "englishInfinitive": "to calm (down)",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "calmo",
+    "Tu": "calmas",
+    "El": "calma",
+    "Nosotros": "calmamos",
+    "Vosotros": "calmáis",
+    "Ellos": "calman"
+  },
+  "IndicativePreterite": {
+    "Yo": "calmé",
+    "Tu": "calmaste",
+    "El": "calmó",
+    "Nosotros": "calmamos",
+    "Vosotros": "calmasteis",
+    "Ellos": "calmaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "calmaré",
+    "Tu": "calmarás",
+    "El": "calmará",
+    "Nosotros": "calmaremos",
+    "Vosotros": "calmaréis",
+    "Ellos": "calmarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "calmaría",
+    "Tu": "calmarías",
+    "El": "calmaría",
+    "Nosotros": "calmaríamos",
+    "Vosotros": "calmaríais",
+    "Ellos": "calmarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "calmaba",
+    "Tu": "calmabas",
+    "El": "calmaba",
+    "Nosotros": "calmábamos",
+    "Vosotros": "calmabais",
+    "Ellos": "calmaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy calmando",
+    "Tu": "estás calmando",
+    "El": "está calmando",
+    "Nosotros": "estamos calmando",
+    "Vosotros": "estáis calmando",
+    "Ellos": "están calmando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he calmado",
+    "Tu": "has calmado",
+    "El": "ha calmado",
+    "Nosotros": "hemos calmado",
+    "Vosotros": "habéis calmado",
+    "Ellos": "han calmado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había calmado",
+    "Tu": "habías calmado",
+    "El": "había calmado",
+    "Nosotros": "habíamos calmado",
+    "Vosotros": "habíais calmado",
+    "Ellos": "habían calmado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré calmado",
+    "Tu": "habrás calmado",
+    "El": "habrá calmado",
+    "Nosotros": "habremos calmado",
+    "Vosotros": "habréis calmado",
+    "Ellos": "habrán calmado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría calmado",
+    "Tu": "habrías calmado",
+    "El": "habría calmado",
+    "Nosotros": "habríamos calmado",
+    "Vosotros": "habríais calmado",
+    "Ellos": "habrían calmado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "calme",
+    "Tu": "calmes",
+    "El": "calme",
+    "Nosotros": "calmemos",
+    "Vosotros": "calméis",
+    "Ellos": "calmen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "calma",
+    "El": "calme",
+    "Nosotros": "calmemos",
+    "Vosotros": "calmad",
+    "Ellos": "calmen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no calmes",
+    "El": "no calme",
+    "Nosotros": "no calmemos",
+    "Vosotros": "no calméis",
+    "Ellos": "no calmen"
+  },
+  "ending": "ar"
+}

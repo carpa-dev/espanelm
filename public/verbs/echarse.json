@@ -1,0 +1,113 @@
+{
+  "verb": "echarse",
+  "englishInfinitive": "to throw",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me echo",
+    "Tu": "te echas",
+    "El": "se echa",
+    "Nosotros": "nos echamos",
+    "Vosotros": "os echáis",
+    "Ellos": "se echan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me eché",
+    "Tu": "te echaste",
+    "El": "se echó",
+    "Nosotros": "nos echamos",
+    "Vosotros": "os echasteis",
+    "Ellos": "se echaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me echaré",
+    "Tu": "te echarás",
+    "El": "se echará",
+    "Nosotros": "nos echaremos",
+    "Vosotros": "os echaréis",
+    "Ellos": "se echarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me echaría",
+    "Tu": "te echarías",
+    "El": "se echaría",
+    "Nosotros": "nos echaríamos",
+    "Vosotros": "os echaríais",
+    "Ellos": "se echarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me echaba",
+    "Tu": "te echabas",
+    "El": "se echaba",
+    "Nosotros": "nos echábamos",
+    "Vosotros": "os echabais",
+    "Ellos": "se echaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy echando,estoy echándome",
+    "Tu": "te estás echando,estás echándote",
+    "El": "se está echando,está echándose",
+    "Nosotros": "nos estamos echando,estamos echándonos",
+    "Vosotros": "os estáis echando,estáis echándoos",
+    "Ellos": "se están echando,están echándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he echado",
+    "Tu": "te has echado",
+    "El": "se ha echado",
+    "Nosotros": "nos hemos echado",
+    "Vosotros": "os habéis echado",
+    "Ellos": "se han echado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había echado",
+    "Tu": "te habías echado",
+    "El": "se había echado",
+    "Nosotros": "nos habíamos echado",
+    "Vosotros": "os habíais echado",
+    "Ellos": "se habían echado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré echado",
+    "Tu": "te habrás echado",
+    "El": "se habrá echado",
+    "Nosotros": "nos habremos echado",
+    "Vosotros": "os habréis echado",
+    "Ellos": "se habrán echado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría echado",
+    "Tu": "te habrías echado",
+    "El": "se habría echado",
+    "Nosotros": "nos habríamos echado",
+    "Vosotros": "os habríais echado",
+    "Ellos": "se habrían echado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me eche",
+    "Tu": "te eches",
+    "El": "se eche",
+    "Nosotros": "nos echemos",
+    "Vosotros": "os echéis",
+    "Ellos": "se echen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "échate",
+    "El": "échese",
+    "Nosotros": "echémonos",
+    "Vosotros": "echaos",
+    "Ellos": "échense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te eches",
+    "El": "no se eche",
+    "Nosotros": "no nos echemos",
+    "Vosotros": "no os echéis",
+    "Ellos": "no se echen"
+  },
+  "ending": "ar"
+}

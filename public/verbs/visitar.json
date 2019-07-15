@@ -1,0 +1,113 @@
+{
+  "verb": "visitar",
+  "englishInfinitive": "to visit",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "visito",
+    "Tu": "visitas",
+    "El": "visita",
+    "Nosotros": "visitamos",
+    "Vosotros": "visitáis",
+    "Ellos": "visitan"
+  },
+  "IndicativePreterite": {
+    "Yo": "visité",
+    "Tu": "visitaste",
+    "El": "visitó",
+    "Nosotros": "visitamos",
+    "Vosotros": "visitasteis",
+    "Ellos": "visitaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "visitaré",
+    "Tu": "visitarás",
+    "El": "visitará",
+    "Nosotros": "visitaremos",
+    "Vosotros": "visitaréis",
+    "Ellos": "visitarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "visitaría",
+    "Tu": "visitarías",
+    "El": "visitaría",
+    "Nosotros": "visitaríamos",
+    "Vosotros": "visitaríais",
+    "Ellos": "visitarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "visitaba",
+    "Tu": "visitabas",
+    "El": "visitaba",
+    "Nosotros": "visitábamos",
+    "Vosotros": "visitabais",
+    "Ellos": "visitaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy visitando",
+    "Tu": "estás visitando",
+    "El": "está visitando",
+    "Nosotros": "estamos visitando",
+    "Vosotros": "estáis visitando",
+    "Ellos": "están visitando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he visitado",
+    "Tu": "has visitado",
+    "El": "ha visitado",
+    "Nosotros": "hemos visitado",
+    "Vosotros": "habéis visitado",
+    "Ellos": "han visitado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había visitado",
+    "Tu": "habías visitado",
+    "El": "había visitado",
+    "Nosotros": "habíamos visitado",
+    "Vosotros": "habíais visitado",
+    "Ellos": "habían visitado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré visitado",
+    "Tu": "habrás visitado",
+    "El": "habrá visitado",
+    "Nosotros": "habremos visitado",
+    "Vosotros": "habréis visitado",
+    "Ellos": "habrán visitado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría visitado",
+    "Tu": "habrías visitado",
+    "El": "habría visitado",
+    "Nosotros": "habríamos visitado",
+    "Vosotros": "habríais visitado",
+    "Ellos": "habrían visitado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "visite",
+    "Tu": "visites",
+    "El": "visite",
+    "Nosotros": "visitemos",
+    "Vosotros": "visitéis",
+    "Ellos": "visiten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "visita",
+    "El": "visite",
+    "Nosotros": "visitemos",
+    "Vosotros": "visitad",
+    "Ellos": "visiten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no visites",
+    "El": "no visite",
+    "Nosotros": "no visitemos",
+    "Vosotros": "no visitéis",
+    "Ellos": "no visiten"
+  },
+  "ending": "ar"
+}

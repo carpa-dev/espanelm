@@ -1,0 +1,113 @@
+{
+  "verb": "abusar",
+  "englishInfinitive": "to go too far",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "abuso",
+    "Tu": "abusas",
+    "El": "abusa",
+    "Nosotros": "abusamos",
+    "Vosotros": "abusáis",
+    "Ellos": "abusan"
+  },
+  "IndicativePreterite": {
+    "Yo": "abusé",
+    "Tu": "abusaste",
+    "El": "abusó",
+    "Nosotros": "abusamos",
+    "Vosotros": "abusasteis",
+    "Ellos": "abusaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "abusaré",
+    "Tu": "abusarás",
+    "El": "abusará",
+    "Nosotros": "abusaremos",
+    "Vosotros": "abusaréis",
+    "Ellos": "abusarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "abusaría",
+    "Tu": "abusarías",
+    "El": "abusaría",
+    "Nosotros": "abusaríamos",
+    "Vosotros": "abusaríais",
+    "Ellos": "abusarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "abusaba",
+    "Tu": "abusabas",
+    "El": "abusaba",
+    "Nosotros": "abusábamos",
+    "Vosotros": "abusabais",
+    "Ellos": "abusaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy abusando",
+    "Tu": "estás abusando",
+    "El": "está abusando",
+    "Nosotros": "estamos abusando",
+    "Vosotros": "estáis abusando",
+    "Ellos": "están abusando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he abusado",
+    "Tu": "has abusado",
+    "El": "ha abusado",
+    "Nosotros": "hemos abusado",
+    "Vosotros": "habéis abusado",
+    "Ellos": "han abusado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había abusado",
+    "Tu": "habías abusado",
+    "El": "había abusado",
+    "Nosotros": "habíamos abusado",
+    "Vosotros": "habíais abusado",
+    "Ellos": "habían abusado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré abusado",
+    "Tu": "habrás abusado",
+    "El": "habrá abusado",
+    "Nosotros": "habremos abusado",
+    "Vosotros": "habréis abusado",
+    "Ellos": "habrán abusado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría abusado",
+    "Tu": "habrías abusado",
+    "El": "habría abusado",
+    "Nosotros": "habríamos abusado",
+    "Vosotros": "habríais abusado",
+    "Ellos": "habrían abusado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "abuse",
+    "Tu": "abuses",
+    "El": "abuse",
+    "Nosotros": "abusemos",
+    "Vosotros": "abuséis",
+    "Ellos": "abusen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "abusa",
+    "El": "abuse",
+    "Nosotros": "abusemos",
+    "Vosotros": "abusad",
+    "Ellos": "abusen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no abuses",
+    "El": "no abuse",
+    "Nosotros": "no abusemos",
+    "Vosotros": "no abuséis",
+    "Ellos": "no abusen"
+  },
+  "ending": "ar"
+}

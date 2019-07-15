@@ -1,0 +1,113 @@
+{
+  "verb": "quedarse",
+  "englishInfinitive": "to stay [behind]",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "me quedo",
+    "Tu": "te quedas",
+    "El": "se queda",
+    "Nosotros": "nos quedamos",
+    "Vosotros": "os quedáis",
+    "Ellos": "se quedan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me quedé",
+    "Tu": "te quedaste",
+    "El": "se quedó",
+    "Nosotros": "nos quedamos",
+    "Vosotros": "os quedasteis",
+    "Ellos": "se quedaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me quedaré",
+    "Tu": "te quedarás",
+    "El": "se quedará",
+    "Nosotros": "nos quedaremos",
+    "Vosotros": "os quedaréis",
+    "Ellos": "se quedarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me quedaría",
+    "Tu": "te quedarías",
+    "El": "se quedaría",
+    "Nosotros": "nos quedaríamos",
+    "Vosotros": "os quedaríais",
+    "Ellos": "se quedarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me quedaba",
+    "Tu": "te quedabas",
+    "El": "se quedaba",
+    "Nosotros": "nos quedábamos",
+    "Vosotros": "os quedabais",
+    "Ellos": "se quedaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy quedando,estoy quedándome",
+    "Tu": "te estás quedando,estás quedándote",
+    "El": "se está quedando,está quedándose",
+    "Nosotros": "nos estamos quedando,estamos quedándonos",
+    "Vosotros": "os estáis quedando,estáis quedándoos",
+    "Ellos": "se están quedando,están quedándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he quedado",
+    "Tu": "te has quedado",
+    "El": "se ha quedado",
+    "Nosotros": "nos hemos quedado",
+    "Vosotros": "os habéis quedado",
+    "Ellos": "se han quedado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había quedado",
+    "Tu": "te habías quedado",
+    "El": "se había quedado",
+    "Nosotros": "nos habíamos quedado",
+    "Vosotros": "os habíais quedado",
+    "Ellos": "se habían quedado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré quedado",
+    "Tu": "te habrás quedado",
+    "El": "se habrá quedado",
+    "Nosotros": "nos habremos quedado",
+    "Vosotros": "os habréis quedado",
+    "Ellos": "se habrán quedado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría quedado",
+    "Tu": "te habrías quedado",
+    "El": "se habría quedado",
+    "Nosotros": "nos habríamos quedado",
+    "Vosotros": "os habríais quedado",
+    "Ellos": "se habrían quedado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me quede",
+    "Tu": "te quedes",
+    "El": "se quede",
+    "Nosotros": "nos quedemos",
+    "Vosotros": "os quedéis",
+    "Ellos": "se queden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "quédate",
+    "El": "quédese",
+    "Nosotros": "quedémonos",
+    "Vosotros": "quedaos",
+    "Ellos": "quédense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te quedes",
+    "El": "no se quede",
+    "Nosotros": "no nos quedemos",
+    "Vosotros": "no os quedéis",
+    "Ellos": "no se queden"
+  },
+  "ending": "ar"
+}

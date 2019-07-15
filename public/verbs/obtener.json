@@ -1,0 +1,113 @@
+{
+  "verb": "obtener",
+  "englishInfinitive": "to obtain",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "obtengo",
+    "Tu": "obtienes",
+    "El": "obtiene",
+    "Nosotros": "obtenemos",
+    "Vosotros": "obtenéis",
+    "Ellos": "obtienen"
+  },
+  "IndicativePreterite": {
+    "Yo": "obtuve",
+    "Tu": "obtuviste",
+    "El": "obtuvo",
+    "Nosotros": "obtuvimos",
+    "Vosotros": "obtuvisteis",
+    "Ellos": "obtuvieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "obtendré",
+    "Tu": "obtendrás",
+    "El": "obtendrá",
+    "Nosotros": "obtendremos",
+    "Vosotros": "obtendréis",
+    "Ellos": "obtendrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "obtendría",
+    "Tu": "obtendrías",
+    "El": "obtendría",
+    "Nosotros": "obtendríamos",
+    "Vosotros": "obtendríais",
+    "Ellos": "obtendrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "obtenía",
+    "Tu": "obtenías",
+    "El": "obtenía",
+    "Nosotros": "obteníamos",
+    "Vosotros": "obteníais",
+    "Ellos": "obtenían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy obteniendo",
+    "Tu": "estás obteniendo",
+    "El": "está obteniendo",
+    "Nosotros": "estamos obteniendo",
+    "Vosotros": "estáis obteniendo",
+    "Ellos": "están obteniendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he obtenido",
+    "Tu": "has obtenido",
+    "El": "ha obtenido",
+    "Nosotros": "hemos obtenido",
+    "Vosotros": "habéis obtenido",
+    "Ellos": "han obtenido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había obtenido",
+    "Tu": "habías obtenido",
+    "El": "había obtenido",
+    "Nosotros": "habíamos obtenido",
+    "Vosotros": "habíais obtenido",
+    "Ellos": "habían obtenido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré obtenido",
+    "Tu": "habrás obtenido",
+    "El": "habrá obtenido",
+    "Nosotros": "habremos obtenido",
+    "Vosotros": "habréis obtenido",
+    "Ellos": "habrán obtenido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría obtenido",
+    "Tu": "habrías obtenido",
+    "El": "habría obtenido",
+    "Nosotros": "habríamos obtenido",
+    "Vosotros": "habríais obtenido",
+    "Ellos": "habrían obtenido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "obtenga",
+    "Tu": "obtengas",
+    "El": "obtenga",
+    "Nosotros": "obtengamos",
+    "Vosotros": "obtengáis",
+    "Ellos": "obtengan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "obtén",
+    "El": "obtenga",
+    "Nosotros": "obtengamos",
+    "Vosotros": "obtened",
+    "Ellos": "obtengan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no obtengas",
+    "El": "no obtenga",
+    "Nosotros": "no obtengamos",
+    "Vosotros": "no obtengáis",
+    "Ellos": "no obtengan"
+  },
+  "ending": "er"
+}

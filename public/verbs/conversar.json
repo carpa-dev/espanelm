@@ -1,0 +1,113 @@
+{
+  "verb": "conversar",
+  "englishInfinitive": "to talk",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "converso",
+    "Tu": "conversas",
+    "El": "conversa",
+    "Nosotros": "conversamos",
+    "Vosotros": "conversáis",
+    "Ellos": "conversan"
+  },
+  "IndicativePreterite": {
+    "Yo": "conversé",
+    "Tu": "conversaste",
+    "El": "conversó",
+    "Nosotros": "conversamos",
+    "Vosotros": "conversasteis",
+    "Ellos": "conversaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "conversaré",
+    "Tu": "conversarás",
+    "El": "conversará",
+    "Nosotros": "conversaremos",
+    "Vosotros": "conversaréis",
+    "Ellos": "conversarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "conversaría",
+    "Tu": "conversarías",
+    "El": "conversaría",
+    "Nosotros": "conversaríamos",
+    "Vosotros": "conversaríais",
+    "Ellos": "conversarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "conversaba",
+    "Tu": "conversabas",
+    "El": "conversaba",
+    "Nosotros": "conversábamos",
+    "Vosotros": "conversabais",
+    "Ellos": "conversaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy conversando",
+    "Tu": "estás conversando",
+    "El": "está conversando",
+    "Nosotros": "estamos conversando",
+    "Vosotros": "estáis conversando",
+    "Ellos": "están conversando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he conversado",
+    "Tu": "has conversado",
+    "El": "ha conversado",
+    "Nosotros": "hemos conversado",
+    "Vosotros": "habéis conversado",
+    "Ellos": "han conversado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había conversado",
+    "Tu": "habías conversado",
+    "El": "había conversado",
+    "Nosotros": "habíamos conversado",
+    "Vosotros": "habíais conversado",
+    "Ellos": "habían conversado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré conversado",
+    "Tu": "habrás conversado",
+    "El": "habrá conversado",
+    "Nosotros": "habremos conversado",
+    "Vosotros": "habréis conversado",
+    "Ellos": "habrán conversado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría conversado",
+    "Tu": "habrías conversado",
+    "El": "habría conversado",
+    "Nosotros": "habríamos conversado",
+    "Vosotros": "habríais conversado",
+    "Ellos": "habrían conversado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "converse",
+    "Tu": "converses",
+    "El": "converse",
+    "Nosotros": "conversemos",
+    "Vosotros": "converséis",
+    "Ellos": "conversen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "conversa",
+    "El": "converse",
+    "Nosotros": "conversemos",
+    "Vosotros": "conversad",
+    "Ellos": "conversen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no converses",
+    "El": "no converse",
+    "Nosotros": "no conversemos",
+    "Vosotros": "no converséis",
+    "Ellos": "no conversen"
+  },
+  "ending": "ar"
+}

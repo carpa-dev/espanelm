@@ -1,0 +1,113 @@
+{
+  "verb": "bañar",
+  "englishInfinitive": "to give a bath",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "baño",
+    "Tu": "bañas",
+    "El": "baña",
+    "Nosotros": "bañamos",
+    "Vosotros": "bañáis",
+    "Ellos": "bañan"
+  },
+  "IndicativePreterite": {
+    "Yo": "bañé",
+    "Tu": "bañaste",
+    "El": "bañó",
+    "Nosotros": "bañamos",
+    "Vosotros": "bañasteis",
+    "Ellos": "bañaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "bañaré",
+    "Tu": "bañarás",
+    "El": "bañará",
+    "Nosotros": "bañaremos",
+    "Vosotros": "bañaréis",
+    "Ellos": "bañarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "bañaría",
+    "Tu": "bañarías",
+    "El": "bañaría",
+    "Nosotros": "bañaríamos",
+    "Vosotros": "bañaríais",
+    "Ellos": "bañarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "bañaba",
+    "Tu": "bañabas",
+    "El": "bañaba",
+    "Nosotros": "bañábamos",
+    "Vosotros": "bañabais",
+    "Ellos": "bañaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy bañando",
+    "Tu": "estás bañando",
+    "El": "está bañando",
+    "Nosotros": "estamos bañando",
+    "Vosotros": "estáis bañando",
+    "Ellos": "están bañando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he bañado",
+    "Tu": "has bañado",
+    "El": "ha bañado",
+    "Nosotros": "hemos bañado",
+    "Vosotros": "habéis bañado",
+    "Ellos": "han bañado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había bañado",
+    "Tu": "habías bañado",
+    "El": "había bañado",
+    "Nosotros": "habíamos bañado",
+    "Vosotros": "habíais bañado",
+    "Ellos": "habían bañado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré bañado",
+    "Tu": "habrás bañado",
+    "El": "habrá bañado",
+    "Nosotros": "habremos bañado",
+    "Vosotros": "habréis bañado",
+    "Ellos": "habrán bañado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría bañado",
+    "Tu": "habrías bañado",
+    "El": "habría bañado",
+    "Nosotros": "habríamos bañado",
+    "Vosotros": "habríais bañado",
+    "Ellos": "habrían bañado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "bañe",
+    "Tu": "bañes",
+    "El": "bañe",
+    "Nosotros": "bañemos",
+    "Vosotros": "bañéis",
+    "Ellos": "bañen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "baña",
+    "El": "bañe",
+    "Nosotros": "bañemos",
+    "Vosotros": "bañad",
+    "Ellos": "bañen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no bañes",
+    "El": "no bañe",
+    "Nosotros": "no bañemos",
+    "Vosotros": "no bañéis",
+    "Ellos": "no bañen"
+  },
+  "ending": "ar"
+}

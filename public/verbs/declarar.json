@@ -1,0 +1,113 @@
+{
+  "verb": "declarar",
+  "englishInfinitive": "to declare",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "declaro",
+    "Tu": "declaras",
+    "El": "declara",
+    "Nosotros": "declaramos",
+    "Vosotros": "declaráis",
+    "Ellos": "declaran"
+  },
+  "IndicativePreterite": {
+    "Yo": "declaré",
+    "Tu": "declaraste",
+    "El": "declaró",
+    "Nosotros": "declaramos",
+    "Vosotros": "declarasteis",
+    "Ellos": "declararon"
+  },
+  "IndicativeFuture": {
+    "Yo": "declararé",
+    "Tu": "declararás",
+    "El": "declarará",
+    "Nosotros": "declararemos",
+    "Vosotros": "declararéis",
+    "Ellos": "declararán"
+  },
+  "ConditionalPresent": {
+    "Yo": "declararía",
+    "Tu": "declararías",
+    "El": "declararía",
+    "Nosotros": "declararíamos",
+    "Vosotros": "declararíais",
+    "Ellos": "declararían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "declaraba",
+    "Tu": "declarabas",
+    "El": "declaraba",
+    "Nosotros": "declarábamos",
+    "Vosotros": "declarabais",
+    "Ellos": "declaraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy declarando",
+    "Tu": "estás declarando",
+    "El": "está declarando",
+    "Nosotros": "estamos declarando",
+    "Vosotros": "estáis declarando",
+    "Ellos": "están declarando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he declarado",
+    "Tu": "has declarado",
+    "El": "ha declarado",
+    "Nosotros": "hemos declarado",
+    "Vosotros": "habéis declarado",
+    "Ellos": "han declarado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había declarado",
+    "Tu": "habías declarado",
+    "El": "había declarado",
+    "Nosotros": "habíamos declarado",
+    "Vosotros": "habíais declarado",
+    "Ellos": "habían declarado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré declarado",
+    "Tu": "habrás declarado",
+    "El": "habrá declarado",
+    "Nosotros": "habremos declarado",
+    "Vosotros": "habréis declarado",
+    "Ellos": "habrán declarado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría declarado",
+    "Tu": "habrías declarado",
+    "El": "habría declarado",
+    "Nosotros": "habríamos declarado",
+    "Vosotros": "habríais declarado",
+    "Ellos": "habrían declarado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "declare",
+    "Tu": "declares",
+    "El": "declare",
+    "Nosotros": "declaremos",
+    "Vosotros": "declaréis",
+    "Ellos": "declaren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "declara",
+    "El": "declare",
+    "Nosotros": "declaremos",
+    "Vosotros": "declarad",
+    "Ellos": "declaren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no declares",
+    "El": "no declare",
+    "Nosotros": "no declaremos",
+    "Vosotros": "no declaréis",
+    "Ellos": "no declaren"
+  },
+  "ending": "ar"
+}

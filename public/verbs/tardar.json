@@ -1,0 +1,113 @@
+{
+  "verb": "tardar",
+  "englishInfinitive": "to delay",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "tardo",
+    "Tu": "tardas",
+    "El": "tarda",
+    "Nosotros": "tardamos",
+    "Vosotros": "tardáis",
+    "Ellos": "tardan"
+  },
+  "IndicativePreterite": {
+    "Yo": "tardé",
+    "Tu": "tardaste",
+    "El": "tardó",
+    "Nosotros": "tardamos",
+    "Vosotros": "tardasteis",
+    "Ellos": "tardaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "tardaré",
+    "Tu": "tardarás",
+    "El": "tardará",
+    "Nosotros": "tardaremos",
+    "Vosotros": "tardaréis",
+    "Ellos": "tardarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "tardaría",
+    "Tu": "tardarías",
+    "El": "tardaría",
+    "Nosotros": "tardaríamos",
+    "Vosotros": "tardaríais",
+    "Ellos": "tardarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "tardaba",
+    "Tu": "tardabas",
+    "El": "tardaba",
+    "Nosotros": "tardábamos",
+    "Vosotros": "tardabais",
+    "Ellos": "tardaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy tardando",
+    "Tu": "estás tardando",
+    "El": "está tardando",
+    "Nosotros": "estamos tardando",
+    "Vosotros": "estáis tardando",
+    "Ellos": "están tardando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he tardado",
+    "Tu": "has tardado",
+    "El": "ha tardado",
+    "Nosotros": "hemos tardado",
+    "Vosotros": "habéis tardado",
+    "Ellos": "han tardado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había tardado",
+    "Tu": "habías tardado",
+    "El": "había tardado",
+    "Nosotros": "habíamos tardado",
+    "Vosotros": "habíais tardado",
+    "Ellos": "habían tardado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré tardado",
+    "Tu": "habrás tardado",
+    "El": "habrá tardado",
+    "Nosotros": "habremos tardado",
+    "Vosotros": "habréis tardado",
+    "Ellos": "habrán tardado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría tardado",
+    "Tu": "habrías tardado",
+    "El": "habría tardado",
+    "Nosotros": "habríamos tardado",
+    "Vosotros": "habríais tardado",
+    "Ellos": "habrían tardado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "tarde",
+    "Tu": "tardes",
+    "El": "tarde",
+    "Nosotros": "tardemos",
+    "Vosotros": "tardéis",
+    "Ellos": "tarden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "tarda",
+    "El": "tarde",
+    "Nosotros": "tardemos",
+    "Vosotros": "tardad",
+    "Ellos": "tarden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no tardes",
+    "El": "no tarde",
+    "Nosotros": "no tardemos",
+    "Vosotros": "no tardéis",
+    "Ellos": "no tarden"
+  },
+  "ending": "ar"
+}

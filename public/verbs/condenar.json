@@ -1,0 +1,113 @@
+{
+  "verb": "condenar",
+  "englishInfinitive": "to condemn",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "condeno",
+    "Tu": "condenas",
+    "El": "condena",
+    "Nosotros": "condenamos",
+    "Vosotros": "condenáis",
+    "Ellos": "condenan"
+  },
+  "IndicativePreterite": {
+    "Yo": "condené",
+    "Tu": "condenaste",
+    "El": "condenó",
+    "Nosotros": "condenamos",
+    "Vosotros": "condenasteis",
+    "Ellos": "condenaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "condenaré",
+    "Tu": "condenarás",
+    "El": "condenará",
+    "Nosotros": "condenaremos",
+    "Vosotros": "condenaréis",
+    "Ellos": "condenarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "condenaría",
+    "Tu": "condenarías",
+    "El": "condenaría",
+    "Nosotros": "condenaríamos",
+    "Vosotros": "condenaríais",
+    "Ellos": "condenarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "condenaba",
+    "Tu": "condenabas",
+    "El": "condenaba",
+    "Nosotros": "condenábamos",
+    "Vosotros": "condenabais",
+    "Ellos": "condenaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy condenando",
+    "Tu": "estás condenando",
+    "El": "está condenando",
+    "Nosotros": "estamos condenando",
+    "Vosotros": "estáis condenando",
+    "Ellos": "están condenando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he condenado",
+    "Tu": "has condenado",
+    "El": "ha condenado",
+    "Nosotros": "hemos condenado",
+    "Vosotros": "habéis condenado",
+    "Ellos": "han condenado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había condenado",
+    "Tu": "habías condenado",
+    "El": "había condenado",
+    "Nosotros": "habíamos condenado",
+    "Vosotros": "habíais condenado",
+    "Ellos": "habían condenado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré condenado",
+    "Tu": "habrás condenado",
+    "El": "habrá condenado",
+    "Nosotros": "habremos condenado",
+    "Vosotros": "habréis condenado",
+    "Ellos": "habrán condenado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría condenado",
+    "Tu": "habrías condenado",
+    "El": "habría condenado",
+    "Nosotros": "habríamos condenado",
+    "Vosotros": "habríais condenado",
+    "Ellos": "habrían condenado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "condene",
+    "Tu": "condenes",
+    "El": "condene",
+    "Nosotros": "condenemos",
+    "Vosotros": "condenéis",
+    "Ellos": "condenen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "condena",
+    "El": "condene",
+    "Nosotros": "condenemos",
+    "Vosotros": "condenad",
+    "Ellos": "condenen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no condenes",
+    "El": "no condene",
+    "Nosotros": "no condenemos",
+    "Vosotros": "no condenéis",
+    "Ellos": "no condenen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "aumentar",
+  "englishInfinitive": "to increase",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "aumento",
+    "Tu": "aumentas",
+    "El": "aumenta",
+    "Nosotros": "aumentamos",
+    "Vosotros": "aumentáis",
+    "Ellos": "aumentan"
+  },
+  "IndicativePreterite": {
+    "Yo": "aumenté",
+    "Tu": "aumentaste",
+    "El": "aumentó",
+    "Nosotros": "aumentamos",
+    "Vosotros": "aumentasteis",
+    "Ellos": "aumentaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "aumentaré",
+    "Tu": "aumentarás",
+    "El": "aumentará",
+    "Nosotros": "aumentaremos",
+    "Vosotros": "aumentaréis",
+    "Ellos": "aumentarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "aumentaría",
+    "Tu": "aumentarías",
+    "El": "aumentaría",
+    "Nosotros": "aumentaríamos",
+    "Vosotros": "aumentaríais",
+    "Ellos": "aumentarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "aumentaba",
+    "Tu": "aumentabas",
+    "El": "aumentaba",
+    "Nosotros": "aumentábamos",
+    "Vosotros": "aumentabais",
+    "Ellos": "aumentaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy aumentando",
+    "Tu": "estás aumentando",
+    "El": "está aumentando",
+    "Nosotros": "estamos aumentando",
+    "Vosotros": "estáis aumentando",
+    "Ellos": "están aumentando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he aumentado",
+    "Tu": "has aumentado",
+    "El": "ha aumentado",
+    "Nosotros": "hemos aumentado",
+    "Vosotros": "habéis aumentado",
+    "Ellos": "han aumentado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había aumentado",
+    "Tu": "habías aumentado",
+    "El": "había aumentado",
+    "Nosotros": "habíamos aumentado",
+    "Vosotros": "habíais aumentado",
+    "Ellos": "habían aumentado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré aumentado",
+    "Tu": "habrás aumentado",
+    "El": "habrá aumentado",
+    "Nosotros": "habremos aumentado",
+    "Vosotros": "habréis aumentado",
+    "Ellos": "habrán aumentado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría aumentado",
+    "Tu": "habrías aumentado",
+    "El": "habría aumentado",
+    "Nosotros": "habríamos aumentado",
+    "Vosotros": "habríais aumentado",
+    "Ellos": "habrían aumentado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "aumente",
+    "Tu": "aumentes",
+    "El": "aumente",
+    "Nosotros": "aumentemos",
+    "Vosotros": "aumentéis",
+    "Ellos": "aumenten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "aumenta",
+    "El": "aumente",
+    "Nosotros": "aumentemos",
+    "Vosotros": "aumentad",
+    "Ellos": "aumenten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no aumentes",
+    "El": "no aumente",
+    "Nosotros": "no aumentemos",
+    "Vosotros": "no aumentéis",
+    "Ellos": "no aumenten"
+  },
+  "ending": "ar"
+}

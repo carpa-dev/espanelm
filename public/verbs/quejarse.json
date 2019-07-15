@@ -1,0 +1,113 @@
+{
+  "verb": "quejarse",
+  "englishInfinitive": "to complain",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me quejo",
+    "Tu": "te quejas",
+    "El": "se queja",
+    "Nosotros": "nos quejamos",
+    "Vosotros": "os quejáis",
+    "Ellos": "se quejan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me quejé",
+    "Tu": "te quejaste",
+    "El": "se quejó",
+    "Nosotros": "nos quejamos",
+    "Vosotros": "os quejasteis",
+    "Ellos": "se quejaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me quejaré",
+    "Tu": "te quejarás",
+    "El": "se quejará",
+    "Nosotros": "nos quejaremos",
+    "Vosotros": "os quejaréis",
+    "Ellos": "se quejarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me quejaría",
+    "Tu": "te quejarías",
+    "El": "se quejaría",
+    "Nosotros": "nos quejaríamos",
+    "Vosotros": "os quejaríais",
+    "Ellos": "se quejarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me quejaba",
+    "Tu": "te quejabas",
+    "El": "se quejaba",
+    "Nosotros": "nos quejábamos",
+    "Vosotros": "os quejabais",
+    "Ellos": "se quejaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy quejando,estoy quejándome",
+    "Tu": "te estás quejando,estás quejándote",
+    "El": "se está quejando,está quejándose",
+    "Nosotros": "nos estamos quejando,estamos quejándonos",
+    "Vosotros": "os estáis quejando,estáis quejándoos",
+    "Ellos": "se están quejando,están quejándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he quejado",
+    "Tu": "te has quejado",
+    "El": "se ha quejado",
+    "Nosotros": "nos hemos quejado",
+    "Vosotros": "os habéis quejado",
+    "Ellos": "se han quejado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había quejado",
+    "Tu": "te habías quejado",
+    "El": "se había quejado",
+    "Nosotros": "nos habíamos quejado",
+    "Vosotros": "os habíais quejado",
+    "Ellos": "se habían quejado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré quejado",
+    "Tu": "te habrás quejado",
+    "El": "se habrá quejado",
+    "Nosotros": "nos habremos quejado",
+    "Vosotros": "os habréis quejado",
+    "Ellos": "se habrán quejado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría quejado",
+    "Tu": "te habrías quejado",
+    "El": "se habría quejado",
+    "Nosotros": "nos habríamos quejado",
+    "Vosotros": "os habríais quejado",
+    "Ellos": "se habrían quejado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me queje",
+    "Tu": "te quejes",
+    "El": "se queje",
+    "Nosotros": "nos quejemos",
+    "Vosotros": "os quejéis",
+    "Ellos": "se quejen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "quéjate",
+    "El": "quéjese",
+    "Nosotros": "quejémonos",
+    "Vosotros": "quejaos",
+    "Ellos": "quéjense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te quejes",
+    "El": "no se queje",
+    "Nosotros": "no nos quejemos",
+    "Vosotros": "no os quejéis",
+    "Ellos": "no se quejen"
+  },
+  "ending": "ar"
+}

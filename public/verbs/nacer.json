@@ -1,0 +1,113 @@
+{
+  "verb": "nacer",
+  "englishInfinitive": "to be born",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "nazco",
+    "Tu": "naces",
+    "El": "nace",
+    "Nosotros": "nacemos",
+    "Vosotros": "nacéis",
+    "Ellos": "nacen"
+  },
+  "IndicativePreterite": {
+    "Yo": "nací",
+    "Tu": "naciste",
+    "El": "nació",
+    "Nosotros": "nacimos",
+    "Vosotros": "nacisteis",
+    "Ellos": "nacieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "naceré",
+    "Tu": "nacerás",
+    "El": "nacerá",
+    "Nosotros": "naceremos",
+    "Vosotros": "naceréis",
+    "Ellos": "nacerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "nacería",
+    "Tu": "nacerías",
+    "El": "nacería",
+    "Nosotros": "naceríamos",
+    "Vosotros": "naceríais",
+    "Ellos": "nacerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "nacía",
+    "Tu": "nacías",
+    "El": "nacía",
+    "Nosotros": "nacíamos",
+    "Vosotros": "nacíais",
+    "Ellos": "nacían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy naciendo",
+    "Tu": "estás naciendo",
+    "El": "está naciendo",
+    "Nosotros": "estamos naciendo",
+    "Vosotros": "estáis naciendo",
+    "Ellos": "están naciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he nacido",
+    "Tu": "has nacido",
+    "El": "ha nacido",
+    "Nosotros": "hemos nacido",
+    "Vosotros": "habéis nacido",
+    "Ellos": "han nacido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había nacido",
+    "Tu": "habías nacido",
+    "El": "había nacido",
+    "Nosotros": "habíamos nacido",
+    "Vosotros": "habíais nacido",
+    "Ellos": "habían nacido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré nacido",
+    "Tu": "habrás nacido",
+    "El": "habrá nacido",
+    "Nosotros": "habremos nacido",
+    "Vosotros": "habréis nacido",
+    "Ellos": "habrán nacido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría nacido",
+    "Tu": "habrías nacido",
+    "El": "habría nacido",
+    "Nosotros": "habríamos nacido",
+    "Vosotros": "habríais nacido",
+    "Ellos": "habrían nacido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "nazca",
+    "Tu": "nazcas",
+    "El": "nazca",
+    "Nosotros": "nazcamos",
+    "Vosotros": "nazcáis",
+    "Ellos": "nazcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "nace",
+    "El": "nazca",
+    "Nosotros": "nazcamos",
+    "Vosotros": "naced",
+    "Ellos": "nazcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no nazcas",
+    "El": "no nazca",
+    "Nosotros": "no nazcamos",
+    "Vosotros": "no nazcáis",
+    "Ellos": "no nazcan"
+  },
+  "ending": "er"
+}

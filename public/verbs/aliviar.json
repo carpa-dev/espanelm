@@ -1,0 +1,113 @@
+{
+  "verb": "aliviar",
+  "englishInfinitive": "to alleviate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "alivio",
+    "Tu": "alivias",
+    "El": "alivia",
+    "Nosotros": "aliviamos",
+    "Vosotros": "aliviáis",
+    "Ellos": "alivian"
+  },
+  "IndicativePreterite": {
+    "Yo": "alivié",
+    "Tu": "aliviaste",
+    "El": "alivió",
+    "Nosotros": "aliviamos",
+    "Vosotros": "aliviasteis",
+    "Ellos": "aliviaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "aliviaré",
+    "Tu": "aliviarás",
+    "El": "aliviará",
+    "Nosotros": "aliviaremos",
+    "Vosotros": "aliviaréis",
+    "Ellos": "aliviarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "aliviaría",
+    "Tu": "aliviarías",
+    "El": "aliviaría",
+    "Nosotros": "aliviaríamos",
+    "Vosotros": "aliviaríais",
+    "Ellos": "aliviarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "aliviaba",
+    "Tu": "aliviabas",
+    "El": "aliviaba",
+    "Nosotros": "aliviábamos",
+    "Vosotros": "aliviabais",
+    "Ellos": "aliviaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy aliviando",
+    "Tu": "estás aliviando",
+    "El": "está aliviando",
+    "Nosotros": "estamos aliviando",
+    "Vosotros": "estáis aliviando",
+    "Ellos": "están aliviando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he aliviado",
+    "Tu": "has aliviado",
+    "El": "ha aliviado",
+    "Nosotros": "hemos aliviado",
+    "Vosotros": "habéis aliviado",
+    "Ellos": "han aliviado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había aliviado",
+    "Tu": "habías aliviado",
+    "El": "había aliviado",
+    "Nosotros": "habíamos aliviado",
+    "Vosotros": "habíais aliviado",
+    "Ellos": "habían aliviado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré aliviado",
+    "Tu": "habrás aliviado",
+    "El": "habrá aliviado",
+    "Nosotros": "habremos aliviado",
+    "Vosotros": "habréis aliviado",
+    "Ellos": "habrán aliviado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría aliviado",
+    "Tu": "habrías aliviado",
+    "El": "habría aliviado",
+    "Nosotros": "habríamos aliviado",
+    "Vosotros": "habríais aliviado",
+    "Ellos": "habrían aliviado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "alivie",
+    "Tu": "alivies",
+    "El": "alivie",
+    "Nosotros": "aliviemos",
+    "Vosotros": "aliviéis",
+    "Ellos": "alivien"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "alivia",
+    "El": "alivie",
+    "Nosotros": "aliviemos",
+    "Vosotros": "aliviad",
+    "Ellos": "alivien"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no alivies",
+    "El": "no alivie",
+    "Nosotros": "no aliviemos",
+    "Vosotros": "no aliviéis",
+    "Ellos": "no alivien"
+  },
+  "ending": "ar"
+}

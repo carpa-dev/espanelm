@@ -1,0 +1,113 @@
+{
+  "verb": "lavar",
+  "englishInfinitive": "to wash",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "lavo",
+    "Tu": "lavas",
+    "El": "lava",
+    "Nosotros": "lavamos",
+    "Vosotros": "laváis",
+    "Ellos": "lavan"
+  },
+  "IndicativePreterite": {
+    "Yo": "lavé",
+    "Tu": "lavaste",
+    "El": "lavó",
+    "Nosotros": "lavamos",
+    "Vosotros": "lavasteis",
+    "Ellos": "lavaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "lavaré",
+    "Tu": "lavarás",
+    "El": "lavará",
+    "Nosotros": "lavaremos",
+    "Vosotros": "lavaréis",
+    "Ellos": "lavarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "lavaría",
+    "Tu": "lavarías",
+    "El": "lavaría",
+    "Nosotros": "lavaríamos",
+    "Vosotros": "lavaríais",
+    "Ellos": "lavarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "lavaba",
+    "Tu": "lavabas",
+    "El": "lavaba",
+    "Nosotros": "lavábamos",
+    "Vosotros": "lavabais",
+    "Ellos": "lavaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy lavando",
+    "Tu": "estás lavando",
+    "El": "está lavando",
+    "Nosotros": "estamos lavando",
+    "Vosotros": "estáis lavando",
+    "Ellos": "están lavando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he lavado",
+    "Tu": "has lavado",
+    "El": "ha lavado",
+    "Nosotros": "hemos lavado",
+    "Vosotros": "habéis lavado",
+    "Ellos": "han lavado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había lavado",
+    "Tu": "habías lavado",
+    "El": "había lavado",
+    "Nosotros": "habíamos lavado",
+    "Vosotros": "habíais lavado",
+    "Ellos": "habían lavado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré lavado",
+    "Tu": "habrás lavado",
+    "El": "habrá lavado",
+    "Nosotros": "habremos lavado",
+    "Vosotros": "habréis lavado",
+    "Ellos": "habrán lavado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría lavado",
+    "Tu": "habrías lavado",
+    "El": "habría lavado",
+    "Nosotros": "habríamos lavado",
+    "Vosotros": "habríais lavado",
+    "Ellos": "habrían lavado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "lave",
+    "Tu": "laves",
+    "El": "lave",
+    "Nosotros": "lavemos",
+    "Vosotros": "lavéis",
+    "Ellos": "laven"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "lava",
+    "El": "lave",
+    "Nosotros": "lavemos",
+    "Vosotros": "lavad",
+    "Ellos": "laven"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no laves",
+    "El": "no lave",
+    "Nosotros": "no lavemos",
+    "Vosotros": "no lavéis",
+    "Ellos": "no laven"
+  },
+  "ending": "ar"
+}

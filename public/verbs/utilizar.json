@@ -1,0 +1,113 @@
+{
+  "verb": "utilizar",
+  "englishInfinitive": "to use",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "utilizo",
+    "Tu": "utilizas",
+    "El": "utiliza",
+    "Nosotros": "utilizamos",
+    "Vosotros": "utilizáis",
+    "Ellos": "utilizan"
+  },
+  "IndicativePreterite": {
+    "Yo": "utilicé",
+    "Tu": "utilizaste",
+    "El": "utilizó",
+    "Nosotros": "utilizamos",
+    "Vosotros": "utilizasteis",
+    "Ellos": "utilizaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "utilizaré",
+    "Tu": "utilizarás",
+    "El": "utilizará",
+    "Nosotros": "utilizaremos",
+    "Vosotros": "utilizaréis",
+    "Ellos": "utilizarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "utilizaría",
+    "Tu": "utilizarías",
+    "El": "utilizaría",
+    "Nosotros": "utilizaríamos",
+    "Vosotros": "utilizaríais",
+    "Ellos": "utilizarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "utilizaba",
+    "Tu": "utilizabas",
+    "El": "utilizaba",
+    "Nosotros": "utilizábamos",
+    "Vosotros": "utilizabais",
+    "Ellos": "utilizaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy utilizando",
+    "Tu": "estás utilizando",
+    "El": "está utilizando",
+    "Nosotros": "estamos utilizando",
+    "Vosotros": "estáis utilizando",
+    "Ellos": "están utilizando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he utilizado",
+    "Tu": "has utilizado",
+    "El": "ha utilizado",
+    "Nosotros": "hemos utilizado",
+    "Vosotros": "habéis utilizado",
+    "Ellos": "han utilizado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había utilizado",
+    "Tu": "habías utilizado",
+    "El": "había utilizado",
+    "Nosotros": "habíamos utilizado",
+    "Vosotros": "habíais utilizado",
+    "Ellos": "habían utilizado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré utilizado",
+    "Tu": "habrás utilizado",
+    "El": "habrá utilizado",
+    "Nosotros": "habremos utilizado",
+    "Vosotros": "habréis utilizado",
+    "Ellos": "habrán utilizado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría utilizado",
+    "Tu": "habrías utilizado",
+    "El": "habría utilizado",
+    "Nosotros": "habríamos utilizado",
+    "Vosotros": "habríais utilizado",
+    "Ellos": "habrían utilizado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "utilice",
+    "Tu": "utilices",
+    "El": "utilice",
+    "Nosotros": "utilicemos",
+    "Vosotros": "utilicéis",
+    "Ellos": "utilicen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "utiliza",
+    "El": "utilice",
+    "Nosotros": "utilicemos",
+    "Vosotros": "utilizad",
+    "Ellos": "utilicen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no utilices",
+    "El": "no utilice",
+    "Nosotros": "no utilicemos",
+    "Vosotros": "no utilicéis",
+    "Ellos": "no utilicen"
+  },
+  "ending": "ar"
+}

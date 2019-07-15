@@ -1,0 +1,113 @@
+{
+  "verb": "notar",
+  "englishInfinitive": "to note",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "noto",
+    "Tu": "notas",
+    "El": "nota",
+    "Nosotros": "notamos",
+    "Vosotros": "notáis",
+    "Ellos": "notan"
+  },
+  "IndicativePreterite": {
+    "Yo": "noté",
+    "Tu": "notaste",
+    "El": "notó",
+    "Nosotros": "notamos",
+    "Vosotros": "notasteis",
+    "Ellos": "notaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "notaré",
+    "Tu": "notarás",
+    "El": "notará",
+    "Nosotros": "notaremos",
+    "Vosotros": "notaréis",
+    "Ellos": "notarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "notaría",
+    "Tu": "notarías",
+    "El": "notaría",
+    "Nosotros": "notaríamos",
+    "Vosotros": "notaríais",
+    "Ellos": "notarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "notaba",
+    "Tu": "notabas",
+    "El": "notaba",
+    "Nosotros": "notábamos",
+    "Vosotros": "notabais",
+    "Ellos": "notaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy notando",
+    "Tu": "estás notando",
+    "El": "está notando",
+    "Nosotros": "estamos notando",
+    "Vosotros": "estáis notando",
+    "Ellos": "están notando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he notado",
+    "Tu": "has notado",
+    "El": "ha notado",
+    "Nosotros": "hemos notado",
+    "Vosotros": "habéis notado",
+    "Ellos": "han notado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había notado",
+    "Tu": "habías notado",
+    "El": "había notado",
+    "Nosotros": "habíamos notado",
+    "Vosotros": "habíais notado",
+    "Ellos": "habían notado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré notado",
+    "Tu": "habrás notado",
+    "El": "habrá notado",
+    "Nosotros": "habremos notado",
+    "Vosotros": "habréis notado",
+    "Ellos": "habrán notado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría notado",
+    "Tu": "habrías notado",
+    "El": "habría notado",
+    "Nosotros": "habríamos notado",
+    "Vosotros": "habríais notado",
+    "Ellos": "habrían notado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "note",
+    "Tu": "notes",
+    "El": "note",
+    "Nosotros": "notemos",
+    "Vosotros": "notéis",
+    "Ellos": "noten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "nota",
+    "El": "note",
+    "Nosotros": "notemos",
+    "Vosotros": "notad",
+    "Ellos": "noten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no notes",
+    "El": "no note",
+    "Nosotros": "no notemos",
+    "Vosotros": "no notéis",
+    "Ellos": "no noten"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "obedecer",
+  "englishInfinitive": "to obey",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "obedezco",
+    "Tu": "obedeces",
+    "El": "obedece",
+    "Nosotros": "obedecemos",
+    "Vosotros": "obedecéis",
+    "Ellos": "obedecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "obedecí",
+    "Tu": "obedeciste",
+    "El": "obedeció",
+    "Nosotros": "obedecimos",
+    "Vosotros": "obedecisteis",
+    "Ellos": "obedecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "obedeceré",
+    "Tu": "obedecerás",
+    "El": "obedecerá",
+    "Nosotros": "obedeceremos",
+    "Vosotros": "obedeceréis",
+    "Ellos": "obedecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "obedecería",
+    "Tu": "obedecerías",
+    "El": "obedecería",
+    "Nosotros": "obedeceríamos",
+    "Vosotros": "obedeceríais",
+    "Ellos": "obedecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "obedecía",
+    "Tu": "obedecías",
+    "El": "obedecía",
+    "Nosotros": "obedecíamos",
+    "Vosotros": "obedecíais",
+    "Ellos": "obedecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy obedeciendo",
+    "Tu": "estás obedeciendo",
+    "El": "está obedeciendo",
+    "Nosotros": "estamos obedeciendo",
+    "Vosotros": "estáis obedeciendo",
+    "Ellos": "están obedeciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he obedecido",
+    "Tu": "has obedecido",
+    "El": "ha obedecido",
+    "Nosotros": "hemos obedecido",
+    "Vosotros": "habéis obedecido",
+    "Ellos": "han obedecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había obedecido",
+    "Tu": "habías obedecido",
+    "El": "había obedecido",
+    "Nosotros": "habíamos obedecido",
+    "Vosotros": "habíais obedecido",
+    "Ellos": "habían obedecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré obedecido",
+    "Tu": "habrás obedecido",
+    "El": "habrá obedecido",
+    "Nosotros": "habremos obedecido",
+    "Vosotros": "habréis obedecido",
+    "Ellos": "habrán obedecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría obedecido",
+    "Tu": "habrías obedecido",
+    "El": "habría obedecido",
+    "Nosotros": "habríamos obedecido",
+    "Vosotros": "habríais obedecido",
+    "Ellos": "habrían obedecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "obedezca",
+    "Tu": "obedezcas",
+    "El": "obedezca",
+    "Nosotros": "obedezcamos",
+    "Vosotros": "obedezcáis",
+    "Ellos": "obedezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "obedece",
+    "El": "obedezca",
+    "Nosotros": "obedezcamos",
+    "Vosotros": "obedeced",
+    "Ellos": "obedezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no obedezcas",
+    "El": "no obedezca",
+    "Nosotros": "no obedezcamos",
+    "Vosotros": "no obedezcáis",
+    "Ellos": "no obedezcan"
+  },
+  "ending": "er"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "practicar",
+  "englishInfinitive": "to practice",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "practico",
+    "Tu": "practicas",
+    "El": "practica",
+    "Nosotros": "practicamos",
+    "Vosotros": "practicáis",
+    "Ellos": "practican"
+  },
+  "IndicativePreterite": {
+    "Yo": "practiqué",
+    "Tu": "practicaste",
+    "El": "practicó",
+    "Nosotros": "practicamos",
+    "Vosotros": "practicasteis",
+    "Ellos": "practicaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "practicaré",
+    "Tu": "practicarás",
+    "El": "practicará",
+    "Nosotros": "practicaremos",
+    "Vosotros": "practicaréis",
+    "Ellos": "practicarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "practicaría",
+    "Tu": "practicarías",
+    "El": "practicaría",
+    "Nosotros": "practicaríamos",
+    "Vosotros": "practicaríais",
+    "Ellos": "practicarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "practicaba",
+    "Tu": "practicabas",
+    "El": "practicaba",
+    "Nosotros": "practicábamos",
+    "Vosotros": "practicabais",
+    "Ellos": "practicaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy practicando",
+    "Tu": "estás practicando",
+    "El": "está practicando",
+    "Nosotros": "estamos practicando",
+    "Vosotros": "estáis practicando",
+    "Ellos": "están practicando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he practicado",
+    "Tu": "has practicado",
+    "El": "ha practicado",
+    "Nosotros": "hemos practicado",
+    "Vosotros": "habéis practicado",
+    "Ellos": "han practicado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había practicado",
+    "Tu": "habías practicado",
+    "El": "había practicado",
+    "Nosotros": "habíamos practicado",
+    "Vosotros": "habíais practicado",
+    "Ellos": "habían practicado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré practicado",
+    "Tu": "habrás practicado",
+    "El": "habrá practicado",
+    "Nosotros": "habremos practicado",
+    "Vosotros": "habréis practicado",
+    "Ellos": "habrán practicado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría practicado",
+    "Tu": "habrías practicado",
+    "El": "habría practicado",
+    "Nosotros": "habríamos practicado",
+    "Vosotros": "habríais practicado",
+    "Ellos": "habrían practicado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "practique",
+    "Tu": "practiques",
+    "El": "practique",
+    "Nosotros": "practiquemos",
+    "Vosotros": "practiquéis",
+    "Ellos": "practiquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "practica",
+    "El": "practique",
+    "Nosotros": "practiquemos",
+    "Vosotros": "practicad",
+    "Ellos": "practiquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no practiques",
+    "El": "no practique",
+    "Nosotros": "no practiquemos",
+    "Vosotros": "no practiquéis",
+    "Ellos": "no practiquen"
+  },
+  "ending": "ar"
+}

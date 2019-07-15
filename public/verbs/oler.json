@@ -1,0 +1,113 @@
+{
+  "verb": "oler",
+  "englishInfinitive": "to smell",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "huelo",
+    "Tu": "hueles",
+    "El": "huele",
+    "Nosotros": "olemos",
+    "Vosotros": "oléis",
+    "Ellos": "huelen"
+  },
+  "IndicativePreterite": {
+    "Yo": "olí",
+    "Tu": "oliste",
+    "El": "olió",
+    "Nosotros": "olimos",
+    "Vosotros": "olisteis",
+    "Ellos": "olieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "oleré",
+    "Tu": "olerás",
+    "El": "olerá",
+    "Nosotros": "oleremos",
+    "Vosotros": "oleréis",
+    "Ellos": "olerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "olería",
+    "Tu": "olerías",
+    "El": "olería",
+    "Nosotros": "oleríamos",
+    "Vosotros": "oleríais",
+    "Ellos": "olerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "olía",
+    "Tu": "olías",
+    "El": "olía",
+    "Nosotros": "olíamos",
+    "Vosotros": "olíais",
+    "Ellos": "olían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy oliendo",
+    "Tu": "estás oliendo",
+    "El": "está oliendo",
+    "Nosotros": "estamos oliendo",
+    "Vosotros": "estáis oliendo",
+    "Ellos": "están oliendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he olido",
+    "Tu": "has olido",
+    "El": "ha olido",
+    "Nosotros": "hemos olido",
+    "Vosotros": "habéis olido",
+    "Ellos": "han olido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había olido",
+    "Tu": "habías olido",
+    "El": "había olido",
+    "Nosotros": "habíamos olido",
+    "Vosotros": "habíais olido",
+    "Ellos": "habían olido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré olido",
+    "Tu": "habrás olido",
+    "El": "habrá olido",
+    "Nosotros": "habremos olido",
+    "Vosotros": "habréis olido",
+    "Ellos": "habrán olido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría olido",
+    "Tu": "habrías olido",
+    "El": "habría olido",
+    "Nosotros": "habríamos olido",
+    "Vosotros": "habríais olido",
+    "Ellos": "habrían olido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "huela",
+    "Tu": "huelas",
+    "El": "huela",
+    "Nosotros": "olamos",
+    "Vosotros": "oláis",
+    "Ellos": "huelan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "huele",
+    "El": "huela",
+    "Nosotros": "olamos",
+    "Vosotros": "oled",
+    "Ellos": "huelan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no huelas",
+    "El": "no huela",
+    "Nosotros": "no olamos",
+    "Vosotros": "no oláis",
+    "Ellos": "no huelan"
+  },
+  "ending": "er"
+}

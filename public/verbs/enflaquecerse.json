@@ -1,0 +1,113 @@
+{
+  "verb": "enflaquecerse",
+  "englishInfinitive": "to get thin",
+  "irregular": true,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me enflaquezco",
+    "Tu": "te enflaqueces",
+    "El": "se enflaquece",
+    "Nosotros": "nos enflaquecemos",
+    "Vosotros": "os enflaquecéis",
+    "Ellos": "se enflaquecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "me enflaquecí",
+    "Tu": "te enflaqueciste",
+    "El": "se enflaqueció",
+    "Nosotros": "nos enflaquecimos",
+    "Vosotros": "os enflaquecisteis",
+    "Ellos": "se enflaquecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me enflaqueceré",
+    "Tu": "te enflaquecerás",
+    "El": "se enflaquecerá",
+    "Nosotros": "nos enflaqueceremos",
+    "Vosotros": "os enflaqueceréis",
+    "Ellos": "se enflaquecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me enflaquecería",
+    "Tu": "te enflaquecerías",
+    "El": "se enflaquecería",
+    "Nosotros": "nos enflaqueceríamos",
+    "Vosotros": "os enflaqueceríais",
+    "Ellos": "se enflaquecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me enflaquecía",
+    "Tu": "te enflaquecías",
+    "El": "se enflaquecía",
+    "Nosotros": "nos enflaquecíamos",
+    "Vosotros": "os enflaquecíais",
+    "Ellos": "se enflaquecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy enflaqueciendo,estoy enflaqueciéndome",
+    "Tu": "te estás enflaqueciendo,estás enflaqueciéndote",
+    "El": "se está enflaqueciendo,está enflaqueciéndose",
+    "Nosotros": "nos estamos enflaqueciendo,estamos enflaqueciéndonos",
+    "Vosotros": "os estáis enflaqueciendo,estáis enflaqueciéndoos",
+    "Ellos": "se están enflaqueciendo,están enflaqueciéndose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he enflaquecido",
+    "Tu": "te has enflaquecido",
+    "El": "se ha enflaquecido",
+    "Nosotros": "nos hemos enflaquecido",
+    "Vosotros": "os habéis enflaquecido",
+    "Ellos": "se han enflaquecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había enflaquecido",
+    "Tu": "te habías enflaquecido",
+    "El": "se había enflaquecido",
+    "Nosotros": "nos habíamos enflaquecido",
+    "Vosotros": "os habíais enflaquecido",
+    "Ellos": "se habían enflaquecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré enflaquecido",
+    "Tu": "te habrás enflaquecido",
+    "El": "se habrá enflaquecido",
+    "Nosotros": "nos habremos enflaquecido",
+    "Vosotros": "os habréis enflaquecido",
+    "Ellos": "se habrán enflaquecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría enflaquecido",
+    "Tu": "te habrías enflaquecido",
+    "El": "se habría enflaquecido",
+    "Nosotros": "nos habríamos enflaquecido",
+    "Vosotros": "os habríais enflaquecido",
+    "Ellos": "se habrían enflaquecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me enflaquezca",
+    "Tu": "te enflaquezcas",
+    "El": "se enflaquezca",
+    "Nosotros": "nos enflaquezcamos",
+    "Vosotros": "os enflaquezcáis",
+    "Ellos": "se enflaquezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "enflaquécete",
+    "El": "enflaquézcase",
+    "Nosotros": "enflaquezcámonos",
+    "Vosotros": "enflaqueceos",
+    "Ellos": "enflaquézcanse"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te enflaquezcas",
+    "El": "no se enflaquezca",
+    "Nosotros": "no nos enflaquezcamos",
+    "Vosotros": "no os enflaquezcáis",
+    "Ellos": "no se enflaquezcan"
+  },
+  "ending": "er"
+}

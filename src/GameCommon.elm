@@ -1,4 +1,8 @@
-module GameCommon exposing (Conjugation, Person(..), allConjugations, allPersons, conjugationToString, personToString)
+module GameCommon exposing (Conjugation(..), Person(..), Verb, allConjugations, allPersons, conjugationToString, personToString)
+
+
+type alias Verb =
+    String
 
 
 type Person

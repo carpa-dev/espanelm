@@ -1,0 +1,113 @@
+{
+  "verb": "lamentar",
+  "englishInfinitive": "to lament",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "lamento",
+    "Tu": "lamentas",
+    "El": "lamenta",
+    "Nosotros": "lamentamos",
+    "Vosotros": "lamentáis",
+    "Ellos": "lamentan"
+  },
+  "IndicativePreterite": {
+    "Yo": "lamenté",
+    "Tu": "lamentaste",
+    "El": "lamentó",
+    "Nosotros": "lamentamos",
+    "Vosotros": "lamentasteis",
+    "Ellos": "lamentaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "lamentaré",
+    "Tu": "lamentarás",
+    "El": "lamentará",
+    "Nosotros": "lamentaremos",
+    "Vosotros": "lamentaréis",
+    "Ellos": "lamentarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "lamentaría",
+    "Tu": "lamentarías",
+    "El": "lamentaría",
+    "Nosotros": "lamentaríamos",
+    "Vosotros": "lamentaríais",
+    "Ellos": "lamentarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "lamentaba",
+    "Tu": "lamentabas",
+    "El": "lamentaba",
+    "Nosotros": "lamentábamos",
+    "Vosotros": "lamentabais",
+    "Ellos": "lamentaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy lamentando",
+    "Tu": "estás lamentando",
+    "El": "está lamentando",
+    "Nosotros": "estamos lamentando",
+    "Vosotros": "estáis lamentando",
+    "Ellos": "están lamentando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he lamentado",
+    "Tu": "has lamentado",
+    "El": "ha lamentado",
+    "Nosotros": "hemos lamentado",
+    "Vosotros": "habéis lamentado",
+    "Ellos": "han lamentado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había lamentado",
+    "Tu": "habías lamentado",
+    "El": "había lamentado",
+    "Nosotros": "habíamos lamentado",
+    "Vosotros": "habíais lamentado",
+    "Ellos": "habían lamentado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré lamentado",
+    "Tu": "habrás lamentado",
+    "El": "habrá lamentado",
+    "Nosotros": "habremos lamentado",
+    "Vosotros": "habréis lamentado",
+    "Ellos": "habrán lamentado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría lamentado",
+    "Tu": "habrías lamentado",
+    "El": "habría lamentado",
+    "Nosotros": "habríamos lamentado",
+    "Vosotros": "habríais lamentado",
+    "Ellos": "habrían lamentado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "lamente",
+    "Tu": "lamentes",
+    "El": "lamente",
+    "Nosotros": "lamentemos",
+    "Vosotros": "lamentéis",
+    "Ellos": "lamenten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "lamenta",
+    "El": "lamente",
+    "Nosotros": "lamentemos",
+    "Vosotros": "lamentad",
+    "Ellos": "lamenten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no lamentes",
+    "El": "no lamente",
+    "Nosotros": "no lamentemos",
+    "Vosotros": "no lamentéis",
+    "Ellos": "no lamenten"
+  },
+  "ending": "ar"
+}

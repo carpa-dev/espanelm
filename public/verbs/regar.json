@@ -1,0 +1,113 @@
+{
+  "verb": "regar",
+  "englishInfinitive": "to water",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "riego",
+    "Tu": "riegas",
+    "El": "riega",
+    "Nosotros": "regamos",
+    "Vosotros": "regáis",
+    "Ellos": "riegan"
+  },
+  "IndicativePreterite": {
+    "Yo": "regué",
+    "Tu": "regaste",
+    "El": "regó",
+    "Nosotros": "regamos",
+    "Vosotros": "regasteis",
+    "Ellos": "regaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "regaré",
+    "Tu": "regarás",
+    "El": "regará",
+    "Nosotros": "regaremos",
+    "Vosotros": "regaréis",
+    "Ellos": "regarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "regaría",
+    "Tu": "regarías",
+    "El": "regaría",
+    "Nosotros": "regaríamos",
+    "Vosotros": "regaríais",
+    "Ellos": "regarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "regaba",
+    "Tu": "regabas",
+    "El": "regaba",
+    "Nosotros": "regábamos",
+    "Vosotros": "regabais",
+    "Ellos": "regaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy regando",
+    "Tu": "estás regando",
+    "El": "está regando",
+    "Nosotros": "estamos regando",
+    "Vosotros": "estáis regando",
+    "Ellos": "están regando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he regado",
+    "Tu": "has regado",
+    "El": "ha regado",
+    "Nosotros": "hemos regado",
+    "Vosotros": "habéis regado",
+    "Ellos": "han regado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había regado",
+    "Tu": "habías regado",
+    "El": "había regado",
+    "Nosotros": "habíamos regado",
+    "Vosotros": "habíais regado",
+    "Ellos": "habían regado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré regado",
+    "Tu": "habrás regado",
+    "El": "habrá regado",
+    "Nosotros": "habremos regado",
+    "Vosotros": "habréis regado",
+    "Ellos": "habrán regado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría regado",
+    "Tu": "habrías regado",
+    "El": "habría regado",
+    "Nosotros": "habríamos regado",
+    "Vosotros": "habríais regado",
+    "Ellos": "habrían regado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "riegue",
+    "Tu": "riegues",
+    "El": "riegue",
+    "Nosotros": "reguemos",
+    "Vosotros": "reguéis",
+    "Ellos": "rieguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "riega",
+    "El": "riegue",
+    "Nosotros": "reguemos",
+    "Vosotros": "regad",
+    "Ellos": "rieguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no riegues",
+    "El": "no riegue",
+    "Nosotros": "no reguemos",
+    "Vosotros": "no reguéis",
+    "Ellos": "no rieguen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "asustar",
+  "englishInfinitive": "to frighten",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "asusto",
+    "Tu": "asustas",
+    "El": "asusta",
+    "Nosotros": "asustamos",
+    "Vosotros": "asustáis",
+    "Ellos": "asustan"
+  },
+  "IndicativePreterite": {
+    "Yo": "asusté",
+    "Tu": "asustaste",
+    "El": "asustó",
+    "Nosotros": "asustamos",
+    "Vosotros": "asustasteis",
+    "Ellos": "asustaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "asustaré",
+    "Tu": "asustarás",
+    "El": "asustará",
+    "Nosotros": "asustaremos",
+    "Vosotros": "asustaréis",
+    "Ellos": "asustarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "asustaría",
+    "Tu": "asustarías",
+    "El": "asustaría",
+    "Nosotros": "asustaríamos",
+    "Vosotros": "asustaríais",
+    "Ellos": "asustarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "asustaba",
+    "Tu": "asustabas",
+    "El": "asustaba",
+    "Nosotros": "asustábamos",
+    "Vosotros": "asustabais",
+    "Ellos": "asustaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy asustando",
+    "Tu": "estás asustando",
+    "El": "está asustando",
+    "Nosotros": "estamos asustando",
+    "Vosotros": "estáis asustando",
+    "Ellos": "están asustando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he asustado",
+    "Tu": "has asustado",
+    "El": "ha asustado",
+    "Nosotros": "hemos asustado",
+    "Vosotros": "habéis asustado",
+    "Ellos": "han asustado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había asustado",
+    "Tu": "habías asustado",
+    "El": "había asustado",
+    "Nosotros": "habíamos asustado",
+    "Vosotros": "habíais asustado",
+    "Ellos": "habían asustado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré asustado",
+    "Tu": "habrás asustado",
+    "El": "habrá asustado",
+    "Nosotros": "habremos asustado",
+    "Vosotros": "habréis asustado",
+    "Ellos": "habrán asustado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría asustado",
+    "Tu": "habrías asustado",
+    "El": "habría asustado",
+    "Nosotros": "habríamos asustado",
+    "Vosotros": "habríais asustado",
+    "Ellos": "habrían asustado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "asuste",
+    "Tu": "asustes",
+    "El": "asuste",
+    "Nosotros": "asustemos",
+    "Vosotros": "asustéis",
+    "Ellos": "asusten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "asusta",
+    "El": "asuste",
+    "Nosotros": "asustemos",
+    "Vosotros": "asustad",
+    "Ellos": "asusten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no asustes",
+    "El": "no asuste",
+    "Nosotros": "no asustemos",
+    "Vosotros": "no asustéis",
+    "Ellos": "no asusten"
+  },
+  "ending": "ar"
+}

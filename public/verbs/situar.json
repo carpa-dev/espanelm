@@ -1,0 +1,113 @@
+{
+  "verb": "situar",
+  "englishInfinitive": "to place",
+  "irregular": true,
+  "type": "u > ú",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "sitúo",
+    "Tu": "sitúas",
+    "El": "sitúa",
+    "Nosotros": "situamos",
+    "Vosotros": "situáis",
+    "Ellos": "sitúan"
+  },
+  "IndicativePreterite": {
+    "Yo": "situé",
+    "Tu": "situaste",
+    "El": "situó",
+    "Nosotros": "situamos",
+    "Vosotros": "situasteis",
+    "Ellos": "situaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "situaré",
+    "Tu": "situarás",
+    "El": "situará",
+    "Nosotros": "situaremos",
+    "Vosotros": "situaréis",
+    "Ellos": "situarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "situaría",
+    "Tu": "situarías",
+    "El": "situaría",
+    "Nosotros": "situaríamos",
+    "Vosotros": "situaríais",
+    "Ellos": "situarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "situaba",
+    "Tu": "situabas",
+    "El": "situaba",
+    "Nosotros": "situábamos",
+    "Vosotros": "situabais",
+    "Ellos": "situaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy situando",
+    "Tu": "estás situando",
+    "El": "está situando",
+    "Nosotros": "estamos situando",
+    "Vosotros": "estáis situando",
+    "Ellos": "están situando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he situado",
+    "Tu": "has situado",
+    "El": "ha situado",
+    "Nosotros": "hemos situado",
+    "Vosotros": "habéis situado",
+    "Ellos": "han situado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había situado",
+    "Tu": "habías situado",
+    "El": "había situado",
+    "Nosotros": "habíamos situado",
+    "Vosotros": "habíais situado",
+    "Ellos": "habían situado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré situado",
+    "Tu": "habrás situado",
+    "El": "habrá situado",
+    "Nosotros": "habremos situado",
+    "Vosotros": "habréis situado",
+    "Ellos": "habrán situado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría situado",
+    "Tu": "habrías situado",
+    "El": "habría situado",
+    "Nosotros": "habríamos situado",
+    "Vosotros": "habríais situado",
+    "Ellos": "habrían situado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "sitúe",
+    "Tu": "sitúes",
+    "El": "sitúe",
+    "Nosotros": "situemos",
+    "Vosotros": "situéis",
+    "Ellos": "sitúen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "sitúa",
+    "El": "sitúe",
+    "Nosotros": "situemos",
+    "Vosotros": "situad",
+    "Ellos": "sitúen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no sitúes",
+    "El": "no sitúe",
+    "Nosotros": "no situemos",
+    "Vosotros": "no situéis",
+    "Ellos": "no sitúen"
+  },
+  "ending": "ar"
+}

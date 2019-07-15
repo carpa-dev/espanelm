@@ -1,0 +1,113 @@
+{
+  "verb": "apoyar",
+  "englishInfinitive": "to support",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "apoyo",
+    "Tu": "apoyas",
+    "El": "apoya",
+    "Nosotros": "apoyamos",
+    "Vosotros": "apoyáis",
+    "Ellos": "apoyan"
+  },
+  "IndicativePreterite": {
+    "Yo": "apoyé",
+    "Tu": "apoyaste",
+    "El": "apoyó",
+    "Nosotros": "apoyamos",
+    "Vosotros": "apoyasteis",
+    "Ellos": "apoyaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "apoyaré",
+    "Tu": "apoyarás",
+    "El": "apoyará",
+    "Nosotros": "apoyaremos",
+    "Vosotros": "apoyaréis",
+    "Ellos": "apoyarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "apoyaría",
+    "Tu": "apoyarías",
+    "El": "apoyaría",
+    "Nosotros": "apoyaríamos",
+    "Vosotros": "apoyaríais",
+    "Ellos": "apoyarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "apoyaba",
+    "Tu": "apoyabas",
+    "El": "apoyaba",
+    "Nosotros": "apoyábamos",
+    "Vosotros": "apoyabais",
+    "Ellos": "apoyaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy apoyando",
+    "Tu": "estás apoyando",
+    "El": "está apoyando",
+    "Nosotros": "estamos apoyando",
+    "Vosotros": "estáis apoyando",
+    "Ellos": "están apoyando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he apoyado",
+    "Tu": "has apoyado",
+    "El": "ha apoyado",
+    "Nosotros": "hemos apoyado",
+    "Vosotros": "habéis apoyado",
+    "Ellos": "han apoyado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había apoyado",
+    "Tu": "habías apoyado",
+    "El": "había apoyado",
+    "Nosotros": "habíamos apoyado",
+    "Vosotros": "habíais apoyado",
+    "Ellos": "habían apoyado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré apoyado",
+    "Tu": "habrás apoyado",
+    "El": "habrá apoyado",
+    "Nosotros": "habremos apoyado",
+    "Vosotros": "habréis apoyado",
+    "Ellos": "habrán apoyado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría apoyado",
+    "Tu": "habrías apoyado",
+    "El": "habría apoyado",
+    "Nosotros": "habríamos apoyado",
+    "Vosotros": "habríais apoyado",
+    "Ellos": "habrían apoyado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "apoye",
+    "Tu": "apoyes",
+    "El": "apoye",
+    "Nosotros": "apoyemos",
+    "Vosotros": "apoyéis",
+    "Ellos": "apoyen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "apoya",
+    "El": "apoye",
+    "Nosotros": "apoyemos",
+    "Vosotros": "apoyad",
+    "Ellos": "apoyen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no apoyes",
+    "El": "no apoye",
+    "Nosotros": "no apoyemos",
+    "Vosotros": "no apoyéis",
+    "Ellos": "no apoyen"
+  },
+  "ending": "ar"
+}

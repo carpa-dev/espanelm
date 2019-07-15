@@ -1,0 +1,113 @@
+{
+  "verb": "agorar",
+  "englishInfinitive": "to predict",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "agüero",
+    "Tu": "agüeras",
+    "El": "agüera",
+    "Nosotros": "agoramos",
+    "Vosotros": "agoráis",
+    "Ellos": "agüeran"
+  },
+  "IndicativePreterite": {
+    "Yo": "agoré",
+    "Tu": "agoraste",
+    "El": "agoró",
+    "Nosotros": "agoramos",
+    "Vosotros": "agorasteis",
+    "Ellos": "agoraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "agoraré",
+    "Tu": "agorarás",
+    "El": "agorará",
+    "Nosotros": "agoraremos",
+    "Vosotros": "agoraréis",
+    "Ellos": "agorarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "agoraría",
+    "Tu": "agorarías",
+    "El": "agoraría",
+    "Nosotros": "agoraríamos",
+    "Vosotros": "agoraríais",
+    "Ellos": "agorarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "agoraba",
+    "Tu": "agorabas",
+    "El": "agoraba",
+    "Nosotros": "agorábamos",
+    "Vosotros": "agorabais",
+    "Ellos": "agoraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy agorando",
+    "Tu": "estás agorando",
+    "El": "está agorando",
+    "Nosotros": "estamos agorando",
+    "Vosotros": "estáis agorando",
+    "Ellos": "están agorando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he agorado",
+    "Tu": "has agorado",
+    "El": "ha agorado",
+    "Nosotros": "hemos agorado",
+    "Vosotros": "habéis agorado",
+    "Ellos": "han agorado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había agorado",
+    "Tu": "habías agorado",
+    "El": "había agorado",
+    "Nosotros": "habíamos agorado",
+    "Vosotros": "habíais agorado",
+    "Ellos": "habían agorado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré agorado",
+    "Tu": "habrás agorado",
+    "El": "habrá agorado",
+    "Nosotros": "habremos agorado",
+    "Vosotros": "habréis agorado",
+    "Ellos": "habrán agorado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría agorado",
+    "Tu": "habrías agorado",
+    "El": "habría agorado",
+    "Nosotros": "habríamos agorado",
+    "Vosotros": "habríais agorado",
+    "Ellos": "habrían agorado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "agüere",
+    "Tu": "agüeres",
+    "El": "agüere",
+    "Nosotros": "agoremos",
+    "Vosotros": "agoréis",
+    "Ellos": "agüeren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "agüera",
+    "El": "agüere",
+    "Nosotros": "agoremos",
+    "Vosotros": "agorad",
+    "Ellos": "agüeren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no agüeres",
+    "El": "no agüere",
+    "Nosotros": "no agoremos",
+    "Vosotros": "no agoréis",
+    "Ellos": "no agüeren"
+  },
+  "ending": "ar"
+}

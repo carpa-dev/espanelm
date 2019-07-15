@@ -1,0 +1,113 @@
+{
+  "verb": "adivinar",
+  "englishInfinitive": "to guess",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "adivino",
+    "Tu": "adivinas",
+    "El": "adivina",
+    "Nosotros": "adivinamos",
+    "Vosotros": "adivináis",
+    "Ellos": "adivinan"
+  },
+  "IndicativePreterite": {
+    "Yo": "adiviné",
+    "Tu": "adivinaste",
+    "El": "adivinó",
+    "Nosotros": "adivinamos",
+    "Vosotros": "adivinasteis",
+    "Ellos": "adivinaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "adivinaré",
+    "Tu": "adivinarás",
+    "El": "adivinará",
+    "Nosotros": "adivinaremos",
+    "Vosotros": "adivinaréis",
+    "Ellos": "adivinarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "adivinaría",
+    "Tu": "adivinarías",
+    "El": "adivinaría",
+    "Nosotros": "adivinaríamos",
+    "Vosotros": "adivinaríais",
+    "Ellos": "adivinarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "adivinaba",
+    "Tu": "adivinabas",
+    "El": "adivinaba",
+    "Nosotros": "adivinábamos",
+    "Vosotros": "adivinabais",
+    "Ellos": "adivinaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy adivinando",
+    "Tu": "estás adivinando",
+    "El": "está adivinando",
+    "Nosotros": "estamos adivinando",
+    "Vosotros": "estáis adivinando",
+    "Ellos": "están adivinando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he adivinado",
+    "Tu": "has adivinado",
+    "El": "ha adivinado",
+    "Nosotros": "hemos adivinado",
+    "Vosotros": "habéis adivinado",
+    "Ellos": "han adivinado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había adivinado",
+    "Tu": "habías adivinado",
+    "El": "había adivinado",
+    "Nosotros": "habíamos adivinado",
+    "Vosotros": "habíais adivinado",
+    "Ellos": "habían adivinado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré adivinado",
+    "Tu": "habrás adivinado",
+    "El": "habrá adivinado",
+    "Nosotros": "habremos adivinado",
+    "Vosotros": "habréis adivinado",
+    "Ellos": "habrán adivinado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría adivinado",
+    "Tu": "habrías adivinado",
+    "El": "habría adivinado",
+    "Nosotros": "habríamos adivinado",
+    "Vosotros": "habríais adivinado",
+    "Ellos": "habrían adivinado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "adivine",
+    "Tu": "adivines",
+    "El": "adivine",
+    "Nosotros": "adivinemos",
+    "Vosotros": "adivinéis",
+    "Ellos": "adivinen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "adivina",
+    "El": "adivine",
+    "Nosotros": "adivinemos",
+    "Vosotros": "adivinad",
+    "Ellos": "adivinen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no adivines",
+    "El": "no adivine",
+    "Nosotros": "no adivinemos",
+    "Vosotros": "no adivinéis",
+    "Ellos": "no adivinen"
+  },
+  "ending": "ar"
+}

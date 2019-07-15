@@ -1,0 +1,113 @@
+{
+  "verb": "admitir",
+  "englishInfinitive": "to admit",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "admito",
+    "Tu": "admites",
+    "El": "admite",
+    "Nosotros": "admitimos",
+    "Vosotros": "admitís",
+    "Ellos": "admiten"
+  },
+  "IndicativePreterite": {
+    "Yo": "admití",
+    "Tu": "admitiste",
+    "El": "admitió",
+    "Nosotros": "admitimos",
+    "Vosotros": "admitisteis",
+    "Ellos": "admitieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "admitiré",
+    "Tu": "admitirás",
+    "El": "admitirá",
+    "Nosotros": "admitiremos",
+    "Vosotros": "admitiréis",
+    "Ellos": "admitirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "admitiría",
+    "Tu": "admitirías",
+    "El": "admitiría",
+    "Nosotros": "admitiríamos",
+    "Vosotros": "admitiríais",
+    "Ellos": "admitirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "admitía",
+    "Tu": "admitías",
+    "El": "admitía",
+    "Nosotros": "admitíamos",
+    "Vosotros": "admitíais",
+    "Ellos": "admitían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy admitiendo",
+    "Tu": "estás admitiendo",
+    "El": "está admitiendo",
+    "Nosotros": "estamos admitiendo",
+    "Vosotros": "estáis admitiendo",
+    "Ellos": "están admitiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he admitido",
+    "Tu": "has admitido",
+    "El": "ha admitido",
+    "Nosotros": "hemos admitido",
+    "Vosotros": "habéis admitido",
+    "Ellos": "han admitido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había admitido",
+    "Tu": "habías admitido",
+    "El": "había admitido",
+    "Nosotros": "habíamos admitido",
+    "Vosotros": "habíais admitido",
+    "Ellos": "habían admitido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré admitido",
+    "Tu": "habrás admitido",
+    "El": "habrá admitido",
+    "Nosotros": "habremos admitido",
+    "Vosotros": "habréis admitido",
+    "Ellos": "habrán admitido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría admitido",
+    "Tu": "habrías admitido",
+    "El": "habría admitido",
+    "Nosotros": "habríamos admitido",
+    "Vosotros": "habríais admitido",
+    "Ellos": "habrían admitido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "admita",
+    "Tu": "admitas",
+    "El": "admita",
+    "Nosotros": "admitamos",
+    "Vosotros": "admitáis",
+    "Ellos": "admitan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "admite",
+    "El": "admita",
+    "Nosotros": "admitamos",
+    "Vosotros": "admitid",
+    "Ellos": "admitan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no admitas",
+    "El": "no admita",
+    "Nosotros": "no admitamos",
+    "Vosotros": "no admitáis",
+    "Ellos": "no admitan"
+  },
+  "ending": "ir"
+}

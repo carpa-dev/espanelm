@@ -2,7 +2,7 @@ module Play exposing (Model, Msg, init, update, view)
 
 import Debug
 import Game exposing (Msg(..))
-import GameCommon exposing (Conjugation)
+import GameCommon exposing (Conjugation, Verb)
 import Html exposing (Html, a, button, div, h1, h3, h4, img, input, label, li, text, ul)
 import Html.Attributes exposing (checked, class, disabled, for, href, id, placeholder, src, style, type_, value)
 import Html.Events exposing (onBlur, onClick, onInput)
@@ -12,10 +12,6 @@ import Json.Decode exposing (Decoder, decodeString, field, list, map2, string)
 
 
 -- Model
-
-
-type alias Verb =
-    String
 
 
 type alias Round =
@@ -53,7 +49,7 @@ type alias Model =
 
 initialModel : Model
 initialModel =
-    { verbs = "abordar, abortar"
+    { verbs = "abortar"
     , options = Loading
     , unavailable = []
     , failureCause = ""
@@ -75,7 +71,7 @@ type Msg
 
 init : ( Model, Cmd Msg )
 init =
-    ( initialModel, Http.get { url = "/verbs.json", expect = Http.expectJson GotVerbOptions verbOptionsDecoder } )
+    ( initialModel, Http.get { url = "/verbs/list.json", expect = Http.expectJson GotVerbOptions verbOptionsDecoder } )
 
 
 
@@ -162,11 +158,10 @@ update msg model =
         ( Play, _ ) ->
             let
                 ( m, cmd ) =
-                    Game.init
+                    Game.init (stringToVerbs model.verbs) model.conjugations
             in
-            ( { model | page = Playing m }, Cmd.none )
+            ( { model | page = Playing m }, Cmd.map GameMsg cmd )
 
-        --( startGame model, Cmd.none )
         ( GotVerbOptions result, _ ) ->
             case result of
                 Ok response ->
@@ -198,15 +193,21 @@ view model =
 
 viewStart : Model -> Html Msg
 viewStart model =
-    div []
-        [ h1 [] [ text "Choose your verbs" ]
-        , input [ placeholder "Verbs", value model.verbs, onBlur Blur, onInput Change, style "border" (getInputBorderStyle model) ] []
-        , button [ disabled (not (isReadyToPlay model)), onClick Play ] [ text "Play" ]
-        , viewUnavailableVerb model
-        , viewConjugationList model
+    case model.options of
+        Failure ->
+            div [] [ text "Failed to load list of verbs" ]
 
-        --, viewVerbsList model
-        ]
+        Loading ->
+            div [] [ text "Loading..." ]
+
+        Success _ ->
+            div []
+                [ h1 [] [ text "Choose your verbs" ]
+                , input [ placeholder "Verbs", value model.verbs, onBlur Blur, onInput Change, style "border" (getInputBorderStyle model) ] []
+                , button [ disabled (not (isReadyToPlay model)), onClick Play ] [ text "Play" ]
+                , viewUnavailableVerb model
+                , viewConjugationList model
+                ]
 
 
 
@@ -364,3 +365,14 @@ fetchErrorToString error =
 
         _ ->
             "wrong"
+
+
+
+-- TODO this method shouldn't even be necessary
+
+
+stringToVerbs : String -> List Verb
+stringToVerbs s =
+    s
+        |> String.split ","
+        |> List.map String.trim

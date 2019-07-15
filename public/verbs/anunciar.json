@@ -1,0 +1,113 @@
+{
+  "verb": "anunciar",
+  "englishInfinitive": "to announce",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "anuncio",
+    "Tu": "anuncias",
+    "El": "anuncia",
+    "Nosotros": "anunciamos",
+    "Vosotros": "anunciáis",
+    "Ellos": "anuncian"
+  },
+  "IndicativePreterite": {
+    "Yo": "anuncié",
+    "Tu": "anunciaste",
+    "El": "anunció",
+    "Nosotros": "anunciamos",
+    "Vosotros": "anunciasteis",
+    "Ellos": "anunciaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "anunciaré",
+    "Tu": "anunciarás",
+    "El": "anunciará",
+    "Nosotros": "anunciaremos",
+    "Vosotros": "anunciaréis",
+    "Ellos": "anunciarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "anunciaría",
+    "Tu": "anunciarías",
+    "El": "anunciaría",
+    "Nosotros": "anunciaríamos",
+    "Vosotros": "anunciaríais",
+    "Ellos": "anunciarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "anunciaba",
+    "Tu": "anunciabas",
+    "El": "anunciaba",
+    "Nosotros": "anunciábamos",
+    "Vosotros": "anunciabais",
+    "Ellos": "anunciaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy anunciando",
+    "Tu": "estás anunciando",
+    "El": "está anunciando",
+    "Nosotros": "estamos anunciando",
+    "Vosotros": "estáis anunciando",
+    "Ellos": "están anunciando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he anunciado",
+    "Tu": "has anunciado",
+    "El": "ha anunciado",
+    "Nosotros": "hemos anunciado",
+    "Vosotros": "habéis anunciado",
+    "Ellos": "han anunciado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había anunciado",
+    "Tu": "habías anunciado",
+    "El": "había anunciado",
+    "Nosotros": "habíamos anunciado",
+    "Vosotros": "habíais anunciado",
+    "Ellos": "habían anunciado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré anunciado",
+    "Tu": "habrás anunciado",
+    "El": "habrá anunciado",
+    "Nosotros": "habremos anunciado",
+    "Vosotros": "habréis anunciado",
+    "Ellos": "habrán anunciado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría anunciado",
+    "Tu": "habrías anunciado",
+    "El": "habría anunciado",
+    "Nosotros": "habríamos anunciado",
+    "Vosotros": "habríais anunciado",
+    "Ellos": "habrían anunciado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "anuncie",
+    "Tu": "anuncies",
+    "El": "anuncie",
+    "Nosotros": "anunciemos",
+    "Vosotros": "anunciéis",
+    "Ellos": "anuncien"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "anuncia",
+    "El": "anuncie",
+    "Nosotros": "anunciemos",
+    "Vosotros": "anunciad",
+    "Ellos": "anuncien"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no anuncies",
+    "El": "no anuncie",
+    "Nosotros": "no anunciemos",
+    "Vosotros": "no anunciéis",
+    "Ellos": "no anuncien"
+  },
+  "ending": "ar"
+}

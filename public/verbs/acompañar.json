@@ -1,0 +1,113 @@
+{
+  "verb": "acompañar",
+  "englishInfinitive": "to accompany",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "acompaño",
+    "Tu": "acompañas",
+    "El": "acompaña",
+    "Nosotros": "acompañamos",
+    "Vosotros": "acompañáis",
+    "Ellos": "acompañan"
+  },
+  "IndicativePreterite": {
+    "Yo": "acompañé",
+    "Tu": "acompañaste",
+    "El": "acompañó",
+    "Nosotros": "acompañamos",
+    "Vosotros": "acompañasteis",
+    "Ellos": "acompañaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "acompañaré",
+    "Tu": "acompañarás",
+    "El": "acompañará",
+    "Nosotros": "acompañaremos",
+    "Vosotros": "acompañaréis",
+    "Ellos": "acompañarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "acompañaría",
+    "Tu": "acompañarías",
+    "El": "acompañaría",
+    "Nosotros": "acompañaríamos",
+    "Vosotros": "acompañaríais",
+    "Ellos": "acompañarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "acompañaba",
+    "Tu": "acompañabas",
+    "El": "acompañaba",
+    "Nosotros": "acompañábamos",
+    "Vosotros": "acompañabais",
+    "Ellos": "acompañaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy acompañando",
+    "Tu": "estás acompañando",
+    "El": "está acompañando",
+    "Nosotros": "estamos acompañando",
+    "Vosotros": "estáis acompañando",
+    "Ellos": "están acompañando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he acompañado",
+    "Tu": "has acompañado",
+    "El": "ha acompañado",
+    "Nosotros": "hemos acompañado",
+    "Vosotros": "habéis acompañado",
+    "Ellos": "han acompañado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había acompañado",
+    "Tu": "habías acompañado",
+    "El": "había acompañado",
+    "Nosotros": "habíamos acompañado",
+    "Vosotros": "habíais acompañado",
+    "Ellos": "habían acompañado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré acompañado",
+    "Tu": "habrás acompañado",
+    "El": "habrá acompañado",
+    "Nosotros": "habremos acompañado",
+    "Vosotros": "habréis acompañado",
+    "Ellos": "habrán acompañado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría acompañado",
+    "Tu": "habrías acompañado",
+    "El": "habría acompañado",
+    "Nosotros": "habríamos acompañado",
+    "Vosotros": "habríais acompañado",
+    "Ellos": "habrían acompañado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "acompañe",
+    "Tu": "acompañes",
+    "El": "acompañe",
+    "Nosotros": "acompañemos",
+    "Vosotros": "acompañéis",
+    "Ellos": "acompañen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "acompaña",
+    "El": "acompañe",
+    "Nosotros": "acompañemos",
+    "Vosotros": "acompañad",
+    "Ellos": "acompañen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no acompañes",
+    "El": "no acompañe",
+    "Nosotros": "no acompañemos",
+    "Vosotros": "no acompañéis",
+    "Ellos": "no acompañen"
+  },
+  "ending": "ar"
+}

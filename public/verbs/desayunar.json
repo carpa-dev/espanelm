@@ -1,0 +1,113 @@
+{
+  "verb": "desayunar",
+  "englishInfinitive": "to eat breakfast",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "desayuno",
+    "Tu": "desayunas",
+    "El": "desayuna",
+    "Nosotros": "desayunamos",
+    "Vosotros": "desayunáis",
+    "Ellos": "desayunan"
+  },
+  "IndicativePreterite": {
+    "Yo": "desayuné",
+    "Tu": "desayunaste",
+    "El": "desayunó",
+    "Nosotros": "desayunamos",
+    "Vosotros": "desayunasteis",
+    "Ellos": "desayunaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "desayunaré",
+    "Tu": "desayunarás",
+    "El": "desayunará",
+    "Nosotros": "desayunaremos",
+    "Vosotros": "desayunaréis",
+    "Ellos": "desayunarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "desayunaría",
+    "Tu": "desayunarías",
+    "El": "desayunaría",
+    "Nosotros": "desayunaríamos",
+    "Vosotros": "desayunaríais",
+    "Ellos": "desayunarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "desayunaba",
+    "Tu": "desayunabas",
+    "El": "desayunaba",
+    "Nosotros": "desayunábamos",
+    "Vosotros": "desayunabais",
+    "Ellos": "desayunaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy desayunando",
+    "Tu": "estás desayunando",
+    "El": "está desayunando",
+    "Nosotros": "estamos desayunando",
+    "Vosotros": "estáis desayunando",
+    "Ellos": "están desayunando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he desayunado",
+    "Tu": "has desayunado",
+    "El": "ha desayunado",
+    "Nosotros": "hemos desayunado",
+    "Vosotros": "habéis desayunado",
+    "Ellos": "han desayunado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había desayunado",
+    "Tu": "habías desayunado",
+    "El": "había desayunado",
+    "Nosotros": "habíamos desayunado",
+    "Vosotros": "habíais desayunado",
+    "Ellos": "habían desayunado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré desayunado",
+    "Tu": "habrás desayunado",
+    "El": "habrá desayunado",
+    "Nosotros": "habremos desayunado",
+    "Vosotros": "habréis desayunado",
+    "Ellos": "habrán desayunado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría desayunado",
+    "Tu": "habrías desayunado",
+    "El": "habría desayunado",
+    "Nosotros": "habríamos desayunado",
+    "Vosotros": "habríais desayunado",
+    "Ellos": "habrían desayunado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "desayune",
+    "Tu": "desayunes",
+    "El": "desayune",
+    "Nosotros": "desayunemos",
+    "Vosotros": "desayunéis",
+    "Ellos": "desayunen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "desayuna",
+    "El": "desayune",
+    "Nosotros": "desayunemos",
+    "Vosotros": "desayunad",
+    "Ellos": "desayunen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no desayunes",
+    "El": "no desayune",
+    "Nosotros": "no desayunemos",
+    "Vosotros": "no desayunéis",
+    "Ellos": "no desayunen"
+  },
+  "ending": "ar"
+}

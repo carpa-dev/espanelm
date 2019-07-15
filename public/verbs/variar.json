@@ -1,0 +1,113 @@
+{
+  "verb": "variar",
+  "englishInfinitive": "to vary",
+  "irregular": true,
+  "type": "i > í",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "varío",
+    "Tu": "varías",
+    "El": "varía",
+    "Nosotros": "variamos",
+    "Vosotros": "variáis",
+    "Ellos": "varían"
+  },
+  "IndicativePreterite": {
+    "Yo": "varié",
+    "Tu": "variaste",
+    "El": "varió",
+    "Nosotros": "variamos",
+    "Vosotros": "variasteis",
+    "Ellos": "variaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "variaré",
+    "Tu": "variarás",
+    "El": "variará",
+    "Nosotros": "variaremos",
+    "Vosotros": "variaréis",
+    "Ellos": "variarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "variaría",
+    "Tu": "variarías",
+    "El": "variaría",
+    "Nosotros": "variaríamos",
+    "Vosotros": "variaríais",
+    "Ellos": "variarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "variaba",
+    "Tu": "variabas",
+    "El": "variaba",
+    "Nosotros": "variábamos",
+    "Vosotros": "variabais",
+    "Ellos": "variaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy variando",
+    "Tu": "estás variando",
+    "El": "está variando",
+    "Nosotros": "estamos variando",
+    "Vosotros": "estáis variando",
+    "Ellos": "están variando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he variado",
+    "Tu": "has variado",
+    "El": "ha variado",
+    "Nosotros": "hemos variado",
+    "Vosotros": "habéis variado",
+    "Ellos": "han variado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había variado",
+    "Tu": "habías variado",
+    "El": "había variado",
+    "Nosotros": "habíamos variado",
+    "Vosotros": "habíais variado",
+    "Ellos": "habían variado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré variado",
+    "Tu": "habrás variado",
+    "El": "habrá variado",
+    "Nosotros": "habremos variado",
+    "Vosotros": "habréis variado",
+    "Ellos": "habrán variado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría variado",
+    "Tu": "habrías variado",
+    "El": "habría variado",
+    "Nosotros": "habríamos variado",
+    "Vosotros": "habríais variado",
+    "Ellos": "habrían variado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "varíe",
+    "Tu": "varíes",
+    "El": "varíe",
+    "Nosotros": "variemos",
+    "Vosotros": "variéis",
+    "Ellos": "varíen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "varía",
+    "El": "varíe",
+    "Nosotros": "variemos",
+    "Vosotros": "variad",
+    "Ellos": "varíen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no varíes",
+    "El": "no varíe",
+    "Nosotros": "no variemos",
+    "Vosotros": "no variéis",
+    "Ellos": "no varíen"
+  },
+  "ending": "ar"
+}

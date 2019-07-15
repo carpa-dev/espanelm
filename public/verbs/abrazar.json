@@ -1,0 +1,113 @@
+{
+  "verb": "abrazar",
+  "englishInfinitive": "to hug",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "abrazo",
+    "Tu": "abrazas",
+    "El": "abraza",
+    "Nosotros": "abrazamos",
+    "Vosotros": "abrazáis",
+    "Ellos": "abrazan"
+  },
+  "IndicativePreterite": {
+    "Yo": "abracé",
+    "Tu": "abrazaste",
+    "El": "abrazó",
+    "Nosotros": "abrazamos",
+    "Vosotros": "abrazasteis",
+    "Ellos": "abrazaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "abrazaré",
+    "Tu": "abrazarás",
+    "El": "abrazará",
+    "Nosotros": "abrazaremos",
+    "Vosotros": "abrazaréis",
+    "Ellos": "abrazarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "abrazaría",
+    "Tu": "abrazarías",
+    "El": "abrazaría",
+    "Nosotros": "abrazaríamos",
+    "Vosotros": "abrazaríais",
+    "Ellos": "abrazarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "abrazaba",
+    "Tu": "abrazabas",
+    "El": "abrazaba",
+    "Nosotros": "abrazábamos",
+    "Vosotros": "abrazabais",
+    "Ellos": "abrazaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy abrazando",
+    "Tu": "estás abrazando",
+    "El": "está abrazando",
+    "Nosotros": "estamos abrazando",
+    "Vosotros": "estáis abrazando",
+    "Ellos": "están abrazando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he abrazado",
+    "Tu": "has abrazado",
+    "El": "ha abrazado",
+    "Nosotros": "hemos abrazado",
+    "Vosotros": "habéis abrazado",
+    "Ellos": "han abrazado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había abrazado",
+    "Tu": "habías abrazado",
+    "El": "había abrazado",
+    "Nosotros": "habíamos abrazado",
+    "Vosotros": "habíais abrazado",
+    "Ellos": "habían abrazado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré abrazado",
+    "Tu": "habrás abrazado",
+    "El": "habrá abrazado",
+    "Nosotros": "habremos abrazado",
+    "Vosotros": "habréis abrazado",
+    "Ellos": "habrán abrazado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría abrazado",
+    "Tu": "habrías abrazado",
+    "El": "habría abrazado",
+    "Nosotros": "habríamos abrazado",
+    "Vosotros": "habríais abrazado",
+    "Ellos": "habrían abrazado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "abrace",
+    "Tu": "abraces",
+    "El": "abrace",
+    "Nosotros": "abracemos",
+    "Vosotros": "abracéis",
+    "Ellos": "abracen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "abraza",
+    "El": "abrace",
+    "Nosotros": "abracemos",
+    "Vosotros": "abrazad",
+    "Ellos": "abracen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no abraces",
+    "El": "no abrace",
+    "Nosotros": "no abracemos",
+    "Vosotros": "no abracéis",
+    "Ellos": "no abracen"
+  },
+  "ending": "ar"
+}

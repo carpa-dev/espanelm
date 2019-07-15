@@ -1,0 +1,113 @@
+{
+  "verb": "prometer",
+  "englishInfinitive": "to promise",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "prometo",
+    "Tu": "prometes",
+    "El": "promete",
+    "Nosotros": "prometemos",
+    "Vosotros": "prometéis",
+    "Ellos": "prometen"
+  },
+  "IndicativePreterite": {
+    "Yo": "prometí",
+    "Tu": "prometiste",
+    "El": "prometió",
+    "Nosotros": "prometimos",
+    "Vosotros": "prometisteis",
+    "Ellos": "prometieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "prometeré",
+    "Tu": "prometerás",
+    "El": "prometerá",
+    "Nosotros": "prometeremos",
+    "Vosotros": "prometeréis",
+    "Ellos": "prometerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "prometería",
+    "Tu": "prometerías",
+    "El": "prometería",
+    "Nosotros": "prometeríamos",
+    "Vosotros": "prometeríais",
+    "Ellos": "prometerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "prometía",
+    "Tu": "prometías",
+    "El": "prometía",
+    "Nosotros": "prometíamos",
+    "Vosotros": "prometíais",
+    "Ellos": "prometían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy prometiendo",
+    "Tu": "estás prometiendo",
+    "El": "está prometiendo",
+    "Nosotros": "estamos prometiendo",
+    "Vosotros": "estáis prometiendo",
+    "Ellos": "están prometiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he prometido",
+    "Tu": "has prometido",
+    "El": "ha prometido",
+    "Nosotros": "hemos prometido",
+    "Vosotros": "habéis prometido",
+    "Ellos": "han prometido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había prometido",
+    "Tu": "habías prometido",
+    "El": "había prometido",
+    "Nosotros": "habíamos prometido",
+    "Vosotros": "habíais prometido",
+    "Ellos": "habían prometido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré prometido",
+    "Tu": "habrás prometido",
+    "El": "habrá prometido",
+    "Nosotros": "habremos prometido",
+    "Vosotros": "habréis prometido",
+    "Ellos": "habrán prometido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría prometido",
+    "Tu": "habrías prometido",
+    "El": "habría prometido",
+    "Nosotros": "habríamos prometido",
+    "Vosotros": "habríais prometido",
+    "Ellos": "habrían prometido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "prometa",
+    "Tu": "prometas",
+    "El": "prometa",
+    "Nosotros": "prometamos",
+    "Vosotros": "prometáis",
+    "Ellos": "prometan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "promete",
+    "El": "prometa",
+    "Nosotros": "prometamos",
+    "Vosotros": "prometed",
+    "Ellos": "prometan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no prometas",
+    "El": "no prometa",
+    "Nosotros": "no prometamos",
+    "Vosotros": "no prometáis",
+    "Ellos": "no prometan"
+  },
+  "ending": "er"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "cargar",
+  "englishInfinitive": "to load",
+  "irregular": true,
+  "type": "g > gu (-gar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "cargo",
+    "Tu": "cargas",
+    "El": "carga",
+    "Nosotros": "cargamos",
+    "Vosotros": "cargáis",
+    "Ellos": "cargan"
+  },
+  "IndicativePreterite": {
+    "Yo": "cargué",
+    "Tu": "cargaste",
+    "El": "cargó",
+    "Nosotros": "cargamos",
+    "Vosotros": "cargasteis",
+    "Ellos": "cargaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cargaré",
+    "Tu": "cargarás",
+    "El": "cargará",
+    "Nosotros": "cargaremos",
+    "Vosotros": "cargaréis",
+    "Ellos": "cargarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cargaría",
+    "Tu": "cargarías",
+    "El": "cargaría",
+    "Nosotros": "cargaríamos",
+    "Vosotros": "cargaríais",
+    "Ellos": "cargarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cargaba",
+    "Tu": "cargabas",
+    "El": "cargaba",
+    "Nosotros": "cargábamos",
+    "Vosotros": "cargabais",
+    "Ellos": "cargaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cargando",
+    "Tu": "estás cargando",
+    "El": "está cargando",
+    "Nosotros": "estamos cargando",
+    "Vosotros": "estáis cargando",
+    "Ellos": "están cargando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cargado",
+    "Tu": "has cargado",
+    "El": "ha cargado",
+    "Nosotros": "hemos cargado",
+    "Vosotros": "habéis cargado",
+    "Ellos": "han cargado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cargado",
+    "Tu": "habías cargado",
+    "El": "había cargado",
+    "Nosotros": "habíamos cargado",
+    "Vosotros": "habíais cargado",
+    "Ellos": "habían cargado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cargado",
+    "Tu": "habrás cargado",
+    "El": "habrá cargado",
+    "Nosotros": "habremos cargado",
+    "Vosotros": "habréis cargado",
+    "Ellos": "habrán cargado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cargado",
+    "Tu": "habrías cargado",
+    "El": "habría cargado",
+    "Nosotros": "habríamos cargado",
+    "Vosotros": "habríais cargado",
+    "Ellos": "habrían cargado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cargue",
+    "Tu": "cargues",
+    "El": "cargue",
+    "Nosotros": "carguemos",
+    "Vosotros": "carguéis",
+    "Ellos": "carguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "carga",
+    "El": "cargue",
+    "Nosotros": "carguemos",
+    "Vosotros": "cargad",
+    "Ellos": "carguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cargues",
+    "El": "no cargue",
+    "Nosotros": "no carguemos",
+    "Vosotros": "no carguéis",
+    "Ellos": "no carguen"
+  },
+  "ending": "ar"
+}

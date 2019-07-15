@@ -1,0 +1,113 @@
+{
+  "verb": "sentarse",
+  "englishInfinitive": "to sit down",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": true,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "me siento",
+    "Tu": "te sientas",
+    "El": "se sienta",
+    "Nosotros": "nos sentamos",
+    "Vosotros": "os sentáis",
+    "Ellos": "se sientan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me senté",
+    "Tu": "te sentaste",
+    "El": "se sentó",
+    "Nosotros": "nos sentamos",
+    "Vosotros": "os sentasteis",
+    "Ellos": "se sentaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me sentaré",
+    "Tu": "te sentarás",
+    "El": "se sentará",
+    "Nosotros": "nos sentaremos",
+    "Vosotros": "os sentaréis",
+    "Ellos": "se sentarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me sentaría",
+    "Tu": "te sentarías",
+    "El": "se sentaría",
+    "Nosotros": "nos sentaríamos",
+    "Vosotros": "os sentaríais",
+    "Ellos": "se sentarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me sentaba",
+    "Tu": "te sentabas",
+    "El": "se sentaba",
+    "Nosotros": "nos sentábamos",
+    "Vosotros": "os sentabais",
+    "Ellos": "se sentaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy sentando,estoy sentándome",
+    "Tu": "te estás sentando,estás sentándote",
+    "El": "se está sentando,está sentándose",
+    "Nosotros": "nos estamos sentando,estamos sentándonos",
+    "Vosotros": "os estáis sentando,estáis sentándoos",
+    "Ellos": "se están sentando,están sentándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he sentado",
+    "Tu": "te has sentado",
+    "El": "se ha sentado",
+    "Nosotros": "nos hemos sentado",
+    "Vosotros": "os habéis sentado",
+    "Ellos": "se han sentado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había sentado",
+    "Tu": "te habías sentado",
+    "El": "se había sentado",
+    "Nosotros": "nos habíamos sentado",
+    "Vosotros": "os habíais sentado",
+    "Ellos": "se habían sentado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré sentado",
+    "Tu": "te habrás sentado",
+    "El": "se habrá sentado",
+    "Nosotros": "nos habremos sentado",
+    "Vosotros": "os habréis sentado",
+    "Ellos": "se habrán sentado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría sentado",
+    "Tu": "te habrías sentado",
+    "El": "se habría sentado",
+    "Nosotros": "nos habríamos sentado",
+    "Vosotros": "os habríais sentado",
+    "Ellos": "se habrían sentado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me siente",
+    "Tu": "te sientes",
+    "El": "se siente",
+    "Nosotros": "nos sentemos",
+    "Vosotros": "os sentéis",
+    "Ellos": "se sienten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "siéntate",
+    "El": "siéntese",
+    "Nosotros": "sentémonos",
+    "Vosotros": "sentaos",
+    "Ellos": "siéntense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te sientes",
+    "El": "no se siente",
+    "Nosotros": "no nos sentemos",
+    "Vosotros": "no os sentéis",
+    "Ellos": "no se sienten"
+  },
+  "ending": "ar"
+}

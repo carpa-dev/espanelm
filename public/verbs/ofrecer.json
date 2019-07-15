@@ -1,0 +1,113 @@
+{
+  "verb": "ofrecer",
+  "englishInfinitive": "to offer",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "ofrezco",
+    "Tu": "ofreces",
+    "El": "ofrece",
+    "Nosotros": "ofrecemos",
+    "Vosotros": "ofrecéis",
+    "Ellos": "ofrecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "ofrecí",
+    "Tu": "ofreciste",
+    "El": "ofreció",
+    "Nosotros": "ofrecimos",
+    "Vosotros": "ofrecisteis",
+    "Ellos": "ofrecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "ofreceré",
+    "Tu": "ofrecerás",
+    "El": "ofrecerá",
+    "Nosotros": "ofreceremos",
+    "Vosotros": "ofreceréis",
+    "Ellos": "ofrecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "ofrecería",
+    "Tu": "ofrecerías",
+    "El": "ofrecería",
+    "Nosotros": "ofreceríamos",
+    "Vosotros": "ofreceríais",
+    "Ellos": "ofrecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "ofrecía",
+    "Tu": "ofrecías",
+    "El": "ofrecía",
+    "Nosotros": "ofrecíamos",
+    "Vosotros": "ofrecíais",
+    "Ellos": "ofrecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy ofreciendo",
+    "Tu": "estás ofreciendo",
+    "El": "está ofreciendo",
+    "Nosotros": "estamos ofreciendo",
+    "Vosotros": "estáis ofreciendo",
+    "Ellos": "están ofreciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he ofrecido",
+    "Tu": "has ofrecido",
+    "El": "ha ofrecido",
+    "Nosotros": "hemos ofrecido",
+    "Vosotros": "habéis ofrecido",
+    "Ellos": "han ofrecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había ofrecido",
+    "Tu": "habías ofrecido",
+    "El": "había ofrecido",
+    "Nosotros": "habíamos ofrecido",
+    "Vosotros": "habíais ofrecido",
+    "Ellos": "habían ofrecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré ofrecido",
+    "Tu": "habrás ofrecido",
+    "El": "habrá ofrecido",
+    "Nosotros": "habremos ofrecido",
+    "Vosotros": "habréis ofrecido",
+    "Ellos": "habrán ofrecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría ofrecido",
+    "Tu": "habrías ofrecido",
+    "El": "habría ofrecido",
+    "Nosotros": "habríamos ofrecido",
+    "Vosotros": "habríais ofrecido",
+    "Ellos": "habrían ofrecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ofrezca",
+    "Tu": "ofrezcas",
+    "El": "ofrezca",
+    "Nosotros": "ofrezcamos",
+    "Vosotros": "ofrezcáis",
+    "Ellos": "ofrezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ofrece",
+    "El": "ofrezca",
+    "Nosotros": "ofrezcamos",
+    "Vosotros": "ofreced",
+    "Ellos": "ofrezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ofrezcas",
+    "El": "no ofrezca",
+    "Nosotros": "no ofrezcamos",
+    "Vosotros": "no ofrezcáis",
+    "Ellos": "no ofrezcan"
+  },
+  "ending": "er"
+}

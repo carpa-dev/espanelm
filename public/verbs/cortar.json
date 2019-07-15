@@ -1,0 +1,113 @@
+{
+  "verb": "cortar",
+  "englishInfinitive": "to cut",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "corto",
+    "Tu": "cortas",
+    "El": "corta",
+    "Nosotros": "cortamos",
+    "Vosotros": "cortáis",
+    "Ellos": "cortan"
+  },
+  "IndicativePreterite": {
+    "Yo": "corté",
+    "Tu": "cortaste",
+    "El": "cortó",
+    "Nosotros": "cortamos",
+    "Vosotros": "cortasteis",
+    "Ellos": "cortaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cortaré",
+    "Tu": "cortarás",
+    "El": "cortará",
+    "Nosotros": "cortaremos",
+    "Vosotros": "cortaréis",
+    "Ellos": "cortarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cortaría",
+    "Tu": "cortarías",
+    "El": "cortaría",
+    "Nosotros": "cortaríamos",
+    "Vosotros": "cortaríais",
+    "Ellos": "cortarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cortaba",
+    "Tu": "cortabas",
+    "El": "cortaba",
+    "Nosotros": "cortábamos",
+    "Vosotros": "cortabais",
+    "Ellos": "cortaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cortando",
+    "Tu": "estás cortando",
+    "El": "está cortando",
+    "Nosotros": "estamos cortando",
+    "Vosotros": "estáis cortando",
+    "Ellos": "están cortando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cortado",
+    "Tu": "has cortado",
+    "El": "ha cortado",
+    "Nosotros": "hemos cortado",
+    "Vosotros": "habéis cortado",
+    "Ellos": "han cortado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cortado",
+    "Tu": "habías cortado",
+    "El": "había cortado",
+    "Nosotros": "habíamos cortado",
+    "Vosotros": "habíais cortado",
+    "Ellos": "habían cortado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cortado",
+    "Tu": "habrás cortado",
+    "El": "habrá cortado",
+    "Nosotros": "habremos cortado",
+    "Vosotros": "habréis cortado",
+    "Ellos": "habrán cortado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cortado",
+    "Tu": "habrías cortado",
+    "El": "habría cortado",
+    "Nosotros": "habríamos cortado",
+    "Vosotros": "habríais cortado",
+    "Ellos": "habrían cortado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "corte",
+    "Tu": "cortes",
+    "El": "corte",
+    "Nosotros": "cortemos",
+    "Vosotros": "cortéis",
+    "Ellos": "corten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "corta",
+    "El": "corte",
+    "Nosotros": "cortemos",
+    "Vosotros": "cortad",
+    "Ellos": "corten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cortes",
+    "El": "no corte",
+    "Nosotros": "no cortemos",
+    "Vosotros": "no cortéis",
+    "Ellos": "no corten"
+  },
+  "ending": "ar"
+}

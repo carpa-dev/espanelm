@@ -1,0 +1,113 @@
+{
+  "verb": "poder",
+  "englishInfinitive": "to be able",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "puedo",
+    "Tu": "puedes",
+    "El": "puede",
+    "Nosotros": "podemos",
+    "Vosotros": "podéis",
+    "Ellos": "pueden"
+  },
+  "IndicativePreterite": {
+    "Yo": "pude",
+    "Tu": "pudiste",
+    "El": "pudo",
+    "Nosotros": "pudimos",
+    "Vosotros": "pudisteis",
+    "Ellos": "pudieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "podré",
+    "Tu": "podrás",
+    "El": "podrá",
+    "Nosotros": "podremos",
+    "Vosotros": "podréis",
+    "Ellos": "podrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "podría",
+    "Tu": "podrías",
+    "El": "podría",
+    "Nosotros": "podríamos",
+    "Vosotros": "podríais",
+    "Ellos": "podrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "podía",
+    "Tu": "podías",
+    "El": "podía",
+    "Nosotros": "podíamos",
+    "Vosotros": "podíais",
+    "Ellos": "podían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy pudiendo",
+    "Tu": "estás pudiendo",
+    "El": "está pudiendo",
+    "Nosotros": "estamos pudiendo",
+    "Vosotros": "estáis pudiendo",
+    "Ellos": "están pudiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he podido",
+    "Tu": "has podido",
+    "El": "ha podido",
+    "Nosotros": "hemos podido",
+    "Vosotros": "habéis podido",
+    "Ellos": "han podido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había podido",
+    "Tu": "habías podido",
+    "El": "había podido",
+    "Nosotros": "habíamos podido",
+    "Vosotros": "habíais podido",
+    "Ellos": "habían podido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré podido",
+    "Tu": "habrás podido",
+    "El": "habrá podido",
+    "Nosotros": "habremos podido",
+    "Vosotros": "habréis podido",
+    "Ellos": "habrán podido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría podido",
+    "Tu": "habrías podido",
+    "El": "habría podido",
+    "Nosotros": "habríamos podido",
+    "Vosotros": "habríais podido",
+    "Ellos": "habrían podido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "pueda",
+    "Tu": "puedas",
+    "El": "pueda",
+    "Nosotros": "podamos",
+    "Vosotros": "podáis",
+    "Ellos": "puedan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "puede",
+    "El": "pueda",
+    "Nosotros": "podamos",
+    "Vosotros": "poded",
+    "Ellos": "puedan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no puedas",
+    "El": "no pueda",
+    "Nosotros": "no podamos",
+    "Vosotros": "no podáis",
+    "Ellos": "no puedan"
+  },
+  "ending": "er"
+}

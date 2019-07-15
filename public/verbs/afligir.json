@@ -1,0 +1,113 @@
+{
+  "verb": "afligir",
+  "englishInfinitive": "to afflict",
+  "irregular": true,
+  "type": "g > j",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "aflijo",
+    "Tu": "afliges",
+    "El": "aflige",
+    "Nosotros": "afligimos",
+    "Vosotros": "afligís",
+    "Ellos": "afligen"
+  },
+  "IndicativePreterite": {
+    "Yo": "afligí",
+    "Tu": "afligiste",
+    "El": "afligió",
+    "Nosotros": "afligimos",
+    "Vosotros": "afligisteis",
+    "Ellos": "afligieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "afligiré",
+    "Tu": "afligirás",
+    "El": "afligirá",
+    "Nosotros": "afligiremos",
+    "Vosotros": "afligiréis",
+    "Ellos": "afligirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "afligiría",
+    "Tu": "afligirías",
+    "El": "afligiría",
+    "Nosotros": "afligiríamos",
+    "Vosotros": "afligiríais",
+    "Ellos": "afligirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "afligía",
+    "Tu": "afligías",
+    "El": "afligía",
+    "Nosotros": "afligíamos",
+    "Vosotros": "afligíais",
+    "Ellos": "afligían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy afligiendo",
+    "Tu": "estás afligiendo",
+    "El": "está afligiendo",
+    "Nosotros": "estamos afligiendo",
+    "Vosotros": "estáis afligiendo",
+    "Ellos": "están afligiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he afligido",
+    "Tu": "has afligido",
+    "El": "ha afligido",
+    "Nosotros": "hemos afligido",
+    "Vosotros": "habéis afligido",
+    "Ellos": "han afligido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había afligido",
+    "Tu": "habías afligido",
+    "El": "había afligido",
+    "Nosotros": "habíamos afligido",
+    "Vosotros": "habíais afligido",
+    "Ellos": "habían afligido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré afligido",
+    "Tu": "habrás afligido",
+    "El": "habrá afligido",
+    "Nosotros": "habremos afligido",
+    "Vosotros": "habréis afligido",
+    "Ellos": "habrán afligido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría afligido",
+    "Tu": "habrías afligido",
+    "El": "habría afligido",
+    "Nosotros": "habríamos afligido",
+    "Vosotros": "habríais afligido",
+    "Ellos": "habrían afligido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "aflija",
+    "Tu": "aflijas",
+    "El": "aflija",
+    "Nosotros": "aflijamos",
+    "Vosotros": "aflijáis",
+    "Ellos": "aflijan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "aflige",
+    "El": "aflija",
+    "Nosotros": "aflijamos",
+    "Vosotros": "afligid",
+    "Ellos": "aflijan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no aflijas",
+    "El": "no aflija",
+    "Nosotros": "no aflijamos",
+    "Vosotros": "no aflijáis",
+    "Ellos": "no aflijan"
+  },
+  "ending": "ir"
+}

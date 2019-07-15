@@ -1,0 +1,113 @@
+{
+  "verb": "preservar",
+  "englishInfinitive": "to preserve",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "preservo",
+    "Tu": "preservas",
+    "El": "preserva",
+    "Nosotros": "preservamos",
+    "Vosotros": "preserváis",
+    "Ellos": "preservan"
+  },
+  "IndicativePreterite": {
+    "Yo": "preservé",
+    "Tu": "preservaste",
+    "El": "preservó",
+    "Nosotros": "preservamos",
+    "Vosotros": "preservasteis",
+    "Ellos": "preservaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "preservaré",
+    "Tu": "preservarás",
+    "El": "preservará",
+    "Nosotros": "preservaremos",
+    "Vosotros": "preservaréis",
+    "Ellos": "preservarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "preservaría",
+    "Tu": "preservarías",
+    "El": "preservaría",
+    "Nosotros": "preservaríamos",
+    "Vosotros": "preservaríais",
+    "Ellos": "preservarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "preservaba",
+    "Tu": "preservabas",
+    "El": "preservaba",
+    "Nosotros": "preservábamos",
+    "Vosotros": "preservabais",
+    "Ellos": "preservaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy preservando",
+    "Tu": "estás preservando",
+    "El": "está preservando",
+    "Nosotros": "estamos preservando",
+    "Vosotros": "estáis preservando",
+    "Ellos": "están preservando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he preservado",
+    "Tu": "has preservado",
+    "El": "ha preservado",
+    "Nosotros": "hemos preservado",
+    "Vosotros": "habéis preservado",
+    "Ellos": "han preservado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había preservado",
+    "Tu": "habías preservado",
+    "El": "había preservado",
+    "Nosotros": "habíamos preservado",
+    "Vosotros": "habíais preservado",
+    "Ellos": "habían preservado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré preservado",
+    "Tu": "habrás preservado",
+    "El": "habrá preservado",
+    "Nosotros": "habremos preservado",
+    "Vosotros": "habréis preservado",
+    "Ellos": "habrán preservado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría preservado",
+    "Tu": "habrías preservado",
+    "El": "habría preservado",
+    "Nosotros": "habríamos preservado",
+    "Vosotros": "habríais preservado",
+    "Ellos": "habrían preservado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "preserve",
+    "Tu": "preserves",
+    "El": "preserve",
+    "Nosotros": "preservemos",
+    "Vosotros": "preservéis",
+    "Ellos": "preserven"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "preserva",
+    "El": "preserve",
+    "Nosotros": "preservemos",
+    "Vosotros": "preservad",
+    "Ellos": "preserven"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no preserves",
+    "El": "no preserve",
+    "Nosotros": "no preservemos",
+    "Vosotros": "no preservéis",
+    "Ellos": "no preserven"
+  },
+  "ending": "ar"
+}

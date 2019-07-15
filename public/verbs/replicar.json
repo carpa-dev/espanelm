@@ -1,0 +1,113 @@
+{
+  "verb": "replicar",
+  "englishInfinitive": "to reply",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "replico",
+    "Tu": "replicas",
+    "El": "replica",
+    "Nosotros": "replicamos",
+    "Vosotros": "replicáis",
+    "Ellos": "replican"
+  },
+  "IndicativePreterite": {
+    "Yo": "repliqué",
+    "Tu": "replicaste",
+    "El": "replicó",
+    "Nosotros": "replicamos",
+    "Vosotros": "replicasteis",
+    "Ellos": "replicaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "replicaré",
+    "Tu": "replicarás",
+    "El": "replicará",
+    "Nosotros": "replicaremos",
+    "Vosotros": "replicaréis",
+    "Ellos": "replicarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "replicaría",
+    "Tu": "replicarías",
+    "El": "replicaría",
+    "Nosotros": "replicaríamos",
+    "Vosotros": "replicaríais",
+    "Ellos": "replicarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "replicaba",
+    "Tu": "replicabas",
+    "El": "replicaba",
+    "Nosotros": "replicábamos",
+    "Vosotros": "replicabais",
+    "Ellos": "replicaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy replicando",
+    "Tu": "estás replicando",
+    "El": "está replicando",
+    "Nosotros": "estamos replicando",
+    "Vosotros": "estáis replicando",
+    "Ellos": "están replicando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he replicado",
+    "Tu": "has replicado",
+    "El": "ha replicado",
+    "Nosotros": "hemos replicado",
+    "Vosotros": "habéis replicado",
+    "Ellos": "han replicado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había replicado",
+    "Tu": "habías replicado",
+    "El": "había replicado",
+    "Nosotros": "habíamos replicado",
+    "Vosotros": "habíais replicado",
+    "Ellos": "habían replicado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré replicado",
+    "Tu": "habrás replicado",
+    "El": "habrá replicado",
+    "Nosotros": "habremos replicado",
+    "Vosotros": "habréis replicado",
+    "Ellos": "habrán replicado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría replicado",
+    "Tu": "habrías replicado",
+    "El": "habría replicado",
+    "Nosotros": "habríamos replicado",
+    "Vosotros": "habríais replicado",
+    "Ellos": "habrían replicado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "replique",
+    "Tu": "repliques",
+    "El": "replique",
+    "Nosotros": "repliquemos",
+    "Vosotros": "repliquéis",
+    "Ellos": "repliquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "replica",
+    "El": "replique",
+    "Nosotros": "repliquemos",
+    "Vosotros": "replicad",
+    "Ellos": "repliquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no repliques",
+    "El": "no replique",
+    "Nosotros": "no repliquemos",
+    "Vosotros": "no repliquéis",
+    "Ellos": "no repliquen"
+  },
+  "ending": "ar"
+}

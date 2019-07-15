@@ -1,0 +1,113 @@
+{
+  "verb": "curar",
+  "englishInfinitive": "to cure",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "curo",
+    "Tu": "curas",
+    "El": "cura",
+    "Nosotros": "curamos",
+    "Vosotros": "curáis",
+    "Ellos": "curan"
+  },
+  "IndicativePreterite": {
+    "Yo": "curé",
+    "Tu": "curaste",
+    "El": "curó",
+    "Nosotros": "curamos",
+    "Vosotros": "curasteis",
+    "Ellos": "curaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "curaré",
+    "Tu": "curarás",
+    "El": "curará",
+    "Nosotros": "curaremos",
+    "Vosotros": "curaréis",
+    "Ellos": "curarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "curaría",
+    "Tu": "curarías",
+    "El": "curaría",
+    "Nosotros": "curaríamos",
+    "Vosotros": "curaríais",
+    "Ellos": "curarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "curaba",
+    "Tu": "curabas",
+    "El": "curaba",
+    "Nosotros": "curábamos",
+    "Vosotros": "curabais",
+    "Ellos": "curaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy curando",
+    "Tu": "estás curando",
+    "El": "está curando",
+    "Nosotros": "estamos curando",
+    "Vosotros": "estáis curando",
+    "Ellos": "están curando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he curado",
+    "Tu": "has curado",
+    "El": "ha curado",
+    "Nosotros": "hemos curado",
+    "Vosotros": "habéis curado",
+    "Ellos": "han curado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había curado",
+    "Tu": "habías curado",
+    "El": "había curado",
+    "Nosotros": "habíamos curado",
+    "Vosotros": "habíais curado",
+    "Ellos": "habían curado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré curado",
+    "Tu": "habrás curado",
+    "El": "habrá curado",
+    "Nosotros": "habremos curado",
+    "Vosotros": "habréis curado",
+    "Ellos": "habrán curado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría curado",
+    "Tu": "habrías curado",
+    "El": "habría curado",
+    "Nosotros": "habríamos curado",
+    "Vosotros": "habríais curado",
+    "Ellos": "habrían curado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cure",
+    "Tu": "cures",
+    "El": "cure",
+    "Nosotros": "curemos",
+    "Vosotros": "curéis",
+    "Ellos": "curen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cura",
+    "El": "cure",
+    "Nosotros": "curemos",
+    "Vosotros": "curad",
+    "Ellos": "curen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cures",
+    "El": "no cure",
+    "Nosotros": "no curemos",
+    "Vosotros": "no curéis",
+    "Ellos": "no curen"
+  },
+  "ending": "ar"
+}

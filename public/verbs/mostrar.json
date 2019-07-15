@@ -1,0 +1,113 @@
+{
+  "verb": "mostrar",
+  "englishInfinitive": "to show",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "muestro",
+    "Tu": "muestras",
+    "El": "muestra",
+    "Nosotros": "mostramos",
+    "Vosotros": "mostráis",
+    "Ellos": "muestran"
+  },
+  "IndicativePreterite": {
+    "Yo": "mostré",
+    "Tu": "mostraste",
+    "El": "mostró",
+    "Nosotros": "mostramos",
+    "Vosotros": "mostrasteis",
+    "Ellos": "mostraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "mostraré",
+    "Tu": "mostrarás",
+    "El": "mostrará",
+    "Nosotros": "mostraremos",
+    "Vosotros": "mostraréis",
+    "Ellos": "mostrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "mostraría",
+    "Tu": "mostrarías",
+    "El": "mostraría",
+    "Nosotros": "mostraríamos",
+    "Vosotros": "mostraríais",
+    "Ellos": "mostrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "mostraba",
+    "Tu": "mostrabas",
+    "El": "mostraba",
+    "Nosotros": "mostrábamos",
+    "Vosotros": "mostrabais",
+    "Ellos": "mostraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy mostrando",
+    "Tu": "estás mostrando",
+    "El": "está mostrando",
+    "Nosotros": "estamos mostrando",
+    "Vosotros": "estáis mostrando",
+    "Ellos": "están mostrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he mostrado",
+    "Tu": "has mostrado",
+    "El": "ha mostrado",
+    "Nosotros": "hemos mostrado",
+    "Vosotros": "habéis mostrado",
+    "Ellos": "han mostrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había mostrado",
+    "Tu": "habías mostrado",
+    "El": "había mostrado",
+    "Nosotros": "habíamos mostrado",
+    "Vosotros": "habíais mostrado",
+    "Ellos": "habían mostrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré mostrado",
+    "Tu": "habrás mostrado",
+    "El": "habrá mostrado",
+    "Nosotros": "habremos mostrado",
+    "Vosotros": "habréis mostrado",
+    "Ellos": "habrán mostrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría mostrado",
+    "Tu": "habrías mostrado",
+    "El": "habría mostrado",
+    "Nosotros": "habríamos mostrado",
+    "Vosotros": "habríais mostrado",
+    "Ellos": "habrían mostrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "muestre",
+    "Tu": "muestres",
+    "El": "muestre",
+    "Nosotros": "mostremos",
+    "Vosotros": "mostréis",
+    "Ellos": "muestren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "muestra",
+    "El": "muestre",
+    "Nosotros": "mostremos",
+    "Vosotros": "mostrad",
+    "Ellos": "muestren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no muestres",
+    "El": "no muestre",
+    "Nosotros": "no mostremos",
+    "Vosotros": "no mostréis",
+    "Ellos": "no muestren"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "emplear",
+  "englishInfinitive": "to employ",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "empleo",
+    "Tu": "empleas",
+    "El": "emplea",
+    "Nosotros": "empleamos",
+    "Vosotros": "empleáis",
+    "Ellos": "emplean"
+  },
+  "IndicativePreterite": {
+    "Yo": "empleé",
+    "Tu": "empleaste",
+    "El": "empleó",
+    "Nosotros": "empleamos",
+    "Vosotros": "empleasteis",
+    "Ellos": "emplearon"
+  },
+  "IndicativeFuture": {
+    "Yo": "emplearé",
+    "Tu": "emplearás",
+    "El": "empleará",
+    "Nosotros": "emplearemos",
+    "Vosotros": "emplearéis",
+    "Ellos": "emplearán"
+  },
+  "ConditionalPresent": {
+    "Yo": "emplearía",
+    "Tu": "emplearías",
+    "El": "emplearía",
+    "Nosotros": "emplearíamos",
+    "Vosotros": "emplearíais",
+    "Ellos": "emplearían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "empleaba",
+    "Tu": "empleabas",
+    "El": "empleaba",
+    "Nosotros": "empleábamos",
+    "Vosotros": "empleabais",
+    "Ellos": "empleaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy empleando",
+    "Tu": "estás empleando",
+    "El": "está empleando",
+    "Nosotros": "estamos empleando",
+    "Vosotros": "estáis empleando",
+    "Ellos": "están empleando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he empleado",
+    "Tu": "has empleado",
+    "El": "ha empleado",
+    "Nosotros": "hemos empleado",
+    "Vosotros": "habéis empleado",
+    "Ellos": "han empleado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había empleado",
+    "Tu": "habías empleado",
+    "El": "había empleado",
+    "Nosotros": "habíamos empleado",
+    "Vosotros": "habíais empleado",
+    "Ellos": "habían empleado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré empleado",
+    "Tu": "habrás empleado",
+    "El": "habrá empleado",
+    "Nosotros": "habremos empleado",
+    "Vosotros": "habréis empleado",
+    "Ellos": "habrán empleado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría empleado",
+    "Tu": "habrías empleado",
+    "El": "habría empleado",
+    "Nosotros": "habríamos empleado",
+    "Vosotros": "habríais empleado",
+    "Ellos": "habrían empleado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "emplee",
+    "Tu": "emplees",
+    "El": "emplee",
+    "Nosotros": "empleemos",
+    "Vosotros": "empleéis",
+    "Ellos": "empleen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "emplea",
+    "El": "emplee",
+    "Nosotros": "empleemos",
+    "Vosotros": "emplead",
+    "Ellos": "empleen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no emplees",
+    "El": "no emplee",
+    "Nosotros": "no empleemos",
+    "Vosotros": "no empleéis",
+    "Ellos": "no empleen"
+  },
+  "ending": "ar"
+}

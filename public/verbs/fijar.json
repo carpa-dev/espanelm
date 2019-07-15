@@ -1,0 +1,113 @@
+{
+  "verb": "fijar",
+  "englishInfinitive": "to fix",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "fijo",
+    "Tu": "fijas",
+    "El": "fija",
+    "Nosotros": "fijamos",
+    "Vosotros": "fijáis",
+    "Ellos": "fijan"
+  },
+  "IndicativePreterite": {
+    "Yo": "fijé",
+    "Tu": "fijaste",
+    "El": "fijó",
+    "Nosotros": "fijamos",
+    "Vosotros": "fijasteis",
+    "Ellos": "fijaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "fijaré",
+    "Tu": "fijarás",
+    "El": "fijará",
+    "Nosotros": "fijaremos",
+    "Vosotros": "fijaréis",
+    "Ellos": "fijarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "fijaría",
+    "Tu": "fijarías",
+    "El": "fijaría",
+    "Nosotros": "fijaríamos",
+    "Vosotros": "fijaríais",
+    "Ellos": "fijarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "fijaba",
+    "Tu": "fijabas",
+    "El": "fijaba",
+    "Nosotros": "fijábamos",
+    "Vosotros": "fijabais",
+    "Ellos": "fijaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy fijando",
+    "Tu": "estás fijando",
+    "El": "está fijando",
+    "Nosotros": "estamos fijando",
+    "Vosotros": "estáis fijando",
+    "Ellos": "están fijando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he fijado",
+    "Tu": "has fijado",
+    "El": "ha fijado",
+    "Nosotros": "hemos fijado",
+    "Vosotros": "habéis fijado",
+    "Ellos": "han fijado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había fijado",
+    "Tu": "habías fijado",
+    "El": "había fijado",
+    "Nosotros": "habíamos fijado",
+    "Vosotros": "habíais fijado",
+    "Ellos": "habían fijado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré fijado",
+    "Tu": "habrás fijado",
+    "El": "habrá fijado",
+    "Nosotros": "habremos fijado",
+    "Vosotros": "habréis fijado",
+    "Ellos": "habrán fijado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría fijado",
+    "Tu": "habrías fijado",
+    "El": "habría fijado",
+    "Nosotros": "habríamos fijado",
+    "Vosotros": "habríais fijado",
+    "Ellos": "habrían fijado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "fije",
+    "Tu": "fijes",
+    "El": "fije",
+    "Nosotros": "fijemos",
+    "Vosotros": "fijéis",
+    "Ellos": "fijen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "fija",
+    "El": "fije",
+    "Nosotros": "fijemos",
+    "Vosotros": "fijad",
+    "Ellos": "fijen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no fijes",
+    "El": "no fije",
+    "Nosotros": "no fijemos",
+    "Vosotros": "no fijéis",
+    "Ellos": "no fijen"
+  },
+  "ending": "ar"
+}

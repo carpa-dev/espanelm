@@ -1,0 +1,113 @@
+{
+  "verb": "reportar",
+  "englishInfinitive": "to bring",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "reporto",
+    "Tu": "reportas",
+    "El": "reporta",
+    "Nosotros": "reportamos",
+    "Vosotros": "reportáis",
+    "Ellos": "reportan"
+  },
+  "IndicativePreterite": {
+    "Yo": "reporté",
+    "Tu": "reportaste",
+    "El": "reportó",
+    "Nosotros": "reportamos",
+    "Vosotros": "reportasteis",
+    "Ellos": "reportaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "reportaré",
+    "Tu": "reportarás",
+    "El": "reportará",
+    "Nosotros": "reportaremos",
+    "Vosotros": "reportaréis",
+    "Ellos": "reportarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "reportaría",
+    "Tu": "reportarías",
+    "El": "reportaría",
+    "Nosotros": "reportaríamos",
+    "Vosotros": "reportaríais",
+    "Ellos": "reportarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "reportaba",
+    "Tu": "reportabas",
+    "El": "reportaba",
+    "Nosotros": "reportábamos",
+    "Vosotros": "reportabais",
+    "Ellos": "reportaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy reportando",
+    "Tu": "estás reportando",
+    "El": "está reportando",
+    "Nosotros": "estamos reportando",
+    "Vosotros": "estáis reportando",
+    "Ellos": "están reportando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he reportado",
+    "Tu": "has reportado",
+    "El": "ha reportado",
+    "Nosotros": "hemos reportado",
+    "Vosotros": "habéis reportado",
+    "Ellos": "han reportado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había reportado",
+    "Tu": "habías reportado",
+    "El": "había reportado",
+    "Nosotros": "habíamos reportado",
+    "Vosotros": "habíais reportado",
+    "Ellos": "habían reportado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré reportado",
+    "Tu": "habrás reportado",
+    "El": "habrá reportado",
+    "Nosotros": "habremos reportado",
+    "Vosotros": "habréis reportado",
+    "Ellos": "habrán reportado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría reportado",
+    "Tu": "habrías reportado",
+    "El": "habría reportado",
+    "Nosotros": "habríamos reportado",
+    "Vosotros": "habríais reportado",
+    "Ellos": "habrían reportado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "reporte",
+    "Tu": "reportes",
+    "El": "reporte",
+    "Nosotros": "reportemos",
+    "Vosotros": "reportéis",
+    "Ellos": "reporten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "reporta",
+    "El": "reporte",
+    "Nosotros": "reportemos",
+    "Vosotros": "reportad",
+    "Ellos": "reporten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no reportes",
+    "El": "no reporte",
+    "Nosotros": "no reportemos",
+    "Vosotros": "no reportéis",
+    "Ellos": "no reporten"
+  },
+  "ending": "ar"
+}

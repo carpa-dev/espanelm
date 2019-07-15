@@ -1,0 +1,113 @@
+{
+  "verb": "alcanzar",
+  "englishInfinitive": "to reach",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "alcanzo",
+    "Tu": "alcanzas",
+    "El": "alcanza",
+    "Nosotros": "alcanzamos",
+    "Vosotros": "alcanzáis",
+    "Ellos": "alcanzan"
+  },
+  "IndicativePreterite": {
+    "Yo": "alcancé",
+    "Tu": "alcanzaste",
+    "El": "alcanzó",
+    "Nosotros": "alcanzamos",
+    "Vosotros": "alcanzasteis",
+    "Ellos": "alcanzaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "alcanzaré",
+    "Tu": "alcanzarás",
+    "El": "alcanzará",
+    "Nosotros": "alcanzaremos",
+    "Vosotros": "alcanzaréis",
+    "Ellos": "alcanzarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "alcanzaría",
+    "Tu": "alcanzarías",
+    "El": "alcanzaría",
+    "Nosotros": "alcanzaríamos",
+    "Vosotros": "alcanzaríais",
+    "Ellos": "alcanzarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "alcanzaba",
+    "Tu": "alcanzabas",
+    "El": "alcanzaba",
+    "Nosotros": "alcanzábamos",
+    "Vosotros": "alcanzabais",
+    "Ellos": "alcanzaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy alcanzando",
+    "Tu": "estás alcanzando",
+    "El": "está alcanzando",
+    "Nosotros": "estamos alcanzando",
+    "Vosotros": "estáis alcanzando",
+    "Ellos": "están alcanzando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he alcanzado",
+    "Tu": "has alcanzado",
+    "El": "ha alcanzado",
+    "Nosotros": "hemos alcanzado",
+    "Vosotros": "habéis alcanzado",
+    "Ellos": "han alcanzado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había alcanzado",
+    "Tu": "habías alcanzado",
+    "El": "había alcanzado",
+    "Nosotros": "habíamos alcanzado",
+    "Vosotros": "habíais alcanzado",
+    "Ellos": "habían alcanzado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré alcanzado",
+    "Tu": "habrás alcanzado",
+    "El": "habrá alcanzado",
+    "Nosotros": "habremos alcanzado",
+    "Vosotros": "habréis alcanzado",
+    "Ellos": "habrán alcanzado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría alcanzado",
+    "Tu": "habrías alcanzado",
+    "El": "habría alcanzado",
+    "Nosotros": "habríamos alcanzado",
+    "Vosotros": "habríais alcanzado",
+    "Ellos": "habrían alcanzado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "alcance",
+    "Tu": "alcances",
+    "El": "alcance",
+    "Nosotros": "alcancemos",
+    "Vosotros": "alcancéis",
+    "Ellos": "alcancen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "alcanza",
+    "El": "alcance",
+    "Nosotros": "alcancemos",
+    "Vosotros": "alcanzad",
+    "Ellos": "alcancen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no alcances",
+    "El": "no alcance",
+    "Nosotros": "no alcancemos",
+    "Vosotros": "no alcancéis",
+    "Ellos": "no alcancen"
+  },
+  "ending": "ar"
+}

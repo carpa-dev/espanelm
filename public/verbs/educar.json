@@ -1,0 +1,113 @@
+{
+  "verb": "educar",
+  "englishInfinitive": "to educate",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "educo",
+    "Tu": "educas",
+    "El": "educa",
+    "Nosotros": "educamos",
+    "Vosotros": "educáis",
+    "Ellos": "educan"
+  },
+  "IndicativePreterite": {
+    "Yo": "eduqué",
+    "Tu": "educaste",
+    "El": "educó",
+    "Nosotros": "educamos",
+    "Vosotros": "educasteis",
+    "Ellos": "educaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "educaré",
+    "Tu": "educarás",
+    "El": "educará",
+    "Nosotros": "educaremos",
+    "Vosotros": "educaréis",
+    "Ellos": "educarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "educaría",
+    "Tu": "educarías",
+    "El": "educaría",
+    "Nosotros": "educaríamos",
+    "Vosotros": "educaríais",
+    "Ellos": "educarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "educaba",
+    "Tu": "educabas",
+    "El": "educaba",
+    "Nosotros": "educábamos",
+    "Vosotros": "educabais",
+    "Ellos": "educaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy educando",
+    "Tu": "estás educando",
+    "El": "está educando",
+    "Nosotros": "estamos educando",
+    "Vosotros": "estáis educando",
+    "Ellos": "están educando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he educado",
+    "Tu": "has educado",
+    "El": "ha educado",
+    "Nosotros": "hemos educado",
+    "Vosotros": "habéis educado",
+    "Ellos": "han educado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había educado",
+    "Tu": "habías educado",
+    "El": "había educado",
+    "Nosotros": "habíamos educado",
+    "Vosotros": "habíais educado",
+    "Ellos": "habían educado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré educado",
+    "Tu": "habrás educado",
+    "El": "habrá educado",
+    "Nosotros": "habremos educado",
+    "Vosotros": "habréis educado",
+    "Ellos": "habrán educado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría educado",
+    "Tu": "habrías educado",
+    "El": "habría educado",
+    "Nosotros": "habríamos educado",
+    "Vosotros": "habríais educado",
+    "Ellos": "habrían educado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "eduque",
+    "Tu": "eduques",
+    "El": "eduque",
+    "Nosotros": "eduquemos",
+    "Vosotros": "eduquéis",
+    "Ellos": "eduquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "educa",
+    "El": "eduque",
+    "Nosotros": "eduquemos",
+    "Vosotros": "educad",
+    "Ellos": "eduquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no eduques",
+    "El": "no eduque",
+    "Nosotros": "no eduquemos",
+    "Vosotros": "no eduquéis",
+    "Ellos": "no eduquen"
+  },
+  "ending": "ar"
+}

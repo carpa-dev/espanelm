@@ -1,0 +1,113 @@
+{
+  "verb": "entregar",
+  "englishInfinitive": "to deliver",
+  "irregular": true,
+  "type": "g > gu (-gar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "entrego",
+    "Tu": "entregas",
+    "El": "entrega",
+    "Nosotros": "entregamos",
+    "Vosotros": "entregáis",
+    "Ellos": "entregan"
+  },
+  "IndicativePreterite": {
+    "Yo": "entregué",
+    "Tu": "entregaste",
+    "El": "entregó",
+    "Nosotros": "entregamos",
+    "Vosotros": "entregasteis",
+    "Ellos": "entregaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "entregaré",
+    "Tu": "entregarás",
+    "El": "entregará",
+    "Nosotros": "entregaremos",
+    "Vosotros": "entregaréis",
+    "Ellos": "entregarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "entregaría",
+    "Tu": "entregarías",
+    "El": "entregaría",
+    "Nosotros": "entregaríamos",
+    "Vosotros": "entregaríais",
+    "Ellos": "entregarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "entregaba",
+    "Tu": "entregabas",
+    "El": "entregaba",
+    "Nosotros": "entregábamos",
+    "Vosotros": "entregabais",
+    "Ellos": "entregaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy entregando",
+    "Tu": "estás entregando",
+    "El": "está entregando",
+    "Nosotros": "estamos entregando",
+    "Vosotros": "estáis entregando",
+    "Ellos": "están entregando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he entregado",
+    "Tu": "has entregado",
+    "El": "ha entregado",
+    "Nosotros": "hemos entregado",
+    "Vosotros": "habéis entregado",
+    "Ellos": "han entregado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había entregado",
+    "Tu": "habías entregado",
+    "El": "había entregado",
+    "Nosotros": "habíamos entregado",
+    "Vosotros": "habíais entregado",
+    "Ellos": "habían entregado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré entregado",
+    "Tu": "habrás entregado",
+    "El": "habrá entregado",
+    "Nosotros": "habremos entregado",
+    "Vosotros": "habréis entregado",
+    "Ellos": "habrán entregado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría entregado",
+    "Tu": "habrías entregado",
+    "El": "habría entregado",
+    "Nosotros": "habríamos entregado",
+    "Vosotros": "habríais entregado",
+    "Ellos": "habrían entregado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "entregue",
+    "Tu": "entregues",
+    "El": "entregue",
+    "Nosotros": "entreguemos",
+    "Vosotros": "entreguéis",
+    "Ellos": "entreguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "entrega",
+    "El": "entregue",
+    "Nosotros": "entreguemos",
+    "Vosotros": "entregad",
+    "Ellos": "entreguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no entregues",
+    "El": "no entregue",
+    "Nosotros": "no entreguemos",
+    "Vosotros": "no entreguéis",
+    "Ellos": "no entreguen"
+  },
+  "ending": "ar"
+}

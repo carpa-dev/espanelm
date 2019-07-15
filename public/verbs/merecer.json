@@ -1,0 +1,113 @@
+{
+  "verb": "merecer",
+  "englishInfinitive": "to deserve",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "merezco",
+    "Tu": "mereces",
+    "El": "merece",
+    "Nosotros": "merecemos",
+    "Vosotros": "merecéis",
+    "Ellos": "merecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "merecí",
+    "Tu": "mereciste",
+    "El": "mereció",
+    "Nosotros": "merecimos",
+    "Vosotros": "merecisteis",
+    "Ellos": "merecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "mereceré",
+    "Tu": "merecerás",
+    "El": "merecerá",
+    "Nosotros": "mereceremos",
+    "Vosotros": "mereceréis",
+    "Ellos": "merecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "merecería",
+    "Tu": "merecerías",
+    "El": "merecería",
+    "Nosotros": "mereceríamos",
+    "Vosotros": "mereceríais",
+    "Ellos": "merecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "merecía",
+    "Tu": "merecías",
+    "El": "merecía",
+    "Nosotros": "merecíamos",
+    "Vosotros": "merecíais",
+    "Ellos": "merecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy mereciendo",
+    "Tu": "estás mereciendo",
+    "El": "está mereciendo",
+    "Nosotros": "estamos mereciendo",
+    "Vosotros": "estáis mereciendo",
+    "Ellos": "están mereciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he merecido",
+    "Tu": "has merecido",
+    "El": "ha merecido",
+    "Nosotros": "hemos merecido",
+    "Vosotros": "habéis merecido",
+    "Ellos": "han merecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había merecido",
+    "Tu": "habías merecido",
+    "El": "había merecido",
+    "Nosotros": "habíamos merecido",
+    "Vosotros": "habíais merecido",
+    "Ellos": "habían merecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré merecido",
+    "Tu": "habrás merecido",
+    "El": "habrá merecido",
+    "Nosotros": "habremos merecido",
+    "Vosotros": "habréis merecido",
+    "Ellos": "habrán merecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría merecido",
+    "Tu": "habrías merecido",
+    "El": "habría merecido",
+    "Nosotros": "habríamos merecido",
+    "Vosotros": "habríais merecido",
+    "Ellos": "habrían merecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "merezca",
+    "Tu": "merezcas",
+    "El": "merezca",
+    "Nosotros": "merezcamos",
+    "Vosotros": "merezcáis",
+    "Ellos": "merezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "merece",
+    "El": "merezca",
+    "Nosotros": "merezcamos",
+    "Vosotros": "mereced",
+    "Ellos": "merezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no merezcas",
+    "El": "no merezca",
+    "Nosotros": "no merezcamos",
+    "Vosotros": "no merezcáis",
+    "Ellos": "no merezcan"
+  },
+  "ending": "er"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "descubrir",
+  "englishInfinitive": "to discover",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "descubro",
+    "Tu": "descubres",
+    "El": "descubre",
+    "Nosotros": "descubrimos",
+    "Vosotros": "descubrís",
+    "Ellos": "descubren"
+  },
+  "IndicativePreterite": {
+    "Yo": "descubrí",
+    "Tu": "descubriste",
+    "El": "descubrió",
+    "Nosotros": "descubrimos",
+    "Vosotros": "descubristeis",
+    "Ellos": "descubrieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "descubriré",
+    "Tu": "descubrirás",
+    "El": "descubrirá",
+    "Nosotros": "descubriremos",
+    "Vosotros": "descubriréis",
+    "Ellos": "descubrirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "descubriría",
+    "Tu": "descubrirías",
+    "El": "descubriría",
+    "Nosotros": "descubriríamos",
+    "Vosotros": "descubriríais",
+    "Ellos": "descubrirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "descubría",
+    "Tu": "descubrías",
+    "El": "descubría",
+    "Nosotros": "descubríamos",
+    "Vosotros": "descubríais",
+    "Ellos": "descubrían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy descubriendo",
+    "Tu": "estás descubriendo",
+    "El": "está descubriendo",
+    "Nosotros": "estamos descubriendo",
+    "Vosotros": "estáis descubriendo",
+    "Ellos": "están descubriendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he descubierto",
+    "Tu": "has descubierto",
+    "El": "ha descubierto",
+    "Nosotros": "hemos descubierto",
+    "Vosotros": "habéis descubierto",
+    "Ellos": "han descubierto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había descubierto",
+    "Tu": "habías descubierto",
+    "El": "había descubierto",
+    "Nosotros": "habíamos descubierto",
+    "Vosotros": "habíais descubierto",
+    "Ellos": "habían descubierto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré descubierto",
+    "Tu": "habrás descubierto",
+    "El": "habrá descubierto",
+    "Nosotros": "habremos descubierto",
+    "Vosotros": "habréis descubierto",
+    "Ellos": "habrán descubierto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría descubierto",
+    "Tu": "habrías descubierto",
+    "El": "habría descubierto",
+    "Nosotros": "habríamos descubierto",
+    "Vosotros": "habríais descubierto",
+    "Ellos": "habrían descubierto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "descubra",
+    "Tu": "descubras",
+    "El": "descubra",
+    "Nosotros": "descubramos",
+    "Vosotros": "descubráis",
+    "Ellos": "descubran"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "descubre",
+    "El": "descubra",
+    "Nosotros": "descubramos",
+    "Vosotros": "descubrid",
+    "Ellos": "descubran"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no descubras",
+    "El": "no descubra",
+    "Nosotros": "no descubramos",
+    "Vosotros": "no descubráis",
+    "Ellos": "no descubran"
+  },
+  "ending": "ir"
+}

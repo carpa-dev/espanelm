@@ -1,0 +1,113 @@
+{
+  "verb": "pegar",
+  "englishInfinitive": "to stick",
+  "irregular": true,
+  "type": "g > gu (-gar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "pego",
+    "Tu": "pegas",
+    "El": "pega",
+    "Nosotros": "pegamos",
+    "Vosotros": "pegáis",
+    "Ellos": "pegan"
+  },
+  "IndicativePreterite": {
+    "Yo": "pegué",
+    "Tu": "pegaste",
+    "El": "pegó",
+    "Nosotros": "pegamos",
+    "Vosotros": "pegasteis",
+    "Ellos": "pegaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "pegaré",
+    "Tu": "pegarás",
+    "El": "pegará",
+    "Nosotros": "pegaremos",
+    "Vosotros": "pegaréis",
+    "Ellos": "pegarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "pegaría",
+    "Tu": "pegarías",
+    "El": "pegaría",
+    "Nosotros": "pegaríamos",
+    "Vosotros": "pegaríais",
+    "Ellos": "pegarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "pegaba",
+    "Tu": "pegabas",
+    "El": "pegaba",
+    "Nosotros": "pegábamos",
+    "Vosotros": "pegabais",
+    "Ellos": "pegaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy pegando",
+    "Tu": "estás pegando",
+    "El": "está pegando",
+    "Nosotros": "estamos pegando",
+    "Vosotros": "estáis pegando",
+    "Ellos": "están pegando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he pegado",
+    "Tu": "has pegado",
+    "El": "ha pegado",
+    "Nosotros": "hemos pegado",
+    "Vosotros": "habéis pegado",
+    "Ellos": "han pegado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había pegado",
+    "Tu": "habías pegado",
+    "El": "había pegado",
+    "Nosotros": "habíamos pegado",
+    "Vosotros": "habíais pegado",
+    "Ellos": "habían pegado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré pegado",
+    "Tu": "habrás pegado",
+    "El": "habrá pegado",
+    "Nosotros": "habremos pegado",
+    "Vosotros": "habréis pegado",
+    "Ellos": "habrán pegado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría pegado",
+    "Tu": "habrías pegado",
+    "El": "habría pegado",
+    "Nosotros": "habríamos pegado",
+    "Vosotros": "habríais pegado",
+    "Ellos": "habrían pegado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "pegue",
+    "Tu": "pegues",
+    "El": "pegue",
+    "Nosotros": "peguemos",
+    "Vosotros": "peguéis",
+    "Ellos": "peguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "pega",
+    "El": "pegue",
+    "Nosotros": "peguemos",
+    "Vosotros": "pegad",
+    "Ellos": "peguen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no pegues",
+    "El": "no pegue",
+    "Nosotros": "no peguemos",
+    "Vosotros": "no peguéis",
+    "Ellos": "no peguen"
+  },
+  "ending": "ar"
+}

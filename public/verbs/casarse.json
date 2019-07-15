@@ -1,0 +1,113 @@
+{
+  "verb": "casarse",
+  "englishInfinitive": "to marry [someone]",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me caso",
+    "Tu": "te casas",
+    "El": "se casa",
+    "Nosotros": "nos casamos",
+    "Vosotros": "os casáis",
+    "Ellos": "se casan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me casé",
+    "Tu": "te casaste",
+    "El": "se casó",
+    "Nosotros": "nos casamos",
+    "Vosotros": "os casasteis",
+    "Ellos": "se casaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me casaré",
+    "Tu": "te casarás",
+    "El": "se casará",
+    "Nosotros": "nos casaremos",
+    "Vosotros": "os casaréis",
+    "Ellos": "se casarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me casaría",
+    "Tu": "te casarías",
+    "El": "se casaría",
+    "Nosotros": "nos casaríamos",
+    "Vosotros": "os casaríais",
+    "Ellos": "se casarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me casaba",
+    "Tu": "te casabas",
+    "El": "se casaba",
+    "Nosotros": "nos casábamos",
+    "Vosotros": "os casabais",
+    "Ellos": "se casaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy casando,estoy casándome",
+    "Tu": "te estás casando,estás casándote",
+    "El": "se está casando,está casándose",
+    "Nosotros": "nos estamos casando,estamos casándonos",
+    "Vosotros": "os estáis casando,estáis casándoos",
+    "Ellos": "se están casando,están casándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he casado",
+    "Tu": "te has casado",
+    "El": "se ha casado",
+    "Nosotros": "nos hemos casado",
+    "Vosotros": "os habéis casado",
+    "Ellos": "se han casado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había casado",
+    "Tu": "te habías casado",
+    "El": "se había casado",
+    "Nosotros": "nos habíamos casado",
+    "Vosotros": "os habíais casado",
+    "Ellos": "se habían casado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré casado",
+    "Tu": "te habrás casado",
+    "El": "se habrá casado",
+    "Nosotros": "nos habremos casado",
+    "Vosotros": "os habréis casado",
+    "Ellos": "se habrán casado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría casado",
+    "Tu": "te habrías casado",
+    "El": "se habría casado",
+    "Nosotros": "nos habríamos casado",
+    "Vosotros": "os habríais casado",
+    "Ellos": "se habrían casado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me case",
+    "Tu": "te cases",
+    "El": "se case",
+    "Nosotros": "nos casemos",
+    "Vosotros": "os caséis",
+    "Ellos": "se casen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cásate",
+    "El": "cásese",
+    "Nosotros": "casémonos",
+    "Vosotros": "casaos",
+    "Ellos": "cásense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te cases",
+    "El": "no se case",
+    "Nosotros": "no nos casemos",
+    "Vosotros": "no os caséis",
+    "Ellos": "no se casen"
+  },
+  "ending": "ar"
+}

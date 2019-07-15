@@ -1,0 +1,113 @@
+{
+  "verb": "terminar",
+  "englishInfinitive": "to finish",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "termino",
+    "Tu": "terminas",
+    "El": "termina",
+    "Nosotros": "terminamos",
+    "Vosotros": "termináis",
+    "Ellos": "terminan"
+  },
+  "IndicativePreterite": {
+    "Yo": "terminé",
+    "Tu": "terminaste",
+    "El": "terminó",
+    "Nosotros": "terminamos",
+    "Vosotros": "terminasteis",
+    "Ellos": "terminaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "terminaré",
+    "Tu": "terminarás",
+    "El": "terminará",
+    "Nosotros": "terminaremos",
+    "Vosotros": "terminaréis",
+    "Ellos": "terminarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "terminaría",
+    "Tu": "terminarías",
+    "El": "terminaría",
+    "Nosotros": "terminaríamos",
+    "Vosotros": "terminaríais",
+    "Ellos": "terminarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "terminaba",
+    "Tu": "terminabas",
+    "El": "terminaba",
+    "Nosotros": "terminábamos",
+    "Vosotros": "terminabais",
+    "Ellos": "terminaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy terminando",
+    "Tu": "estás terminando",
+    "El": "está terminando",
+    "Nosotros": "estamos terminando",
+    "Vosotros": "estáis terminando",
+    "Ellos": "están terminando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he terminado",
+    "Tu": "has terminado",
+    "El": "ha terminado",
+    "Nosotros": "hemos terminado",
+    "Vosotros": "habéis terminado",
+    "Ellos": "han terminado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había terminado",
+    "Tu": "habías terminado",
+    "El": "había terminado",
+    "Nosotros": "habíamos terminado",
+    "Vosotros": "habíais terminado",
+    "Ellos": "habían terminado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré terminado",
+    "Tu": "habrás terminado",
+    "El": "habrá terminado",
+    "Nosotros": "habremos terminado",
+    "Vosotros": "habréis terminado",
+    "Ellos": "habrán terminado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría terminado",
+    "Tu": "habrías terminado",
+    "El": "habría terminado",
+    "Nosotros": "habríamos terminado",
+    "Vosotros": "habríais terminado",
+    "Ellos": "habrían terminado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "termine",
+    "Tu": "termines",
+    "El": "termine",
+    "Nosotros": "terminemos",
+    "Vosotros": "terminéis",
+    "Ellos": "terminen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "termina",
+    "El": "termine",
+    "Nosotros": "terminemos",
+    "Vosotros": "terminad",
+    "Ellos": "terminen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no termines",
+    "El": "no termine",
+    "Nosotros": "no terminemos",
+    "Vosotros": "no terminéis",
+    "Ellos": "no terminen"
+  },
+  "ending": "ar"
+}

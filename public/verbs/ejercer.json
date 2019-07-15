@@ -1,0 +1,113 @@
+{
+  "verb": "ejercer",
+  "englishInfinitive": "to exercise",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "ejerzo",
+    "Tu": "ejerces",
+    "El": "ejerce",
+    "Nosotros": "ejercemos",
+    "Vosotros": "ejercéis",
+    "Ellos": "ejercen"
+  },
+  "IndicativePreterite": {
+    "Yo": "ejercí",
+    "Tu": "ejerciste",
+    "El": "ejerció",
+    "Nosotros": "ejercimos",
+    "Vosotros": "ejercisteis",
+    "Ellos": "ejercieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "ejerceré",
+    "Tu": "ejercerás",
+    "El": "ejercerá",
+    "Nosotros": "ejerceremos",
+    "Vosotros": "ejerceréis",
+    "Ellos": "ejercerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "ejercería",
+    "Tu": "ejercerías",
+    "El": "ejercería",
+    "Nosotros": "ejerceríamos",
+    "Vosotros": "ejerceríais",
+    "Ellos": "ejercerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "ejercía",
+    "Tu": "ejercías",
+    "El": "ejercía",
+    "Nosotros": "ejercíamos",
+    "Vosotros": "ejercíais",
+    "Ellos": "ejercían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy ejerciendo",
+    "Tu": "estás ejerciendo",
+    "El": "está ejerciendo",
+    "Nosotros": "estamos ejerciendo",
+    "Vosotros": "estáis ejerciendo",
+    "Ellos": "están ejerciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he ejercido",
+    "Tu": "has ejercido",
+    "El": "ha ejercido",
+    "Nosotros": "hemos ejercido",
+    "Vosotros": "habéis ejercido",
+    "Ellos": "han ejercido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había ejercido",
+    "Tu": "habías ejercido",
+    "El": "había ejercido",
+    "Nosotros": "habíamos ejercido",
+    "Vosotros": "habíais ejercido",
+    "Ellos": "habían ejercido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré ejercido",
+    "Tu": "habrás ejercido",
+    "El": "habrá ejercido",
+    "Nosotros": "habremos ejercido",
+    "Vosotros": "habréis ejercido",
+    "Ellos": "habrán ejercido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría ejercido",
+    "Tu": "habrías ejercido",
+    "El": "habría ejercido",
+    "Nosotros": "habríamos ejercido",
+    "Vosotros": "habríais ejercido",
+    "Ellos": "habrían ejercido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ejerza",
+    "Tu": "ejerzas",
+    "El": "ejerza",
+    "Nosotros": "ejerzamos",
+    "Vosotros": "ejerzáis",
+    "Ellos": "ejerzan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ejerce",
+    "El": "ejerza",
+    "Nosotros": "ejerzamos",
+    "Vosotros": "ejerced",
+    "Ellos": "ejerzan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ejerzas",
+    "El": "no ejerza",
+    "Nosotros": "no ejerzamos",
+    "Vosotros": "no ejerzáis",
+    "Ellos": "no ejerzan"
+  },
+  "ending": "er"
+}

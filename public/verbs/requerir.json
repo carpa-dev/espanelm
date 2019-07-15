@@ -1,0 +1,113 @@
+{
+  "verb": "requerir",
+  "englishInfinitive": "to require",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "requiero",
+    "Tu": "requieres",
+    "El": "requiere",
+    "Nosotros": "requerimos",
+    "Vosotros": "requerís",
+    "Ellos": "requieren"
+  },
+  "IndicativePreterite": {
+    "Yo": "requerí",
+    "Tu": "requeriste",
+    "El": "requirió",
+    "Nosotros": "requerimos",
+    "Vosotros": "requeristeis",
+    "Ellos": "requirieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "requeriré",
+    "Tu": "requerirás",
+    "El": "requerirá",
+    "Nosotros": "requeriremos",
+    "Vosotros": "requeriréis",
+    "Ellos": "requerirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "requeriría",
+    "Tu": "requerirías",
+    "El": "requeriría",
+    "Nosotros": "requeriríamos",
+    "Vosotros": "requeriríais",
+    "Ellos": "requerirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "requería",
+    "Tu": "requerías",
+    "El": "requería",
+    "Nosotros": "requeríamos",
+    "Vosotros": "requeríais",
+    "Ellos": "requerían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy requiriendo",
+    "Tu": "estás requiriendo",
+    "El": "está requiriendo",
+    "Nosotros": "estamos requiriendo",
+    "Vosotros": "estáis requiriendo",
+    "Ellos": "están requiriendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he requerido",
+    "Tu": "has requerido",
+    "El": "ha requerido",
+    "Nosotros": "hemos requerido",
+    "Vosotros": "habéis requerido",
+    "Ellos": "han requerido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había requerido",
+    "Tu": "habías requerido",
+    "El": "había requerido",
+    "Nosotros": "habíamos requerido",
+    "Vosotros": "habíais requerido",
+    "Ellos": "habían requerido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré requerido",
+    "Tu": "habrás requerido",
+    "El": "habrá requerido",
+    "Nosotros": "habremos requerido",
+    "Vosotros": "habréis requerido",
+    "Ellos": "habrán requerido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría requerido",
+    "Tu": "habrías requerido",
+    "El": "habría requerido",
+    "Nosotros": "habríamos requerido",
+    "Vosotros": "habríais requerido",
+    "Ellos": "habrían requerido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "requiera",
+    "Tu": "requieras",
+    "El": "requiera",
+    "Nosotros": "requiramos",
+    "Vosotros": "requiráis",
+    "Ellos": "requieran"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "requiere",
+    "El": "requiera",
+    "Nosotros": "requiramos",
+    "Vosotros": "requerid",
+    "Ellos": "requieran"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no requieras",
+    "El": "no requiera",
+    "Nosotros": "no requiramos",
+    "Vosotros": "no requiráis",
+    "Ellos": "no requieran"
+  },
+  "ending": "ir"
+}

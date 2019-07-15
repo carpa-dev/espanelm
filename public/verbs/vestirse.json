@@ -1,0 +1,113 @@
+{
+  "verb": "vestirse",
+  "englishInfinitive": "to get dressed",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me visto",
+    "Tu": "te vistes",
+    "El": "se viste",
+    "Nosotros": "nos vestimos",
+    "Vosotros": "os vestís",
+    "Ellos": "se visten"
+  },
+  "IndicativePreterite": {
+    "Yo": "me vestí",
+    "Tu": "te vestiste",
+    "El": "se vistió",
+    "Nosotros": "nos vestimos",
+    "Vosotros": "os vestisteis",
+    "Ellos": "se vistieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me vestiré",
+    "Tu": "te vestirás",
+    "El": "se vestirá",
+    "Nosotros": "nos vestiremos",
+    "Vosotros": "os vestiréis",
+    "Ellos": "se vestirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me vestiría",
+    "Tu": "te vestirías",
+    "El": "se vestiría",
+    "Nosotros": "nos vestiríamos",
+    "Vosotros": "os vestiríais",
+    "Ellos": "se vestirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me vestía",
+    "Tu": "te vestías",
+    "El": "se vestía",
+    "Nosotros": "nos vestíamos",
+    "Vosotros": "os vestíais",
+    "Ellos": "se vestían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy vistiendo,estoy vistiéndome",
+    "Tu": "te estás vistiendo,estás vistiéndote",
+    "El": "se está vistiendo,está vistiéndose",
+    "Nosotros": "nos estamos vistiendo,estamos vistiéndonos",
+    "Vosotros": "os estáis vistiendo,estáis vistiéndoos",
+    "Ellos": "se están vistiendo,están vistiéndose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he vestido",
+    "Tu": "te has vestido",
+    "El": "se ha vestido",
+    "Nosotros": "nos hemos vestido",
+    "Vosotros": "os habéis vestido",
+    "Ellos": "se han vestido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había vestido",
+    "Tu": "te habías vestido",
+    "El": "se había vestido",
+    "Nosotros": "nos habíamos vestido",
+    "Vosotros": "os habíais vestido",
+    "Ellos": "se habían vestido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré vestido",
+    "Tu": "te habrás vestido",
+    "El": "se habrá vestido",
+    "Nosotros": "nos habremos vestido",
+    "Vosotros": "os habréis vestido",
+    "Ellos": "se habrán vestido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría vestido",
+    "Tu": "te habrías vestido",
+    "El": "se habría vestido",
+    "Nosotros": "nos habríamos vestido",
+    "Vosotros": "os habríais vestido",
+    "Ellos": "se habrían vestido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me vista",
+    "Tu": "te vistas",
+    "El": "se vista",
+    "Nosotros": "nos vistamos",
+    "Vosotros": "os vistáis",
+    "Ellos": "se vistan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "vístete",
+    "El": "vístase",
+    "Nosotros": "vistámonos",
+    "Vosotros": "vestíos",
+    "Ellos": "vístanse"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te vistas",
+    "El": "no se vista",
+    "Nosotros": "no nos vistamos",
+    "Vosotros": "no os vestáis",
+    "Ellos": "no se vistan"
+  },
+  "ending": "ir"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "desagradecer",
+  "englishInfinitive": "to be unthankful for",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "desagradezco",
+    "Tu": "desagradeces",
+    "El": "desagradece",
+    "Nosotros": "desagradecemos",
+    "Vosotros": "desagradecéis",
+    "Ellos": "desagradecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "desagradecí",
+    "Tu": "desagradeciste",
+    "El": "desagradeció",
+    "Nosotros": "desagradecimos",
+    "Vosotros": "desagradecisteis",
+    "Ellos": "desagradecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "desagradeceré",
+    "Tu": "desagradecerás",
+    "El": "desagradecerá",
+    "Nosotros": "desagradeceremos",
+    "Vosotros": "desagradeceréis",
+    "Ellos": "desagradecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "desagradecería",
+    "Tu": "desagradecerías",
+    "El": "desagradecería",
+    "Nosotros": "desagradeceríamos",
+    "Vosotros": "desagradeceríais",
+    "Ellos": "desagradecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "desagradecía",
+    "Tu": "desagradecías",
+    "El": "desagradecía",
+    "Nosotros": "desagradecíamos",
+    "Vosotros": "desagradecíais",
+    "Ellos": "desagradecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy desagradeciendo",
+    "Tu": "estás desagradeciendo",
+    "El": "está desagradeciendo",
+    "Nosotros": "estamos desagradeciendo",
+    "Vosotros": "estáis desagradeciendo",
+    "Ellos": "están desagradeciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he desagradecido",
+    "Tu": "has desagradecido",
+    "El": "ha desagradecido",
+    "Nosotros": "hemos desagradecido",
+    "Vosotros": "habéis desagradecido",
+    "Ellos": "han desagradecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había desagradecido",
+    "Tu": "habías desagradecido",
+    "El": "había desagradecido",
+    "Nosotros": "habíamos desagradecido",
+    "Vosotros": "habíais desagradecido",
+    "Ellos": "habían desagradecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré desagradecido",
+    "Tu": "habrás desagradecido",
+    "El": "habrá desagradecido",
+    "Nosotros": "habremos desagradecido",
+    "Vosotros": "habréis desagradecido",
+    "Ellos": "habrán desagradecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría desagradecido",
+    "Tu": "habrías desagradecido",
+    "El": "habría desagradecido",
+    "Nosotros": "habríamos desagradecido",
+    "Vosotros": "habríais desagradecido",
+    "Ellos": "habrían desagradecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "desagradezca",
+    "Tu": "desagradezcas",
+    "El": "desagradezca",
+    "Nosotros": "desagradezcamos",
+    "Vosotros": "desagradezcáis",
+    "Ellos": "desagradezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "desagradece",
+    "El": "desagradezca",
+    "Nosotros": "desagradezcamos",
+    "Vosotros": "desagradeced",
+    "Ellos": "desagradezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no desagradezcas",
+    "El": "no desagradezca",
+    "Nosotros": "no desagradezcamos",
+    "Vosotros": "no desagradezcáis",
+    "Ellos": "no desagradezcan"
+  },
+  "ending": "er"
+}

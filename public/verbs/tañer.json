@@ -1,0 +1,113 @@
+{
+  "verb": "tañer",
+  "englishInfinitive": "to play",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "taño",
+    "Tu": "tañes",
+    "El": "tañe",
+    "Nosotros": "tañemos",
+    "Vosotros": "tañéis",
+    "Ellos": "tañen"
+  },
+  "IndicativePreterite": {
+    "Yo": "tañí",
+    "Tu": "tañiste",
+    "El": "tañó",
+    "Nosotros": "tañimos",
+    "Vosotros": "tañisteis",
+    "Ellos": "tañeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "tañeré",
+    "Tu": "tañerás",
+    "El": "tañerá",
+    "Nosotros": "tañeremos",
+    "Vosotros": "tañeréis",
+    "Ellos": "tañerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "tañería",
+    "Tu": "tañerías",
+    "El": "tañería",
+    "Nosotros": "tañeríamos",
+    "Vosotros": "tañeríais",
+    "Ellos": "tañerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "tañía",
+    "Tu": "tañías",
+    "El": "tañía",
+    "Nosotros": "tañíamos",
+    "Vosotros": "tañíais",
+    "Ellos": "tañían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy tañendo",
+    "Tu": "estás tañendo",
+    "El": "está tañendo",
+    "Nosotros": "estamos tañendo",
+    "Vosotros": "estáis tañendo",
+    "Ellos": "están tañendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he tañido",
+    "Tu": "has tañido",
+    "El": "ha tañido",
+    "Nosotros": "hemos tañido",
+    "Vosotros": "habéis tañido",
+    "Ellos": "han tañido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había tañido",
+    "Tu": "habías tañido",
+    "El": "había tañido",
+    "Nosotros": "habíamos tañido",
+    "Vosotros": "habíais tañido",
+    "Ellos": "habían tañido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré tañido",
+    "Tu": "habrás tañido",
+    "El": "habrá tañido",
+    "Nosotros": "habremos tañido",
+    "Vosotros": "habréis tañido",
+    "Ellos": "habrán tañido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría tañido",
+    "Tu": "habrías tañido",
+    "El": "habría tañido",
+    "Nosotros": "habríamos tañido",
+    "Vosotros": "habríais tañido",
+    "Ellos": "habrían tañido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "taña",
+    "Tu": "tañas",
+    "El": "taña",
+    "Nosotros": "tañamos",
+    "Vosotros": "tañáis",
+    "Ellos": "tañan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "tañe",
+    "El": "taña",
+    "Nosotros": "tañamos",
+    "Vosotros": "tañed",
+    "Ellos": "tañan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no tañas",
+    "El": "no taña",
+    "Nosotros": "no tañamos",
+    "Vosotros": "no tañáis",
+    "Ellos": "no tañan"
+  },
+  "ending": "er"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "suponer",
+  "englishInfinitive": "to suppose",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "supongo",
+    "Tu": "supones",
+    "El": "supone",
+    "Nosotros": "suponemos",
+    "Vosotros": "suponéis",
+    "Ellos": "suponen"
+  },
+  "IndicativePreterite": {
+    "Yo": "supuse",
+    "Tu": "supusiste",
+    "El": "supuso",
+    "Nosotros": "supusimos",
+    "Vosotros": "supusisteis",
+    "Ellos": "supusieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "supondré",
+    "Tu": "supondrás",
+    "El": "supondrá",
+    "Nosotros": "supondremos",
+    "Vosotros": "supondréis",
+    "Ellos": "supondrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "supondría",
+    "Tu": "supondrías",
+    "El": "supondría",
+    "Nosotros": "supondríamos",
+    "Vosotros": "supondríais",
+    "Ellos": "supondrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "suponía",
+    "Tu": "suponías",
+    "El": "suponía",
+    "Nosotros": "suponíamos",
+    "Vosotros": "suponíais",
+    "Ellos": "suponían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy suponiendo",
+    "Tu": "estás suponiendo",
+    "El": "está suponiendo",
+    "Nosotros": "estamos suponiendo",
+    "Vosotros": "estáis suponiendo",
+    "Ellos": "están suponiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he supuesto",
+    "Tu": "has supuesto",
+    "El": "ha supuesto",
+    "Nosotros": "hemos supuesto",
+    "Vosotros": "habéis supuesto",
+    "Ellos": "han supuesto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había supuesto",
+    "Tu": "habías supuesto",
+    "El": "había supuesto",
+    "Nosotros": "habíamos supuesto",
+    "Vosotros": "habíais supuesto",
+    "Ellos": "habían supuesto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré supuesto",
+    "Tu": "habrás supuesto",
+    "El": "habrá supuesto",
+    "Nosotros": "habremos supuesto",
+    "Vosotros": "habréis supuesto",
+    "Ellos": "habrán supuesto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría supuesto",
+    "Tu": "habrías supuesto",
+    "El": "habría supuesto",
+    "Nosotros": "habríamos supuesto",
+    "Vosotros": "habríais supuesto",
+    "Ellos": "habrían supuesto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "suponga",
+    "Tu": "supongas",
+    "El": "suponga",
+    "Nosotros": "supongamos",
+    "Vosotros": "supongáis",
+    "Ellos": "supongan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "supón",
+    "El": "suponga",
+    "Nosotros": "supongamos",
+    "Vosotros": "suponed",
+    "Ellos": "supongan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no supongas",
+    "El": "no suponga",
+    "Nosotros": "no supongamos",
+    "Vosotros": "no supongáis",
+    "Ellos": "no supongan"
+  },
+  "ending": "er"
+}

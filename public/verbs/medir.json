@@ -1,0 +1,113 @@
+{
+  "verb": "medir",
+  "englishInfinitive": "to measure",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "mido",
+    "Tu": "mides",
+    "El": "mide",
+    "Nosotros": "medimos",
+    "Vosotros": "medís",
+    "Ellos": "miden"
+  },
+  "IndicativePreterite": {
+    "Yo": "medí",
+    "Tu": "mediste",
+    "El": "midió",
+    "Nosotros": "medimos",
+    "Vosotros": "medisteis",
+    "Ellos": "midieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "mediré",
+    "Tu": "medirás",
+    "El": "medirá",
+    "Nosotros": "mediremos",
+    "Vosotros": "mediréis",
+    "Ellos": "medirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "mediría",
+    "Tu": "medirías",
+    "El": "mediría",
+    "Nosotros": "mediríamos",
+    "Vosotros": "mediríais",
+    "Ellos": "medirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "medía",
+    "Tu": "medías",
+    "El": "medía",
+    "Nosotros": "medíamos",
+    "Vosotros": "medíais",
+    "Ellos": "medían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy midiendo",
+    "Tu": "estás midiendo",
+    "El": "está midiendo",
+    "Nosotros": "estamos midiendo",
+    "Vosotros": "estáis midiendo",
+    "Ellos": "están midiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he medido",
+    "Tu": "has medido",
+    "El": "ha medido",
+    "Nosotros": "hemos medido",
+    "Vosotros": "habéis medido",
+    "Ellos": "han medido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había medido",
+    "Tu": "habías medido",
+    "El": "había medido",
+    "Nosotros": "habíamos medido",
+    "Vosotros": "habíais medido",
+    "Ellos": "habían medido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré medido",
+    "Tu": "habrás medido",
+    "El": "habrá medido",
+    "Nosotros": "habremos medido",
+    "Vosotros": "habréis medido",
+    "Ellos": "habrán medido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría medido",
+    "Tu": "habrías medido",
+    "El": "habría medido",
+    "Nosotros": "habríamos medido",
+    "Vosotros": "habríais medido",
+    "Ellos": "habrían medido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "mida",
+    "Tu": "midas",
+    "El": "mida",
+    "Nosotros": "midamos",
+    "Vosotros": "midáis",
+    "Ellos": "midan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "mide",
+    "El": "mida",
+    "Nosotros": "midamos",
+    "Vosotros": "medid",
+    "Ellos": "midan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no midas",
+    "El": "no mida",
+    "Nosotros": "no midamos",
+    "Vosotros": "no midáis",
+    "Ellos": "no midan"
+  },
+  "ending": "ir"
+}

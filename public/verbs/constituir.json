@@ -1,0 +1,113 @@
+{
+  "verb": "constituir",
+  "englishInfinitive": "to constitute",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "constituyo",
+    "Tu": "constituyes",
+    "El": "constituye",
+    "Nosotros": "constituimos",
+    "Vosotros": "constituís",
+    "Ellos": "constituyen"
+  },
+  "IndicativePreterite": {
+    "Yo": "constituí",
+    "Tu": "constituiste",
+    "El": "constituyó",
+    "Nosotros": "constituimos",
+    "Vosotros": "constituisteis",
+    "Ellos": "constituyeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "constituiré",
+    "Tu": "constituirás",
+    "El": "constituirá",
+    "Nosotros": "constituiremos",
+    "Vosotros": "constituiréis",
+    "Ellos": "constituirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "constituiría",
+    "Tu": "constituirías",
+    "El": "constituiría",
+    "Nosotros": "constituiríamos",
+    "Vosotros": "constituiríais",
+    "Ellos": "constituirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "constituía",
+    "Tu": "constituías",
+    "El": "constituía",
+    "Nosotros": "constituíamos",
+    "Vosotros": "constituíais",
+    "Ellos": "constituían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy constituyendo",
+    "Tu": "estás constituyendo",
+    "El": "está constituyendo",
+    "Nosotros": "estamos constituyendo",
+    "Vosotros": "estáis constituyendo",
+    "Ellos": "están constituyendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he constituido",
+    "Tu": "has constituido",
+    "El": "ha constituido",
+    "Nosotros": "hemos constituido",
+    "Vosotros": "habéis constituido",
+    "Ellos": "han constituido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había constituido",
+    "Tu": "habías constituido",
+    "El": "había constituido",
+    "Nosotros": "habíamos constituido",
+    "Vosotros": "habíais constituido",
+    "Ellos": "habían constituido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré constituido",
+    "Tu": "habrás constituido",
+    "El": "habrá constituido",
+    "Nosotros": "habremos constituido",
+    "Vosotros": "habréis constituido",
+    "Ellos": "habrán constituido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría constituido",
+    "Tu": "habrías constituido",
+    "El": "habría constituido",
+    "Nosotros": "habríamos constituido",
+    "Vosotros": "habríais constituido",
+    "Ellos": "habrían constituido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "constituya",
+    "Tu": "constituyas",
+    "El": "constituya",
+    "Nosotros": "constituyamos",
+    "Vosotros": "constituyáis",
+    "Ellos": "constituyan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "constituye",
+    "El": "constituya",
+    "Nosotros": "constituyamos",
+    "Vosotros": "constituid",
+    "Ellos": "constituyan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no constituyas",
+    "El": "no constituya",
+    "Nosotros": "no constituyamos",
+    "Vosotros": "no constituyáis",
+    "Ellos": "no constituyan"
+  },
+  "ending": "ir"
+}

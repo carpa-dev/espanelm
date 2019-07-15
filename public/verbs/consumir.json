@@ -1,0 +1,113 @@
+{
+  "verb": "consumir",
+  "englishInfinitive": "to consume",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "consumo",
+    "Tu": "consumes",
+    "El": "consume",
+    "Nosotros": "consumimos",
+    "Vosotros": "consumís",
+    "Ellos": "consumen"
+  },
+  "IndicativePreterite": {
+    "Yo": "consumí",
+    "Tu": "consumiste",
+    "El": "consumió",
+    "Nosotros": "consumimos",
+    "Vosotros": "consumisteis",
+    "Ellos": "consumieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "consumiré",
+    "Tu": "consumirás",
+    "El": "consumirá",
+    "Nosotros": "consumiremos",
+    "Vosotros": "consumiréis",
+    "Ellos": "consumirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "consumiría",
+    "Tu": "consumirías",
+    "El": "consumiría",
+    "Nosotros": "consumiríamos",
+    "Vosotros": "consumiríais",
+    "Ellos": "consumirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "consumía",
+    "Tu": "consumías",
+    "El": "consumía",
+    "Nosotros": "consumíamos",
+    "Vosotros": "consumíais",
+    "Ellos": "consumían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy consumiendo",
+    "Tu": "estás consumiendo",
+    "El": "está consumiendo",
+    "Nosotros": "estamos consumiendo",
+    "Vosotros": "estáis consumiendo",
+    "Ellos": "están consumiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he consumido",
+    "Tu": "has consumido",
+    "El": "ha consumido",
+    "Nosotros": "hemos consumido",
+    "Vosotros": "habéis consumido",
+    "Ellos": "han consumido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había consumido",
+    "Tu": "habías consumido",
+    "El": "había consumido",
+    "Nosotros": "habíamos consumido",
+    "Vosotros": "habíais consumido",
+    "Ellos": "habían consumido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré consumido",
+    "Tu": "habrás consumido",
+    "El": "habrá consumido",
+    "Nosotros": "habremos consumido",
+    "Vosotros": "habréis consumido",
+    "Ellos": "habrán consumido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría consumido",
+    "Tu": "habrías consumido",
+    "El": "habría consumido",
+    "Nosotros": "habríamos consumido",
+    "Vosotros": "habríais consumido",
+    "Ellos": "habrían consumido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "consuma",
+    "Tu": "consumas",
+    "El": "consuma",
+    "Nosotros": "consumamos",
+    "Vosotros": "consumáis",
+    "Ellos": "consuman"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "consume",
+    "El": "consuma",
+    "Nosotros": "consumamos",
+    "Vosotros": "consumid",
+    "Ellos": "consuman"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no consumas",
+    "El": "no consuma",
+    "Nosotros": "no consumamos",
+    "Vosotros": "no consumáis",
+    "Ellos": "no consuman"
+  },
+  "ending": "ir"
+}

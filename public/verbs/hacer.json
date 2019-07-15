@@ -1,0 +1,113 @@
+{
+  "verb": "hacer",
+  "englishInfinitive": "to do",
+  "irregular": true,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "hago",
+    "Tu": "haces",
+    "El": "hace",
+    "Nosotros": "hacemos",
+    "Vosotros": "hacéis",
+    "Ellos": "hacen"
+  },
+  "IndicativePreterite": {
+    "Yo": "hice",
+    "Tu": "hiciste",
+    "El": "hizo",
+    "Nosotros": "hicimos",
+    "Vosotros": "hicisteis",
+    "Ellos": "hicieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "haré",
+    "Tu": "harás",
+    "El": "hará",
+    "Nosotros": "haremos",
+    "Vosotros": "haréis",
+    "Ellos": "harán"
+  },
+  "ConditionalPresent": {
+    "Yo": "haría",
+    "Tu": "harías",
+    "El": "haría",
+    "Nosotros": "haríamos",
+    "Vosotros": "haríais",
+    "Ellos": "harían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "hacía",
+    "Tu": "hacías",
+    "El": "hacía",
+    "Nosotros": "hacíamos",
+    "Vosotros": "hacíais",
+    "Ellos": "hacían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy haciendo",
+    "Tu": "estás haciendo",
+    "El": "está haciendo",
+    "Nosotros": "estamos haciendo",
+    "Vosotros": "estáis haciendo",
+    "Ellos": "están haciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he hecho",
+    "Tu": "has hecho",
+    "El": "ha hecho",
+    "Nosotros": "hemos hecho",
+    "Vosotros": "habéis hecho",
+    "Ellos": "han hecho"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había hecho",
+    "Tu": "habías hecho",
+    "El": "había hecho",
+    "Nosotros": "habíamos hecho",
+    "Vosotros": "habíais hecho",
+    "Ellos": "habían hecho"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré hecho",
+    "Tu": "habrás hecho",
+    "El": "habrá hecho",
+    "Nosotros": "habremos hecho",
+    "Vosotros": "habréis hecho",
+    "Ellos": "habrán hecho"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría hecho",
+    "Tu": "habrías hecho",
+    "El": "habría hecho",
+    "Nosotros": "habríamos hecho",
+    "Vosotros": "habríais hecho",
+    "Ellos": "habrían hecho"
+  },
+  "SubjunctivePresent": {
+    "Yo": "haga",
+    "Tu": "hagas",
+    "El": "haga",
+    "Nosotros": "hagamos",
+    "Vosotros": "hagáis",
+    "Ellos": "hagan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "haz",
+    "El": "haga",
+    "Nosotros": "hagamos",
+    "Vosotros": "haced",
+    "Ellos": "hagan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no hagas",
+    "El": "no haga",
+    "Nosotros": "no hagamos",
+    "Vosotros": "no hagáis",
+    "Ellos": "no hagan"
+  },
+  "ending": "er"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "evacuar",
+  "englishInfinitive": "to evacuate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "evacuo",
+    "Tu": "evacuas",
+    "El": "evacua",
+    "Nosotros": "evacuamos",
+    "Vosotros": "evacuáis",
+    "Ellos": "evacuan"
+  },
+  "IndicativePreterite": {
+    "Yo": "evacué",
+    "Tu": "evacuaste",
+    "El": "evacuó",
+    "Nosotros": "evacuamos",
+    "Vosotros": "evacuasteis",
+    "Ellos": "evacuaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "evacuaré",
+    "Tu": "evacuarás",
+    "El": "evacuará",
+    "Nosotros": "evacuaremos",
+    "Vosotros": "evacuaréis",
+    "Ellos": "evacuarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "evacuaría",
+    "Tu": "evacuarías",
+    "El": "evacuaría",
+    "Nosotros": "evacuaríamos",
+    "Vosotros": "evacuaríais",
+    "Ellos": "evacuarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "evacuaba",
+    "Tu": "evacuabas",
+    "El": "evacuaba",
+    "Nosotros": "evacuábamos",
+    "Vosotros": "evacuabais",
+    "Ellos": "evacuaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy evacuando",
+    "Tu": "estás evacuando",
+    "El": "está evacuando",
+    "Nosotros": "estamos evacuando",
+    "Vosotros": "estáis evacuando",
+    "Ellos": "están evacuando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he evacuado",
+    "Tu": "has evacuado",
+    "El": "ha evacuado",
+    "Nosotros": "hemos evacuado",
+    "Vosotros": "habéis evacuado",
+    "Ellos": "han evacuado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había evacuado",
+    "Tu": "habías evacuado",
+    "El": "había evacuado",
+    "Nosotros": "habíamos evacuado",
+    "Vosotros": "habíais evacuado",
+    "Ellos": "habían evacuado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré evacuado",
+    "Tu": "habrás evacuado",
+    "El": "habrá evacuado",
+    "Nosotros": "habremos evacuado",
+    "Vosotros": "habréis evacuado",
+    "Ellos": "habrán evacuado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría evacuado",
+    "Tu": "habrías evacuado",
+    "El": "habría evacuado",
+    "Nosotros": "habríamos evacuado",
+    "Vosotros": "habríais evacuado",
+    "Ellos": "habrían evacuado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "evacue",
+    "Tu": "evacues",
+    "El": "evacue",
+    "Nosotros": "evacuemos",
+    "Vosotros": "evacuéis",
+    "Ellos": "evacuen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "evacua",
+    "El": "evacue",
+    "Nosotros": "evacuemos",
+    "Vosotros": "evacuad",
+    "Ellos": "evacuen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no evacues",
+    "El": "no evacue",
+    "Nosotros": "no evacuemos",
+    "Vosotros": "no evacuéis",
+    "Ellos": "no evacuen"
+  },
+  "ending": "ar"
+}

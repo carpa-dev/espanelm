@@ -1,0 +1,113 @@
+{
+  "verb": "sacar",
+  "englishInfinitive": "to take out",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "saco",
+    "Tu": "sacas",
+    "El": "saca",
+    "Nosotros": "sacamos",
+    "Vosotros": "sacáis",
+    "Ellos": "sacan"
+  },
+  "IndicativePreterite": {
+    "Yo": "saqué",
+    "Tu": "sacaste",
+    "El": "sacó",
+    "Nosotros": "sacamos",
+    "Vosotros": "sacasteis",
+    "Ellos": "sacaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "sacaré",
+    "Tu": "sacarás",
+    "El": "sacará",
+    "Nosotros": "sacaremos",
+    "Vosotros": "sacaréis",
+    "Ellos": "sacarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "sacaría",
+    "Tu": "sacarías",
+    "El": "sacaría",
+    "Nosotros": "sacaríamos",
+    "Vosotros": "sacaríais",
+    "Ellos": "sacarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "sacaba",
+    "Tu": "sacabas",
+    "El": "sacaba",
+    "Nosotros": "sacábamos",
+    "Vosotros": "sacabais",
+    "Ellos": "sacaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy sacando",
+    "Tu": "estás sacando",
+    "El": "está sacando",
+    "Nosotros": "estamos sacando",
+    "Vosotros": "estáis sacando",
+    "Ellos": "están sacando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he sacado",
+    "Tu": "has sacado",
+    "El": "ha sacado",
+    "Nosotros": "hemos sacado",
+    "Vosotros": "habéis sacado",
+    "Ellos": "han sacado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había sacado",
+    "Tu": "habías sacado",
+    "El": "había sacado",
+    "Nosotros": "habíamos sacado",
+    "Vosotros": "habíais sacado",
+    "Ellos": "habían sacado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré sacado",
+    "Tu": "habrás sacado",
+    "El": "habrá sacado",
+    "Nosotros": "habremos sacado",
+    "Vosotros": "habréis sacado",
+    "Ellos": "habrán sacado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría sacado",
+    "Tu": "habrías sacado",
+    "El": "habría sacado",
+    "Nosotros": "habríamos sacado",
+    "Vosotros": "habríais sacado",
+    "Ellos": "habrían sacado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "saque",
+    "Tu": "saques",
+    "El": "saque",
+    "Nosotros": "saquemos",
+    "Vosotros": "saquéis",
+    "Ellos": "saquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "saca",
+    "El": "saque",
+    "Nosotros": "saquemos",
+    "Vosotros": "sacad",
+    "Ellos": "saquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no saques",
+    "El": "no saque",
+    "Nosotros": "no saquemos",
+    "Vosotros": "no saquéis",
+    "Ellos": "no saquen"
+  },
+  "ending": "ar"
+}

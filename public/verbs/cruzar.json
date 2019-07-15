@@ -1,0 +1,113 @@
+{
+  "verb": "cruzar",
+  "englishInfinitive": "to cross",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "cruzo",
+    "Tu": "cruzas",
+    "El": "cruza",
+    "Nosotros": "cruzamos",
+    "Vosotros": "cruzáis",
+    "Ellos": "cruzan"
+  },
+  "IndicativePreterite": {
+    "Yo": "crucé",
+    "Tu": "cruzaste",
+    "El": "cruzó",
+    "Nosotros": "cruzamos",
+    "Vosotros": "cruzasteis",
+    "Ellos": "cruzaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cruzaré",
+    "Tu": "cruzarás",
+    "El": "cruzará",
+    "Nosotros": "cruzaremos",
+    "Vosotros": "cruzaréis",
+    "Ellos": "cruzarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cruzaría",
+    "Tu": "cruzarías",
+    "El": "cruzaría",
+    "Nosotros": "cruzaríamos",
+    "Vosotros": "cruzaríais",
+    "Ellos": "cruzarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cruzaba",
+    "Tu": "cruzabas",
+    "El": "cruzaba",
+    "Nosotros": "cruzábamos",
+    "Vosotros": "cruzabais",
+    "Ellos": "cruzaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cruzando",
+    "Tu": "estás cruzando",
+    "El": "está cruzando",
+    "Nosotros": "estamos cruzando",
+    "Vosotros": "estáis cruzando",
+    "Ellos": "están cruzando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cruzado",
+    "Tu": "has cruzado",
+    "El": "ha cruzado",
+    "Nosotros": "hemos cruzado",
+    "Vosotros": "habéis cruzado",
+    "Ellos": "han cruzado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cruzado",
+    "Tu": "habías cruzado",
+    "El": "había cruzado",
+    "Nosotros": "habíamos cruzado",
+    "Vosotros": "habíais cruzado",
+    "Ellos": "habían cruzado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cruzado",
+    "Tu": "habrás cruzado",
+    "El": "habrá cruzado",
+    "Nosotros": "habremos cruzado",
+    "Vosotros": "habréis cruzado",
+    "Ellos": "habrán cruzado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cruzado",
+    "Tu": "habrías cruzado",
+    "El": "habría cruzado",
+    "Nosotros": "habríamos cruzado",
+    "Vosotros": "habríais cruzado",
+    "Ellos": "habrían cruzado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cruce",
+    "Tu": "cruces",
+    "El": "cruce",
+    "Nosotros": "crucemos",
+    "Vosotros": "crucéis",
+    "Ellos": "crucen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cruza",
+    "El": "cruce",
+    "Nosotros": "crucemos",
+    "Vosotros": "cruzad",
+    "Ellos": "crucen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cruces",
+    "El": "no cruce",
+    "Nosotros": "no crucemos",
+    "Vosotros": "no crucéis",
+    "Ellos": "no crucen"
+  },
+  "ending": "ar"
+}

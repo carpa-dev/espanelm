@@ -1,0 +1,113 @@
+{
+  "verb": "despedir",
+  "englishInfinitive": "to say goodbye to",
+  "irregular": true,
+  "type": "e > i",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "despido",
+    "Tu": "despides",
+    "El": "despide",
+    "Nosotros": "despedimos",
+    "Vosotros": "despedís",
+    "Ellos": "despiden"
+  },
+  "IndicativePreterite": {
+    "Yo": "despedí",
+    "Tu": "despediste",
+    "El": "despidió",
+    "Nosotros": "despedimos",
+    "Vosotros": "despedisteis",
+    "Ellos": "despidieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "despediré",
+    "Tu": "despedirás",
+    "El": "despedirá",
+    "Nosotros": "despediremos",
+    "Vosotros": "despediréis",
+    "Ellos": "despedirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "despediría",
+    "Tu": "despedirías",
+    "El": "despediría",
+    "Nosotros": "despediríamos",
+    "Vosotros": "despediríais",
+    "Ellos": "despedirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "despedía",
+    "Tu": "despedías",
+    "El": "despedía",
+    "Nosotros": "despedíamos",
+    "Vosotros": "despedíais",
+    "Ellos": "despedían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy despidiendo",
+    "Tu": "estás despidiendo",
+    "El": "está despidiendo",
+    "Nosotros": "estamos despidiendo",
+    "Vosotros": "estáis despidiendo",
+    "Ellos": "están despidiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he despedido",
+    "Tu": "has despedido",
+    "El": "ha despedido",
+    "Nosotros": "hemos despedido",
+    "Vosotros": "habéis despedido",
+    "Ellos": "han despedido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había despedido",
+    "Tu": "habías despedido",
+    "El": "había despedido",
+    "Nosotros": "habíamos despedido",
+    "Vosotros": "habíais despedido",
+    "Ellos": "habían despedido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré despedido",
+    "Tu": "habrás despedido",
+    "El": "habrá despedido",
+    "Nosotros": "habremos despedido",
+    "Vosotros": "habréis despedido",
+    "Ellos": "habrán despedido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría despedido",
+    "Tu": "habrías despedido",
+    "El": "habría despedido",
+    "Nosotros": "habríamos despedido",
+    "Vosotros": "habríais despedido",
+    "Ellos": "habrían despedido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "despida",
+    "Tu": "despidas",
+    "El": "despida",
+    "Nosotros": "despidamos",
+    "Vosotros": "despidáis",
+    "Ellos": "despidan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "despide",
+    "El": "despida",
+    "Nosotros": "despidamos",
+    "Vosotros": "despedid",
+    "Ellos": "despidan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no despidas",
+    "El": "no despida",
+    "Nosotros": "no despidamos",
+    "Vosotros": "no despidáis",
+    "Ellos": "no despidan"
+  },
+  "ending": "ir"
+}

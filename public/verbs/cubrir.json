@@ -1,0 +1,113 @@
+{
+  "verb": "cubrir",
+  "englishInfinitive": "to cover",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "cubro",
+    "Tu": "cubres",
+    "El": "cubre",
+    "Nosotros": "cubrimos",
+    "Vosotros": "cubrís",
+    "Ellos": "cubren"
+  },
+  "IndicativePreterite": {
+    "Yo": "cubrí",
+    "Tu": "cubriste",
+    "El": "cubrió",
+    "Nosotros": "cubrimos",
+    "Vosotros": "cubristeis",
+    "Ellos": "cubrieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cubriré",
+    "Tu": "cubrirás",
+    "El": "cubrirá",
+    "Nosotros": "cubriremos",
+    "Vosotros": "cubriréis",
+    "Ellos": "cubrirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cubriría",
+    "Tu": "cubrirías",
+    "El": "cubriría",
+    "Nosotros": "cubriríamos",
+    "Vosotros": "cubriríais",
+    "Ellos": "cubrirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cubría",
+    "Tu": "cubrías",
+    "El": "cubría",
+    "Nosotros": "cubríamos",
+    "Vosotros": "cubríais",
+    "Ellos": "cubrían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cubriendo",
+    "Tu": "estás cubriendo",
+    "El": "está cubriendo",
+    "Nosotros": "estamos cubriendo",
+    "Vosotros": "estáis cubriendo",
+    "Ellos": "están cubriendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cubierto",
+    "Tu": "has cubierto",
+    "El": "ha cubierto",
+    "Nosotros": "hemos cubierto",
+    "Vosotros": "habéis cubierto",
+    "Ellos": "han cubierto"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cubierto",
+    "Tu": "habías cubierto",
+    "El": "había cubierto",
+    "Nosotros": "habíamos cubierto",
+    "Vosotros": "habíais cubierto",
+    "Ellos": "habían cubierto"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cubierto",
+    "Tu": "habrás cubierto",
+    "El": "habrá cubierto",
+    "Nosotros": "habremos cubierto",
+    "Vosotros": "habréis cubierto",
+    "Ellos": "habrán cubierto"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cubierto",
+    "Tu": "habrías cubierto",
+    "El": "habría cubierto",
+    "Nosotros": "habríamos cubierto",
+    "Vosotros": "habríais cubierto",
+    "Ellos": "habrían cubierto"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cubra",
+    "Tu": "cubras",
+    "El": "cubra",
+    "Nosotros": "cubramos",
+    "Vosotros": "cubráis",
+    "Ellos": "cubran"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cubre",
+    "El": "cubra",
+    "Nosotros": "cubramos",
+    "Vosotros": "cubrid",
+    "Ellos": "cubran"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no cubras",
+    "El": "no cubra",
+    "Nosotros": "no cubramos",
+    "Vosotros": "no cubráis",
+    "Ellos": "no cubran"
+  },
+  "ending": "ir"
+}

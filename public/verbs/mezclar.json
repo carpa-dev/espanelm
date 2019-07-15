@@ -1,0 +1,113 @@
+{
+  "verb": "mezclar",
+  "englishInfinitive": "to mix",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "mezclo",
+    "Tu": "mezclas",
+    "El": "mezcla",
+    "Nosotros": "mezclamos",
+    "Vosotros": "mezcláis",
+    "Ellos": "mezclan"
+  },
+  "IndicativePreterite": {
+    "Yo": "mezclé",
+    "Tu": "mezclaste",
+    "El": "mezcló",
+    "Nosotros": "mezclamos",
+    "Vosotros": "mezclasteis",
+    "Ellos": "mezclaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "mezclaré",
+    "Tu": "mezclarás",
+    "El": "mezclará",
+    "Nosotros": "mezclaremos",
+    "Vosotros": "mezclaréis",
+    "Ellos": "mezclarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "mezclaría",
+    "Tu": "mezclarías",
+    "El": "mezclaría",
+    "Nosotros": "mezclaríamos",
+    "Vosotros": "mezclaríais",
+    "Ellos": "mezclarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "mezclaba",
+    "Tu": "mezclabas",
+    "El": "mezclaba",
+    "Nosotros": "mezclábamos",
+    "Vosotros": "mezclabais",
+    "Ellos": "mezclaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy mezclando",
+    "Tu": "estás mezclando",
+    "El": "está mezclando",
+    "Nosotros": "estamos mezclando",
+    "Vosotros": "estáis mezclando",
+    "Ellos": "están mezclando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he mezclado",
+    "Tu": "has mezclado",
+    "El": "ha mezclado",
+    "Nosotros": "hemos mezclado",
+    "Vosotros": "habéis mezclado",
+    "Ellos": "han mezclado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había mezclado",
+    "Tu": "habías mezclado",
+    "El": "había mezclado",
+    "Nosotros": "habíamos mezclado",
+    "Vosotros": "habíais mezclado",
+    "Ellos": "habían mezclado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré mezclado",
+    "Tu": "habrás mezclado",
+    "El": "habrá mezclado",
+    "Nosotros": "habremos mezclado",
+    "Vosotros": "habréis mezclado",
+    "Ellos": "habrán mezclado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría mezclado",
+    "Tu": "habrías mezclado",
+    "El": "habría mezclado",
+    "Nosotros": "habríamos mezclado",
+    "Vosotros": "habríais mezclado",
+    "Ellos": "habrían mezclado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "mezcle",
+    "Tu": "mezcles",
+    "El": "mezcle",
+    "Nosotros": "mezclemos",
+    "Vosotros": "mezcléis",
+    "Ellos": "mezclen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "mezcla",
+    "El": "mezcle",
+    "Nosotros": "mezclemos",
+    "Vosotros": "mezclad",
+    "Ellos": "mezclen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no mezcles",
+    "El": "no mezcle",
+    "Nosotros": "no mezclemos",
+    "Vosotros": "no mezcléis",
+    "Ellos": "no mezclen"
+  },
+  "ending": "ar"
+}

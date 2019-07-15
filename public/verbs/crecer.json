@@ -1,0 +1,113 @@
+{
+  "verb": "crecer",
+  "englishInfinitive": "to grow [up]",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "crezco",
+    "Tu": "creces",
+    "El": "crece",
+    "Nosotros": "crecemos",
+    "Vosotros": "crecéis",
+    "Ellos": "crecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "crecí",
+    "Tu": "creciste",
+    "El": "creció",
+    "Nosotros": "crecimos",
+    "Vosotros": "crecisteis",
+    "Ellos": "crecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "creceré",
+    "Tu": "crecerás",
+    "El": "crecerá",
+    "Nosotros": "creceremos",
+    "Vosotros": "creceréis",
+    "Ellos": "crecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "crecería",
+    "Tu": "crecerías",
+    "El": "crecería",
+    "Nosotros": "creceríamos",
+    "Vosotros": "creceríais",
+    "Ellos": "crecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "crecía",
+    "Tu": "crecías",
+    "El": "crecía",
+    "Nosotros": "crecíamos",
+    "Vosotros": "crecíais",
+    "Ellos": "crecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy creciendo",
+    "Tu": "estás creciendo",
+    "El": "está creciendo",
+    "Nosotros": "estamos creciendo",
+    "Vosotros": "estáis creciendo",
+    "Ellos": "están creciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he crecido",
+    "Tu": "has crecido",
+    "El": "ha crecido",
+    "Nosotros": "hemos crecido",
+    "Vosotros": "habéis crecido",
+    "Ellos": "han crecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había crecido",
+    "Tu": "habías crecido",
+    "El": "había crecido",
+    "Nosotros": "habíamos crecido",
+    "Vosotros": "habíais crecido",
+    "Ellos": "habían crecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré crecido",
+    "Tu": "habrás crecido",
+    "El": "habrá crecido",
+    "Nosotros": "habremos crecido",
+    "Vosotros": "habréis crecido",
+    "Ellos": "habrán crecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría crecido",
+    "Tu": "habrías crecido",
+    "El": "habría crecido",
+    "Nosotros": "habríamos crecido",
+    "Vosotros": "habríais crecido",
+    "Ellos": "habrían crecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "crezca",
+    "Tu": "crezcas",
+    "El": "crezca",
+    "Nosotros": "crezcamos",
+    "Vosotros": "crezcáis",
+    "Ellos": "crezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "crece",
+    "El": "crezca",
+    "Nosotros": "crezcamos",
+    "Vosotros": "creced",
+    "Ellos": "crezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no crezcas",
+    "El": "no crezca",
+    "Nosotros": "no crezcamos",
+    "Vosotros": "no crezcáis",
+    "Ellos": "no crezcan"
+  },
+  "ending": "er"
+}

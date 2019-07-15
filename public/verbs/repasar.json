@@ -1,0 +1,113 @@
+{
+  "verb": "repasar",
+  "englishInfinitive": "to review",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "repaso",
+    "Tu": "repasas",
+    "El": "repasa",
+    "Nosotros": "repasamos",
+    "Vosotros": "repasáis",
+    "Ellos": "repasan"
+  },
+  "IndicativePreterite": {
+    "Yo": "repasé",
+    "Tu": "repasaste",
+    "El": "repasó",
+    "Nosotros": "repasamos",
+    "Vosotros": "repasasteis",
+    "Ellos": "repasaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "repasaré",
+    "Tu": "repasarás",
+    "El": "repasará",
+    "Nosotros": "repasaremos",
+    "Vosotros": "repasaréis",
+    "Ellos": "repasarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "repasaría",
+    "Tu": "repasarías",
+    "El": "repasaría",
+    "Nosotros": "repasaríamos",
+    "Vosotros": "repasaríais",
+    "Ellos": "repasarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "repasaba",
+    "Tu": "repasabas",
+    "El": "repasaba",
+    "Nosotros": "repasábamos",
+    "Vosotros": "repasabais",
+    "Ellos": "repasaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy repasando",
+    "Tu": "estás repasando",
+    "El": "está repasando",
+    "Nosotros": "estamos repasando",
+    "Vosotros": "estáis repasando",
+    "Ellos": "están repasando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he repasado",
+    "Tu": "has repasado",
+    "El": "ha repasado",
+    "Nosotros": "hemos repasado",
+    "Vosotros": "habéis repasado",
+    "Ellos": "han repasado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había repasado",
+    "Tu": "habías repasado",
+    "El": "había repasado",
+    "Nosotros": "habíamos repasado",
+    "Vosotros": "habíais repasado",
+    "Ellos": "habían repasado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré repasado",
+    "Tu": "habrás repasado",
+    "El": "habrá repasado",
+    "Nosotros": "habremos repasado",
+    "Vosotros": "habréis repasado",
+    "Ellos": "habrán repasado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría repasado",
+    "Tu": "habrías repasado",
+    "El": "habría repasado",
+    "Nosotros": "habríamos repasado",
+    "Vosotros": "habríais repasado",
+    "Ellos": "habrían repasado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "repase",
+    "Tu": "repases",
+    "El": "repase",
+    "Nosotros": "repasemos",
+    "Vosotros": "repaséis",
+    "Ellos": "repasen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "repasa",
+    "El": "repase",
+    "Nosotros": "repasemos",
+    "Vosotros": "repasad",
+    "Ellos": "repasen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no repases",
+    "El": "no repase",
+    "Nosotros": "no repasemos",
+    "Vosotros": "no repaséis",
+    "Ellos": "no repasen"
+  },
+  "ending": "ar"
+}

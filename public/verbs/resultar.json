@@ -1,0 +1,113 @@
+{
+  "verb": "resultar",
+  "englishInfinitive": "to turn out (to be)",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "resulto",
+    "Tu": "resultas",
+    "El": "resulta",
+    "Nosotros": "resultamos",
+    "Vosotros": "resultáis",
+    "Ellos": "resultan"
+  },
+  "IndicativePreterite": {
+    "Yo": "resulté",
+    "Tu": "resultaste",
+    "El": "resultó",
+    "Nosotros": "resultamos",
+    "Vosotros": "resultasteis",
+    "Ellos": "resultaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "resultaré",
+    "Tu": "resultarás",
+    "El": "resultará",
+    "Nosotros": "resultaremos",
+    "Vosotros": "resultaréis",
+    "Ellos": "resultarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "resultaría",
+    "Tu": "resultarías",
+    "El": "resultaría",
+    "Nosotros": "resultaríamos",
+    "Vosotros": "resultaríais",
+    "Ellos": "resultarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "resultaba",
+    "Tu": "resultabas",
+    "El": "resultaba",
+    "Nosotros": "resultábamos",
+    "Vosotros": "resultabais",
+    "Ellos": "resultaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy resultando",
+    "Tu": "estás resultando",
+    "El": "está resultando",
+    "Nosotros": "estamos resultando",
+    "Vosotros": "estáis resultando",
+    "Ellos": "están resultando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he resultado",
+    "Tu": "has resultado",
+    "El": "ha resultado",
+    "Nosotros": "hemos resultado",
+    "Vosotros": "habéis resultado",
+    "Ellos": "han resultado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había resultado",
+    "Tu": "habías resultado",
+    "El": "había resultado",
+    "Nosotros": "habíamos resultado",
+    "Vosotros": "habíais resultado",
+    "Ellos": "habían resultado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré resultado",
+    "Tu": "habrás resultado",
+    "El": "habrá resultado",
+    "Nosotros": "habremos resultado",
+    "Vosotros": "habréis resultado",
+    "Ellos": "habrán resultado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría resultado",
+    "Tu": "habrías resultado",
+    "El": "habría resultado",
+    "Nosotros": "habríamos resultado",
+    "Vosotros": "habríais resultado",
+    "Ellos": "habrían resultado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "resulte",
+    "Tu": "resultes",
+    "El": "resulte",
+    "Nosotros": "resultemos",
+    "Vosotros": "resultéis",
+    "Ellos": "resulten"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "resulta",
+    "El": "resulte",
+    "Nosotros": "resultemos",
+    "Vosotros": "resultad",
+    "Ellos": "resulten"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no resultes",
+    "El": "no resulte",
+    "Nosotros": "no resultemos",
+    "Vosotros": "no resultéis",
+    "Ellos": "no resulten"
+  },
+  "ending": "ar"
+}

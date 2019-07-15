@@ -1,0 +1,113 @@
+{
+  "verb": "emigrar",
+  "englishInfinitive": "to emigrate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "emigro",
+    "Tu": "emigras",
+    "El": "emigra",
+    "Nosotros": "emigramos",
+    "Vosotros": "emigráis",
+    "Ellos": "emigran"
+  },
+  "IndicativePreterite": {
+    "Yo": "emigré",
+    "Tu": "emigraste",
+    "El": "emigró",
+    "Nosotros": "emigramos",
+    "Vosotros": "emigrasteis",
+    "Ellos": "emigraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "emigraré",
+    "Tu": "emigrarás",
+    "El": "emigrará",
+    "Nosotros": "emigraremos",
+    "Vosotros": "emigraréis",
+    "Ellos": "emigrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "emigraría",
+    "Tu": "emigrarías",
+    "El": "emigraría",
+    "Nosotros": "emigraríamos",
+    "Vosotros": "emigraríais",
+    "Ellos": "emigrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "emigraba",
+    "Tu": "emigrabas",
+    "El": "emigraba",
+    "Nosotros": "emigrábamos",
+    "Vosotros": "emigrabais",
+    "Ellos": "emigraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy emigrando",
+    "Tu": "estás emigrando",
+    "El": "está emigrando",
+    "Nosotros": "estamos emigrando",
+    "Vosotros": "estáis emigrando",
+    "Ellos": "están emigrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he emigrado",
+    "Tu": "has emigrado",
+    "El": "ha emigrado",
+    "Nosotros": "hemos emigrado",
+    "Vosotros": "habéis emigrado",
+    "Ellos": "han emigrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había emigrado",
+    "Tu": "habías emigrado",
+    "El": "había emigrado",
+    "Nosotros": "habíamos emigrado",
+    "Vosotros": "habíais emigrado",
+    "Ellos": "habían emigrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré emigrado",
+    "Tu": "habrás emigrado",
+    "El": "habrá emigrado",
+    "Nosotros": "habremos emigrado",
+    "Vosotros": "habréis emigrado",
+    "Ellos": "habrán emigrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría emigrado",
+    "Tu": "habrías emigrado",
+    "El": "habría emigrado",
+    "Nosotros": "habríamos emigrado",
+    "Vosotros": "habríais emigrado",
+    "Ellos": "habrían emigrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "emigre",
+    "Tu": "emigres",
+    "El": "emigre",
+    "Nosotros": "emigremos",
+    "Vosotros": "emigréis",
+    "Ellos": "emigren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "emigra",
+    "El": "emigre",
+    "Nosotros": "emigremos",
+    "Vosotros": "emigrad",
+    "Ellos": "emigren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no emigres",
+    "El": "no emigre",
+    "Nosotros": "no emigremos",
+    "Vosotros": "no emigréis",
+    "Ellos": "no emigren"
+  },
+  "ending": "ar"
+}

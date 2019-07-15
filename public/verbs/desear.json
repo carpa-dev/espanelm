@@ -1,0 +1,113 @@
+{
+  "verb": "desear",
+  "englishInfinitive": "to desire",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "deseo",
+    "Tu": "deseas",
+    "El": "desea",
+    "Nosotros": "deseamos",
+    "Vosotros": "deseáis",
+    "Ellos": "desean"
+  },
+  "IndicativePreterite": {
+    "Yo": "deseé",
+    "Tu": "deseaste",
+    "El": "deseó",
+    "Nosotros": "deseamos",
+    "Vosotros": "deseasteis",
+    "Ellos": "desearon"
+  },
+  "IndicativeFuture": {
+    "Yo": "desearé",
+    "Tu": "desearás",
+    "El": "deseará",
+    "Nosotros": "desearemos",
+    "Vosotros": "desearéis",
+    "Ellos": "desearán"
+  },
+  "ConditionalPresent": {
+    "Yo": "desearía",
+    "Tu": "desearías",
+    "El": "desearía",
+    "Nosotros": "desearíamos",
+    "Vosotros": "desearíais",
+    "Ellos": "desearían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "deseaba",
+    "Tu": "deseabas",
+    "El": "deseaba",
+    "Nosotros": "deseábamos",
+    "Vosotros": "deseabais",
+    "Ellos": "deseaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy deseando",
+    "Tu": "estás deseando",
+    "El": "está deseando",
+    "Nosotros": "estamos deseando",
+    "Vosotros": "estáis deseando",
+    "Ellos": "están deseando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he deseado",
+    "Tu": "has deseado",
+    "El": "ha deseado",
+    "Nosotros": "hemos deseado",
+    "Vosotros": "habéis deseado",
+    "Ellos": "han deseado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había deseado",
+    "Tu": "habías deseado",
+    "El": "había deseado",
+    "Nosotros": "habíamos deseado",
+    "Vosotros": "habíais deseado",
+    "Ellos": "habían deseado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré deseado",
+    "Tu": "habrás deseado",
+    "El": "habrá deseado",
+    "Nosotros": "habremos deseado",
+    "Vosotros": "habréis deseado",
+    "Ellos": "habrán deseado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría deseado",
+    "Tu": "habrías deseado",
+    "El": "habría deseado",
+    "Nosotros": "habríamos deseado",
+    "Vosotros": "habríais deseado",
+    "Ellos": "habrían deseado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "desee",
+    "Tu": "desees",
+    "El": "desee",
+    "Nosotros": "deseemos",
+    "Vosotros": "deseéis",
+    "Ellos": "deseen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "desea",
+    "El": "desee",
+    "Nosotros": "deseemos",
+    "Vosotros": "desead",
+    "Ellos": "deseen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no desees",
+    "El": "no desee",
+    "Nosotros": "no deseemos",
+    "Vosotros": "no deseéis",
+    "Ellos": "no deseen"
+  },
+  "ending": "ar"
+}

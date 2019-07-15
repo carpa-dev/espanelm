@@ -1,0 +1,113 @@
+{
+  "verb": "llorar",
+  "englishInfinitive": "to cry",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "lloro",
+    "Tu": "lloras",
+    "El": "llora",
+    "Nosotros": "lloramos",
+    "Vosotros": "lloráis",
+    "Ellos": "lloran"
+  },
+  "IndicativePreterite": {
+    "Yo": "lloré",
+    "Tu": "lloraste",
+    "El": "lloró",
+    "Nosotros": "lloramos",
+    "Vosotros": "llorasteis",
+    "Ellos": "lloraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "lloraré",
+    "Tu": "llorarás",
+    "El": "llorará",
+    "Nosotros": "lloraremos",
+    "Vosotros": "lloraréis",
+    "Ellos": "llorarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "lloraría",
+    "Tu": "llorarías",
+    "El": "lloraría",
+    "Nosotros": "lloraríamos",
+    "Vosotros": "lloraríais",
+    "Ellos": "llorarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "lloraba",
+    "Tu": "llorabas",
+    "El": "lloraba",
+    "Nosotros": "llorábamos",
+    "Vosotros": "llorabais",
+    "Ellos": "lloraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy llorando",
+    "Tu": "estás llorando",
+    "El": "está llorando",
+    "Nosotros": "estamos llorando",
+    "Vosotros": "estáis llorando",
+    "Ellos": "están llorando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he llorado",
+    "Tu": "has llorado",
+    "El": "ha llorado",
+    "Nosotros": "hemos llorado",
+    "Vosotros": "habéis llorado",
+    "Ellos": "han llorado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había llorado",
+    "Tu": "habías llorado",
+    "El": "había llorado",
+    "Nosotros": "habíamos llorado",
+    "Vosotros": "habíais llorado",
+    "Ellos": "habían llorado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré llorado",
+    "Tu": "habrás llorado",
+    "El": "habrá llorado",
+    "Nosotros": "habremos llorado",
+    "Vosotros": "habréis llorado",
+    "Ellos": "habrán llorado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría llorado",
+    "Tu": "habrías llorado",
+    "El": "habría llorado",
+    "Nosotros": "habríamos llorado",
+    "Vosotros": "habríais llorado",
+    "Ellos": "habrían llorado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "llore",
+    "Tu": "llores",
+    "El": "llore",
+    "Nosotros": "lloremos",
+    "Vosotros": "lloréis",
+    "Ellos": "lloren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "llora",
+    "El": "llore",
+    "Nosotros": "lloremos",
+    "Vosotros": "llorad",
+    "Ellos": "lloren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no llores",
+    "El": "no llore",
+    "Nosotros": "no lloremos",
+    "Vosotros": "no lloréis",
+    "Ellos": "no lloren"
+  },
+  "ending": "ar"
+}

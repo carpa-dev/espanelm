@@ -1,0 +1,113 @@
+{
+  "verb": "recibir",
+  "englishInfinitive": "to receive",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "recibo",
+    "Tu": "recibes",
+    "El": "recibe",
+    "Nosotros": "recibimos",
+    "Vosotros": "recibís",
+    "Ellos": "reciben"
+  },
+  "IndicativePreterite": {
+    "Yo": "recibí",
+    "Tu": "recibiste",
+    "El": "recibió",
+    "Nosotros": "recibimos",
+    "Vosotros": "recibisteis",
+    "Ellos": "recibieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "recibiré",
+    "Tu": "recibirás",
+    "El": "recibirá",
+    "Nosotros": "recibiremos",
+    "Vosotros": "recibiréis",
+    "Ellos": "recibirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "recibiría",
+    "Tu": "recibirías",
+    "El": "recibiría",
+    "Nosotros": "recibiríamos",
+    "Vosotros": "recibiríais",
+    "Ellos": "recibirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "recibía",
+    "Tu": "recibías",
+    "El": "recibía",
+    "Nosotros": "recibíamos",
+    "Vosotros": "recibíais",
+    "Ellos": "recibían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy recibiendo",
+    "Tu": "estás recibiendo",
+    "El": "está recibiendo",
+    "Nosotros": "estamos recibiendo",
+    "Vosotros": "estáis recibiendo",
+    "Ellos": "están recibiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he recibido",
+    "Tu": "has recibido",
+    "El": "ha recibido",
+    "Nosotros": "hemos recibido",
+    "Vosotros": "habéis recibido",
+    "Ellos": "han recibido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había recibido",
+    "Tu": "habías recibido",
+    "El": "había recibido",
+    "Nosotros": "habíamos recibido",
+    "Vosotros": "habíais recibido",
+    "Ellos": "habían recibido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré recibido",
+    "Tu": "habrás recibido",
+    "El": "habrá recibido",
+    "Nosotros": "habremos recibido",
+    "Vosotros": "habréis recibido",
+    "Ellos": "habrán recibido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría recibido",
+    "Tu": "habrías recibido",
+    "El": "habría recibido",
+    "Nosotros": "habríamos recibido",
+    "Vosotros": "habríais recibido",
+    "Ellos": "habrían recibido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "reciba",
+    "Tu": "recibas",
+    "El": "reciba",
+    "Nosotros": "recibamos",
+    "Vosotros": "recibáis",
+    "Ellos": "reciban"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "recibe",
+    "El": "reciba",
+    "Nosotros": "recibamos",
+    "Vosotros": "recibid",
+    "Ellos": "reciban"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no recibas",
+    "El": "no reciba",
+    "Nosotros": "no recibamos",
+    "Vosotros": "no recibáis",
+    "Ellos": "no reciban"
+  },
+  "ending": "ir"
+}

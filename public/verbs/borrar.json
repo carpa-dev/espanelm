@@ -1,0 +1,113 @@
+{
+  "verb": "borrar",
+  "englishInfinitive": "to erase",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "borro",
+    "Tu": "borras",
+    "El": "borra",
+    "Nosotros": "borramos",
+    "Vosotros": "borráis",
+    "Ellos": "borran"
+  },
+  "IndicativePreterite": {
+    "Yo": "borré",
+    "Tu": "borraste",
+    "El": "borró",
+    "Nosotros": "borramos",
+    "Vosotros": "borrasteis",
+    "Ellos": "borraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "borraré",
+    "Tu": "borrarás",
+    "El": "borrará",
+    "Nosotros": "borraremos",
+    "Vosotros": "borraréis",
+    "Ellos": "borrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "borraría",
+    "Tu": "borrarías",
+    "El": "borraría",
+    "Nosotros": "borraríamos",
+    "Vosotros": "borraríais",
+    "Ellos": "borrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "borraba",
+    "Tu": "borrabas",
+    "El": "borraba",
+    "Nosotros": "borrábamos",
+    "Vosotros": "borrabais",
+    "Ellos": "borraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy borrando",
+    "Tu": "estás borrando",
+    "El": "está borrando",
+    "Nosotros": "estamos borrando",
+    "Vosotros": "estáis borrando",
+    "Ellos": "están borrando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he borrado",
+    "Tu": "has borrado",
+    "El": "ha borrado",
+    "Nosotros": "hemos borrado",
+    "Vosotros": "habéis borrado",
+    "Ellos": "han borrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había borrado",
+    "Tu": "habías borrado",
+    "El": "había borrado",
+    "Nosotros": "habíamos borrado",
+    "Vosotros": "habíais borrado",
+    "Ellos": "habían borrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré borrado",
+    "Tu": "habrás borrado",
+    "El": "habrá borrado",
+    "Nosotros": "habremos borrado",
+    "Vosotros": "habréis borrado",
+    "Ellos": "habrán borrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría borrado",
+    "Tu": "habrías borrado",
+    "El": "habría borrado",
+    "Nosotros": "habríamos borrado",
+    "Vosotros": "habríais borrado",
+    "Ellos": "habrían borrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "borre",
+    "Tu": "borres",
+    "El": "borre",
+    "Nosotros": "borremos",
+    "Vosotros": "borréis",
+    "Ellos": "borren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "borra",
+    "El": "borre",
+    "Nosotros": "borremos",
+    "Vosotros": "borrad",
+    "Ellos": "borren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no borres",
+    "El": "no borre",
+    "Nosotros": "no borremos",
+    "Vosotros": "no borréis",
+    "Ellos": "no borren"
+  },
+  "ending": "ar"
+}

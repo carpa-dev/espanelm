@@ -1,0 +1,113 @@
+{
+  "verb": "probar",
+  "englishInfinitive": "to taste",
+  "irregular": true,
+  "type": "o > ue",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "pruebo",
+    "Tu": "pruebas",
+    "El": "prueba",
+    "Nosotros": "probamos",
+    "Vosotros": "probáis",
+    "Ellos": "prueban"
+  },
+  "IndicativePreterite": {
+    "Yo": "probé",
+    "Tu": "probaste",
+    "El": "probó",
+    "Nosotros": "probamos",
+    "Vosotros": "probasteis",
+    "Ellos": "probaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "probaré",
+    "Tu": "probarás",
+    "El": "probará",
+    "Nosotros": "probaremos",
+    "Vosotros": "probaréis",
+    "Ellos": "probarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "probaría",
+    "Tu": "probarías",
+    "El": "probaría",
+    "Nosotros": "probaríamos",
+    "Vosotros": "probaríais",
+    "Ellos": "probarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "probaba",
+    "Tu": "probabas",
+    "El": "probaba",
+    "Nosotros": "probábamos",
+    "Vosotros": "probabais",
+    "Ellos": "probaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy probando",
+    "Tu": "estás probando",
+    "El": "está probando",
+    "Nosotros": "estamos probando",
+    "Vosotros": "estáis probando",
+    "Ellos": "están probando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he probado",
+    "Tu": "has probado",
+    "El": "ha probado",
+    "Nosotros": "hemos probado",
+    "Vosotros": "habéis probado",
+    "Ellos": "han probado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había probado",
+    "Tu": "habías probado",
+    "El": "había probado",
+    "Nosotros": "habíamos probado",
+    "Vosotros": "habíais probado",
+    "Ellos": "habían probado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré probado",
+    "Tu": "habrás probado",
+    "El": "habrá probado",
+    "Nosotros": "habremos probado",
+    "Vosotros": "habréis probado",
+    "Ellos": "habrán probado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría probado",
+    "Tu": "habrías probado",
+    "El": "habría probado",
+    "Nosotros": "habríamos probado",
+    "Vosotros": "habríais probado",
+    "Ellos": "habrían probado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "pruebe",
+    "Tu": "pruebes",
+    "El": "pruebe",
+    "Nosotros": "probemos",
+    "Vosotros": "probéis",
+    "Ellos": "prueben"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "prueba",
+    "El": "pruebe",
+    "Nosotros": "probemos",
+    "Vosotros": "probad",
+    "Ellos": "prueben"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no pruebes",
+    "El": "no pruebe",
+    "Nosotros": "no probemos",
+    "Vosotros": "no probéis",
+    "Ellos": "no prueben"
+  },
+  "ending": "ar"
+}

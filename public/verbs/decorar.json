@@ -1,0 +1,113 @@
+{
+  "verb": "decorar",
+  "englishInfinitive": "to decorate",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "decoro",
+    "Tu": "decoras",
+    "El": "decora",
+    "Nosotros": "decoramos",
+    "Vosotros": "decoráis",
+    "Ellos": "decoran"
+  },
+  "IndicativePreterite": {
+    "Yo": "decoré",
+    "Tu": "decoraste",
+    "El": "decoró",
+    "Nosotros": "decoramos",
+    "Vosotros": "decorasteis",
+    "Ellos": "decoraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "decoraré",
+    "Tu": "decorarás",
+    "El": "decorará",
+    "Nosotros": "decoraremos",
+    "Vosotros": "decoraréis",
+    "Ellos": "decorarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "decoraría",
+    "Tu": "decorarías",
+    "El": "decoraría",
+    "Nosotros": "decoraríamos",
+    "Vosotros": "decoraríais",
+    "Ellos": "decorarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "decoraba",
+    "Tu": "decorabas",
+    "El": "decoraba",
+    "Nosotros": "decorábamos",
+    "Vosotros": "decorabais",
+    "Ellos": "decoraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy decorando",
+    "Tu": "estás decorando",
+    "El": "está decorando",
+    "Nosotros": "estamos decorando",
+    "Vosotros": "estáis decorando",
+    "Ellos": "están decorando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he decorado",
+    "Tu": "has decorado",
+    "El": "ha decorado",
+    "Nosotros": "hemos decorado",
+    "Vosotros": "habéis decorado",
+    "Ellos": "han decorado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había decorado",
+    "Tu": "habías decorado",
+    "El": "había decorado",
+    "Nosotros": "habíamos decorado",
+    "Vosotros": "habíais decorado",
+    "Ellos": "habían decorado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré decorado",
+    "Tu": "habrás decorado",
+    "El": "habrá decorado",
+    "Nosotros": "habremos decorado",
+    "Vosotros": "habréis decorado",
+    "Ellos": "habrán decorado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría decorado",
+    "Tu": "habrías decorado",
+    "El": "habría decorado",
+    "Nosotros": "habríamos decorado",
+    "Vosotros": "habríais decorado",
+    "Ellos": "habrían decorado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "decore",
+    "Tu": "decores",
+    "El": "decore",
+    "Nosotros": "decoremos",
+    "Vosotros": "decoréis",
+    "Ellos": "decoren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "decora",
+    "El": "decore",
+    "Nosotros": "decoremos",
+    "Vosotros": "decorad",
+    "Ellos": "decoren"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no decores",
+    "El": "no decore",
+    "Nosotros": "no decoremos",
+    "Vosotros": "no decoréis",
+    "Ellos": "no decoren"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "afirmar",
+  "englishInfinitive": "to make firm",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "afirmo",
+    "Tu": "afirmas",
+    "El": "afirma",
+    "Nosotros": "afirmamos",
+    "Vosotros": "afirmáis",
+    "Ellos": "afirman"
+  },
+  "IndicativePreterite": {
+    "Yo": "afirmé",
+    "Tu": "afirmaste",
+    "El": "afirmó",
+    "Nosotros": "afirmamos",
+    "Vosotros": "afirmasteis",
+    "Ellos": "afirmaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "afirmaré",
+    "Tu": "afirmarás",
+    "El": "afirmará",
+    "Nosotros": "afirmaremos",
+    "Vosotros": "afirmaréis",
+    "Ellos": "afirmarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "afirmaría",
+    "Tu": "afirmarías",
+    "El": "afirmaría",
+    "Nosotros": "afirmaríamos",
+    "Vosotros": "afirmaríais",
+    "Ellos": "afirmarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "afirmaba",
+    "Tu": "afirmabas",
+    "El": "afirmaba",
+    "Nosotros": "afirmábamos",
+    "Vosotros": "afirmabais",
+    "Ellos": "afirmaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy afirmando",
+    "Tu": "estás afirmando",
+    "El": "está afirmando",
+    "Nosotros": "estamos afirmando",
+    "Vosotros": "estáis afirmando",
+    "Ellos": "están afirmando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he afirmado",
+    "Tu": "has afirmado",
+    "El": "ha afirmado",
+    "Nosotros": "hemos afirmado",
+    "Vosotros": "habéis afirmado",
+    "Ellos": "han afirmado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había afirmado",
+    "Tu": "habías afirmado",
+    "El": "había afirmado",
+    "Nosotros": "habíamos afirmado",
+    "Vosotros": "habíais afirmado",
+    "Ellos": "habían afirmado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré afirmado",
+    "Tu": "habrás afirmado",
+    "El": "habrá afirmado",
+    "Nosotros": "habremos afirmado",
+    "Vosotros": "habréis afirmado",
+    "Ellos": "habrán afirmado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría afirmado",
+    "Tu": "habrías afirmado",
+    "El": "habría afirmado",
+    "Nosotros": "habríamos afirmado",
+    "Vosotros": "habríais afirmado",
+    "Ellos": "habrían afirmado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "afirme",
+    "Tu": "afirmes",
+    "El": "afirme",
+    "Nosotros": "afirmemos",
+    "Vosotros": "afirméis",
+    "Ellos": "afirmen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "afirma",
+    "El": "afirme",
+    "Nosotros": "afirmemos",
+    "Vosotros": "afirmad",
+    "Ellos": "afirmen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no afirmes",
+    "El": "no afirme",
+    "Nosotros": "no afirmemos",
+    "Vosotros": "no afirméis",
+    "Ellos": "no afirmen"
+  },
+  "ending": "ar"
+}

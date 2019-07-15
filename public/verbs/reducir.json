@@ -1,0 +1,113 @@
+{
+  "verb": "reducir",
+  "englishInfinitive": "to reduce",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "reduzco",
+    "Tu": "reduces",
+    "El": "reduce",
+    "Nosotros": "reducimos",
+    "Vosotros": "reducís",
+    "Ellos": "reducen"
+  },
+  "IndicativePreterite": {
+    "Yo": "reduje",
+    "Tu": "redujiste",
+    "El": "redujo",
+    "Nosotros": "redujimos",
+    "Vosotros": "redujisteis",
+    "Ellos": "redujeron"
+  },
+  "IndicativeFuture": {
+    "Yo": "reduciré",
+    "Tu": "reducirás",
+    "El": "reducirá",
+    "Nosotros": "reduciremos",
+    "Vosotros": "reduciréis",
+    "Ellos": "reducirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "reduciría",
+    "Tu": "reducirías",
+    "El": "reduciría",
+    "Nosotros": "reduciríamos",
+    "Vosotros": "reduciríais",
+    "Ellos": "reducirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "reducía",
+    "Tu": "reducías",
+    "El": "reducía",
+    "Nosotros": "reducíamos",
+    "Vosotros": "reducíais",
+    "Ellos": "reducían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy reduciendo",
+    "Tu": "estás reduciendo",
+    "El": "está reduciendo",
+    "Nosotros": "estamos reduciendo",
+    "Vosotros": "estáis reduciendo",
+    "Ellos": "están reduciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he reducido",
+    "Tu": "has reducido",
+    "El": "ha reducido",
+    "Nosotros": "hemos reducido",
+    "Vosotros": "habéis reducido",
+    "Ellos": "han reducido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había reducido",
+    "Tu": "habías reducido",
+    "El": "había reducido",
+    "Nosotros": "habíamos reducido",
+    "Vosotros": "habíais reducido",
+    "Ellos": "habían reducido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré reducido",
+    "Tu": "habrás reducido",
+    "El": "habrá reducido",
+    "Nosotros": "habremos reducido",
+    "Vosotros": "habréis reducido",
+    "Ellos": "habrán reducido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría reducido",
+    "Tu": "habrías reducido",
+    "El": "habría reducido",
+    "Nosotros": "habríamos reducido",
+    "Vosotros": "habríais reducido",
+    "Ellos": "habrían reducido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "reduzca",
+    "Tu": "reduzcas",
+    "El": "reduzca",
+    "Nosotros": "reduzcamos",
+    "Vosotros": "reduzcáis",
+    "Ellos": "reduzcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "reduce",
+    "El": "reduzca",
+    "Nosotros": "reduzcamos",
+    "Vosotros": "reducid",
+    "Ellos": "reduzcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no reduzcas",
+    "El": "no reduzca",
+    "Nosotros": "no reduzcamos",
+    "Vosotros": "no reduzcáis",
+    "Ellos": "no reduzcan"
+  },
+  "ending": "ir"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "prohibir",
+  "englishInfinitive": "to prohibit",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "prohíbo",
+    "Tu": "prohíbes",
+    "El": "prohíbe",
+    "Nosotros": "prohibimos",
+    "Vosotros": "prohibís",
+    "Ellos": "prohíben"
+  },
+  "IndicativePreterite": {
+    "Yo": "prohibí",
+    "Tu": "prohibiste",
+    "El": "prohibió",
+    "Nosotros": "prohibimos",
+    "Vosotros": "prohibisteis",
+    "Ellos": "prohibieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "prohibiré",
+    "Tu": "prohibirás",
+    "El": "prohibirá",
+    "Nosotros": "prohibiremos",
+    "Vosotros": "prohibiréis",
+    "Ellos": "prohibirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "prohibiría",
+    "Tu": "prohibirías",
+    "El": "prohibiría",
+    "Nosotros": "prohibiríamos",
+    "Vosotros": "prohibiríais",
+    "Ellos": "prohibirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "prohibía",
+    "Tu": "prohibías",
+    "El": "prohibía",
+    "Nosotros": "prohibíamos",
+    "Vosotros": "prohibíais",
+    "Ellos": "prohibían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy prohibiendo",
+    "Tu": "estás prohibiendo",
+    "El": "está prohibiendo",
+    "Nosotros": "estamos prohibiendo",
+    "Vosotros": "estáis prohibiendo",
+    "Ellos": "están prohibiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he prohibido",
+    "Tu": "has prohibido",
+    "El": "ha prohibido",
+    "Nosotros": "hemos prohibido",
+    "Vosotros": "habéis prohibido",
+    "Ellos": "han prohibido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había prohibido",
+    "Tu": "habías prohibido",
+    "El": "había prohibido",
+    "Nosotros": "habíamos prohibido",
+    "Vosotros": "habíais prohibido",
+    "Ellos": "habían prohibido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré prohibido",
+    "Tu": "habrás prohibido",
+    "El": "habrá prohibido",
+    "Nosotros": "habremos prohibido",
+    "Vosotros": "habréis prohibido",
+    "Ellos": "habrán prohibido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría prohibido",
+    "Tu": "habrías prohibido",
+    "El": "habría prohibido",
+    "Nosotros": "habríamos prohibido",
+    "Vosotros": "habríais prohibido",
+    "Ellos": "habrían prohibido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "prohíba",
+    "Tu": "prohíbas",
+    "El": "prohíba",
+    "Nosotros": "prohibamos",
+    "Vosotros": "prohibáis",
+    "Ellos": "prohíban"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "prohíbe",
+    "El": "prohíba",
+    "Nosotros": "prohibamos",
+    "Vosotros": "prohibid",
+    "Ellos": "prohíban"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no prohíbas",
+    "El": "no prohíba",
+    "Nosotros": "no prohibamos",
+    "Vosotros": "no prohibáis",
+    "Ellos": "no prohíban"
+  },
+  "ending": "ir"
+}

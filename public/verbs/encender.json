@@ -1,0 +1,113 @@
+{
+  "verb": "encender",
+  "englishInfinitive": "to burn",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "enciendo",
+    "Tu": "enciendes",
+    "El": "enciende",
+    "Nosotros": "encendemos",
+    "Vosotros": "encendéis",
+    "Ellos": "encienden"
+  },
+  "IndicativePreterite": {
+    "Yo": "encendí",
+    "Tu": "encendiste",
+    "El": "encendió",
+    "Nosotros": "encendimos",
+    "Vosotros": "encendisteis",
+    "Ellos": "encendieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "encenderé",
+    "Tu": "encenderás",
+    "El": "encenderá",
+    "Nosotros": "encenderemos",
+    "Vosotros": "encenderéis",
+    "Ellos": "encenderán"
+  },
+  "ConditionalPresent": {
+    "Yo": "encendería",
+    "Tu": "encenderías",
+    "El": "encendería",
+    "Nosotros": "encenderíamos",
+    "Vosotros": "encenderíais",
+    "Ellos": "encenderían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "encendía",
+    "Tu": "encendías",
+    "El": "encendía",
+    "Nosotros": "encendíamos",
+    "Vosotros": "encendíais",
+    "Ellos": "encendían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy encendiendo",
+    "Tu": "estás encendiendo",
+    "El": "está encendiendo",
+    "Nosotros": "estamos encendiendo",
+    "Vosotros": "estáis encendiendo",
+    "Ellos": "están encendiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he encendido",
+    "Tu": "has encendido",
+    "El": "ha encendido",
+    "Nosotros": "hemos encendido",
+    "Vosotros": "habéis encendido",
+    "Ellos": "han encendido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había encendido",
+    "Tu": "habías encendido",
+    "El": "había encendido",
+    "Nosotros": "habíamos encendido",
+    "Vosotros": "habíais encendido",
+    "Ellos": "habían encendido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré encendido",
+    "Tu": "habrás encendido",
+    "El": "habrá encendido",
+    "Nosotros": "habremos encendido",
+    "Vosotros": "habréis encendido",
+    "Ellos": "habrán encendido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría encendido",
+    "Tu": "habrías encendido",
+    "El": "habría encendido",
+    "Nosotros": "habríamos encendido",
+    "Vosotros": "habríais encendido",
+    "Ellos": "habrían encendido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "encienda",
+    "Tu": "enciendas",
+    "El": "encienda",
+    "Nosotros": "encendamos",
+    "Vosotros": "encendáis",
+    "Ellos": "enciendan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "enciende",
+    "El": "encienda",
+    "Nosotros": "encendamos",
+    "Vosotros": "encended",
+    "Ellos": "enciendan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no enciendas",
+    "El": "no encienda",
+    "Nosotros": "no encendamos",
+    "Vosotros": "no encendáis",
+    "Ellos": "no enciendan"
+  },
+  "ending": "er"
+}

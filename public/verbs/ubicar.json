@@ -1,0 +1,113 @@
+{
+  "verb": "ubicar",
+  "englishInfinitive": "to place",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "ubico",
+    "Tu": "ubicas",
+    "El": "ubica",
+    "Nosotros": "ubicamos",
+    "Vosotros": "ubicáis",
+    "Ellos": "ubican"
+  },
+  "IndicativePreterite": {
+    "Yo": "ubiqué",
+    "Tu": "ubicaste",
+    "El": "ubicó",
+    "Nosotros": "ubicamos",
+    "Vosotros": "ubicasteis",
+    "Ellos": "ubicaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "ubicaré",
+    "Tu": "ubicarás",
+    "El": "ubicará",
+    "Nosotros": "ubicaremos",
+    "Vosotros": "ubicaréis",
+    "Ellos": "ubicarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "ubicaría",
+    "Tu": "ubicarías",
+    "El": "ubicaría",
+    "Nosotros": "ubicaríamos",
+    "Vosotros": "ubicaríais",
+    "Ellos": "ubicarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "ubicaba",
+    "Tu": "ubicabas",
+    "El": "ubicaba",
+    "Nosotros": "ubicábamos",
+    "Vosotros": "ubicabais",
+    "Ellos": "ubicaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy ubicando",
+    "Tu": "estás ubicando",
+    "El": "está ubicando",
+    "Nosotros": "estamos ubicando",
+    "Vosotros": "estáis ubicando",
+    "Ellos": "están ubicando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he ubicado",
+    "Tu": "has ubicado",
+    "El": "ha ubicado",
+    "Nosotros": "hemos ubicado",
+    "Vosotros": "habéis ubicado",
+    "Ellos": "han ubicado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había ubicado",
+    "Tu": "habías ubicado",
+    "El": "había ubicado",
+    "Nosotros": "habíamos ubicado",
+    "Vosotros": "habíais ubicado",
+    "Ellos": "habían ubicado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré ubicado",
+    "Tu": "habrás ubicado",
+    "El": "habrá ubicado",
+    "Nosotros": "habremos ubicado",
+    "Vosotros": "habréis ubicado",
+    "Ellos": "habrán ubicado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría ubicado",
+    "Tu": "habrías ubicado",
+    "El": "habría ubicado",
+    "Nosotros": "habríamos ubicado",
+    "Vosotros": "habríais ubicado",
+    "Ellos": "habrían ubicado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ubique",
+    "Tu": "ubiques",
+    "El": "ubique",
+    "Nosotros": "ubiquemos",
+    "Vosotros": "ubiquéis",
+    "Ellos": "ubiquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ubica",
+    "El": "ubique",
+    "Nosotros": "ubiquemos",
+    "Vosotros": "ubicad",
+    "Ellos": "ubiquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ubiques",
+    "El": "no ubique",
+    "Nosotros": "no ubiquemos",
+    "Vosotros": "no ubiquéis",
+    "Ellos": "no ubiquen"
+  },
+  "ending": "ar"
+}

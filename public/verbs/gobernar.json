@@ -1,0 +1,113 @@
+{
+  "verb": "gobernar",
+  "englishInfinitive": "to govern",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "gobierno",
+    "Tu": "gobiernas",
+    "El": "gobierna",
+    "Nosotros": "gobernamos",
+    "Vosotros": "gobernáis",
+    "Ellos": "gobiernan"
+  },
+  "IndicativePreterite": {
+    "Yo": "goberné",
+    "Tu": "gobernaste",
+    "El": "gobernó",
+    "Nosotros": "gobernamos",
+    "Vosotros": "gobernasteis",
+    "Ellos": "gobernaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "gobernaré",
+    "Tu": "gobernarás",
+    "El": "gobernará",
+    "Nosotros": "gobernaremos",
+    "Vosotros": "gobernaréis",
+    "Ellos": "gobernarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "gobernaría",
+    "Tu": "gobernarías",
+    "El": "gobernaría",
+    "Nosotros": "gobernaríamos",
+    "Vosotros": "gobernaríais",
+    "Ellos": "gobernarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "gobernaba",
+    "Tu": "gobernabas",
+    "El": "gobernaba",
+    "Nosotros": "gobernábamos",
+    "Vosotros": "gobernabais",
+    "Ellos": "gobernaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy gobernando",
+    "Tu": "estás gobernando",
+    "El": "está gobernando",
+    "Nosotros": "estamos gobernando",
+    "Vosotros": "estáis gobernando",
+    "Ellos": "están gobernando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he gobernado",
+    "Tu": "has gobernado",
+    "El": "ha gobernado",
+    "Nosotros": "hemos gobernado",
+    "Vosotros": "habéis gobernado",
+    "Ellos": "han gobernado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había gobernado",
+    "Tu": "habías gobernado",
+    "El": "había gobernado",
+    "Nosotros": "habíamos gobernado",
+    "Vosotros": "habíais gobernado",
+    "Ellos": "habían gobernado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré gobernado",
+    "Tu": "habrás gobernado",
+    "El": "habrá gobernado",
+    "Nosotros": "habremos gobernado",
+    "Vosotros": "habréis gobernado",
+    "Ellos": "habrán gobernado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría gobernado",
+    "Tu": "habrías gobernado",
+    "El": "habría gobernado",
+    "Nosotros": "habríamos gobernado",
+    "Vosotros": "habríais gobernado",
+    "Ellos": "habrían gobernado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "gobierne",
+    "Tu": "gobiernes",
+    "El": "gobierne",
+    "Nosotros": "gobernemos",
+    "Vosotros": "gobernéis",
+    "Ellos": "gobiernen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "gobierna",
+    "El": "gobierne",
+    "Nosotros": "gobernemos",
+    "Vosotros": "gobernad",
+    "Ellos": "gobiernen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no gobiernes",
+    "El": "no gobierne",
+    "Nosotros": "no gobernemos",
+    "Vosotros": "no gobernéis",
+    "Ellos": "no gobiernen"
+  },
+  "ending": "ar"
+}

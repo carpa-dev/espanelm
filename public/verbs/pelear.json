@@ -1,0 +1,113 @@
+{
+  "verb": "pelear",
+  "englishInfinitive": "to fight",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "peleo",
+    "Tu": "peleas",
+    "El": "pelea",
+    "Nosotros": "peleamos",
+    "Vosotros": "peleáis",
+    "Ellos": "pelean"
+  },
+  "IndicativePreterite": {
+    "Yo": "peleé",
+    "Tu": "peleaste",
+    "El": "peleó",
+    "Nosotros": "peleamos",
+    "Vosotros": "peleasteis",
+    "Ellos": "pelearon"
+  },
+  "IndicativeFuture": {
+    "Yo": "pelearé",
+    "Tu": "pelearás",
+    "El": "peleará",
+    "Nosotros": "pelearemos",
+    "Vosotros": "pelearéis",
+    "Ellos": "pelearán"
+  },
+  "ConditionalPresent": {
+    "Yo": "pelearía",
+    "Tu": "pelearías",
+    "El": "pelearía",
+    "Nosotros": "pelearíamos",
+    "Vosotros": "pelearíais",
+    "Ellos": "pelearían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "peleaba",
+    "Tu": "peleabas",
+    "El": "peleaba",
+    "Nosotros": "peleábamos",
+    "Vosotros": "peleabais",
+    "Ellos": "peleaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy peleando",
+    "Tu": "estás peleando",
+    "El": "está peleando",
+    "Nosotros": "estamos peleando",
+    "Vosotros": "estáis peleando",
+    "Ellos": "están peleando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he peleado",
+    "Tu": "has peleado",
+    "El": "ha peleado",
+    "Nosotros": "hemos peleado",
+    "Vosotros": "habéis peleado",
+    "Ellos": "han peleado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había peleado",
+    "Tu": "habías peleado",
+    "El": "había peleado",
+    "Nosotros": "habíamos peleado",
+    "Vosotros": "habíais peleado",
+    "Ellos": "habían peleado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré peleado",
+    "Tu": "habrás peleado",
+    "El": "habrá peleado",
+    "Nosotros": "habremos peleado",
+    "Vosotros": "habréis peleado",
+    "Ellos": "habrán peleado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría peleado",
+    "Tu": "habrías peleado",
+    "El": "habría peleado",
+    "Nosotros": "habríamos peleado",
+    "Vosotros": "habríais peleado",
+    "Ellos": "habrían peleado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "pelee",
+    "Tu": "pelees",
+    "El": "pelee",
+    "Nosotros": "peleemos",
+    "Vosotros": "peleéis",
+    "Ellos": "peleen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "pelea",
+    "El": "pelee",
+    "Nosotros": "peleemos",
+    "Vosotros": "pelead",
+    "Ellos": "peleen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no pelees",
+    "El": "no pelee",
+    "Nosotros": "no peleemos",
+    "Vosotros": "no peleéis",
+    "Ellos": "no peleen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "caminar",
+  "englishInfinitive": "to walk",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "camino",
+    "Tu": "caminas",
+    "El": "camina",
+    "Nosotros": "caminamos",
+    "Vosotros": "camináis",
+    "Ellos": "caminan"
+  },
+  "IndicativePreterite": {
+    "Yo": "caminé",
+    "Tu": "caminaste",
+    "El": "caminó",
+    "Nosotros": "caminamos",
+    "Vosotros": "caminasteis",
+    "Ellos": "caminaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "caminaré",
+    "Tu": "caminarás",
+    "El": "caminará",
+    "Nosotros": "caminaremos",
+    "Vosotros": "caminaréis",
+    "Ellos": "caminarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "caminaría",
+    "Tu": "caminarías",
+    "El": "caminaría",
+    "Nosotros": "caminaríamos",
+    "Vosotros": "caminaríais",
+    "Ellos": "caminarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "caminaba",
+    "Tu": "caminabas",
+    "El": "caminaba",
+    "Nosotros": "caminábamos",
+    "Vosotros": "caminabais",
+    "Ellos": "caminaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy caminando",
+    "Tu": "estás caminando",
+    "El": "está caminando",
+    "Nosotros": "estamos caminando",
+    "Vosotros": "estáis caminando",
+    "Ellos": "están caminando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he caminado",
+    "Tu": "has caminado",
+    "El": "ha caminado",
+    "Nosotros": "hemos caminado",
+    "Vosotros": "habéis caminado",
+    "Ellos": "han caminado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había caminado",
+    "Tu": "habías caminado",
+    "El": "había caminado",
+    "Nosotros": "habíamos caminado",
+    "Vosotros": "habíais caminado",
+    "Ellos": "habían caminado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré caminado",
+    "Tu": "habrás caminado",
+    "El": "habrá caminado",
+    "Nosotros": "habremos caminado",
+    "Vosotros": "habréis caminado",
+    "Ellos": "habrán caminado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría caminado",
+    "Tu": "habrías caminado",
+    "El": "habría caminado",
+    "Nosotros": "habríamos caminado",
+    "Vosotros": "habríais caminado",
+    "Ellos": "habrían caminado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "camine",
+    "Tu": "camines",
+    "El": "camine",
+    "Nosotros": "caminemos",
+    "Vosotros": "caminéis",
+    "Ellos": "caminen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "camina",
+    "El": "camine",
+    "Nosotros": "caminemos",
+    "Vosotros": "caminad",
+    "Ellos": "caminen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no camines",
+    "El": "no camine",
+    "Nosotros": "no caminemos",
+    "Vosotros": "no caminéis",
+    "Ellos": "no caminen"
+  },
+  "ending": "ar"
+}

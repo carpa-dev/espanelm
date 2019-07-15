@@ -1,0 +1,113 @@
+{
+  "verb": "bajar",
+  "englishInfinitive": "to lower",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "bajo",
+    "Tu": "bajas",
+    "El": "baja",
+    "Nosotros": "bajamos",
+    "Vosotros": "bajáis",
+    "Ellos": "bajan"
+  },
+  "IndicativePreterite": {
+    "Yo": "bajé",
+    "Tu": "bajaste",
+    "El": "bajó",
+    "Nosotros": "bajamos",
+    "Vosotros": "bajasteis",
+    "Ellos": "bajaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "bajaré",
+    "Tu": "bajarás",
+    "El": "bajará",
+    "Nosotros": "bajaremos",
+    "Vosotros": "bajaréis",
+    "Ellos": "bajarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "bajaría",
+    "Tu": "bajarías",
+    "El": "bajaría",
+    "Nosotros": "bajaríamos",
+    "Vosotros": "bajaríais",
+    "Ellos": "bajarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "bajaba",
+    "Tu": "bajabas",
+    "El": "bajaba",
+    "Nosotros": "bajábamos",
+    "Vosotros": "bajabais",
+    "Ellos": "bajaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy bajando",
+    "Tu": "estás bajando",
+    "El": "está bajando",
+    "Nosotros": "estamos bajando",
+    "Vosotros": "estáis bajando",
+    "Ellos": "están bajando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he bajado",
+    "Tu": "has bajado",
+    "El": "ha bajado",
+    "Nosotros": "hemos bajado",
+    "Vosotros": "habéis bajado",
+    "Ellos": "han bajado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había bajado",
+    "Tu": "habías bajado",
+    "El": "había bajado",
+    "Nosotros": "habíamos bajado",
+    "Vosotros": "habíais bajado",
+    "Ellos": "habían bajado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré bajado",
+    "Tu": "habrás bajado",
+    "El": "habrá bajado",
+    "Nosotros": "habremos bajado",
+    "Vosotros": "habréis bajado",
+    "Ellos": "habrán bajado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría bajado",
+    "Tu": "habrías bajado",
+    "El": "habría bajado",
+    "Nosotros": "habríamos bajado",
+    "Vosotros": "habríais bajado",
+    "Ellos": "habrían bajado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "baje",
+    "Tu": "bajes",
+    "El": "baje",
+    "Nosotros": "bajemos",
+    "Vosotros": "bajéis",
+    "Ellos": "bajen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "baja",
+    "El": "baje",
+    "Nosotros": "bajemos",
+    "Vosotros": "bajad",
+    "Ellos": "bajen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no bajes",
+    "El": "no baje",
+    "Nosotros": "no bajemos",
+    "Vosotros": "no bajéis",
+    "Ellos": "no bajen"
+  },
+  "ending": "ar"
+}

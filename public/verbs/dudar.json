@@ -1,0 +1,113 @@
+{
+  "verb": "dudar",
+  "englishInfinitive": "to doubt",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "dudo",
+    "Tu": "dudas",
+    "El": "duda",
+    "Nosotros": "dudamos",
+    "Vosotros": "dudáis",
+    "Ellos": "dudan"
+  },
+  "IndicativePreterite": {
+    "Yo": "dudé",
+    "Tu": "dudaste",
+    "El": "dudó",
+    "Nosotros": "dudamos",
+    "Vosotros": "dudasteis",
+    "Ellos": "dudaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "dudaré",
+    "Tu": "dudarás",
+    "El": "dudará",
+    "Nosotros": "dudaremos",
+    "Vosotros": "dudaréis",
+    "Ellos": "dudarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "dudaría",
+    "Tu": "dudarías",
+    "El": "dudaría",
+    "Nosotros": "dudaríamos",
+    "Vosotros": "dudaríais",
+    "Ellos": "dudarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "dudaba",
+    "Tu": "dudabas",
+    "El": "dudaba",
+    "Nosotros": "dudábamos",
+    "Vosotros": "dudabais",
+    "Ellos": "dudaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy dudando",
+    "Tu": "estás dudando",
+    "El": "está dudando",
+    "Nosotros": "estamos dudando",
+    "Vosotros": "estáis dudando",
+    "Ellos": "están dudando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he dudado",
+    "Tu": "has dudado",
+    "El": "ha dudado",
+    "Nosotros": "hemos dudado",
+    "Vosotros": "habéis dudado",
+    "Ellos": "han dudado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había dudado",
+    "Tu": "habías dudado",
+    "El": "había dudado",
+    "Nosotros": "habíamos dudado",
+    "Vosotros": "habíais dudado",
+    "Ellos": "habían dudado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré dudado",
+    "Tu": "habrás dudado",
+    "El": "habrá dudado",
+    "Nosotros": "habremos dudado",
+    "Vosotros": "habréis dudado",
+    "Ellos": "habrán dudado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría dudado",
+    "Tu": "habrías dudado",
+    "El": "habría dudado",
+    "Nosotros": "habríamos dudado",
+    "Vosotros": "habríais dudado",
+    "Ellos": "habrían dudado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "dude",
+    "Tu": "dudes",
+    "El": "dude",
+    "Nosotros": "dudemos",
+    "Vosotros": "dudéis",
+    "Ellos": "duden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "duda",
+    "El": "dude",
+    "Nosotros": "dudemos",
+    "Vosotros": "dudad",
+    "Ellos": "duden"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no dudes",
+    "El": "no dude",
+    "Nosotros": "no dudemos",
+    "Vosotros": "no dudéis",
+    "Ellos": "no duden"
+  },
+  "ending": "ar"
+}

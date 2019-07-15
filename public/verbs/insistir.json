@@ -1,0 +1,113 @@
+{
+  "verb": "insistir",
+  "englishInfinitive": "to insist",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "insisto",
+    "Tu": "insistes",
+    "El": "insiste",
+    "Nosotros": "insistimos",
+    "Vosotros": "insistís",
+    "Ellos": "insisten"
+  },
+  "IndicativePreterite": {
+    "Yo": "insistí",
+    "Tu": "insististe",
+    "El": "insistió",
+    "Nosotros": "insistimos",
+    "Vosotros": "insististeis",
+    "Ellos": "insistieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "insistiré",
+    "Tu": "insistirás",
+    "El": "insistirá",
+    "Nosotros": "insistiremos",
+    "Vosotros": "insistiréis",
+    "Ellos": "insistirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "insistiría",
+    "Tu": "insistirías",
+    "El": "insistiría",
+    "Nosotros": "insistiríamos",
+    "Vosotros": "insistiríais",
+    "Ellos": "insistirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "insistía",
+    "Tu": "insistías",
+    "El": "insistía",
+    "Nosotros": "insistíamos",
+    "Vosotros": "insistíais",
+    "Ellos": "insistían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy insistiendo",
+    "Tu": "estás insistiendo",
+    "El": "está insistiendo",
+    "Nosotros": "estamos insistiendo",
+    "Vosotros": "estáis insistiendo",
+    "Ellos": "están insistiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he insistido",
+    "Tu": "has insistido",
+    "El": "ha insistido",
+    "Nosotros": "hemos insistido",
+    "Vosotros": "habéis insistido",
+    "Ellos": "han insistido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había insistido",
+    "Tu": "habías insistido",
+    "El": "había insistido",
+    "Nosotros": "habíamos insistido",
+    "Vosotros": "habíais insistido",
+    "Ellos": "habían insistido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré insistido",
+    "Tu": "habrás insistido",
+    "El": "habrá insistido",
+    "Nosotros": "habremos insistido",
+    "Vosotros": "habréis insistido",
+    "Ellos": "habrán insistido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría insistido",
+    "Tu": "habrías insistido",
+    "El": "habría insistido",
+    "Nosotros": "habríamos insistido",
+    "Vosotros": "habríais insistido",
+    "Ellos": "habrían insistido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "insista",
+    "Tu": "insistas",
+    "El": "insista",
+    "Nosotros": "insistamos",
+    "Vosotros": "insistáis",
+    "Ellos": "insistan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "insiste",
+    "El": "insista",
+    "Nosotros": "insistamos",
+    "Vosotros": "insistid",
+    "Ellos": "insistan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no insistas",
+    "El": "no insista",
+    "Nosotros": "no insistamos",
+    "Vosotros": "no insistáis",
+    "Ellos": "no insistan"
+  },
+  "ending": "ir"
+}

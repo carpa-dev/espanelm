@@ -1,0 +1,113 @@
+{
+  "verb": "lanzar",
+  "englishInfinitive": "to throw",
+  "irregular": true,
+  "type": "ze > ce (-zar)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "lanzo",
+    "Tu": "lanzas",
+    "El": "lanza",
+    "Nosotros": "lanzamos",
+    "Vosotros": "lanzáis",
+    "Ellos": "lanzan"
+  },
+  "IndicativePreterite": {
+    "Yo": "lancé",
+    "Tu": "lanzaste",
+    "El": "lanzó",
+    "Nosotros": "lanzamos",
+    "Vosotros": "lanzasteis",
+    "Ellos": "lanzaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "lanzaré",
+    "Tu": "lanzarás",
+    "El": "lanzará",
+    "Nosotros": "lanzaremos",
+    "Vosotros": "lanzaréis",
+    "Ellos": "lanzarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "lanzaría",
+    "Tu": "lanzarías",
+    "El": "lanzaría",
+    "Nosotros": "lanzaríamos",
+    "Vosotros": "lanzaríais",
+    "Ellos": "lanzarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "lanzaba",
+    "Tu": "lanzabas",
+    "El": "lanzaba",
+    "Nosotros": "lanzábamos",
+    "Vosotros": "lanzabais",
+    "Ellos": "lanzaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy lanzando",
+    "Tu": "estás lanzando",
+    "El": "está lanzando",
+    "Nosotros": "estamos lanzando",
+    "Vosotros": "estáis lanzando",
+    "Ellos": "están lanzando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he lanzado",
+    "Tu": "has lanzado",
+    "El": "ha lanzado",
+    "Nosotros": "hemos lanzado",
+    "Vosotros": "habéis lanzado",
+    "Ellos": "han lanzado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había lanzado",
+    "Tu": "habías lanzado",
+    "El": "había lanzado",
+    "Nosotros": "habíamos lanzado",
+    "Vosotros": "habíais lanzado",
+    "Ellos": "habían lanzado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré lanzado",
+    "Tu": "habrás lanzado",
+    "El": "habrá lanzado",
+    "Nosotros": "habremos lanzado",
+    "Vosotros": "habréis lanzado",
+    "Ellos": "habrán lanzado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría lanzado",
+    "Tu": "habrías lanzado",
+    "El": "habría lanzado",
+    "Nosotros": "habríamos lanzado",
+    "Vosotros": "habríais lanzado",
+    "Ellos": "habrían lanzado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "lance",
+    "Tu": "lances",
+    "El": "lance",
+    "Nosotros": "lancemos",
+    "Vosotros": "lancéis",
+    "Ellos": "lancen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "lanza",
+    "El": "lance",
+    "Nosotros": "lancemos",
+    "Vosotros": "lanzad",
+    "Ellos": "lancen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no lances",
+    "El": "no lance",
+    "Nosotros": "no lancemos",
+    "Vosotros": "no lancéis",
+    "Ellos": "no lancen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "registrarse",
+  "englishInfinitive": "to register [oneself]",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me registro",
+    "Tu": "te registras",
+    "El": "se registra",
+    "Nosotros": "nos registramos",
+    "Vosotros": "os registráis",
+    "Ellos": "se registran"
+  },
+  "IndicativePreterite": {
+    "Yo": "me registré",
+    "Tu": "te registraste",
+    "El": "se registró",
+    "Nosotros": "nos registramos",
+    "Vosotros": "os registrasteis",
+    "Ellos": "se registraron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me registraré",
+    "Tu": "te registrarás",
+    "El": "se registrará",
+    "Nosotros": "nos registraremos",
+    "Vosotros": "os registraréis",
+    "Ellos": "se registrarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me registraría",
+    "Tu": "te registrarías",
+    "El": "se registraría",
+    "Nosotros": "nos registraríamos",
+    "Vosotros": "os registraríais",
+    "Ellos": "se registrarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me registraba",
+    "Tu": "te registrabas",
+    "El": "se registraba",
+    "Nosotros": "nos registrábamos",
+    "Vosotros": "os registrabais",
+    "Ellos": "se registraban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy registrando,estoy registrándome",
+    "Tu": "te estás registrando,estás registrándote",
+    "El": "se está registrando,está registrándose",
+    "Nosotros": "nos estamos registrando,estamos registrándonos",
+    "Vosotros": "os estáis registrando,estáis registrándoos",
+    "Ellos": "se están registrando,están registrándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he registrado",
+    "Tu": "te has registrado",
+    "El": "se ha registrado",
+    "Nosotros": "nos hemos registrado",
+    "Vosotros": "os habéis registrado",
+    "Ellos": "se han registrado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había registrado",
+    "Tu": "te habías registrado",
+    "El": "se había registrado",
+    "Nosotros": "nos habíamos registrado",
+    "Vosotros": "os habíais registrado",
+    "Ellos": "se habían registrado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré registrado",
+    "Tu": "te habrás registrado",
+    "El": "se habrá registrado",
+    "Nosotros": "nos habremos registrado",
+    "Vosotros": "os habréis registrado",
+    "Ellos": "se habrán registrado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría registrado",
+    "Tu": "te habrías registrado",
+    "El": "se habría registrado",
+    "Nosotros": "nos habríamos registrado",
+    "Vosotros": "os habríais registrado",
+    "Ellos": "se habrían registrado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me registre",
+    "Tu": "te registres",
+    "El": "se registre",
+    "Nosotros": "nos registremos",
+    "Vosotros": "os registréis",
+    "Ellos": "se registren"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "regístrate",
+    "El": "regístrese",
+    "Nosotros": "registrémonos",
+    "Vosotros": "registraos",
+    "Ellos": "regístrense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te registres",
+    "El": "no se registre",
+    "Nosotros": "no nos registremos",
+    "Vosotros": "no os registréis",
+    "Ellos": "no se registren"
+  },
+  "ending": "ar"
+}

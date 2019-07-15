@@ -1,0 +1,113 @@
+{
+  "verb": "firmar",
+  "englishInfinitive": "to sign",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "firmo",
+    "Tu": "firmas",
+    "El": "firma",
+    "Nosotros": "firmamos",
+    "Vosotros": "firmáis",
+    "Ellos": "firman"
+  },
+  "IndicativePreterite": {
+    "Yo": "firmé",
+    "Tu": "firmaste",
+    "El": "firmó",
+    "Nosotros": "firmamos",
+    "Vosotros": "firmasteis",
+    "Ellos": "firmaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "firmaré",
+    "Tu": "firmarás",
+    "El": "firmará",
+    "Nosotros": "firmaremos",
+    "Vosotros": "firmaréis",
+    "Ellos": "firmarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "firmaría",
+    "Tu": "firmarías",
+    "El": "firmaría",
+    "Nosotros": "firmaríamos",
+    "Vosotros": "firmaríais",
+    "Ellos": "firmarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "firmaba",
+    "Tu": "firmabas",
+    "El": "firmaba",
+    "Nosotros": "firmábamos",
+    "Vosotros": "firmabais",
+    "Ellos": "firmaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy firmando",
+    "Tu": "estás firmando",
+    "El": "está firmando",
+    "Nosotros": "estamos firmando",
+    "Vosotros": "estáis firmando",
+    "Ellos": "están firmando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he firmado",
+    "Tu": "has firmado",
+    "El": "ha firmado",
+    "Nosotros": "hemos firmado",
+    "Vosotros": "habéis firmado",
+    "Ellos": "han firmado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había firmado",
+    "Tu": "habías firmado",
+    "El": "había firmado",
+    "Nosotros": "habíamos firmado",
+    "Vosotros": "habíais firmado",
+    "Ellos": "habían firmado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré firmado",
+    "Tu": "habrás firmado",
+    "El": "habrá firmado",
+    "Nosotros": "habremos firmado",
+    "Vosotros": "habréis firmado",
+    "Ellos": "habrán firmado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría firmado",
+    "Tu": "habrías firmado",
+    "El": "habría firmado",
+    "Nosotros": "habríamos firmado",
+    "Vosotros": "habríais firmado",
+    "Ellos": "habrían firmado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "firme",
+    "Tu": "firmes",
+    "El": "firme",
+    "Nosotros": "firmemos",
+    "Vosotros": "firméis",
+    "Ellos": "firmen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "firma",
+    "El": "firme",
+    "Nosotros": "firmemos",
+    "Vosotros": "firmad",
+    "Ellos": "firmen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no firmes",
+    "El": "no firme",
+    "Nosotros": "no firmemos",
+    "Vosotros": "no firméis",
+    "Ellos": "no firmen"
+  },
+  "ending": "ar"
+}

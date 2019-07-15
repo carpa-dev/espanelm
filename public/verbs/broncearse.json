@@ -1,0 +1,113 @@
+{
+  "verb": "broncearse",
+  "englishInfinitive": "to get a suntan",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me bronceo",
+    "Tu": "te bronceas",
+    "El": "se broncea",
+    "Nosotros": "nos bronceamos",
+    "Vosotros": "os bronceáis",
+    "Ellos": "se broncean"
+  },
+  "IndicativePreterite": {
+    "Yo": "me bronceé",
+    "Tu": "te bronceaste",
+    "El": "se bronceó",
+    "Nosotros": "nos bronceamos",
+    "Vosotros": "os bronceasteis",
+    "Ellos": "se broncearon"
+  },
+  "IndicativeFuture": {
+    "Yo": "me broncearé",
+    "Tu": "te broncearás",
+    "El": "se bronceará",
+    "Nosotros": "nos broncearemos",
+    "Vosotros": "os broncearéis",
+    "Ellos": "se broncearán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me broncearía",
+    "Tu": "te broncearías",
+    "El": "se broncearía",
+    "Nosotros": "nos broncearíamos",
+    "Vosotros": "os broncearíais",
+    "Ellos": "se broncearían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me bronceaba",
+    "Tu": "te bronceabas",
+    "El": "se bronceaba",
+    "Nosotros": "nos bronceábamos",
+    "Vosotros": "os bronceabais",
+    "Ellos": "se bronceaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy bronceando,estoy bronceándome",
+    "Tu": "te estás bronceando,estás bronceándote",
+    "El": "se está bronceando,está bronceándose",
+    "Nosotros": "nos estamos bronceando,estamos bronceándonos",
+    "Vosotros": "os estáis bronceando,estáis bronceándoos",
+    "Ellos": "se están bronceando,están bronceándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he bronceado",
+    "Tu": "te has bronceado",
+    "El": "se ha bronceado",
+    "Nosotros": "nos hemos bronceado",
+    "Vosotros": "os habéis bronceado",
+    "Ellos": "se han bronceado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había bronceado",
+    "Tu": "te habías bronceado",
+    "El": "se había bronceado",
+    "Nosotros": "nos habíamos bronceado",
+    "Vosotros": "os habíais bronceado",
+    "Ellos": "se habían bronceado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré bronceado",
+    "Tu": "te habrás bronceado",
+    "El": "se habrá bronceado",
+    "Nosotros": "nos habremos bronceado",
+    "Vosotros": "os habréis bronceado",
+    "Ellos": "se habrán bronceado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría bronceado",
+    "Tu": "te habrías bronceado",
+    "El": "se habría bronceado",
+    "Nosotros": "nos habríamos bronceado",
+    "Vosotros": "os habríais bronceado",
+    "Ellos": "se habrían bronceado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me broncee",
+    "Tu": "te broncees",
+    "El": "se broncee",
+    "Nosotros": "nos bronceemos",
+    "Vosotros": "os bronceéis",
+    "Ellos": "se bronceen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "broncéate",
+    "El": "broncéese",
+    "Nosotros": "bronceémonos",
+    "Vosotros": "bronceaos",
+    "Ellos": "broncéense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te broncees",
+    "El": "no se broncee",
+    "Nosotros": "no nos bronceemos",
+    "Vosotros": "no os bronceéis",
+    "Ellos": "no se bronceen"
+  },
+  "ending": "ar"
+}

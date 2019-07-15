@@ -1,0 +1,113 @@
+{
+  "verb": "cansar",
+  "englishInfinitive": "to tire",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "canso",
+    "Tu": "cansas",
+    "El": "cansa",
+    "Nosotros": "cansamos",
+    "Vosotros": "cansáis",
+    "Ellos": "cansan"
+  },
+  "IndicativePreterite": {
+    "Yo": "cansé",
+    "Tu": "cansaste",
+    "El": "cansó",
+    "Nosotros": "cansamos",
+    "Vosotros": "cansasteis",
+    "Ellos": "cansaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cansaré",
+    "Tu": "cansarás",
+    "El": "cansará",
+    "Nosotros": "cansaremos",
+    "Vosotros": "cansaréis",
+    "Ellos": "cansarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cansaría",
+    "Tu": "cansarías",
+    "El": "cansaría",
+    "Nosotros": "cansaríamos",
+    "Vosotros": "cansaríais",
+    "Ellos": "cansarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cansaba",
+    "Tu": "cansabas",
+    "El": "cansaba",
+    "Nosotros": "cansábamos",
+    "Vosotros": "cansabais",
+    "Ellos": "cansaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cansando",
+    "Tu": "estás cansando",
+    "El": "está cansando",
+    "Nosotros": "estamos cansando",
+    "Vosotros": "estáis cansando",
+    "Ellos": "están cansando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cansado",
+    "Tu": "has cansado",
+    "El": "ha cansado",
+    "Nosotros": "hemos cansado",
+    "Vosotros": "habéis cansado",
+    "Ellos": "han cansado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cansado",
+    "Tu": "habías cansado",
+    "El": "había cansado",
+    "Nosotros": "habíamos cansado",
+    "Vosotros": "habíais cansado",
+    "Ellos": "habían cansado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cansado",
+    "Tu": "habrás cansado",
+    "El": "habrá cansado",
+    "Nosotros": "habremos cansado",
+    "Vosotros": "habréis cansado",
+    "Ellos": "habrán cansado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cansado",
+    "Tu": "habrías cansado",
+    "El": "habría cansado",
+    "Nosotros": "habríamos cansado",
+    "Vosotros": "habríais cansado",
+    "Ellos": "habrían cansado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "canse",
+    "Tu": "canses",
+    "El": "canse",
+    "Nosotros": "cansemos",
+    "Vosotros": "canséis",
+    "Ellos": "cansen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cansa",
+    "El": "canse",
+    "Nosotros": "cansemos",
+    "Vosotros": "cansad",
+    "Ellos": "cansen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no canses",
+    "El": "no canse",
+    "Nosotros": "no cansemos",
+    "Vosotros": "no canséis",
+    "Ellos": "no cansen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "olvidarse",
+  "englishInfinitive": "to forget",
+  "irregular": false,
+  "type": "",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me olvido",
+    "Tu": "te olvidas",
+    "El": "se olvida",
+    "Nosotros": "nos olvidamos",
+    "Vosotros": "os olvidáis",
+    "Ellos": "se olvidan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me olvidé",
+    "Tu": "te olvidaste",
+    "El": "se olvidó",
+    "Nosotros": "nos olvidamos",
+    "Vosotros": "os olvidasteis",
+    "Ellos": "se olvidaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me olvidaré",
+    "Tu": "te olvidarás",
+    "El": "se olvidará",
+    "Nosotros": "nos olvidaremos",
+    "Vosotros": "os olvidaréis",
+    "Ellos": "se olvidarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me olvidaría",
+    "Tu": "te olvidarías",
+    "El": "se olvidaría",
+    "Nosotros": "nos olvidaríamos",
+    "Vosotros": "os olvidaríais",
+    "Ellos": "se olvidarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me olvidaba",
+    "Tu": "te olvidabas",
+    "El": "se olvidaba",
+    "Nosotros": "nos olvidábamos",
+    "Vosotros": "os olvidabais",
+    "Ellos": "se olvidaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy olvidando,estoy olvidándome",
+    "Tu": "te estás olvidando,estás olvidándote",
+    "El": "se está olvidando,está olvidándose",
+    "Nosotros": "nos estamos olvidando,estamos olvidándonos",
+    "Vosotros": "os estáis olvidando,estáis olvidándoos",
+    "Ellos": "se están olvidando,están olvidándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he olvidado",
+    "Tu": "te has olvidado",
+    "El": "se ha olvidado",
+    "Nosotros": "nos hemos olvidado",
+    "Vosotros": "os habéis olvidado",
+    "Ellos": "se han olvidado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había olvidado",
+    "Tu": "te habías olvidado",
+    "El": "se había olvidado",
+    "Nosotros": "nos habíamos olvidado",
+    "Vosotros": "os habíais olvidado",
+    "Ellos": "se habían olvidado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré olvidado",
+    "Tu": "te habrás olvidado",
+    "El": "se habrá olvidado",
+    "Nosotros": "nos habremos olvidado",
+    "Vosotros": "os habréis olvidado",
+    "Ellos": "se habrán olvidado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría olvidado",
+    "Tu": "te habrías olvidado",
+    "El": "se habría olvidado",
+    "Nosotros": "nos habríamos olvidado",
+    "Vosotros": "os habríais olvidado",
+    "Ellos": "se habrían olvidado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me olvide",
+    "Tu": "te olvides",
+    "El": "se olvide",
+    "Nosotros": "nos olvidemos",
+    "Vosotros": "os olvidéis",
+    "Ellos": "se olviden"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "olvídate",
+    "El": "olvídese",
+    "Nosotros": "olvidémonos",
+    "Vosotros": "olvidaos",
+    "Ellos": "olvídense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te olvides",
+    "El": "no se olvide",
+    "Nosotros": "no nos olvidemos",
+    "Vosotros": "no os olvidéis",
+    "Ellos": "no se olviden"
+  },
+  "ending": "ar"
+}

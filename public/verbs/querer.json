@@ -1,0 +1,113 @@
+{
+  "verb": "querer",
+  "englishInfinitive": "to want",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "quiero",
+    "Tu": "quieres",
+    "El": "quiere",
+    "Nosotros": "queremos",
+    "Vosotros": "queréis",
+    "Ellos": "quieren"
+  },
+  "IndicativePreterite": {
+    "Yo": "quise",
+    "Tu": "quisiste",
+    "El": "quiso",
+    "Nosotros": "quisimos",
+    "Vosotros": "quisisteis",
+    "Ellos": "quisieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "querré",
+    "Tu": "querrás",
+    "El": "querrá",
+    "Nosotros": "querremos",
+    "Vosotros": "querréis",
+    "Ellos": "querrán"
+  },
+  "ConditionalPresent": {
+    "Yo": "querría",
+    "Tu": "querrías",
+    "El": "querría",
+    "Nosotros": "querríamos",
+    "Vosotros": "querríais",
+    "Ellos": "querrían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "quería",
+    "Tu": "querías",
+    "El": "quería",
+    "Nosotros": "queríamos",
+    "Vosotros": "queríais",
+    "Ellos": "querían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy queriendo",
+    "Tu": "estás queriendo",
+    "El": "está queriendo",
+    "Nosotros": "estamos queriendo",
+    "Vosotros": "estáis queriendo",
+    "Ellos": "están queriendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he querido",
+    "Tu": "has querido",
+    "El": "ha querido",
+    "Nosotros": "hemos querido",
+    "Vosotros": "habéis querido",
+    "Ellos": "han querido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había querido",
+    "Tu": "habías querido",
+    "El": "había querido",
+    "Nosotros": "habíamos querido",
+    "Vosotros": "habíais querido",
+    "Ellos": "habían querido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré querido",
+    "Tu": "habrás querido",
+    "El": "habrá querido",
+    "Nosotros": "habremos querido",
+    "Vosotros": "habréis querido",
+    "Ellos": "habrán querido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría querido",
+    "Tu": "habrías querido",
+    "El": "habría querido",
+    "Nosotros": "habríamos querido",
+    "Vosotros": "habríais querido",
+    "Ellos": "habrían querido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "quiera",
+    "Tu": "quieras",
+    "El": "quiera",
+    "Nosotros": "queramos",
+    "Vosotros": "queráis",
+    "Ellos": "quieran"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "quiere",
+    "El": "quiera",
+    "Nosotros": "queramos",
+    "Vosotros": "quered",
+    "Ellos": "quieran"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no quieras",
+    "El": "no quiera",
+    "Nosotros": "no queramos",
+    "Vosotros": "no queráis",
+    "Ellos": "no quieran"
+  },
+  "ending": "er"
+}

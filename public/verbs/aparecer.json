@@ -1,0 +1,113 @@
+{
+  "verb": "aparecer",
+  "englishInfinitive": "to appear",
+  "irregular": true,
+  "type": "c > zc",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "aparezco",
+    "Tu": "apareces",
+    "El": "aparece",
+    "Nosotros": "aparecemos",
+    "Vosotros": "aparecéis",
+    "Ellos": "aparecen"
+  },
+  "IndicativePreterite": {
+    "Yo": "aparecí",
+    "Tu": "apareciste",
+    "El": "apareció",
+    "Nosotros": "aparecimos",
+    "Vosotros": "aparecisteis",
+    "Ellos": "aparecieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "apareceré",
+    "Tu": "aparecerás",
+    "El": "aparecerá",
+    "Nosotros": "apareceremos",
+    "Vosotros": "apareceréis",
+    "Ellos": "aparecerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "aparecería",
+    "Tu": "aparecerías",
+    "El": "aparecería",
+    "Nosotros": "apareceríamos",
+    "Vosotros": "apareceríais",
+    "Ellos": "aparecerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "aparecía",
+    "Tu": "aparecías",
+    "El": "aparecía",
+    "Nosotros": "aparecíamos",
+    "Vosotros": "aparecíais",
+    "Ellos": "aparecían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy apareciendo",
+    "Tu": "estás apareciendo",
+    "El": "está apareciendo",
+    "Nosotros": "estamos apareciendo",
+    "Vosotros": "estáis apareciendo",
+    "Ellos": "están apareciendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he aparecido",
+    "Tu": "has aparecido",
+    "El": "ha aparecido",
+    "Nosotros": "hemos aparecido",
+    "Vosotros": "habéis aparecido",
+    "Ellos": "han aparecido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había aparecido",
+    "Tu": "habías aparecido",
+    "El": "había aparecido",
+    "Nosotros": "habíamos aparecido",
+    "Vosotros": "habíais aparecido",
+    "Ellos": "habían aparecido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré aparecido",
+    "Tu": "habrás aparecido",
+    "El": "habrá aparecido",
+    "Nosotros": "habremos aparecido",
+    "Vosotros": "habréis aparecido",
+    "Ellos": "habrán aparecido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría aparecido",
+    "Tu": "habrías aparecido",
+    "El": "habría aparecido",
+    "Nosotros": "habríamos aparecido",
+    "Vosotros": "habríais aparecido",
+    "Ellos": "habrían aparecido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "aparezca",
+    "Tu": "aparezcas",
+    "El": "aparezca",
+    "Nosotros": "aparezcamos",
+    "Vosotros": "aparezcáis",
+    "Ellos": "aparezcan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "aparece",
+    "El": "aparezca",
+    "Nosotros": "aparezcamos",
+    "Vosotros": "apareced",
+    "Ellos": "aparezcan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no aparezcas",
+    "El": "no aparezca",
+    "Nosotros": "no aparezcamos",
+    "Vosotros": "no aparezcáis",
+    "Ellos": "no aparezcan"
+  },
+  "ending": "er"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "chocar",
+  "englishInfinitive": "to shock",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "choco",
+    "Tu": "chocas",
+    "El": "choca",
+    "Nosotros": "chocamos",
+    "Vosotros": "chocáis",
+    "Ellos": "chocan"
+  },
+  "IndicativePreterite": {
+    "Yo": "choqué",
+    "Tu": "chocaste",
+    "El": "chocó",
+    "Nosotros": "chocamos",
+    "Vosotros": "chocasteis",
+    "Ellos": "chocaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "chocaré",
+    "Tu": "chocarás",
+    "El": "chocará",
+    "Nosotros": "chocaremos",
+    "Vosotros": "chocaréis",
+    "Ellos": "chocarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "chocaría",
+    "Tu": "chocarías",
+    "El": "chocaría",
+    "Nosotros": "chocaríamos",
+    "Vosotros": "chocaríais",
+    "Ellos": "chocarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "chocaba",
+    "Tu": "chocabas",
+    "El": "chocaba",
+    "Nosotros": "chocábamos",
+    "Vosotros": "chocabais",
+    "Ellos": "chocaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy chocando",
+    "Tu": "estás chocando",
+    "El": "está chocando",
+    "Nosotros": "estamos chocando",
+    "Vosotros": "estáis chocando",
+    "Ellos": "están chocando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he chocado",
+    "Tu": "has chocado",
+    "El": "ha chocado",
+    "Nosotros": "hemos chocado",
+    "Vosotros": "habéis chocado",
+    "Ellos": "han chocado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había chocado",
+    "Tu": "habías chocado",
+    "El": "había chocado",
+    "Nosotros": "habíamos chocado",
+    "Vosotros": "habíais chocado",
+    "Ellos": "habían chocado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré chocado",
+    "Tu": "habrás chocado",
+    "El": "habrá chocado",
+    "Nosotros": "habremos chocado",
+    "Vosotros": "habréis chocado",
+    "Ellos": "habrán chocado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría chocado",
+    "Tu": "habrías chocado",
+    "El": "habría chocado",
+    "Nosotros": "habríamos chocado",
+    "Vosotros": "habríais chocado",
+    "Ellos": "habrían chocado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "choque",
+    "Tu": "choques",
+    "El": "choque",
+    "Nosotros": "choquemos",
+    "Vosotros": "choquéis",
+    "Ellos": "choquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "choca",
+    "El": "choque",
+    "Nosotros": "choquemos",
+    "Vosotros": "chocad",
+    "Ellos": "choquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no choques",
+    "El": "no choque",
+    "Nosotros": "no choquemos",
+    "Vosotros": "no choquéis",
+    "Ellos": "no choquen"
+  },
+  "ending": "ar"
+}

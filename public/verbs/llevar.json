@@ -1,0 +1,113 @@
+{
+  "verb": "llevar",
+  "englishInfinitive": "to carry",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "llevo",
+    "Tu": "llevas",
+    "El": "lleva",
+    "Nosotros": "llevamos",
+    "Vosotros": "lleváis",
+    "Ellos": "llevan"
+  },
+  "IndicativePreterite": {
+    "Yo": "llevé",
+    "Tu": "llevaste",
+    "El": "llevó",
+    "Nosotros": "llevamos",
+    "Vosotros": "llevasteis",
+    "Ellos": "llevaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "llevaré",
+    "Tu": "llevarás",
+    "El": "llevará",
+    "Nosotros": "llevaremos",
+    "Vosotros": "llevaréis",
+    "Ellos": "llevarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "llevaría",
+    "Tu": "llevarías",
+    "El": "llevaría",
+    "Nosotros": "llevaríamos",
+    "Vosotros": "llevaríais",
+    "Ellos": "llevarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "llevaba",
+    "Tu": "llevabas",
+    "El": "llevaba",
+    "Nosotros": "llevábamos",
+    "Vosotros": "llevabais",
+    "Ellos": "llevaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy llevando",
+    "Tu": "estás llevando",
+    "El": "está llevando",
+    "Nosotros": "estamos llevando",
+    "Vosotros": "estáis llevando",
+    "Ellos": "están llevando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he llevado",
+    "Tu": "has llevado",
+    "El": "ha llevado",
+    "Nosotros": "hemos llevado",
+    "Vosotros": "habéis llevado",
+    "Ellos": "han llevado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había llevado",
+    "Tu": "habías llevado",
+    "El": "había llevado",
+    "Nosotros": "habíamos llevado",
+    "Vosotros": "habíais llevado",
+    "Ellos": "habían llevado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré llevado",
+    "Tu": "habrás llevado",
+    "El": "habrá llevado",
+    "Nosotros": "habremos llevado",
+    "Vosotros": "habréis llevado",
+    "Ellos": "habrán llevado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría llevado",
+    "Tu": "habrías llevado",
+    "El": "habría llevado",
+    "Nosotros": "habríamos llevado",
+    "Vosotros": "habríais llevado",
+    "Ellos": "habrían llevado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "lleve",
+    "Tu": "lleves",
+    "El": "lleve",
+    "Nosotros": "llevemos",
+    "Vosotros": "llevéis",
+    "Ellos": "lleven"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "lleva",
+    "El": "lleve",
+    "Nosotros": "llevemos",
+    "Vosotros": "llevad",
+    "Ellos": "lleven"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no lleves",
+    "El": "no lleve",
+    "Nosotros": "no llevemos",
+    "Vosotros": "no llevéis",
+    "Ellos": "no lleven"
+  },
+  "ending": "ar"
+}

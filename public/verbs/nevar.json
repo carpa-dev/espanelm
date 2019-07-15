@@ -1,0 +1,113 @@
+{
+  "verb": "nevar",
+  "englishInfinitive": "to snow",
+  "irregular": true,
+  "type": "impersonal; e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "nievo",
+    "Tu": "nievas",
+    "El": "nieva",
+    "Nosotros": "nevamos",
+    "Vosotros": "neváis",
+    "Ellos": "nievan"
+  },
+  "IndicativePreterite": {
+    "Yo": "nevé",
+    "Tu": "nevaste",
+    "El": "nevó",
+    "Nosotros": "nevamos",
+    "Vosotros": "nevasteis",
+    "Ellos": "nevaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "nevaré",
+    "Tu": "nevarás",
+    "El": "nevará",
+    "Nosotros": "nevaremos",
+    "Vosotros": "nevaréis",
+    "Ellos": "nevarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "nevaría",
+    "Tu": "nevarías",
+    "El": "nevaría",
+    "Nosotros": "nevaríamos",
+    "Vosotros": "nevaríais",
+    "Ellos": "nevarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "nevaba",
+    "Tu": "nevabas",
+    "El": "nevaba",
+    "Nosotros": "nevábamos",
+    "Vosotros": "nevabais",
+    "Ellos": "nevaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy nevand",
+    "Tu": "estás nevando",
+    "El": "está nevando",
+    "Nosotros": "estamos nevando",
+    "Vosotros": "estáis nevando",
+    "Ellos": "están nevando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he nevado",
+    "Tu": "has nevado",
+    "El": "ha nevado",
+    "Nosotros": "hemos nevado",
+    "Vosotros": "habéis nevado",
+    "Ellos": "han nevado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había nevado",
+    "Tu": "habías nevado",
+    "El": "había nevado",
+    "Nosotros": "habíamos nevado",
+    "Vosotros": "habíais nevado",
+    "Ellos": "habían nevado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré nevado",
+    "Tu": "habrás nevado",
+    "El": "habrá nevado",
+    "Nosotros": "habremos nevado",
+    "Vosotros": "habréis nevad",
+    "Ellos": "habrán nevado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría nevado",
+    "Tu": "habrías nevado",
+    "El": "habría nevado",
+    "Nosotros": "habríamos nevado",
+    "Vosotros": "habríais nevado",
+    "Ellos": "habrían nevad"
+  },
+  "SubjunctivePresent": {
+    "Yo": "nieve",
+    "Tu": "nieves",
+    "El": "nieve",
+    "Nosotros": "nevemos",
+    "Vosotros": "nevéis",
+    "Ellos": "nieven"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "nieva",
+    "El": "nieve",
+    "Nosotros": "nevemos",
+    "Vosotros": "nevad",
+    "Ellos": "nieven"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no nieves",
+    "El": "no nieve",
+    "Nosotros": "no nevemos",
+    "Vosotros": "no nevéis",
+    "Ellos": "no nieven"
+  },
+  "ending": "ar"
+}

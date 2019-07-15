@@ -1,0 +1,113 @@
+{
+  "verb": "reservar",
+  "englishInfinitive": "to reserve",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "reservo",
+    "Tu": "reservas",
+    "El": "reserva",
+    "Nosotros": "reservamos",
+    "Vosotros": "reserváis",
+    "Ellos": "reservan"
+  },
+  "IndicativePreterite": {
+    "Yo": "reservé",
+    "Tu": "reservaste",
+    "El": "reservó",
+    "Nosotros": "reservamos",
+    "Vosotros": "reservasteis",
+    "Ellos": "reservaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "reservaré",
+    "Tu": "reservarás",
+    "El": "reservará",
+    "Nosotros": "reservaremos",
+    "Vosotros": "reservaréis",
+    "Ellos": "reservarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "reservaría",
+    "Tu": "reservarías",
+    "El": "reservaría",
+    "Nosotros": "reservaríamos",
+    "Vosotros": "reservaríais",
+    "Ellos": "reservarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "reservaba",
+    "Tu": "reservabas",
+    "El": "reservaba",
+    "Nosotros": "reservábamos",
+    "Vosotros": "reservabais",
+    "Ellos": "reservaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy reservando",
+    "Tu": "estás reservando",
+    "El": "está reservando",
+    "Nosotros": "estamos reservando",
+    "Vosotros": "estáis reservando",
+    "Ellos": "están reservando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he reservado",
+    "Tu": "has reservado",
+    "El": "ha reservado",
+    "Nosotros": "hemos reservado",
+    "Vosotros": "habéis reservado",
+    "Ellos": "han reservado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había reservado",
+    "Tu": "habías reservado",
+    "El": "había reservado",
+    "Nosotros": "habíamos reservado",
+    "Vosotros": "habíais reservado",
+    "Ellos": "habían reservado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré reservado",
+    "Tu": "habrás reservado",
+    "El": "habrá reservado",
+    "Nosotros": "habremos reservado",
+    "Vosotros": "habréis reservado",
+    "Ellos": "habrán reservado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría reservado",
+    "Tu": "habrías reservado",
+    "El": "habría reservado",
+    "Nosotros": "habríamos reservado",
+    "Vosotros": "habríais reservado",
+    "Ellos": "habrían reservado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "reserve",
+    "Tu": "reserves",
+    "El": "reserve",
+    "Nosotros": "reservemos",
+    "Vosotros": "reservéis",
+    "Ellos": "reserven"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "reserva",
+    "El": "reserve",
+    "Nosotros": "reservemos",
+    "Vosotros": "reservad",
+    "Ellos": "reserven"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no reserves",
+    "El": "no reserve",
+    "Nosotros": "no reservemos",
+    "Vosotros": "no reservéis",
+    "Ellos": "no reserven"
+  },
+  "ending": "ar"
+}

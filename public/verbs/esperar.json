@@ -1,0 +1,113 @@
+{
+  "verb": "esperar",
+  "englishInfinitive": "to hope",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "espero",
+    "Tu": "esperas",
+    "El": "espera",
+    "Nosotros": "esperamos",
+    "Vosotros": "esperáis",
+    "Ellos": "esperan"
+  },
+  "IndicativePreterite": {
+    "Yo": "esperé",
+    "Tu": "esperaste",
+    "El": "esperó",
+    "Nosotros": "esperamos",
+    "Vosotros": "esperasteis",
+    "Ellos": "esperaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "esperaré",
+    "Tu": "esperarás",
+    "El": "esperará",
+    "Nosotros": "esperaremos",
+    "Vosotros": "esperaréis",
+    "Ellos": "esperarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "esperaría",
+    "Tu": "esperarías",
+    "El": "esperaría",
+    "Nosotros": "esperaríamos",
+    "Vosotros": "esperaríais",
+    "Ellos": "esperarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "esperaba",
+    "Tu": "esperabas",
+    "El": "esperaba",
+    "Nosotros": "esperábamos",
+    "Vosotros": "esperabais",
+    "Ellos": "esperaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy esperando",
+    "Tu": "estás esperando",
+    "El": "está esperando",
+    "Nosotros": "estamos esperando",
+    "Vosotros": "estáis esperando",
+    "Ellos": "están esperando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he esperado",
+    "Tu": "has esperado",
+    "El": "ha esperado",
+    "Nosotros": "hemos esperado",
+    "Vosotros": "habéis esperado",
+    "Ellos": "han esperado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había esperado",
+    "Tu": "habías esperado",
+    "El": "había esperado",
+    "Nosotros": "habíamos esperado",
+    "Vosotros": "habíais esperado",
+    "Ellos": "habían esperado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré esperado",
+    "Tu": "habrás esperado",
+    "El": "habrá esperado",
+    "Nosotros": "habremos esperado",
+    "Vosotros": "habréis esperado",
+    "Ellos": "habrán esperado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría esperado",
+    "Tu": "habrías esperado",
+    "El": "habría esperado",
+    "Nosotros": "habríamos esperado",
+    "Vosotros": "habríais esperado",
+    "Ellos": "habrían esperado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "espere",
+    "Tu": "esperes",
+    "El": "espere",
+    "Nosotros": "esperemos",
+    "Vosotros": "esperéis",
+    "Ellos": "esperen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "espera",
+    "El": "espere",
+    "Nosotros": "esperemos",
+    "Vosotros": "esperad",
+    "Ellos": "esperen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no esperes",
+    "El": "no espere",
+    "Nosotros": "no esperemos",
+    "Vosotros": "no esperéis",
+    "Ellos": "no esperen"
+  },
+  "ending": "ar"
+}

@@ -1,0 +1,113 @@
+{
+  "verb": "advertir",
+  "englishInfinitive": "to notice",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "advierto",
+    "Tu": "adviertes",
+    "El": "advierte",
+    "Nosotros": "advertimos",
+    "Vosotros": "advertís",
+    "Ellos": "advierten"
+  },
+  "IndicativePreterite": {
+    "Yo": "advertí",
+    "Tu": "advertiste",
+    "El": "advirtió",
+    "Nosotros": "advertimos",
+    "Vosotros": "advertisteis",
+    "Ellos": "advirtieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "advertiré",
+    "Tu": "advertirás",
+    "El": "advertirá",
+    "Nosotros": "advertiremos",
+    "Vosotros": "advertiréis",
+    "Ellos": "advertirán"
+  },
+  "ConditionalPresent": {
+    "Yo": "advertiría",
+    "Tu": "advertirías",
+    "El": "advertiría",
+    "Nosotros": "advertiríamos",
+    "Vosotros": "advertiríais",
+    "Ellos": "advertirían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "advertía",
+    "Tu": "advertías",
+    "El": "advertía",
+    "Nosotros": "advertíamos",
+    "Vosotros": "advertíais",
+    "Ellos": "advertían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy advirtiendo",
+    "Tu": "estás advirtiendo",
+    "El": "está advirtiendo",
+    "Nosotros": "estamos advirtiendo",
+    "Vosotros": "estáis advirtiendo",
+    "Ellos": "están advirtiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he advertido",
+    "Tu": "has advertido",
+    "El": "ha advertido",
+    "Nosotros": "hemos advertido",
+    "Vosotros": "habéis advertido",
+    "Ellos": "han advertido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había advertido",
+    "Tu": "habías advertido",
+    "El": "había advertido",
+    "Nosotros": "habíamos advertido",
+    "Vosotros": "habíais advertido",
+    "Ellos": "habían advertido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré advertido",
+    "Tu": "habrás advertido",
+    "El": "habrá advertido",
+    "Nosotros": "habremos advertido",
+    "Vosotros": "habréis advertido",
+    "Ellos": "habrán advertido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría advertido",
+    "Tu": "habrías advertido",
+    "El": "habría advertido",
+    "Nosotros": "habríamos advertido",
+    "Vosotros": "habríais advertido",
+    "Ellos": "habrían advertido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "advierta",
+    "Tu": "adviertas",
+    "El": "advierta",
+    "Nosotros": "advirtamos",
+    "Vosotros": "advirtáis",
+    "Ellos": "adviertan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "advierte",
+    "El": "advierta",
+    "Nosotros": "advirtamos",
+    "Vosotros": "advertid",
+    "Ellos": "adviertan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no adviertas",
+    "El": "no advierta",
+    "Nosotros": "no advirtamos",
+    "Vosotros": "no advirtáis",
+    "Ellos": "no adviertan"
+  },
+  "ending": "ir"
+}

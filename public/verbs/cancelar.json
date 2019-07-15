@@ -1,0 +1,113 @@
+{
+  "verb": "cancelar",
+  "englishInfinitive": "to cancel",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "cancelo",
+    "Tu": "cancelas",
+    "El": "cancela",
+    "Nosotros": "cancelamos",
+    "Vosotros": "canceláis",
+    "Ellos": "cancelan"
+  },
+  "IndicativePreterite": {
+    "Yo": "cancelé",
+    "Tu": "cancelaste",
+    "El": "canceló",
+    "Nosotros": "cancelamos",
+    "Vosotros": "cancelasteis",
+    "Ellos": "cancelaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "cancelaré",
+    "Tu": "cancelarás",
+    "El": "cancelará",
+    "Nosotros": "cancelaremos",
+    "Vosotros": "cancelaréis",
+    "Ellos": "cancelarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "cancelaría",
+    "Tu": "cancelarías",
+    "El": "cancelaría",
+    "Nosotros": "cancelaríamos",
+    "Vosotros": "cancelaríais",
+    "Ellos": "cancelarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "cancelaba",
+    "Tu": "cancelabas",
+    "El": "cancelaba",
+    "Nosotros": "cancelábamos",
+    "Vosotros": "cancelabais",
+    "Ellos": "cancelaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy cancelando",
+    "Tu": "estás cancelando",
+    "El": "está cancelando",
+    "Nosotros": "estamos cancelando",
+    "Vosotros": "estáis cancelando",
+    "Ellos": "están cancelando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he cancelado",
+    "Tu": "has cancelado",
+    "El": "ha cancelado",
+    "Nosotros": "hemos cancelado",
+    "Vosotros": "habéis cancelado",
+    "Ellos": "han cancelado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había cancelado",
+    "Tu": "habías cancelado",
+    "El": "había cancelado",
+    "Nosotros": "habíamos cancelado",
+    "Vosotros": "habíais cancelado",
+    "Ellos": "habían cancelado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré cancelado",
+    "Tu": "habrás cancelado",
+    "El": "habrá cancelado",
+    "Nosotros": "habremos cancelado",
+    "Vosotros": "habréis cancelado",
+    "Ellos": "habrán cancelado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría cancelado",
+    "Tu": "habrías cancelado",
+    "El": "habría cancelado",
+    "Nosotros": "habríamos cancelado",
+    "Vosotros": "habríais cancelado",
+    "Ellos": "habrían cancelado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "cancele",
+    "Tu": "canceles",
+    "El": "cancele",
+    "Nosotros": "cancelemos",
+    "Vosotros": "canceléis",
+    "Ellos": "cancelen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "cancela",
+    "El": "cancele",
+    "Nosotros": "cancelemos",
+    "Vosotros": "cancelad",
+    "Ellos": "cancelen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no canceles",
+    "El": "no cancele",
+    "Nosotros": "no cancelemos",
+    "Vosotros": "no canceléis",
+    "Ellos": "no cancelen"
+  },
+  "ending": "ar"
+}

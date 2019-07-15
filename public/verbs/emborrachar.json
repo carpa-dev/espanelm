@@ -1,0 +1,113 @@
+{
+  "verb": "emborrachar",
+  "englishInfinitive": "to make drunk",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "emborracho",
+    "Tu": "emborrachas",
+    "El": "emborracha",
+    "Nosotros": "emborrachamos",
+    "Vosotros": "emborracháis",
+    "Ellos": "emborrachan"
+  },
+  "IndicativePreterite": {
+    "Yo": "emborraché",
+    "Tu": "emborrachaste",
+    "El": "emborrachó",
+    "Nosotros": "emborrachamos",
+    "Vosotros": "emborrachasteis",
+    "Ellos": "emborracharon"
+  },
+  "IndicativeFuture": {
+    "Yo": "emborracharé",
+    "Tu": "emborracharás",
+    "El": "emborrachará",
+    "Nosotros": "emborracharemos",
+    "Vosotros": "emborracharéis",
+    "Ellos": "emborracharán"
+  },
+  "ConditionalPresent": {
+    "Yo": "emborracharía",
+    "Tu": "emborracharías",
+    "El": "emborracharía",
+    "Nosotros": "emborracharíamos",
+    "Vosotros": "emborracharíais",
+    "Ellos": "emborracharían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "emborrachaba",
+    "Tu": "emborrachabas",
+    "El": "emborrachaba",
+    "Nosotros": "emborrachábamos",
+    "Vosotros": "emborrachabais",
+    "Ellos": "emborrachaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy emborrachando",
+    "Tu": "estás emborrachando",
+    "El": "está emborrachando",
+    "Nosotros": "estamos emborrachando",
+    "Vosotros": "estáis emborrachando",
+    "Ellos": "están emborrachando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he emborrachado",
+    "Tu": "has emborrachado",
+    "El": "ha emborrachado",
+    "Nosotros": "hemos emborrachado",
+    "Vosotros": "habéis emborrachado",
+    "Ellos": "han emborrachado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había emborrachado",
+    "Tu": "habías emborrachado",
+    "El": "había emborrachado",
+    "Nosotros": "habíamos emborrachado",
+    "Vosotros": "habíais emborrachado",
+    "Ellos": "habían emborrachado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré emborrachado",
+    "Tu": "habrás emborrachado",
+    "El": "habrá emborrachado",
+    "Nosotros": "habremos emborrachado",
+    "Vosotros": "habréis emborrachado",
+    "Ellos": "habrán emborrachado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría emborrachado",
+    "Tu": "habrías emborrachado",
+    "El": "habría emborrachado",
+    "Nosotros": "habríamos emborrachado",
+    "Vosotros": "habríais emborrachado",
+    "Ellos": "habrían emborrachado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "emborrache",
+    "Tu": "emborraches",
+    "El": "emborrache",
+    "Nosotros": "emborrachemos",
+    "Vosotros": "emborrachéis",
+    "Ellos": "emborrachen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "emborracha",
+    "El": "emborrache",
+    "Nosotros": "emborrachemos",
+    "Vosotros": "emborrachad",
+    "Ellos": "emborrachen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no emborraches",
+    "El": "no emborrache",
+    "Nosotros": "no emborrachemos",
+    "Vosotros": "no emborrachéis",
+    "Ellos": "no emborrachen"
+  },
+  "ending": "ar"
+}

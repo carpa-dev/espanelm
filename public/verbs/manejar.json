@@ -1,0 +1,113 @@
+{
+  "verb": "manejar",
+  "englishInfinitive": "to drive",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "manejo",
+    "Tu": "manejas",
+    "El": "maneja",
+    "Nosotros": "manejamos",
+    "Vosotros": "manejáis",
+    "Ellos": "manejan"
+  },
+  "IndicativePreterite": {
+    "Yo": "manejé",
+    "Tu": "manejaste",
+    "El": "manejó",
+    "Nosotros": "manejamos",
+    "Vosotros": "manejasteis",
+    "Ellos": "manejaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "manejaré",
+    "Tu": "manejarás",
+    "El": "manejará",
+    "Nosotros": "manejaremos",
+    "Vosotros": "manejaréis",
+    "Ellos": "manejarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "manejaría",
+    "Tu": "manejarías",
+    "El": "manejaría",
+    "Nosotros": "manejaríamos",
+    "Vosotros": "manejaríais",
+    "Ellos": "manejarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "manejaba",
+    "Tu": "manejabas",
+    "El": "manejaba",
+    "Nosotros": "manejábamos",
+    "Vosotros": "manejabais",
+    "Ellos": "manejaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy manejando",
+    "Tu": "estás manejando",
+    "El": "está manejando",
+    "Nosotros": "estamos manejando",
+    "Vosotros": "estáis manejando",
+    "Ellos": "están manejando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he manejado",
+    "Tu": "has manejado",
+    "El": "ha manejado",
+    "Nosotros": "hemos manejado",
+    "Vosotros": "habéis manejado",
+    "Ellos": "han manejado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había manejado",
+    "Tu": "habías manejado",
+    "El": "había manejado",
+    "Nosotros": "habíamos manejado",
+    "Vosotros": "habíais manejado",
+    "Ellos": "habían manejado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré manejado",
+    "Tu": "habrás manejado",
+    "El": "habrá manejado",
+    "Nosotros": "habremos manejado",
+    "Vosotros": "habréis manejado",
+    "Ellos": "habrán manejado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría manejado",
+    "Tu": "habrías manejado",
+    "El": "habría manejado",
+    "Nosotros": "habríamos manejado",
+    "Vosotros": "habríais manejado",
+    "Ellos": "habrían manejado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "maneje",
+    "Tu": "manejes",
+    "El": "maneje",
+    "Nosotros": "manejemos",
+    "Vosotros": "manejéis",
+    "Ellos": "manejen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "maneja",
+    "El": "maneje",
+    "Nosotros": "manejemos",
+    "Vosotros": "manejad",
+    "Ellos": "manejen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no manejes",
+    "El": "no maneje",
+    "Nosotros": "no manejemos",
+    "Vosotros": "no manejéis",
+    "Ellos": "no manejen"
+  },
+  "ending": "ar"
+}

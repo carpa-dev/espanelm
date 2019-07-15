@@ -1,0 +1,113 @@
+{
+  "verb": "negarse",
+  "englishInfinitive": "to refuse",
+  "irregular": true,
+  "type": "e > ie",
+  "reflexive": true,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "me niego",
+    "Tu": "te niegas",
+    "El": "se niega",
+    "Nosotros": "nos negamos",
+    "Vosotros": "os negáis",
+    "Ellos": "se niegan"
+  },
+  "IndicativePreterite": {
+    "Yo": "me negué",
+    "Tu": "te negaste",
+    "El": "se negó",
+    "Nosotros": "nos negamos",
+    "Vosotros": "os negasteis",
+    "Ellos": "se negaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "me negaré",
+    "Tu": "te negarás",
+    "El": "se negará",
+    "Nosotros": "nos negaremos",
+    "Vosotros": "os negaréis",
+    "Ellos": "se negarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "me negaría",
+    "Tu": "te negarías",
+    "El": "se negaría",
+    "Nosotros": "nos negaríamos",
+    "Vosotros": "os negaríais",
+    "Ellos": "se negarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "me negaba",
+    "Tu": "te negabas",
+    "El": "se negaba",
+    "Nosotros": "nos negábamos",
+    "Vosotros": "os negabais",
+    "Ellos": "se negaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "me estoy negando,estoy negándome",
+    "Tu": "te estás negando,estás negándote",
+    "El": "se está negando,está negándose",
+    "Nosotros": "nos estamos negando,estamos negándonos",
+    "Vosotros": "os estáis negando,estáis negándoos",
+    "Ellos": "se están negando,están negándose"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "me he negado",
+    "Tu": "te has negado",
+    "El": "se ha negado",
+    "Nosotros": "nos hemos negado",
+    "Vosotros": "os habéis negado",
+    "Ellos": "se han negado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "me había negado",
+    "Tu": "te habías negado",
+    "El": "se había negado",
+    "Nosotros": "nos habíamos negado",
+    "Vosotros": "os habíais negado",
+    "Ellos": "se habían negado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "me habré negado",
+    "Tu": "te habrás negado",
+    "El": "se habrá negado",
+    "Nosotros": "nos habremos negado",
+    "Vosotros": "os habréis negado",
+    "Ellos": "se habrán negado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "me habría negado",
+    "Tu": "te habrías negado",
+    "El": "se habría negado",
+    "Nosotros": "nos habríamos negado",
+    "Vosotros": "os habríais negado",
+    "Ellos": "se habrían negado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "me niegue",
+    "Tu": "te niegues",
+    "El": "se niegue",
+    "Nosotros": "nos neguemos",
+    "Vosotros": "os neguéis",
+    "Ellos": "se nieguen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "niégate",
+    "El": "niéguese",
+    "Nosotros": "neguémonos",
+    "Vosotros": "negaos",
+    "Ellos": "niéguense"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no te niegues",
+    "El": "no se niegue",
+    "Nosotros": "no nos neguemos",
+    "Vosotros": "no os neguéis",
+    "Ellos": "no se nieguen"
+  },
+  "ending": "ar"
+}

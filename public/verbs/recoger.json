@@ -1,0 +1,113 @@
+{
+  "verb": "recoger",
+  "englishInfinitive": "to pick up",
+  "irregular": false,
+  "type": "",
+  "reflexive": false,
+  "common": true,
+  "IndicativePresent": {
+    "Yo": "recojo",
+    "Tu": "recoges",
+    "El": "recoge",
+    "Nosotros": "recogemos",
+    "Vosotros": "recogéis",
+    "Ellos": "recogen"
+  },
+  "IndicativePreterite": {
+    "Yo": "recogí",
+    "Tu": "recogiste",
+    "El": "recogió",
+    "Nosotros": "recogimos",
+    "Vosotros": "recogisteis",
+    "Ellos": "recogieron"
+  },
+  "IndicativeFuture": {
+    "Yo": "recogeré",
+    "Tu": "recogerás",
+    "El": "recogerá",
+    "Nosotros": "recogeremos",
+    "Vosotros": "recogeréis",
+    "Ellos": "recogerán"
+  },
+  "ConditionalPresent": {
+    "Yo": "recogería",
+    "Tu": "recogerías",
+    "El": "recogería",
+    "Nosotros": "recogeríamos",
+    "Vosotros": "recogeríais",
+    "Ellos": "recogerían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "recogía",
+    "Tu": "recogías",
+    "El": "recogía",
+    "Nosotros": "recogíamos",
+    "Vosotros": "recogíais",
+    "Ellos": "recogían"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy recogiendo",
+    "Tu": "estás recogiendo",
+    "El": "está recogiendo",
+    "Nosotros": "estamos recogiendo",
+    "Vosotros": "estáis recogiendo",
+    "Ellos": "están recogiendo"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he recogido",
+    "Tu": "has recogido",
+    "El": "ha recogido",
+    "Nosotros": "hemos recogido",
+    "Vosotros": "habéis recogido",
+    "Ellos": "han recogido"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había recogido",
+    "Tu": "habías recogido",
+    "El": "había recogido",
+    "Nosotros": "habíamos recogido",
+    "Vosotros": "habíais recogido",
+    "Ellos": "habían recogido"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré recogido",
+    "Tu": "habrás recogido",
+    "El": "habrá recogido",
+    "Nosotros": "habremos recogido",
+    "Vosotros": "habréis recogido",
+    "Ellos": "habrán recogido"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría recogido",
+    "Tu": "habrías recogido",
+    "El": "habría recogido",
+    "Nosotros": "habríamos recogido",
+    "Vosotros": "habríais recogido",
+    "Ellos": "habrían recogido"
+  },
+  "SubjunctivePresent": {
+    "Yo": "recoja",
+    "Tu": "recojas",
+    "El": "recoja",
+    "Nosotros": "recojamos",
+    "Vosotros": "recojáis",
+    "Ellos": "recojan"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "recoge",
+    "El": "recoja",
+    "Nosotros": "recojamos",
+    "Vosotros": "recoged",
+    "Ellos": "recojan"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no recojas",
+    "El": "no recoja",
+    "Nosotros": "no recojamos",
+    "Vosotros": "no recojáis",
+    "Ellos": "no recojan"
+  },
+  "ending": "er"
+}

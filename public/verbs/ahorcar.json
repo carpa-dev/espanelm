@@ -1,0 +1,113 @@
+{
+  "verb": "ahorcar",
+  "englishInfinitive": "to hang",
+  "irregular": true,
+  "type": "ce > que (-car)",
+  "reflexive": false,
+  "common": false,
+  "IndicativePresent": {
+    "Yo": "ahorco",
+    "Tu": "ahorcas",
+    "El": "ahorca",
+    "Nosotros": "ahorcamos",
+    "Vosotros": "ahorcáis",
+    "Ellos": "ahorcan"
+  },
+  "IndicativePreterite": {
+    "Yo": "ahorqué",
+    "Tu": "ahorcaste",
+    "El": "ahorcó",
+    "Nosotros": "ahorcamos",
+    "Vosotros": "ahorcasteis",
+    "Ellos": "ahorcaron"
+  },
+  "IndicativeFuture": {
+    "Yo": "ahorcaré",
+    "Tu": "ahorcarás",
+    "El": "ahorcará",
+    "Nosotros": "ahorcaremos",
+    "Vosotros": "ahorcaréis",
+    "Ellos": "ahorcarán"
+  },
+  "ConditionalPresent": {
+    "Yo": "ahorcaría",
+    "Tu": "ahorcarías",
+    "El": "ahorcaría",
+    "Nosotros": "ahorcaríamos",
+    "Vosotros": "ahorcaríais",
+    "Ellos": "ahorcarían"
+  },
+  "IndicativeImperfect": {
+    "Yo": "ahorcaba",
+    "Tu": "ahorcabas",
+    "El": "ahorcaba",
+    "Nosotros": "ahorcábamos",
+    "Vosotros": "ahorcabais",
+    "Ellos": "ahorcaban"
+  },
+  "IndicativePresentProgressive": {
+    "Yo": "estoy ahorcando",
+    "Tu": "estás ahorcando",
+    "El": "está ahorcando",
+    "Nosotros": "estamos ahorcando",
+    "Vosotros": "estáis ahorcando",
+    "Ellos": "están ahorcando"
+  },
+  "IndicativePresentPerfect": {
+    "Yo": "he ahorcado",
+    "Tu": "has ahorcado",
+    "El": "ha ahorcado",
+    "Nosotros": "hemos ahorcado",
+    "Vosotros": "habéis ahorcado",
+    "Ellos": "han ahorcado"
+  },
+  "IndicativePastPerfect": {
+    "Yo": "había ahorcado",
+    "Tu": "habías ahorcado",
+    "El": "había ahorcado",
+    "Nosotros": "habíamos ahorcado",
+    "Vosotros": "habíais ahorcado",
+    "Ellos": "habían ahorcado"
+  },
+  "IndicativeFuturePerfect": {
+    "Yo": "habré ahorcado",
+    "Tu": "habrás ahorcado",
+    "El": "habrá ahorcado",
+    "Nosotros": "habremos ahorcado",
+    "Vosotros": "habréis ahorcado",
+    "Ellos": "habrán ahorcado"
+  },
+  "ConditionalPerfect": {
+    "Yo": "habría ahorcado",
+    "Tu": "habrías ahorcado",
+    "El": "habría ahorcado",
+    "Nosotros": "habríamos ahorcado",
+    "Vosotros": "habríais ahorcado",
+    "Ellos": "habrían ahorcado"
+  },
+  "SubjunctivePresent": {
+    "Yo": "ahorque",
+    "Tu": "ahorques",
+    "El": "ahorque",
+    "Nosotros": "ahorquemos",
+    "Vosotros": "ahorquéis",
+    "Ellos": "ahorquen"
+  },
+  "ImperativeAffirmativePresent": {
+    "Yo": "",
+    "Tu": "ahorca",
+    "El": "ahorque",
+    "Nosotros": "ahorquemos",
+    "Vosotros": "ahorcad",
+    "Ellos": "ahorquen"
+  },
+  "ImperativeNegativePresent": {
+    "Yo": "",
+    "Tu": "no ahorques",
+    "El": "no ahorque",
+    "Nosotros": "no ahorquemos",
+    "Vosotros": "no ahorquéis",
+    "Ellos": "no ahorquen"
+  },
+  "ending": "ar"
+}
