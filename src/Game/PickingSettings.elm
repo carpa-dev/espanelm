@@ -1,6 +1,6 @@
 module Game.PickingSettings exposing (Model, Msg(..), init, update, view)
 
-import GameCommon exposing (Conjugation, Person, Verb)
+import Game.GameCommon as GameCommon exposing (Conjugation, GameSettings, Person, Verb)
 import Html exposing (Html, a, button, div, h1, h3, h4, img, input, label, li, text, ul)
 import Html.Attributes exposing (checked, class, disabled, for, href, id, placeholder, src, style, type_, value)
 import Html.Events exposing (onBlur, onClick, onInput)
@@ -20,8 +20,8 @@ type alias Model =
 type Msg
     = Change String
     | Blur
-    | Start
-    | SelectConjugation GameCommon.Conjugation
+    | SelectedAllOptions GameSettings
+    | SelectConjugation Conjugation
 
 
 initialModel : Model
@@ -36,9 +36,9 @@ initialModel =
     }
 
 
-init : List String -> ( Model, Cmd Msg )
-init loadedVerbs =
-    ( { initialModel | availableVerbs = loadedVerbs }, Cmd.none )
+init : List String -> GameSettings -> ( Model, Cmd Msg )
+init loadedVerbs gameSettings =
+    ( { initialModel | availableVerbs = loadedVerbs, conjugations = gameSettings.conjugations, verbs = String.join ", " gameSettings.verbs }, Cmd.none )
 
 
 
@@ -54,7 +54,7 @@ update msg model =
         Blur ->
             ( { model | unavailable = getUnavailableVerbs model }, Cmd.none )
 
-        Start ->
+        SelectedAllOptions _ ->
             -- should be handled by parent
             ( model, Cmd.none )
 
@@ -85,7 +85,7 @@ view model =
     div []
         [ h1 [] [ text "Choose your verbs" ]
         , input [ placeholder "Verbs", value model.verbs, onBlur Blur, onInput Change, style "border" (getInputBorderStyle model) ] []
-        , button [ disabled (not (isReadyToPlay model)), onClick Start ] [ text "Play" ]
+        , button [ disabled (not (isReadyToPlay model)), onClick (SelectedAllOptions (getGameSettings model)) ] [ text "Play" ]
         , viewUnavailableVerb model
         , viewConjugationList model
         ]
@@ -186,3 +186,8 @@ isVerbAvailable : List String -> String -> Bool
 isVerbAvailable availableVerbs verb =
     availableVerbs
         |> List.member (String.trim verb)
+
+
+getGameSettings : Model -> GameSettings
+getGameSettings model =
+    { conjugations = model.conjugations, verbs = getVerbList model }

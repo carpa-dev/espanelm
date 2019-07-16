@@ -1,10 +1,11 @@
-module Play exposing (Model, Msg, init, update, view)
+module Game.Game exposing (Model, Msg, init, update, view)
 
 import Debug
-import Game exposing (Msg(..))
 import Game.AvailableVerbs
+import Game.GameCommon exposing (Conjugation, GameSettings, Person, Verb)
 import Game.PickingSettings as PickingSettings exposing (Msg(..))
-import GameCommon exposing (Conjugation, Person, Verb)
+import Game.Play as Play exposing (Msg(..))
+import Game.VerbData as VerbData exposing (VerbData)
 import Html exposing (Html, a, button, div, h1, h3, h4, img, input, label, li, text, ul)
 import Html.Attributes exposing (checked, class, disabled, for, href, id, placeholder, src, style, type_, value)
 import Html.Events exposing (onBlur, onClick, onInput)
@@ -24,24 +25,31 @@ type Page
     = LoadingAvailableVerbs LoadingAvailableVerbs
     | PickingSettings PickingSettings.Model
     | PreparingGame -- Loading verbs, generating rounds
-    | Playing Game.Model -- Actually playing the game
+    | Playing Play.Model -- Actually playing the game
 
 
 type alias Model =
     { page : Page
+    , gameSettings : GameSettings
+    , verbData : List VerbData
+    , availableVerbs : List String
     }
 
 
 initialModel : Model
 initialModel =
     { page = LoadingAvailableVerbs Nothing
+    , gameSettings = { verbs = [], conjugations = [] }
+    , verbData = []
+    , availableVerbs = []
     }
 
 
 type Msg
     = GotVerbOptions (Result Http.Error (List Verb))
-    | GameMsg Game.Msg
+    | PlayMsg Play.Msg
     | PickingSettingsMsg PickingSettings.Msg
+    | GotVerbData (Result Http.Error VerbData)
 
 
 init : ( Model, Cmd Msg )
@@ -56,25 +64,26 @@ init =
 update : Msg -> Model -> ( Model, Cmd Msg )
 update msg model =
     case ( msg, model.page ) of
-        ( GameMsg gameMsg, Playing gameModel ) ->
-            case gameMsg of
+        ( PlayMsg playMsg, Playing playModel ) ->
+            case playMsg of
                 StopGame ->
-                    -- TODO
-                    -- at this point settings doesn't have the state of PickingSettings page anymore
-                    ( model, Cmd.none )
+                    let
+                        ( m, cmd ) =
+                            PickingSettings.init model.availableVerbs model.gameSettings
+                    in
+                    ( { model | page = PickingSettings m }, Cmd.map PickingSettingsMsg cmd )
 
                 _ ->
                     let
                         ( pageModel, pageCmd ) =
-                            Game.update gameMsg gameModel
+                            Play.update playMsg playModel
                     in
-                    ( { model | page = Playing pageModel }, Cmd.map GameMsg pageCmd )
+                    ( { model | page = Playing pageModel }, Cmd.map PlayMsg pageCmd )
 
         ( PickingSettingsMsg psMsg, PickingSettings psModel ) ->
             case psMsg of
-                Start ->
-                    -- TODO: load vebs
-                    ( model, Cmd.none )
+                SelectedAllOptions gameSettings ->
+                    ( { model | page = PreparingGame, gameSettings = gameSettings }, VerbData.load gameSettings.verbs GotVerbData )
 
                 _ ->
                     let
@@ -88,9 +97,9 @@ update msg model =
                 Ok availableVerbs ->
                     let
                         ( m, cmd ) =
-                            PickingSettings.init availableVerbs
+                            PickingSettings.init availableVerbs model.gameSettings
                     in
-                    ( { model | page = PickingSettings m }, Cmd.map PickingSettingsMsg cmd )
+                    ( { model | page = PickingSettings m, availableVerbs = availableVerbs }, Cmd.map PickingSettingsMsg cmd )
 
                 Err r ->
                     ( { model
@@ -99,9 +108,39 @@ update msg model =
                     , Cmd.none
                     )
 
+        ( GotVerbData (Err _), _ ) ->
+            -- TODO
+            ( model, Cmd.none )
+
+        ( GotVerbData (Ok data), _ ) ->
+            let
+                newModel =
+                    { model | verbData = data :: model.verbData }
+
+                toBeLoaded =
+                    List.filter (\v -> data.verb /= v) model.gameSettings.verbs
+
+                --newModel =
+                --   { model | verbsToBeLoaded = verbsLeftToBeLoaded, loadedAnswers = data :: model.loadedAnswers }
+            in
+            case List.length toBeLoaded of
+                0 ->
+                    let
+                        ( m, c ) =
+                            Play.init newModel.gameSettings newModel.verbData
+                    in
+                    ( { newModel | page = Playing m }, Cmd.map PlayMsg Cmd.none )
+
+                _ ->
+                    -- still needs more verbs to be loaded
+                    ( newModel, Cmd.none )
+
+        -- loaded all data
+        --( model, Cmd.none )
+        --( { model | page = Playing Game.init }, Cmd.none )
         -- We could use a (_, _)
         -- but we want the compiler to tell when new Msgs are added
-        ( GameMsg gmsg, _ ) ->
+        ( PlayMsg gmsg, _ ) ->
             ( model, Cmd.none )
 
         ( PickingSettingsMsg psMsg, _ ) ->
@@ -118,8 +157,8 @@ view model =
             viewPreparingGame model
 
         Playing m ->
-            Game.view m
-                |> Html.map GameMsg
+            Play.view m
+                |> Html.map PlayMsg
 
         PickingSettings m ->
             PickingSettings.view m
@@ -143,11 +182,6 @@ viewLoadingAvailableVerbs msg =
 
 
 -- Helpers
-
-
-verbOptionsDecoder : Decoder (List Verb)
-verbOptionsDecoder =
-    list string
 
 
 fetchErrorToString : Http.Error -> String

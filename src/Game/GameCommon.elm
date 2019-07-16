@@ -1,4 +1,4 @@
-module GameCommon exposing (Conjugation(..), Person(..), Verb, allConjugations, allPersons, conjugationToString, personToSpanish, personToString)
+module Game.GameCommon exposing (Conjugation(..), GameSettings, Person(..), PersonsRec, Verb, allConjugations, allPersons, conjugationToString, personToSpanish, personToString)
 
 
 type alias Verb =
@@ -144,3 +144,21 @@ allPersons =
     , SecondPlural
     , ThirdPlural
     ]
+
+
+type alias GameSettings =
+    { verbs : List Verb
+    , conjugations : List Conjugation
+
+    -- TODO: more settings
+    }
+
+
+type alias PersonsRec =
+    { firstSingular : Verb
+    , secondSingular : Verb
+    , thirdSingular : Verb
+    , firstPlural : Verb
+    , secondPlural : Verb
+    , thirdPlural : Verb
+    }

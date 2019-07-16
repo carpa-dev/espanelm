@@ -2,11 +2,11 @@ module Main exposing (Model, Msg(..), init, main, update, view)
 
 import Browser
 import Browser.Navigation as Nav
+import Game.Game as Game
 import Home
 import Html exposing (Html, a, div, h1, text)
 import Html.Attributes exposing (href)
 import NotFound
-import Play
 import Routes
 import Url exposing (Url)
 
@@ -17,7 +17,7 @@ import Url exposing (Url)
 
 type Page
     = Home
-    | Play Play.Model
+    | Game Game.Model
     | NotFound
 
 
@@ -46,7 +46,7 @@ init flags url key =
 type Msg
     = LinkClicked Browser.UrlRequest
     | UrlChanged (Maybe Routes.Route)
-    | PlayMsg Play.Msg
+    | GameMsg Game.Msg
 
 
 setNewPage : Maybe Routes.Route -> Model -> ( Model, Cmd Msg )
@@ -58,9 +58,9 @@ setNewPage maybeRoute model =
         Just Routes.Play ->
             let
                 ( m, cmd ) =
-                    Play.init
+                    Game.init
             in
-            ( { model | page = Play m }, Cmd.map PlayMsg cmd )
+            ( { model | page = Game m }, Cmd.map GameMsg cmd )
 
         Nothing ->
             ( { model | page = NotFound }, Cmd.none )
@@ -80,12 +80,12 @@ update msg model =
         ( UrlChanged url, _ ) ->
             setNewPage url model
 
-        ( PlayMsg playMsg, Play playModel ) ->
+        ( GameMsg playMsg, Game playModel ) ->
             let
                 ( pageModel, pageCmd ) =
-                    Play.update playMsg playModel
+                    Game.update playMsg playModel
             in
-            ( { model | page = Play pageModel }, Cmd.map PlayMsg pageCmd )
+            ( { model | page = Game pageModel }, Cmd.map GameMsg pageCmd )
 
         _ ->
             ( model, Cmd.none )
@@ -101,8 +101,8 @@ viewContent page =
         Home ->
             Home.view
 
-        Play playModel ->
-            Play.view playModel |> Html.map PlayMsg
+        Game gameModel ->
+            Game.view gameModel |> Html.map GameMsg
 
         NotFound ->
             NotFound.view
