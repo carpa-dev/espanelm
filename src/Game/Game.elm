@@ -82,9 +82,8 @@ update msg model =
 
         ( PickingSettingsMsg psMsg, PickingSettings psModel ) ->
             case psMsg of
-                SelectedAllOptions gameSettings ->
-                    ( { model | page = PreparingGame, gameSettings = gameSettings }, VerbData.load gameSettings.verbs GotVerbData )
-
+                --SelectedAllOptions gameSettings ->
+                --    ( { model | page = PreparingGame, gameSettings = gameSettings }, VerbData.load gameSettings.verbs GotVerbData )
                 _ ->
                     let
                         ( m, c ) =
@@ -119,9 +118,6 @@ update msg model =
 
                 toBeLoaded =
                     List.filter (\v -> data.verb /= v) model.gameSettings.verbs
-
-                --newModel =
-                --   { model | verbsToBeLoaded = verbsLeftToBeLoaded, loadedAnswers = data :: model.loadedAnswers }
             in
             case List.length toBeLoaded of
                 0 ->
@@ -135,9 +131,6 @@ update msg model =
                     -- still needs more verbs to be loaded
                     ( newModel, Cmd.none )
 
-        -- loaded all data
-        --( model, Cmd.none )
-        --( { model | page = Playing Game.init }, Cmd.none )
         -- We could use a (_, _)
         -- but we want the compiler to tell when new Msgs are added
         ( PlayMsg gmsg, _ ) ->
