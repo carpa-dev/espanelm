@@ -1,45 +1,14 @@
-module Game.PickingSettings exposing (Input(..), Model, Msg(..), combinedDecoder, decodeVerbs, init, inputDecoder, update, validateVerb, view)
+module Game.PickingSettings exposing (Model, Msg(..), OutMsg(..), combinedDecoder, conjugationDecoder, decodeVerbs, init, inputDecoder, update, validateVerb, view)
 
 import Bool.Extra as BoolExtra
 import Form.Decoder as Decoder exposing (Decoder, Validator, custom)
 import Game.GameCommon as GameCommon exposing (Conjugation, GameSettings, Person, Verb)
-import Html exposing (Html, a, button, div, h1, h3, h4, img, input, label, li, span, text, ul)
+import Html exposing (Html, a, button, div, form, h1, h3, h4, img, input, label, li, span, text, ul)
 import Html.Attributes exposing (checked, class, disabled, for, href, id, placeholder, src, style, type_, value)
-import Html.Events exposing (onBlur, onClick, onInput)
+import Html.Events exposing (onBlur, onCheck, onClick, onInput, onSubmit)
 import List.Extra exposing (foldl1)
 import Maybe.Extra as MaybeExtra exposing (unwrap, values)
-
-
-type alias Model =
-    { form : GameSettingsForm
-    , unavailable : List String
-    , conjugations : List Conjugation
-    , available : Available
-    }
-
-
-type alias GameSettingsForm =
-    { verbs : Input
-    , conjugations : List Conjugation
-    }
-
-
-
--- Pristine = user hasn't touched it yet
--- Dirty = user has touched but we haven't validated yet
--- Valid/Invalid = user touched, and we have validated
-
-
-type Input
-    = Pristine
-    | Dirty String
-    | Valid String
-    | Invalid String (List VerbError)
-
-
-
--- | Valid String
--- | Invalid String
+import Result.Extra
 
 
 type alias Available =
@@ -49,23 +18,65 @@ type alias Available =
     }
 
 
+type alias Model =
+    { form : GameSettingsForm
+    , available : Available
+    }
+
+
+type alias GameSettingsForm =
+    { verbs : VerbInput
+    , conjugations : ConjugationsInput
+    }
+
+
+type VerbInput
+    = VerbPristine String -- Pristine = user hasn't touched it yet
+    | VerbDirty String -- Dirty = user has touched but we haven't validated yet
+    | VerbValid String -- Valid/Invalid = user touched, and we have validated
+    | VerbInvalid String (List VerbsError)
+
+
+type ConjugationsInput
+    = ConjugationPristine (List Conjugation)
+    | ConjugationDirty (List Conjugation)
+    | ConjugationValid (List Conjugation)
+    | ConjugationInvalid (List Conjugation) (List ConjugationsError)
+
+
+type GameSettingsFormErrors
+    = ConjugationsError ConjugationsError
+    | VerbsError VerbsError
+
+
+type ConjugationsError
+    = ConjugationRequired
+
+
+type VerbsError
+    = VerbNotAvailable String
+    | VerbRequired
+
+
 type Msg
     = Change String
     | Blur
-    | SelectedAllOptions
-    | SelectConjugation Conjugation
+    | SelectConjugation Conjugation Bool
     | OnSubmit
+
+
+type OutMsg
+    = Play GameSettings
+    | NoOp
 
 
 init : List String -> GameSettings -> ( Model, Cmd Msg )
 init loadedVerbs gameSettings =
-    ( { unavailable = []
-      , available =
+    ( { available =
             { conjugations = GameCommon.allConjugations
             , persons = GameCommon.allPersons
             , verbs = loadedVerbs
             }
-      , conjugations = gameSettings.conjugations
       , form = initForm gameSettings
       }
     , Cmd.none
@@ -78,17 +89,22 @@ initForm gameSettings =
     -- either a field is Pristine (initial setup)
     -- or Valid (came from a previous run)
     { verbs = initVerb gameSettings.verbs
-    , conjugations = gameSettings.conjugations
+    , conjugations = initConjugation gameSettings.conjugations
     }
 
 
-initVerb : List Verb -> Input
+initVerb : List Verb -> VerbInput
 initVerb verbs =
     if List.length verbs > 0 then
-        Dirty (String.join ", " verbs)
+        VerbDirty (String.join ", " verbs)
 
     else
-        Pristine
+        VerbPristine ""
+
+
+initConjugation : List Conjugation -> ConjugationsInput
+initConjugation conjugation =
+    ConjugationPristine conjugation
 
 
 
@@ -96,70 +112,125 @@ initVerb verbs =
 -- all verbs are available
 
 
-update : Msg -> Model -> ( Model, Cmd Msg )
+update : Msg -> Model -> ( Model, Cmd Msg, OutMsg )
 update msg model =
-    case Debug.log "msg" msg of
+    case msg of
         Change verbs ->
-            updateFormVerbDirty model verbs
+            ( updateFormVerbDirty model verbs, Cmd.none, NoOp )
 
         Blur ->
-            updateFormVerbOnBlur model
+            ( updateFormVerbOnBlur model, Cmd.none, NoOp )
 
-        SelectedAllOptions ->
-            -- should be handled by parent
-            ( model, Cmd.none )
-
-        SelectConjugation conjugation ->
-            ( updateConjugation model conjugation, Cmd.none )
+        SelectConjugation conjugation checked ->
+            ( { model | form = updateConjugation model conjugation }, Cmd.none, NoOp )
 
         OnSubmit ->
-            updateFormVerbOnBlur model
+            let
+                m =
+                    updateFormVerbOnBlur model
+
+                form =
+                    m.form
+
+                newForm =
+                    { form | conjugations = validateConjugation (conjugationToList form.conjugations) }
+
+                newModel =
+                    { m | form = newForm }
+            in
+            case decodeEntireForm model of
+                Err _ ->
+                    ( newModel, Cmd.none, NoOp )
+
+                Ok gameForm ->
+                    ( newModel, Cmd.none, Play gameForm )
 
 
 
 -- Updates model when user is typing (Dirty)
 
 
-updateFormVerbDirty : Model -> String -> ( Model, Cmd Msg )
+setVerb : GameSettingsForm -> VerbInput -> GameSettingsForm
+setVerb form verbs =
+    { form | verbs = verbs }
+
+
+setForm : Model -> GameSettingsForm -> Model
+setForm model form =
+    { model | form = form }
+
+
+updateFormVerbDirty : Model -> String -> Model
 updateFormVerbDirty model verb =
-    let
-        form =
-            model.form
-
-        newForm =
-            { form | verbs = Dirty verb }
-    in
-    ( { model | form = newForm }, Cmd.none )
+    setVerb model.form (VerbDirty verb)
+        |> setForm model
 
 
-
--- Update model when user has stopped typing (OnBlur)
-
-
-updateFormVerbOnBlur : Model -> ( Model, Cmd Msg )
+updateFormVerbOnBlur : Model -> Model
 updateFormVerbOnBlur model =
+    setVerb model.form (validateVerb model.available.verbs model.form.verbs)
+        |> setForm model
+
+
+updateConjugation : Model -> Conjugation -> GameSettingsForm
+updateConjugation model conjugation =
     let
         form =
             model.form
 
-        newForm =
-            { form | verbs = validateVerb model.available.verbs model.form.verbs }
+        list =
+            conjugationToList form.conjugations
     in
-    ( { model | form = newForm }, Cmd.none )
-
-
-updateConjugation : Model -> Conjugation -> Model
-updateConjugation model conjugation =
-    case List.member conjugation model.conjugations of
+    case List.member conjugation list of
         True ->
             let
                 newConj =
-                    List.filter (\c -> c /= conjugation) model.conjugations
+                    List.filter (\c -> c /= conjugation) list
             in
-            { model | conjugations = newConj }
+            { form | conjugations = validateConjugation newConj }
 
         False ->
-            { model | conjugations = conjugation :: model.conjugations }
+            { form | conjugations = validateConjugation (conjugationToList (addConjugationToList conjugation form.conjugations)) }
+
+
+addConjugationToList : Conjugation -> ConjugationsInput -> ConjugationsInput
+addConjugationToList conjugation allConjugations =
+    ConjugationDirty
+        (conjugation
+            :: conjugationToList allConjugations
+        )
+
+
+conjugationToList : ConjugationsInput -> List Conjugation
+conjugationToList c_ =
+    case c_ of
+        ConjugationPristine c ->
+            c
+
+        ConjugationDirty c ->
+            c
+
+        ConjugationInvalid c _ ->
+            c
+
+        ConjugationValid c ->
+            c
+
+
+inputToString : VerbInput -> String
+inputToString i_ =
+    case i_ of
+        VerbDirty i ->
+            i
+
+        VerbPristine i ->
+            i
+
+        VerbInvalid i _ ->
+            i
+
+        VerbValid i ->
+            i
 
 
 
@@ -168,7 +239,7 @@ updateConjugation model conjugation =
 
 view : Model -> Html Msg
 view model =
-    div []
+    form [ onSubmit OnSubmit ]
         [ h1 [] [ text "Choose your verbs" ]
         , input [ placeholder "Verbs", value (inputToString model.form.verbs), onBlur Blur, onInput Change, style "border" (getInputBorderStyle model) ] []
         , viewSubmitButton model
@@ -179,53 +250,7 @@ view model =
 
 viewSubmitButton : Model -> Html Msg
 viewSubmitButton model =
-    button [ onClick OnSubmit ] [ text "Play" ]
-
-
-
---Ok ok ->
---    button [ onClick SelectedAllOptions ] [ text "Play" ]
--- let
---     action =
---         BoolExtra.ifElse (SelectedAllOptions) OnSubmit (isFormValid model)
--- in
---case convertFormToGameSettings model.form of
---    Just gameSettings ->
---        button [ disabled False, onClick (SelectedAllOptions gameSettings) ] [ text "Play" ]
---   Nothing ->
-
-
-inputToString : Input -> String
-inputToString field =
-    case field of
-        Pristine ->
-            ""
-
-        Dirty s ->
-            s
-
-        Valid s ->
-            s
-
-        Invalid s _ ->
-            s
-
-
-
---Valid a ->
---    a
---Invalid a ->
---    a
-
-
-maybeVerbToString : Maybe Verb -> String
-maybeVerbToString verb =
-    case verb of
-        Just v ->
-            v
-
-        Nothing ->
-            ""
+    button [] [ text "Play" ]
 
 
 
@@ -235,11 +260,6 @@ maybeVerbToString verb =
 getInputBorderStyle : Model -> String
 getInputBorderStyle model =
     "1px solid grey"
-
-
-isValid : Model -> Bool
-isValid model =
-    True
 
 
 
@@ -256,7 +276,7 @@ isVerbEmpty verb =
     verb |> String.trim |> String.isEmpty
 
 
-getNotAvailableVerbErrors : List VerbError -> String
+getNotAvailableVerbErrors : List VerbsError -> String
 getNotAvailableVerbErrors errors =
     let
         notAvailableErrors =
@@ -279,14 +299,14 @@ getNotAvailableVerbErrors errors =
             "Following verbs are not available: " ++ String.join ", " (MaybeExtra.values notAvailableErrors)
 
 
-getNormalVerbErrors : List VerbError -> String
+getNormalVerbErrors : List VerbsError -> String
 getNormalVerbErrors errors =
     let
         hasNormalError =
             List.any
                 (\v ->
                     case v of
-                        MinimumLength ->
+                        VerbRequired ->
                             True
 
                         _ ->
@@ -295,7 +315,7 @@ getNormalVerbErrors errors =
                 errors
     in
     if hasNormalError then
-        "This field is required"
+        "This field is required (verbs)"
 
     else
         ""
@@ -304,7 +324,7 @@ getNormalVerbErrors errors =
 viewFormVerbErrors : Model -> Html Msg
 viewFormVerbErrors model =
     case model.form.verbs of
-        Invalid s errors ->
+        VerbInvalid s errors ->
             let
                 formattedErrors =
                     [ getNotAvailableVerbErrors errors ] ++ [ getNormalVerbErrors errors ]
@@ -321,26 +341,6 @@ viewFormVerbErrors model =
             text ""
 
 
-validateVerb : List String -> Input -> Input
-validateVerb availableVerbs input =
-    let
-        valid =
-            Decoder.run
-                (combinedDecoder availableVerbs)
-                (Debug.log "breakString"
-                    (breakString
-                        (inputToString input)
-                    )
-                )
-    in
-    case Debug.log "valid" valid of
-        Err err ->
-            Invalid (inputToString input) err
-
-        Ok _ ->
-            Valid (inputToString input)
-
-
 conjugationToID : Conjugation -> String
 conjugationToID conjugation =
     conjugation
@@ -352,8 +352,8 @@ conjugationToID conjugation =
 viewConjugationCheckbox : String -> Model -> Conjugation -> Html Msg
 viewConjugationCheckbox t model conjugation =
     li []
-        [ input [ type_ "checkbox", id (conjugationToID conjugation), checked (viewCheckedCheckbox model conjugation) ] []
-        , label [ for (conjugationToID conjugation), onClick (SelectConjugation conjugation) ] [ text t ]
+        [ input [ type_ "checkbox", id (conjugationToID conjugation), checked (viewCheckedCheckbox model conjugation), onCheck (SelectConjugation conjugation) ] []
+        , label [ for (conjugationToID conjugation) ] [ text t ]
         ]
 
 
@@ -362,20 +362,34 @@ viewConjugationSettings model conjugation =
     viewConjugationCheckbox (GameCommon.conjugationToString conjugation) model conjugation
 
 
+viewConjugationValidation : Model -> Html Msg
+viewConjugationValidation model =
+    case model.form.conjugations of
+        ConjugationInvalid errors _ ->
+            div [ style "color" "red" ] [ text "please pick a conjugation" ]
+
+        _ ->
+            div [] []
+
+
 viewConjugationList : Model -> Html Msg
 viewConjugationList model =
-    ul []
-        (List.map
-            (viewConjugationSettings
-                model
+    div []
+        [ viewConjugationValidation
+            model
+        , ul []
+            (List.map
+                (viewConjugationSettings
+                    model
+                )
+                model.available.conjugations
             )
-            model.available.conjugations
-        )
+        ]
 
 
 viewCheckedCheckbox : Model -> Conjugation -> Bool
 viewCheckedCheckbox model conjugation =
-    List.member conjugation model.conjugations
+    List.member conjugation (conjugationToList model.form.conjugations)
 
 
 
@@ -384,7 +398,7 @@ viewCheckedCheckbox model conjugation =
 
 isReadyToPlay : Model -> Bool
 isReadyToPlay model =
-    isValid model && (List.length model.conjugations > 0)
+    True
 
 
 getUnavailableVerbs : List String -> List String -> List String
@@ -403,7 +417,7 @@ verbsToString verbs =
     String.join ", " verbs
 
 
-inputToListVerb : Input -> List Verb
+inputToListVerb : VerbInput -> List Verb
 inputToListVerb verbs =
     let
         l =
@@ -417,48 +431,11 @@ inputToListVerb verbs =
             l
 
 
-validateConjugations : List Conjugation -> Maybe (List Conjugation)
-validateConjugations conjugations =
-    if List.isEmpty conjugations then
-        Nothing
 
-    else
-        Just conjugations
+-- Form
 
 
-type VerbNotAvailableError
-    = String
-
-
-type VerbError
-    = MinimumLength
-    | VerbNotAvailable String
-
-
-isFormValid : Model -> Bool
-isFormValid model =
-    -- TODO
-    case model.form.verbs of
-        Valid _ ->
-            True
-
-        _ ->
-            False
-
-
-validateVerbAvailability :
-    List String
-    -> String
-    -> Result (List VerbError) String
-validateVerbAvailability availableVerbs v =
-    if List.member (Debug.log "verb being validated" v) availableVerbs then
-        Ok v
-
-    else
-        Err [ VerbNotAvailable v ]
-
-
-inputDecoder : Decoder (List String) VerbError (List String)
+inputDecoder : Decoder (List String) VerbsError (List String)
 inputDecoder =
     Decoder.custom
         (\s ->
@@ -467,30 +444,186 @@ inputDecoder =
                     s |> String.join ""
             in
             if String.length joined <= 0 then
-                Err [ MinimumLength ]
+                Err [ VerbRequired ]
 
             else
                 Ok s
         )
 
 
-decodeSingleVerb : List String -> Decoder String VerbError String
-decodeSingleVerb availableVerbs =
+decodeSingleVerbAvailability : List String -> Decoder String VerbsError String
+decodeSingleVerbAvailability availableVerbs =
     Decoder.custom
         (validateVerbAvailability availableVerbs)
 
 
-decodeVerbs : List String -> Decoder (List String) VerbError (List String)
+decodeVerbs : List String -> Decoder (List String) VerbsError (List String)
 decodeVerbs availableVerbs =
-    Decoder.list (decodeSingleVerb availableVerbs)
+    Decoder.list (decodeSingleVerbAvailability availableVerbs)
 
 
-combinedDecoder : List String -> Decoder (List String) VerbError (List String)
+combinedDecoder : List String -> Decoder (List String) VerbsError (List String)
 combinedDecoder availableVerbs =
     inputDecoder
         |> Decoder.andThen (\_ -> decodeVerbs availableVerbs)
 
 
-breakString : String -> List String
-breakString s =
+
+-- form helpers
+
+
+validateVerbAvailability :
+    List String
+    -> String
+    -> Result (List VerbsError) String
+validateVerbAvailability availableVerbs v =
+    if List.member v availableVerbs then
+        Ok v
+
+    else
+        Err [ VerbNotAvailable v ]
+
+
+filterFilledVerb : Verb -> List String
+filterFilledVerb s =
     s |> String.split "," |> List.map String.trim |> List.filter (not << String.isEmpty)
+
+
+
+-- Public api
+
+
+conjugationDecoder : Decoder (List Conjugation) ConjugationsError ()
+conjugationDecoder =
+    Decoder.custom
+        (\c ->
+            if List.isEmpty c then
+                Err [ ConjugationRequired ]
+
+            else
+                Ok ()
+        )
+
+
+
+-- Given a list of available verbs, and a VerbInput
+-- Validates and return the new input
+
+
+validateVerb : List String -> VerbInput -> VerbInput
+validateVerb availableVerbs input_ =
+    let
+        input =
+            inputToString input_
+
+        decoded =
+            decodeFormVerb availableVerbs input_
+    in
+    case decoded of
+        Err err ->
+            VerbInvalid input err
+
+        Ok _ ->
+            VerbValid input
+
+
+validateConjugation : List Conjugation -> ConjugationsInput
+validateConjugation c_ =
+    let
+        decoded =
+            decodeConjugation c_
+    in
+    case decoded of
+        Ok c ->
+            ConjugationValid c_
+
+        Err err ->
+            ConjugationInvalid c_ err
+
+
+decodeFormVerb : List Verb -> VerbInput -> Result (List VerbsError) (List String)
+decodeFormVerb availableVerbs input =
+    Decoder.run
+        (combinedDecoder availableVerbs)
+        (filterFilledVerb (inputToString input))
+
+
+decodeConjugation : List Conjugation -> Result (List ConjugationsError) ConjugationsInput
+decodeConjugation conjugations =
+    if List.isEmpty conjugations then
+        Err [ ConjugationRequired ]
+
+    else
+        Ok (ConjugationValid conjugations)
+
+
+decodeEntireForm : Model -> Result (List GameSettingsFormErrors) GameSettings
+decodeEntireForm model =
+    let
+        brandNewForm =
+            { verbs = [], conjugations = [] }
+    in
+    Ok brandNewForm |> decodeConjugationForForm model |> decodeVerbForForm model
+
+
+decodeVerbForForm : Model -> Result (List GameSettingsFormErrors) GameSettings -> Result (List GameSettingsFormErrors) GameSettings
+decodeVerbForForm model form =
+    let
+        input =
+            inputToString model.form.verbs
+
+        verbs =
+            Decoder.run
+                (combinedDecoder model.available.verbs)
+                (filterFilledVerb input)
+    in
+    case verbs of
+        Err e ->
+            Err (applyWithError (\e_ -> e_ ++ wrapVerbError e) form)
+
+        Ok v ->
+            Ok (\f -> { f | verbs = v }) |> Result.Extra.andMap form
+
+
+applyWithError : (List a -> List a) -> Result (List a) b -> List a
+applyWithError wrapFn result =
+    case result of
+        Err err ->
+            wrapFn err
+
+        Ok _ ->
+            wrapFn []
+
+
+decodeConjugationForForm : Model -> Result (List GameSettingsFormErrors) GameSettings -> Result (List GameSettingsFormErrors) GameSettings
+decodeConjugationForForm model form =
+    let
+        conjugation =
+            decodeConjugation (conjugationToList model.form.conjugations)
+    in
+    case conjugation of
+        Err e ->
+            Err (applyWithError (\e_ -> e_ ++ wrapConjugationError e) form)
+
+        Ok c ->
+            Ok (\f -> { f | conjugations = conjugationToList c }) |> Result.Extra.andMap form
+
+
+wrap : (a -> b) -> a -> b
+wrap f a =
+    f a
+
+
+wrapList : List a -> (a -> b) -> List b
+wrapList a f =
+    List.map (wrap f) a
+
+
+wrapVerbError : List VerbsError -> List GameSettingsFormErrors
+wrapVerbError err =
+    wrapList err VerbsError
+
+
+wrapConjugationError : List ConjugationsError -> List GameSettingsFormErrors
+wrapConjugationError err =
+    wrapList err ConjugationsError
