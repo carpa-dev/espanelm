@@ -4,8 +4,9 @@ import Browser
 import Browser.Navigation as Nav
 import Game.Game as Game
 import Home
-import Html exposing (Html, a, div, h1, text)
-import Html.Attributes exposing (href)
+import Html exposing (Html, a, button, div, h1, nav, span, text)
+import Html.Attributes exposing (class, href)
+import Html.Events exposing (onClick)
 import NotFound
 import Routes
 import Url exposing (Url)
@@ -24,6 +25,7 @@ type Page
 type alias Model =
     { page : Page
     , key : Nav.Key
+    , isMenuOpen : Bool
     }
 
 
@@ -31,6 +33,7 @@ initialModel : Nav.Key -> Model
 initialModel navigationKey =
     { page = Home
     , key = navigationKey
+    , isMenuOpen = False
     }
 
 
@@ -47,6 +50,7 @@ type Msg
     = LinkClicked Browser.UrlRequest
     | UrlChanged (Maybe Routes.Route)
     | GameMsg Game.Msg
+    | ToggleMenu
 
 
 setNewPage : Maybe Routes.Route -> Model -> ( Model, Cmd Msg )
@@ -87,6 +91,9 @@ update msg model =
             in
             ( { model | page = Game pageModel }, Cmd.map GameMsg pageCmd )
 
+        ( ToggleMenu, _ ) ->
+            ( { model | isMenuOpen = not model.isMenuOpen }, Cmd.none )
+
         _ ->
             ( model, Cmd.none )
 
@@ -112,14 +119,47 @@ view : Model -> Browser.Document Msg
 view model =
     { title = "Espanelm"
     , body =
-        [ div []
-            [ h1 [] [ text "espanelm" ]
-            , a [ href <| Routes.toUrl Routes.Home ] [ text "link to home | " ]
-            , a [ href <| Routes.toUrl Routes.Play ] [ text "i am the play page" ]
-            , div [] [ viewContent model.page ]
-            ]
+        [ viewNavbar model
+        , div [] [ viewContent model.page ]
         ]
     }
+
+
+viewNavbar : Model -> Html Msg
+viewNavbar model =
+    nav [ class "navbar is-primary" ]
+        [ div [ class "navbar-brand" ]
+            [ div [ class "navbar-item" ] [ text "espanelm" ]
+            , viewMenuButton model
+            ]
+        , div [ class (withMenuClass "navbar-menu" model) ]
+            [ div [ class "navbar-end" ]
+                [ a [ class "navbar-item", href <| Routes.toUrl Routes.Home, onClick ToggleMenu ] [ text "Home" ]
+                , a [ class "navbar-item", href <| Routes.toUrl Routes.Play, onClick ToggleMenu ] [ text "Play" ]
+                ]
+            ]
+        ]
+
+
+viewMenuButton : Model -> Html Msg
+viewMenuButton model =
+    button
+        [ class (withMenuClass "navbar-burger burger" model)
+        , onClick ToggleMenu
+        ]
+        [ span [] []
+        , span [] []
+        , span [] []
+        ]
+
+
+withMenuClass : String -> Model -> String
+withMenuClass baseClasses model =
+    if model.isMenuOpen then
+        baseClasses ++ " is-active"
+
+    else
+        baseClasses
 
 
 subscriptions : Model -> Sub Msg

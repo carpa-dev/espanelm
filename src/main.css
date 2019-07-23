@@ -27,10 +27,28 @@ img {
   max-width: 400px;
   margin: 0 auto;
 }
+
 .game-card .card-header-title > * {
   width: 100%;
 }
 
 .game-card .field-label {
   flex-grow: 0;
+}
+
+.navbar.is-primary,
+.navbar.is-primary .navbar-brand > .navbar-item,
+.navbar.is-primary .navbar-brand .navbar-link,
+.navbar.is-primary .navbar-burger {
+  color: #363636;
+}
+
+button.navbar-burger {
+  border: 0;
+  background: none;
+}
+
+.navbar-menu.is-active {
+  width: 100%;
+  position: absolute;
 }
