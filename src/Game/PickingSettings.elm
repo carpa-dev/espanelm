@@ -3,7 +3,7 @@ module Game.PickingSettings exposing (Model, Msg(..), OutMsg(..), combinedDecode
 import Bool.Extra as BoolExtra
 import Form.Decoder as Decoder exposing (Decoder, Validator, custom)
 import Game.GameCommon as GameCommon exposing (Conjugation, GameSettings, Person, Verb)
-import Html exposing (Html, a, button, div, form, h1, h3, h4, img, input, label, li, span, text, ul)
+import Html exposing (Html, a, button, div, form, h1, h3, h4, img, input, label, li, p, span, text, ul)
 import Html.Attributes exposing (checked, class, disabled, for, href, id, placeholder, src, style, type_, value)
 import Html.Events exposing (onBlur, onCheck, onClick, onInput, onSubmit)
 import List.Extra exposing (foldl1)
@@ -252,16 +252,34 @@ view : Model -> Html Msg
 view model =
     form [ onSubmit OnSubmit ]
         [ h1 [] [ text "Choose your verbs" ]
-        , input [ placeholder "Verbs", value (inputToString model.form.verbs), onBlur OnBlurVerbs, onInput OnInputVerbs ] []
-        , viewSubmitButton model
-        , viewFormVerbErrors model
+        , div [ class "field" ]
+            [ input [ placeholder "Verbs", value (inputToString model.form.verbs), onBlur OnBlurVerbs, onInput OnInputVerbs ] []
+            , viewFormVerbErrors model
+            , viewSubmitButton model
+            ]
         , viewConjugationList model
         ]
 
 
+verbInputStateClass : Model -> String
+verbInputStateClass model =
+    case model.form.verbs of
+        VerbInvalid _ _ ->
+            " is-danger"
+
+        VerbValid _ ->
+            " is-success"
+
+        _ ->
+            ""
+
+
 viewSubmitButton : Model -> Html Msg
 viewSubmitButton model =
-    button [] [ text "Play" ]
+    div [ class "control" ]
+        [ button [ class "button is-primary" ] [ text "Play" ]
+        , button [ class "btn btn-blue" ] [ text "play" ]
+        ]
 
 
 areConjugationsValid : List Conjugation -> Bool
@@ -307,17 +325,13 @@ viewFormVerbErrors model =
             div [ style "color" "red" ]
                 (List.map
                     (\e ->
-                        div [] [ text e ]
+                        p [ class "help is-danger" ] [ text e ]
                     )
                     formattedErrors
                 )
 
         _ ->
-            text ""
-
-
-
--- Filter VerbNotAvailable errors and build a friendly error message
+            p [ class "help" ] [ text "  _" ]
 
 
 notAvailableVerbErrMsg : List VerbsError -> String
