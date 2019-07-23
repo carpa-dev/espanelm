@@ -1,4 +1,4 @@
-module Game.GameCommon exposing (Conjugation(..), GameSettings, Person(..), PersonsRec, Verb, allConjugations, allPersons, conjugationToString, personToSpanish, personToString)
+module Game.GameCommon exposing (Conjugation(..), GameSettings, Person(..), PersonsRec, Verb, allConjugations, allPersons, conjugationExample, conjugationToString, personToSpanish, personToString)
 
 
 type alias Verb =
@@ -74,6 +74,49 @@ type Conjugation
     | SubjunctivePresent
 
 
+conjugationExample : Conjugation -> String
+conjugationExample c =
+    case c of
+        ConditionalPerfect ->
+            "Yo habría comido"
+
+        ConditionalPresent ->
+            "Yo comería"
+
+        ImperativeAffirmativePresent ->
+            "Come la comida"
+
+        ImperativeNegativePresent ->
+            "No comas la comida"
+
+        IndicativeFuture ->
+            "Yo comeré"
+
+        IndicativeFuturePerfect ->
+            "Yo habré comido"
+
+        IndicativeImperfect ->
+            "Yo comía"
+
+        IndicativePastPerfect ->
+            "Yo había comido"
+
+        IndicativePresent ->
+            "Yo como"
+
+        IndicativePresentPerfect ->
+            "Yo he comido"
+
+        IndicativePresentProgressive ->
+            "Estoy comiendo"
+
+        IndicativePreterite ->
+            "Yo comí"
+
+        SubjunctivePresent ->
+            "Yo coma"
+
+
 conjugationToString : Conjugation -> String
 conjugationToString conjugation =
     case conjugation of
@@ -119,18 +162,18 @@ conjugationToString conjugation =
 
 allConjugations : List Conjugation
 allConjugations =
-    [ ConditionalPerfect
+    [ IndicativePresent
+    , IndicativePreterite
+    , IndicativeFuture
     , ConditionalPresent
+    , ConditionalPerfect
+    , IndicativePresentPerfect
+    , IndicativePresentProgressive
     , ImperativeAffirmativePresent
     , ImperativeNegativePresent
-    , IndicativeFuture
     , IndicativeFuturePerfect
     , IndicativeImperfect
     , IndicativePastPerfect
-    , IndicativePresent
-    , IndicativePresentPerfect
-    , IndicativePresentProgressive
-    , IndicativePreterite
     , SubjunctivePresent
     ]
 

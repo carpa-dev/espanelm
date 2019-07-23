@@ -30,10 +30,16 @@ type alias GameSettingsForm =
     }
 
 
+
+-- Pristine = user hasn't touched it yet
+-- Dirty = user has touched but we haven't validated yet
+-- Valid/Invalid = user touched, and we have validated
+
+
 type VerbInput
-    = VerbPristine String -- Pristine = user hasn't touched it yet
-    | VerbDirty String -- Dirty = user has touched but we haven't validated yet
-    | VerbValid String -- Valid/Invalid = user touched, and we have validated
+    = VerbPristine String
+    | VerbDirty String
+    | VerbValid String
     | VerbInvalid String (List VerbsError)
 
 
@@ -58,10 +64,14 @@ type VerbsError
     | VerbRequired
 
 
+
+-- Msg
+
+
 type Msg
-    = Change String
-    | Blur
-    | SelectConjugation Conjugation Bool
+    = OnInputVerbs String
+    | OnBlurVerbs
+    | ToggleConjugation Conjugation Bool
     | OnSubmit
 
 
@@ -89,7 +99,7 @@ initForm gameSettings =
     -- either a field is Pristine (initial setup)
     -- or Valid (came from a previous run)
     { verbs = initVerb gameSettings.verbs
-    , conjugations = initConjugation gameSettings.conjugations
+    , conjugations = ConjugationPristine gameSettings.conjugations
     }
 
 
@@ -102,48 +112,26 @@ initVerb verbs =
         VerbPristine ""
 
 
-initConjugation : List Conjugation -> ConjugationsInput
-initConjugation conjugation =
-    ConjugationPristine conjugation
-
-
 
 -- update
--- all verbs are available
 
 
 update : Msg -> Model -> ( Model, Cmd Msg, OutMsg )
 update msg model =
     case msg of
-        Change verbs ->
+        OnInputVerbs verbs ->
             ( updateFormVerbDirty model verbs, Cmd.none, NoOp )
 
-        Blur ->
-            ( updateFormVerbOnBlur model, Cmd.none, NoOp )
+        OnBlurVerbs ->
+            -- When user blurs the input
+            -- We want to validate it
+            ( updateFormVerbOnBlurVerbs model, Cmd.none, NoOp )
 
-        SelectConjugation conjugation checked ->
+        ToggleConjugation conjugation checked ->
             ( { model | form = updateConjugation model conjugation }, Cmd.none, NoOp )
 
         OnSubmit ->
-            let
-                m =
-                    updateFormVerbOnBlur model
-
-                form =
-                    m.form
-
-                newForm =
-                    { form | conjugations = validateConjugation (conjugationToList form.conjugations) }
-
-                newModel =
-                    { m | form = newForm }
-            in
-            case decodeEntireForm model of
-                Err _ ->
-                    ( newModel, Cmd.none, NoOp )
-
-                Ok gameForm ->
-                    ( newModel, Cmd.none, Play gameForm )
+            updateOnSubmit model
 
 
 
@@ -166,8 +154,8 @@ updateFormVerbDirty model verb =
         |> setForm model
 
 
-updateFormVerbOnBlur : Model -> Model
-updateFormVerbOnBlur model =
+updateFormVerbOnBlurVerbs : Model -> Model
+updateFormVerbOnBlurVerbs model =
     setVerb model.form (validateVerb model.available.verbs model.form.verbs)
         |> setForm model
 
@@ -217,6 +205,29 @@ conjugationToList c_ =
             c
 
 
+updateOnSubmit : Model -> ( Model, Cmd Msg, OutMsg )
+updateOnSubmit model =
+    let
+        m =
+            updateFormVerbOnBlurVerbs model
+
+        form =
+            m.form
+
+        newForm =
+            { form | conjugations = validateConjugation (conjugationToList form.conjugations) }
+
+        newModel =
+            { m | form = newForm }
+    in
+    case decodeEntireForm model of
+        Err _ ->
+            ( newModel, Cmd.none, NoOp )
+
+        Ok gameForm ->
+            ( newModel, Cmd.none, Play gameForm )
+
+
 inputToString : VerbInput -> String
 inputToString i_ =
     case i_ of
@@ -241,7 +252,7 @@ view : Model -> Html Msg
 view model =
     form [ onSubmit OnSubmit ]
         [ h1 [] [ text "Choose your verbs" ]
-        , input [ placeholder "Verbs", value (inputToString model.form.verbs), onBlur Blur, onInput Change, style "border" (getInputBorderStyle model) ] []
+        , input [ placeholder "Verbs", value (inputToString model.form.verbs), onBlur OnBlurVerbs, onInput OnInputVerbs ] []
         , viewSubmitButton model
         , viewFormVerbErrors model
         , viewConjugationList model
@@ -253,19 +264,6 @@ viewSubmitButton model =
     button [] [ text "Play" ]
 
 
-
--- style helpers
-
-
-getInputBorderStyle : Model -> String
-getInputBorderStyle model =
-    "1px solid grey"
-
-
-
---    areConjugationsValid model.form.conjugations && isInputValid model.form.verbs
-
-
 areConjugationsValid : List Conjugation -> Bool
 areConjugationsValid conjugations =
     not <| List.isEmpty conjugations
@@ -274,29 +272,6 @@ areConjugationsValid conjugations =
 isVerbEmpty : String -> Bool
 isVerbEmpty verb =
     verb |> String.trim |> String.isEmpty
-
-
-getNotAvailableVerbErrors : List VerbsError -> String
-getNotAvailableVerbErrors errors =
-    let
-        notAvailableErrors =
-            List.map
-                (\v ->
-                    case v of
-                        VerbNotAvailable err ->
-                            Just err
-
-                        _ ->
-                            Nothing
-                )
-                errors
-    in
-    case MaybeExtra.values notAvailableErrors of
-        [] ->
-            ""
-
-        _ ->
-            "Following verbs are not available: " ++ String.join ", " (MaybeExtra.values notAvailableErrors)
 
 
 getNormalVerbErrors : List VerbsError -> String
@@ -327,7 +302,7 @@ viewFormVerbErrors model =
         VerbInvalid s errors ->
             let
                 formattedErrors =
-                    [ getNotAvailableVerbErrors errors ] ++ [ getNormalVerbErrors errors ]
+                    [ notAvailableVerbErrMsg errors ] ++ [ getNormalVerbErrors errors ]
             in
             div [ style "color" "red" ]
                 (List.map
@@ -341,25 +316,77 @@ viewFormVerbErrors model =
             text ""
 
 
-conjugationToID : Conjugation -> String
-conjugationToID conjugation =
-    conjugation
-        |> GameCommon.conjugationToString
-        |> String.replace " " "-"
-        |> String.toLower
+
+-- Filter VerbNotAvailable errors and build a friendly error message
 
 
-viewConjugationCheckbox : String -> Model -> Conjugation -> Html Msg
-viewConjugationCheckbox t model conjugation =
-    li []
-        [ input [ type_ "checkbox", id (conjugationToID conjugation), checked (viewCheckedCheckbox model conjugation), onCheck (SelectConjugation conjugation) ] []
-        , label [ for (conjugationToID conjugation) ] [ text t ]
+notAvailableVerbErrMsg : List VerbsError -> String
+notAvailableVerbErrMsg errors =
+    let
+        notAvailableErrors =
+            List.map
+                (\v ->
+                    case v of
+                        VerbNotAvailable err ->
+                            Just err
+
+                        _ ->
+                            Nothing
+                )
+                errors
+    in
+    case MaybeExtra.values notAvailableErrors of
+        [] ->
+            ""
+
+        _ ->
+            "Following verbs are not available: " ++ String.join ", " (MaybeExtra.values notAvailableErrors)
+
+
+
+-- Conjugation List
+
+
+viewConjugationList : Model -> Html Msg
+viewConjugationList model =
+    div []
+        [ viewConjugationValidation model
+        , ul [] <|
+            List.map
+                (viewConjugationCheckbox model)
+                model.available.conjugations
         ]
 
 
-viewConjugationSettings : Model -> Conjugation -> Html Msg
-viewConjugationSettings model conjugation =
-    viewConjugationCheckbox (GameCommon.conjugationToString conjugation) model conjugation
+viewConjugationCheckbox : Model -> Conjugation -> Html Msg
+viewConjugationCheckbox model conjugation =
+    let
+        text_ =
+            GameCommon.conjugationToString conjugation ++ " (" ++ GameCommon.conjugationExample conjugation ++ ")"
+
+        id_ =
+            conjugationToID conjugation
+
+        checked_ =
+            isChecked model conjugation
+    in
+    li []
+        [ input [ type_ "checkbox", id id_, checked checked_, onCheck (ToggleConjugation conjugation) ] []
+        , label [ for (conjugationToID conjugation) ] [ text text_ ]
+        ]
+
+
+isChecked : Model -> Conjugation -> Bool
+isChecked m c =
+    List.member c (conjugationToList m.form.conjugations)
+
+
+conjugationToID : Conjugation -> String
+conjugationToID c =
+    c
+        |> GameCommon.conjugationToString
+        |> String.replace " " "-"
+        |> String.toLower
 
 
 viewConjugationValidation : Model -> Html Msg
@@ -372,33 +399,8 @@ viewConjugationValidation model =
             div [] []
 
 
-viewConjugationList : Model -> Html Msg
-viewConjugationList model =
-    div []
-        [ viewConjugationValidation
-            model
-        , ul []
-            (List.map
-                (viewConjugationSettings
-                    model
-                )
-                model.available.conjugations
-            )
-        ]
-
-
-viewCheckedCheckbox : Model -> Conjugation -> Bool
-viewCheckedCheckbox model conjugation =
-    List.member conjugation (conjugationToList model.form.conjugations)
-
-
 
 -- helpers
-
-
-isReadyToPlay : Model -> Bool
-isReadyToPlay model =
-    True
 
 
 getUnavailableVerbs : List String -> List String -> List String
