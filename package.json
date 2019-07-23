@@ -22,7 +22,6 @@
   "homepage": "https://github.com/carpa-dev/espanelm#readme",
   "dependencies": {
     "bulma": "^0.7.5",
-    "normalize.css": "^8.0.1",
-    "tailwindcss": "^1.0.5"
+    "normalize.css": "^8.0.1"
   }
 }
