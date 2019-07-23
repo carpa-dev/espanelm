@@ -39,7 +39,11 @@ img {
 .navbar.is-primary,
 .navbar.is-primary .navbar-brand > .navbar-item,
 .navbar.is-primary .navbar-brand .navbar-link,
-.navbar.is-primary .navbar-burger {
+.navbar.is-primary .navbar-burger,
+.navbar.is-primary .navbar-start > .navbar-item,
+.navbar.is-primary .navbar-start .navbar-link,
+.navbar.is-primary .navbar-end > .navbar-item,
+.navbar.is-primary .navbar-end .navbar-link {
   color: #363636;
 }
 

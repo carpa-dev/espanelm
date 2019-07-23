@@ -4,7 +4,7 @@ import Browser
 import Browser.Navigation as Nav
 import Game.Game as Game
 import Home
-import Html exposing (Html, a, button, div, h1, nav, span, text)
+import Html exposing (Html, a, button, div, h1, nav, node, span, text)
 import Html.Attributes exposing (class, href)
 import Html.Events exposing (onClick)
 import NotFound
@@ -120,7 +120,7 @@ view model =
     { title = "Espanelm"
     , body =
         [ viewNavbar model
-        , div [] [ viewContent model.page ]
+        , node "main" [] [ viewContent model.page ]
         ]
     }
 
@@ -128,14 +128,16 @@ view model =
 viewNavbar : Model -> Html Msg
 viewNavbar model =
     nav [ class "navbar is-primary" ]
-        [ div [ class "navbar-brand" ]
-            [ div [ class "navbar-item" ] [ text "espanelm" ]
-            , viewMenuButton model
-            ]
-        , div [ class (withMenuClass "navbar-menu" model) ]
-            [ div [ class "navbar-end" ]
-                [ a [ class "navbar-item", href <| Routes.toUrl Routes.Home, onClick ToggleMenu ] [ text "Home" ]
-                , a [ class "navbar-item", href <| Routes.toUrl Routes.Play, onClick ToggleMenu ] [ text "Play" ]
+        [ div [ class "container" ]
+            [ div [ class "navbar-brand" ]
+                [ div [ class "navbar-item" ] [ text "espanelm" ]
+                , viewMenuButton model
+                ]
+            , div [ class (withMenuClass "navbar-menu" model) ]
+                [ div [ class "navbar-end" ]
+                    [ a [ class "navbar-item", href <| Routes.toUrl Routes.Home, onClick ToggleMenu ] [ text "Home" ]
+                    , a [ class "navbar-item", href <| Routes.toUrl Routes.Play, onClick ToggleMenu ] [ text "Play" ]
+                    ]
                 ]
             ]
         ]
