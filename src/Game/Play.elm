@@ -14,9 +14,15 @@ import Json.Decode.Pipeline exposing (hardcoded, required)
 type alias Model =
     { rounds : List Round
     , roundsLeft : List Round
-    , answer : String
+    , answer : UserAnswer
     , gameSettings : GameSettings
     }
+
+
+type UserAnswer
+    = Pristine String
+    | Dirty String
+    | Invalid String
 
 
 type Msg
@@ -32,40 +38,37 @@ init gameSettings verbData =
         rounds =
             generateRounds gameSettings verbData
     in
-    ( { gameSettings = gameSettings, answer = "", rounds = rounds, roundsLeft = rounds }, Cmd.none )
+    ( { gameSettings = gameSettings, answer = Pristine "", rounds = rounds, roundsLeft = rounds }, Cmd.none )
 
 
 update : Msg -> Model -> ( Model, Cmd Msg )
 update msg model =
     case Debug.log "msg" msg of
         RestartGame ->
-            ( { model | answer = "", roundsLeft = model.rounds }, Cmd.none )
+            ( { model | answer = Pristine "", roundsLeft = model.rounds }, Cmd.none )
 
         UpdateAnswer answer ->
-            ( { model | answer = answer }, Cmd.none )
+            ( { model | answer = Dirty answer }, Cmd.none )
 
-        -- this should be handled by the father
+        -- this should be handled by the parent
         StopGame ->
             ( model, Cmd.none )
 
         VerifyUserAnswer ->
-            let
-                answer =
-                    model.answer
+            updateOnSubmit model
 
-                round =
-                    currentRound model
-            in
-            case round of
-                Just r ->
-                    if answer == r.answer then
-                        ( { model | roundsLeft = Maybe.withDefault [] (List.tail model.roundsLeft), answer = "" }, Cmd.none )
 
-                    else
-                        ( model, Cmd.none )
+updateOnSubmit : Model -> ( Model, Cmd Msg )
+updateOnSubmit model =
+    if isAnswerCorrect (answerToString model.answer) model then
+        let
+            roundsLeft =
+                Maybe.withDefault [] (List.tail model.roundsLeft)
+        in
+        ( { model | roundsLeft = roundsLeft, answer = Pristine "" }, Cmd.none )
 
-                Nothing ->
-                    ( model, Cmd.none )
+    else
+        ( { model | answer = Invalid (answerToString model.answer) }, Cmd.none )
 
 
 
@@ -100,7 +103,7 @@ viewCard model =
     in
     case round of
         Just r ->
-            div [ class "card game-card" ]
+            form [ class "card game-card", onSubmit VerifyUserAnswer ]
                 [ header [ class "card-header" ]
                     [ div [ class "card-header-title" ]
                         [ p
@@ -112,14 +115,18 @@ viewCard model =
                 , div [ class "card-content" ]
                     [ div [ class "content has-text-centered" ]
                         [ h4 [ class "title is-4" ] [ text r.verb ]
-                        , form [ onSubmit VerifyUserAnswer ]
+                        , div []
                             [ div
                                 [ class "field is-horizontal" ]
                                 [ span
                                     [ class "field-label is-medium" ]
                                     [ text <| GameCommon.personToSpanish r.person ]
-                                , input [ onInput UpdateAnswer, placeholder "type the conjugation", value model.answer, class "input is-medium field-body" ]
-                                    []
+                                , div [ class "field-body" ]
+                                    [ div [ class "field" ]
+                                        [ input [ onInput UpdateAnswer, placeholder "type the conjugation", value (answerToString model.answer), class ("input is-medium field-body " ++ inputClass model) ]
+                                            []
+                                        ]
+                                    ]
                                 ]
                             ]
                         ]
@@ -127,7 +134,7 @@ viewCard model =
                 , footer [ class "card-footer" ]
                     [ div [ class "card-footer-item" ]
                         [ button
-                            [ class "button is-white is-fullwidth", onClick StopGame ]
+                            [ type_ "button", class "button is-white is-fullwidth", onClick StopGame ]
                             [ text "quit" ]
                         ]
                     , div [ class "card-footer-item" ]
@@ -139,24 +146,37 @@ viewCard model =
                 ]
 
         Nothing ->
-            section [ class "message is-success card game-card" ]
-                [ div [ class "message-header" ] [ text "Muy bien!" ]
-                , div
-                    [ class "message-body" ]
-                    [ div [ class "columns" ]
-                        [ div [ class "column" ]
-                            [ text "Do you want to play again or with different verbs/tenses?"
+            div []
+                [ div [ class "pyro" ] [ div [ class "before" ] [], div [ class "after" ] [] ]
+                , section [ class "message is-success card game-card" ]
+                    [ div [ class "message-header" ] [ text "Muy bien!" ]
+                    , div
+                        [ class "message-body" ]
+                        [ div [ class "columns" ]
+                            [ div [ class "column" ]
+                                [ text "Do you want to play again or with different verbs/tenses?"
+                                ]
                             ]
-                        ]
-                    , div [ class "columns" ]
-                        [ div [ class "column" ]
-                            [ button [ class "button", onClick RestartGame ] [ text "Play again" ] ]
-                        , div [ class "column" ]
-                            [ button [ class "button is-primary", onClick StopGame ] [ text "Play with different settings" ]
+                        , div [ class "columns" ]
+                            [ div [ class "column" ]
+                                [ button [ class "button", onClick RestartGame ] [ text "Play again" ] ]
+                            , div [ class "column" ]
+                                [ button [ class "button is-primary", onClick StopGame ] [ text "Play with different settings" ]
+                                ]
                             ]
                         ]
                     ]
                 ]
+
+
+inputClass : Model -> String
+inputClass model =
+    case model.answer of
+        Invalid _ ->
+            "is-danger"
+
+        _ ->
+            ""
 
 
 
@@ -166,3 +186,34 @@ viewCard model =
 currentRound : Model -> Maybe Round
 currentRound model =
     List.head model.roundsLeft
+
+
+answerToString : UserAnswer -> String
+answerToString ua =
+    case ua of
+        Pristine s ->
+            s
+
+        Dirty s ->
+            s
+
+        Invalid s ->
+            s
+
+
+isAnswerCorrect : String -> Model -> Bool
+isAnswerCorrect answer model =
+    let
+        round =
+            currentRound model
+    in
+    case round of
+        Just r ->
+            if String.toLower answer == String.toLower r.answer then
+                True
+
+            else
+                False
+
+        Nothing ->
+            False
