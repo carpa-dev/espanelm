@@ -3,7 +3,7 @@ module Game.PickingSettings exposing (Model, Msg(..), OutMsg(..), combinedDecode
 import Bool.Extra as BoolExtra
 import Form.Decoder as Decoder exposing (Decoder, Validator, custom)
 import Game.GameCommon as GameCommon exposing (Conjugation, GameSettings, Person, Verb)
-import Html exposing (Html, a, button, div, form, h1, h3, h4, img, input, label, li, p, span, text, ul)
+import Html exposing (Html, a, button, div, form, h1, h3, h4, img, input, label, li, p, section, span, text, ul)
 import Html.Attributes exposing (checked, class, disabled, for, href, id, placeholder, src, style, type_, value)
 import Html.Events exposing (onBlur, onCheck, onClick, onInput, onSubmit)
 import List.Extra exposing (foldl1)
@@ -250,14 +250,21 @@ inputToString i_ =
 
 view : Model -> Html Msg
 view model =
-    form [ onSubmit OnSubmit ]
-        [ h1 [] [ text "Choose your verbs" ]
-        , div [ class "field" ]
-            [ input [ placeholder "Verbs", value (inputToString model.form.verbs), onBlur OnBlurVerbs, onInput OnInputVerbs ] []
-            , viewFormVerbErrors model
-            , viewSubmitButton model
+    section [ class "section" ]
+        [ div [ class "container" ]
+            [ h1 [ class "title is-3" ] [ text "Create a new game" ]
+            , form [ onSubmit OnSubmit ]
+                [ div [ class "field" ]
+                    [ label [ class "label" ] [ text "Choose your verbs" ]
+                    , div [ class "control" ]
+                        [ input [ class "input", placeholder "comer, dormir, regresar...", value (inputToString model.form.verbs), onBlur OnBlurVerbs, onInput OnInputVerbs ] []
+                        , viewFormVerbErrors model
+                        ]
+                    ]
+                , viewSubmitButton model
+                , viewConjugationList model
+                ]
             ]
-        , viewConjugationList model
         ]
 
 
@@ -276,9 +283,8 @@ verbInputStateClass model =
 
 viewSubmitButton : Model -> Html Msg
 viewSubmitButton model =
-    div [ class "control" ]
-        [ button [ class "button is-primary" ] [ text "Play" ]
-        , button [ class "btn btn-blue" ] [ text "play" ]
+    div [ class "field" ]
+        [ button [ class "button is-link" ] [ text "Play" ]
         ]
 
 
@@ -331,7 +337,7 @@ viewFormVerbErrors model =
                 )
 
         _ ->
-            p [ class "help" ] [ text "  _" ]
+            p [ class "help" ] [ text "Type a list of verbs separated by commas" ]
 
 
 notAvailableVerbErrMsg : List VerbsError -> String
@@ -363,8 +369,9 @@ notAvailableVerbErrMsg errors =
 
 viewConjugationList : Model -> Html Msg
 viewConjugationList model =
-    div []
-        [ viewConjugationValidation model
+    div [ class "field" ]
+        [ span [ class "label" ] [ text "Conjugations" ]
+        , viewConjugationValidation model
         , ul [] <|
             List.map
                 (viewConjugationCheckbox model)
@@ -385,8 +392,7 @@ viewConjugationCheckbox model conjugation =
             isChecked model conjugation
     in
     li []
-        [ input [ type_ "checkbox", id id_, checked checked_, onCheck (ToggleConjugation conjugation) ] []
-        , label [ for (conjugationToID conjugation) ] [ text text_ ]
+        [ label [ class "checkbox", for (conjugationToID conjugation) ] [ input [ type_ "checkbox", id id_, checked checked_, onCheck (ToggleConjugation conjugation) ] [], text text_ ]
         ]
 
 
@@ -407,10 +413,10 @@ viewConjugationValidation : Model -> Html Msg
 viewConjugationValidation model =
     case model.form.conjugations of
         ConjugationInvalid errors _ ->
-            div [ style "color" "red" ] [ text "please pick a conjugation" ]
+            p [ class "help is-danger" ] [ text "Please pick at least one conjugation" ]
 
         _ ->
-            div [] []
+            p [] []
 
 
 
