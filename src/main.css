@@ -25,3 +25,15 @@ img {
   margin: 20px 0;
   max-width: 200px;
 }
+
+.card.game-card {
+  max-width: 400px;
+  margin: 0 auto;
+}
+.game-card .card-header-title > * {
+  width: 100%;
+}
+
+.game-card .field-label {
+  flex-grow: 0;
+}

@@ -46,16 +46,16 @@ personToSpanish person =
             "Tu"
 
         ThirdSingular ->
-            "El/Ella/Usted"
+            "Ella"
 
         FirstPlural ->
-            "Nosotros(as)"
+            "Nosotros"
 
         SecondPlural ->
-            "Vosotros(as)"
+            "Vosotros"
 
         ThirdPlural ->
-            "Nosotros(as)"
+            "Ustedes"
 
 
 type Conjugation
