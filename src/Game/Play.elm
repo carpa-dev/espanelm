@@ -75,11 +75,8 @@ update msg model =
 view : Model -> Html Msg
 view model =
     div [ class "container" ]
-        [ div []
-            [ button
-                [ onClick StopGame ]
-                [ text "back" ]
-            , div [ class "columns is-centered" ]
+        [ div [ class "section" ]
+            [ div [ class "columns is-centered" ]
                 [ div [ class "column" ] [ viewCard model ]
                 ]
             ]
@@ -107,13 +104,13 @@ viewCard model =
                 [ header [ class "card-header" ]
                     [ div [ class "card-header-title" ]
                         [ p
-                            [ class "has-text-centered" ]
+                            [ class "has-text-centered is-5 title" ]
                             [ text <| GameCommon.conjugationToString r.conjugation
                             ]
                         ]
                     ]
                 , div [ class "card-content" ]
-                    [ div [ class "content" ]
+                    [ div [ class "content has-text-centered" ]
                         [ h4 [ class "title is-4" ] [ text r.verb ]
                         , form [ onSubmit VerifyUserAnswer ]
                             [ div
@@ -130,12 +127,12 @@ viewCard model =
                 , footer [ class "card-footer" ]
                     [ div [ class "card-footer-item" ]
                         [ button
-                            [ class "button is-white", onClick StopGame ]
+                            [ class "button is-white is-fullwidth", onClick StopGame ]
                             [ text "quit" ]
                         ]
                     , div [ class "card-footer-item" ]
                         [ button
-                            [ class "button is-primary " ]
+                            [ class "button is-primary is-fullwidth" ]
                             [ text "confirm" ]
                         ]
                     ]
@@ -149,11 +146,13 @@ viewCard model =
                     [ div [ class "columns" ]
                         [ div [ class "column" ]
                             [ text "Do you want to play again or with different verbs/tenses?"
-                            , div [ class "column" ]
-                                [ button [ class "button", onClick RestartGame ] [ text "Play again" ] ]
-                            , div [ class "column" ]
-                                [ button [ class "button is-primary", onClick StopGame ] [ text "Play with different settings" ]
-                                ]
+                            ]
+                        ]
+                    , div [ class "columns" ]
+                        [ div [ class "column" ]
+                            [ button [ class "button", onClick RestartGame ] [ text "Play again" ] ]
+                        , div [ class "column" ]
+                            [ button [ class "button is-primary", onClick StopGame ] [ text "Play with different settings" ]
                             ]
                         ]
                     ]
