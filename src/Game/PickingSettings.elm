@@ -252,17 +252,17 @@ view : Model -> Html Msg
 view model =
     section [ class "section" ]
         [ div [ class "container" ]
-            [ h1 [ class "title is-3" ] [ text "Create a new game" ]
-            , form [ onSubmit OnSubmit ]
-                [ div [ class "field" ]
-                    [ label [ class "label" ] [ text "Choose your verbs" ]
-                    , div [ class "control" ]
-                        [ input [ class "input", placeholder "comer, dormir, regresar...", value (inputToString model.form.verbs), onBlur OnBlurVerbs, onInput OnInputVerbs ] []
+            [ form [ class "panel", onSubmit OnSubmit ]
+                [ div [ class "panel-heading" ] [ h1 [ class "title is-4" ] [ text "New game" ] ]
+                , div [ class "panel-block" ]
+                    [ div [ class "control" ]
+                        [ label [ class "label" ] [ text "Verbs" ]
+                        , input [ class "input", placeholder "comer, dormir, regresar...", value (inputToString model.form.verbs), onBlur OnBlurVerbs, onInput OnInputVerbs ] []
                         , viewFormVerbErrors model
                         ]
                     ]
-                , viewSubmitButton model
-                , viewConjugationList model
+                , div [ class "panel-block" ] [ viewConjugationList model ]
+                , div [ class "panel-block" ] [ viewSubmitButton model ]
                 ]
             ]
         ]
@@ -283,9 +283,7 @@ verbInputStateClass model =
 
 viewSubmitButton : Model -> Html Msg
 viewSubmitButton model =
-    div [ class "field" ]
-        [ button [ class "button is-link" ] [ text "Play" ]
-        ]
+    button [ class "button is-dark is-fullwidth" ] [ text "Play" ]
 
 
 areConjugationsValid : List Conjugation -> Bool
