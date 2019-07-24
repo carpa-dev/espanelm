@@ -283,7 +283,7 @@ verbInputStateClass model =
 
 viewSubmitButton : Model -> Html Msg
 viewSubmitButton model =
-    button [ class "button is-dark is-fullwidth" ] [ text "Play" ]
+    button [ class "button is-primary is-fullwidth" ] [ text "Play" ]
 
 
 areConjugationsValid : List Conjugation -> Bool

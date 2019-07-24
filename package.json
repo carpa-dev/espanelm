@@ -7,7 +7,9 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build-css": "node-sass-chokidar src/ -o src/",
+    "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
+    "dev": "concurrently 'npm run watch-css' 'elm-app start'"
   },
   "repository": {
     "type": "git",
@@ -22,6 +24,12 @@
   "homepage": "https://github.com/carpa-dev/espanelm#readme",
   "dependencies": {
     "bulma": "^0.7.5",
+    "node-sass-chokidar": "^1.3.5",
     "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "concurrent": "^0.3.2",
+    "concurrently": "^4.1.1",
+    "create-elm-app": "^3.2.1"
   }
 }

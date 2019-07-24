@@ -118,16 +118,18 @@ viewContent page =
 view : Model -> Browser.Document Msg
 view model =
     { title = "Espanelm"
-    , body =
-        [ viewNavbar model
-        , node "main" [] [ viewContent model.page ]
+    , body = 
+        [ div[ class (pageToClass model.page)] [ viewNavbar model
+        , node "main" [] [ viewContent model.page ]]
+        
+        
         ]
     }
 
 
 viewNavbar : Model -> Html Msg
 viewNavbar model =
-    nav [ class "navbar is-primary" ]
+    nav [ class ("navbar card " ++ navbarClass model.page) ]
         [ div [ class "container" ]
             [ div [ class "navbar-brand" ]
                 [ div [ class "navbar-item" ] [ text "espanelm" ]
@@ -183,3 +185,26 @@ main =
         , onUrlChange = Routes.match >> UrlChanged
         , onUrlRequest = LinkClicked
         }
+
+
+
+pageToClass: Page -> String
+pageToClass page =
+        case page of
+                Home ->
+                        "home-page"
+
+                Game _ ->
+                         "game-page"
+
+                NotFound ->
+                        "not-found-page"
+
+navbarClass : Page -> String
+navbarClass page = 
+        case page of
+                Home ->
+                        "is-transparent"
+                _ ->
+                        "is-black"
+

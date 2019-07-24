@@ -132,12 +132,12 @@ viewCard model =
                         ]
                     ]
                 , footer [ class "card-footer" ]
-                    [ div [ class "card-footer-item" ]
+                    [ div [ class "column" ]
                         [ button
                             [ type_ "button", class "button is-white is-fullwidth", onClick StopGame ]
                             [ text "quit" ]
                         ]
-                    , div [ class "card-footer-item" ]
+                    , div [ class "column" ]
                         [ button
                             [ class "button is-primary is-fullwidth" ]
                             [ text "confirm" ]

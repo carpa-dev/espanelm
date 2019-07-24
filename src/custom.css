@@ -1,0 +1,42 @@
+.card.game-card {
+  max-width: 401px;
+  margin: 0 auto; }
+
+.game-card .card-header-title > * {
+  width: 100%; }
+
+.game-card .field-label {
+  flex-grow: 0; }
+
+.home-hero {
+  height: calc(100vh - 52px);
+  background-color: #95b6e3; }
+
+.home-hero::before {
+  content: '';
+  height: calc(100vh - 52px);
+  display: block;
+  position: absolute;
+  width: 100%;
+  background: url("/silhoute_green_cropped.png") no-repeat;
+  background-size: cover;
+  background-position: center top;
+  filter: brightness(60%); }
+
+.home-hero .hero-body {
+  position: relative; }
+
+.home-hero {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.hero-body .title {
+  color: white;
+  font-size: 3rem;
+  font-weight: 600;
+  margin-bottom: 0; }
+
+.home-page .navbar {
+  background-color: transparent;
+  box-shadow: none !important; }

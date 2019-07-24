@@ -30,3 +30,4 @@ toUrl route =
 
         Play ->
             "/play"
+
