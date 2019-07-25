@@ -43,7 +43,7 @@ init gameSettings verbData =
 
 update : Msg -> Model -> ( Model, Cmd Msg )
 update msg model =
-    case Debug.log "msg" msg of
+    case msg of
         RestartGame ->
             ( { model | answer = Pristine "", roundsLeft = model.rounds }, Cmd.none )
 

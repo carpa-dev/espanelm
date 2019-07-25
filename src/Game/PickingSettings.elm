@@ -565,7 +565,7 @@ decodeFormVerb : List Verb -> VerbInput -> Result (List VerbsError) (List String
 decodeFormVerb availableVerbs input =
     Decoder.run
         (combinedDecoder availableVerbs)
-        (filterFilledVerb (inputToString input))
+        (filterFilledVerb (String.toLower <| inputToString input))
 
 
 decodeConjugation : List Conjugation -> Result (List ConjugationsError) ConjugationsInput
@@ -589,13 +589,8 @@ decodeEntireForm model =
 decodeVerbForForm : Model -> Result (List GameSettingsFormErrors) GameSettings -> Result (List GameSettingsFormErrors) GameSettings
 decodeVerbForForm model form =
     let
-        input =
-            inputToString model.form.verbs
-
         verbs =
-            Decoder.run
-                (combinedDecoder model.available.verbs)
-                (filterFilledVerb input)
+            decodeFormVerb model.available.verbs model.form.verbs
     in
     case verbs of
         Err e ->

@@ -125,7 +125,9 @@ updateLoadVerbData model msg =
     -- When it's done, changes page to playing
     case msg of
         Err err ->
-            Debug.todo "Implement sad path for upload verb data"
+            -- TODO
+            --Debug.todo "Implement sad path for upload verb data"
+            model
 
         Ok data ->
             let
