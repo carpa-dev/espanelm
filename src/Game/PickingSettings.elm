@@ -11,16 +11,11 @@ import Maybe.Extra as MaybeExtra exposing (unwrap, values)
 import Result.Extra
 
 
-type alias Available =
-    { conjugations : List Conjugation
-    , persons : List Person
-    , verbs : List Verb
-    }
-
-
 type alias Model =
     { form : GameSettingsForm
-    , available : Available
+    , availableVerbs : List Verb
+    , availablePersons : List Person
+    , availableConjugations : List Conjugation
     }
 
 
@@ -80,26 +75,27 @@ type OutMsg
     | NoOp
 
 
-init : List String -> GameSettings -> ( Model, Cmd Msg )
-init loadedVerbs gameSettings =
-    ( { available =
-            { conjugations = GameCommon.allConjugations
-            , persons = GameCommon.allPersons
-            , verbs = loadedVerbs
-            }
-      , form = initForm gameSettings
+init : List String -> ( Model, Cmd Msg )
+init loadedVerbs =
+    ( { availableConjugations = GameCommon.allConjugations
+      , availablePersons = GameCommon.allPersons
+      , availableVerbs = loadedVerbs
+      , form = initForm
       }
     , Cmd.none
     )
 
 
-initForm : GameSettings -> GameSettingsForm
-initForm gameSettings =
+initForm : GameSettingsForm
+initForm =
     -- when initializing there's only two possible values
     -- either a field is Pristine (initial setup)
     -- or Valid (came from a previous run)
-    { verbs = initVerb gameSettings.verbs
-    , conjugations = ConjugationPristine gameSettings.conjugations
+    { --verbs = initVerb gameSettings.verbs
+      verbs = VerbPristine ""
+
+    --, conjugations = ConjugationPristine gameSettings.conjugations
+    , conjugations = ConjugationPristine []
     }
 
 
@@ -156,7 +152,7 @@ updateFormVerbDirty model verb =
 
 updateFormVerbOnBlurVerbs : Model -> Model
 updateFormVerbOnBlurVerbs model =
-    setVerb model.form (validateVerb model.available.verbs model.form.verbs)
+    setVerb model.form (validateVerb model.availableVerbs model.form.verbs)
         |> setForm model
 
 
@@ -373,7 +369,7 @@ viewConjugationList model =
         , ul [] <|
             List.map
                 (viewConjugationCheckbox model)
-                model.available.conjugations
+                model.availableConjugations
         ]
 
 
@@ -590,7 +586,7 @@ decodeVerbForForm : Model -> Result (List GameSettingsFormErrors) GameSettings -
 decodeVerbForForm model form =
     let
         verbs =
-            decodeFormVerb model.available.verbs model.form.verbs
+            decodeFormVerb model.availableVerbs model.form.verbs
     in
     case verbs of
         Err e ->

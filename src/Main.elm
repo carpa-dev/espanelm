@@ -18,7 +18,7 @@ import Url exposing (Url)
 
 type Page
     = Home
-    | Game Game.Model
+    | Game
     | NotFound
 
 
@@ -26,6 +26,7 @@ type alias Model =
     { page : Page
     , key : Nav.Key
     , isMenuOpen : Bool
+    , gameModel : Game.Model
     }
 
 
@@ -34,6 +35,7 @@ initialModel navigationKey =
     { page = Home
     , key = navigationKey
     , isMenuOpen = False
+    , gameModel = Game.init
     }
 
 
@@ -60,11 +62,7 @@ setNewPage maybeRoute model =
             ( { model | page = Home }, Cmd.none )
 
         Just Routes.Play ->
-            let
-                ( m, cmd ) =
-                    Game.init
-            in
-            ( { model | page = Game m }, Cmd.map GameMsg cmd )
+            ( { model | page = Game }, Cmd.map GameMsg (Game.initCmd model.gameModel) )
 
         Nothing ->
             ( { model | page = NotFound }, Cmd.none )
@@ -84,32 +82,29 @@ update msg model =
         ( UrlChanged url, _ ) ->
             setNewPage url model
 
-        ( GameMsg playMsg, Game playModel ) ->
+        ( GameMsg playMsg, _ ) ->
             let
                 ( pageModel, pageCmd ) =
-                    Game.update playMsg playModel
+                    Game.update playMsg model.gameModel
             in
-            ( { model | page = Game pageModel }, Cmd.map GameMsg pageCmd )
+            ( { model | page = Game, gameModel = pageModel }, Cmd.map GameMsg pageCmd )
 
         ( ToggleMenu, _ ) ->
             ( { model | isMenuOpen = not model.isMenuOpen }, Cmd.none )
-
-        _ ->
-            ( model, Cmd.none )
 
 
 
 ---- VIEW ----
 
 
-viewContent : Page -> Html Msg
-viewContent page =
-    case page of
+viewContent : Model -> Html Msg
+viewContent model =
+    case model.page of
         Home ->
             Home.view
 
-        Game gameModel ->
-            Game.view gameModel |> Html.map GameMsg
+        Game ->
+            Game.view model.gameModel |> Html.map GameMsg
 
         NotFound ->
             NotFound.view
@@ -121,7 +116,7 @@ view model =
     , body =
         [ div [ class (pageToClass model.page) ]
             [ viewNavbar model
-            , node "main" [] [ viewContent model.page ]
+            , node "main" [] [ viewContent model ]
             ]
         ]
     }
@@ -194,7 +189,7 @@ pageToClass page =
         Home ->
             "home-page"
 
-        Game _ ->
+        Game ->
             "game-page"
 
         NotFound ->
@@ -237,7 +232,7 @@ isHomePage model =
 isGamePage : Model -> Bool
 isGamePage model =
     case model.page of
-        Game _ ->
+        Game ->
             True
 
         _ ->

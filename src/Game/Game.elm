@@ -1,4 +1,4 @@
-module Game.Game exposing (Model, Msg, init, update, view)
+module Game.Game exposing (Model, Msg, init, initCmd, update, view)
 
 import Debug
 import Game.AvailableVerbs
@@ -24,25 +24,29 @@ type alias LoadingAvailableVerbs =
 
 type Page
     = LoadingAvailableVerbs LoadingAvailableVerbs
-    | PickingSettings PickingSettings.Model
+    | PickingSettings
     | PreparingGame -- Loading verbs, generating rounds
     | Playing Play.Model -- Actually playing the game
 
 
 type alias Model =
     { page : Page
+    , pickingSettingsModel : PickingSettings.Model
     , gameSettings : GameSettings
     , verbData : List VerbData
-    , availableVerbs : List String
     }
 
 
 initialModel : Model
 initialModel =
+    let
+        ( psModel, _ ) =
+            PickingSettings.init []
+    in
     { page = LoadingAvailableVerbs Nothing
     , gameSettings = { verbs = [], conjugations = [] }
+    , pickingSettingsModel = psModel
     , verbData = []
-    , availableVerbs = []
     }
 
 
@@ -53,9 +57,19 @@ type Msg
     | GotVerbData (Result Http.Error VerbData)
 
 
-init : ( Model, Cmd Msg )
+init : Model
 init =
-    ( initialModel, Game.AvailableVerbs.load GotVerbOptions )
+    initialModel
+
+
+initCmd : Model -> Cmd Msg
+initCmd model =
+    -- no need to load data when it's already loaded!
+    if List.isEmpty model.pickingSettingsModel.availableVerbs then
+        Game.AvailableVerbs.load GotVerbOptions
+
+    else
+        Cmd.none
 
 
 
@@ -68,11 +82,7 @@ update msg model =
         ( PlayMsg playMsg, Playing playModel ) ->
             case playMsg of
                 StopGame ->
-                    let
-                        ( m, cmd ) =
-                            PickingSettings.init model.availableVerbs model.gameSettings
-                    in
-                    ( { model | page = PickingSettings m }, Cmd.map PickingSettingsMsg cmd )
+                    ( { model | page = PickingSettings }, Cmd.none )
 
                 _ ->
                     let
@@ -81,26 +91,29 @@ update msg model =
                     in
                     ( { model | page = Playing pageModel }, Cmd.map PlayMsg pageCmd )
 
-        ( PickingSettingsMsg psMsg, PickingSettings psModel ) ->
+        ( PickingSettingsMsg psMsg, _ ) ->
             let
                 ( m, c, parentMsg ) =
-                    PickingSettings.update psMsg psModel
+                    PickingSettings.update psMsg model.pickingSettingsModel
             in
             case parentMsg of
                 Play gameSettings ->
                     ( { model | page = PreparingGame, gameSettings = gameSettings }, VerbData.load gameSettings.verbs GotVerbData )
 
                 _ ->
-                    ( { model | page = PickingSettings m }, Cmd.map PickingSettingsMsg c )
+                    ( { model | page = PickingSettings, pickingSettingsModel = m }, Cmd.map PickingSettingsMsg c )
 
         ( GotVerbOptions result, _ ) ->
             case result of
                 Ok availableVerbs ->
                     let
+                        pickingSettingsModel =
+                            model.pickingSettingsModel
+
                         ( m, cmd ) =
-                            PickingSettings.init availableVerbs model.gameSettings
+                            PickingSettings.init availableVerbs
                     in
-                    ( { model | page = PickingSettings m, availableVerbs = availableVerbs }, Cmd.map PickingSettingsMsg cmd )
+                    ( { model | page = PickingSettings, pickingSettingsModel = m }, Cmd.none )
 
                 Err r ->
                     ( { model
@@ -113,9 +126,6 @@ update msg model =
             ( updateLoadVerbData model r, Cmd.none )
 
         ( PlayMsg gmsg, _ ) ->
-            ( model, Cmd.none )
-
-        ( PickingSettingsMsg psMsg, _ ) ->
             ( model, Cmd.none )
 
 
@@ -164,8 +174,8 @@ view model =
         LoadingAvailableVerbs page ->
             viewLoadingAvailableVerbs page
 
-        PickingSettings m ->
-            PickingSettings.view m
+        PickingSettings ->
+            PickingSettings.view model.pickingSettingsModel
                 |> Html.map PickingSettingsMsg
 
         PreparingGame ->
