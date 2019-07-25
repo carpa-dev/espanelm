@@ -118,11 +118,11 @@ viewContent page =
 view : Model -> Browser.Document Msg
 view model =
     { title = "Espanelm"
-    , body = 
-        [ div[ class (pageToClass model.page)] [ viewNavbar model
-        , node "main" [] [ viewContent model.page ]]
-        
-        
+    , body =
+        [ div [ class (pageToClass model.page) ]
+            [ viewNavbar model
+            , node "main" [] [ viewContent model.page ]
+            ]
         ]
     }
 
@@ -132,13 +132,13 @@ viewNavbar model =
     nav [ class ("navbar card " ++ navbarClass model.page) ]
         [ div [ class "container" ]
             [ div [ class "navbar-brand" ]
-                [ div [ class "navbar-item" ] [ text "espanelm" ]
+                [ a [ class "navbar-item", href <| Routes.toUrl Routes.Home ] [ text "espanelm" ]
                 , viewMenuButton model
                 ]
             , div [ class (withMenuClass "navbar-menu" model) ]
                 [ div [ class "navbar-end" ]
-                    [ a [ class "navbar-item", href <| Routes.toUrl Routes.Home, onClick ToggleMenu ] [ text "Home" ]
-                    , a [ class "navbar-item", href <| Routes.toUrl Routes.Play, onClick ToggleMenu ] [ text "Play" ]
+                    [ a [ class (navbarItemClass model isHomePage), href <| Routes.toUrl Routes.Home, onClick ToggleMenu ] [ text "Home" ]
+                    , a [ class (navbarItemClass model isGamePage), href <| Routes.toUrl Routes.Play, onClick ToggleMenu ] [ text "Play" ]
                     ]
                 ]
             ]
@@ -187,24 +187,57 @@ main =
         }
 
 
-
-pageToClass: Page -> String
+pageToClass : Page -> String
 pageToClass page =
-        case page of
-                Home ->
-                        "home-page"
+    case page of
+        Home ->
+            "home-page"
 
-                Game _ ->
-                         "game-page"
+        Game _ ->
+            "game-page"
 
-                NotFound ->
-                        "not-found-page"
+        NotFound ->
+            "not-found-page"
+
 
 navbarClass : Page -> String
-navbarClass page = 
-        case page of
-                Home ->
-                        "is-transparent"
-                _ ->
-                        "is-black"
+navbarClass page =
+    case page of
+        Home ->
+            "is-transparent"
 
+        _ ->
+            "is-black"
+
+
+navbarItemClass : Model -> (Model -> Bool) -> String
+navbarItemClass model isPageActive =
+    let
+        baseClass =
+            "navbar-item is-tab"
+    in
+    if isPageActive model then
+        baseClass ++ " is-active"
+
+    else
+        baseClass
+
+
+isHomePage : Model -> Bool
+isHomePage model =
+    case model.page of
+        Home ->
+            True
+
+        _ ->
+            False
+
+
+isGamePage : Model -> Bool
+isGamePage model =
+    case model.page of
+        Game _ ->
+            True
+
+        _ ->
+            False
