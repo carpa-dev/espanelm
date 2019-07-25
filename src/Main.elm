@@ -129,16 +129,17 @@ view model =
 
 viewNavbar : Model -> Html Msg
 viewNavbar model =
-    nav [ class ("navbar card " ++ navbarClass model.page) ]
+    nav [ class ("navbar" ++ navbarClass model.page) ]
         [ div [ class "container" ]
             [ div [ class "navbar-brand" ]
                 [ a [ class "navbar-item", href <| Routes.toUrl Routes.Home ] [ text "espanelm" ]
-                , viewMenuButton model
+
+                -- , viewMenuButton model
                 ]
             , div [ class (withMenuClass "navbar-menu" model) ]
                 [ div [ class "navbar-end" ]
-                    [ a [ class (navbarItemClass model isHomePage), href <| Routes.toUrl Routes.Home, onClick ToggleMenu ] [ text "Home" ]
-                    , a [ class (navbarItemClass model isGamePage), href <| Routes.toUrl Routes.Play, onClick ToggleMenu ] [ text "Play" ]
+                    [ a [ class (navbarItemClass model isHomePage), href <| Routes.toUrl Routes.Home ] [ text "Home" ]
+                    , a [ class (navbarItemClass model isGamePage), href <| Routes.toUrl Routes.Play ] [ text "Play" ]
                     ]
                 ]
             ]
@@ -204,10 +205,10 @@ navbarClass : Page -> String
 navbarClass page =
     case page of
         Home ->
-            "is-transparent"
+            " is-transparent"
 
         _ ->
-            "is-black"
+            " is-black card"
 
 
 navbarItemClass : Model -> (Model -> Bool) -> String

@@ -11,14 +11,19 @@
   flex-grow: 0;
 }
 
+// hero
 .home-hero {
-  height: calc(100vh - 52px);
+  &,
+  &::before {
+    height: calc(100vh - #{$navbar-height});
+  }
+}
+.home-hero {
   background-color: #95b6e3;
 }
 
 .home-hero::before {
   content: '';
-  height: calc(100vh - 52px);
   display: block;
   position: absolute;
   width: 100%;
@@ -26,10 +31,24 @@
   background-size: cover;
   background-position: center top;
   filter: brightness(60%);
+  animation: fade-slide-up 1s 0s cubic-bezier(0.09, 1.02, 0.66, 0.83) forwards;
+  opacity: 0;
+}
+
+@keyframes fade-slide-up {
+  0% {
+    opacity: 0;
+    transform: translateY(2rem);
+  }
+
+  100% {
+    opacity: 1;
+    transform: none;
+  }
 }
 
 .home-hero .hero-body {
-  position: relative;
+  padding: 0 $column-gap;
 }
 
 .home-hero {
@@ -42,7 +61,42 @@
   font-size: 3rem;
   font-weight: 600;
   text-transform: lowercase;
+
+  @extend .appear-animation;
 }
+.appear-animation {
+  animation: pop-in 0.5s 0.5s ease-out forwards;
+  opacity: 0;
+}
+
+.hero-body .subtitle a,
+.hero-body .subtitle span,
+.hero-body .button {
+  @extend .appear-animation;
+}
+.hero-body .subtitle a {
+  animation-delay: 1.3s !important;
+}
+
+.hero-body .subtitle span {
+  animation-delay: 2s;
+}
+
+.hero-body .button {
+  animation-delay: 2.7s;
+}
+
+@keyframes pop-in {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
 .hero-body .subtitle {
   font-size: 1.2rem;
   color: #ffffffb3;
@@ -56,11 +110,21 @@
   background-color: $secondary;
 }
 .home-page .navbar {
-  background-color: transparent;
   box-shadow: none !important; // added by .card
 }
+// /hero
 
 .navbar,
 .home-hero .title {
   font-family: $fancy-font;
+}
+
+.navbar {
+  padding-left: $column-gap;
+  padding-right: $column-gap;
+}
+
+// bulma's is-transparent is misleading
+.navbar.is-transparent {
+  background-color: transparent;
 }
