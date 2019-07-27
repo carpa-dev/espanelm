@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-@import 'variables.scss';
+@import '_variables.scss';
 
 // bulma
 @import '../node_modules/bulma/sass/utilities/_all.sass';
@@ -11,6 +11,7 @@
 @import '../node_modules/bulma/sass/elements/progress.sass';
 @import '../node_modules/bulma/sass/elements/other.sass';
 @import '../node_modules/bulma/sass/form/_all.sass';
+@import '../node_modules/bulma/sass/form/tools.sass';
 
 // components
 @import '../node_modules/bulma/sass/components/navbar.sass';
@@ -26,5 +27,5 @@
 // animations
 @import '../node_modules/animate-sass/animate';
 
-@import 'animations.scss';
-@import 'custom.scss';
+@import '_animations.scss';
+@import '_custom.scss';

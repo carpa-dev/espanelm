@@ -939,6 +939,9 @@ Remember to disable [safe write](https://webpack.js.org/guides/development/#adju
 
 Home page image https://pixabay.com/pt/illustrations/silhueta-ulmeiro-%C3%A1rvore-olmo-1502199/
 
+https://thenounproject.com/term/surrender/201051/#
+surrender by Luis Prado from the Noun Project
+
 ## Quirks
 
 Had to pull elm-style-animation locally, and move all its imports to under "direct" in elm.json

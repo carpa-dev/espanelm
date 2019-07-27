@@ -38,6 +38,7 @@ type Msg
     | RunAnimation -- TODO: remove this
     | StartCardAnimation
     | ShowNewCard
+    | Surrender
 
 
 init : GameSettings -> List VerbData -> ( Model, Cmd Msg )
@@ -75,34 +76,14 @@ update msg model =
             ( model, Cmd.none )
 
         VerifyUserAnswer ->
-            -- handles the case where
-            -- the user submits before animation finishes
-            -- so card state must be set to initial state
-            -- before animation can start
-            let
-                newStyle =
-                    Animation.interrupt
-                        [ Animation.set
-                            phantomCardHidden
-                        , Animation.Messenger.send StartCardAnimation
-                        ]
-                        model.cardAnimation
-
-                newModel =
-                    updateOnSubmit model
-            in
-            ( { newModel
-                | cardAnimation = newStyle
-              }
-            , Cmd.none
-            )
+            ( updateOnSubmit model, Cmd.none )
 
         StartCardAnimation ->
             let
                 newStyle =
                     Animation.interrupt
                         [ Animation.to
-                            [ Animation.top (Animation.px -300)
+                            [ Animation.top (Animation.percent -200)
                             , Animation.opacity 0.0
                             ]
                         , Animation.Messenger.send ShowNewCard
@@ -143,6 +124,18 @@ update msg model =
             , Cmd.none
             )
 
+        Surrender ->
+            let
+                round =
+                    currentRound model
+            in
+            case round of
+                Just r ->
+                    ( { model | answer = Dirty r.answer }, Cmd.none )
+
+                Nothing ->
+                    ( model, Cmd.none )
+
 
 updateOnSubmit : Model -> Model
 updateOnSubmit model =
@@ -153,8 +146,20 @@ updateOnSubmit model =
 
             roundsLeft =
                 Maybe.withDefault [] (List.tail model.roundsLeft)
+
+            -- handles the case where
+            -- the user submits before animation finishes
+            -- so card state must be set to initial state
+            -- before animation can start
+            newStyle =
+                Animation.interrupt
+                    [ Animation.set
+                        phantomCardHidden
+                    , Animation.Messenger.send StartCardAnimation
+                    ]
+                    model.cardAnimation
         in
-        { model | roundsLeft = roundsLeft, answer = Pristine "", phantomCard = previousRound }
+        { model | roundsLeft = roundsLeft, answer = Pristine "", phantomCard = previousRound, cardAnimation = newStyle }
 
     else
         { model | answer = Invalid (answerToString model.answer) }
@@ -260,13 +265,14 @@ viewIndividualCard model round =
                         [ class "field is-horizontal" ]
                         [ span
                             [ class "field-label is-medium" ]
-                            [ text <| GameCommon.personToSpanish round.person ]
+                            [ label [ class "label" ] [ text <| GameCommon.personToSpanish round.person ] ]
                         , div [ class "field-body" ]
                             [ div [ class "field" ]
                                 [ input [ onInput UpdateAnswer, placeholder "conjugation", value (answerToString model.answer), class ("input is-medium field-body " ++ inputClass model) ]
                                     []
                                 ]
                             ]
+                        , button [ class "button give-up", type_ "button", onClick Surrender ] [ img [ src "/icons/surrender.png" ] [] ]
                         ]
                     ]
                 ]
