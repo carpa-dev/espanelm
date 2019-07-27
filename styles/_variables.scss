@@ -1,10 +1,21 @@
+// custom variables
+$fancy-font: 'Poppins', sans-serif;
+$column-gap: 0.75rem !default;
+
+// bulma
 $primary: #cbd30e;
 $secondary: #95b6e3;
 $primary-invert: #000;
 
 $body-background-color: #fafafa;
+$success: $primary;
 
-$family-sans-serif: 'Source Sans Pro', sans-serif;
+//$family-sans-serif: 'Source Sans Pro', sans-serif;
+//$family-sans-serif: 'Open Sans', sans-serif;
+//$family-sans-serif: 'Roboto', sans-serif;
+$family-sans-serif: arial, sans-serif;
+
+$family-secondary: $fancy-font;
 
 $navbar-height: 4rem;
 $navbar-item-color: #fff;
@@ -18,10 +29,12 @@ $progress-border-radius: 0;
 
 $card-footer-border-top: 0;
 
-// custom variables
-$fancy-font: 'Poppins', sans-serif;
-$column-gap: 0.75rem !default;
-
 // animate-sass
 $use-shake: true;
 $use-zoomIn: true;
+
+// list
+
+$list-radius: 0;
+$list-shadow: none;
+$list-item-border: none;

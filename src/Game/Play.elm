@@ -64,7 +64,7 @@ phantomCardHidden =
 
 update : Msg -> Model -> ( Model, Cmd Msg )
 update msg model =
-    case Debug.log "msg" msg of
+    case msg of
         RestartGame ->
             ( { model | answer = Pristine "", roundsLeft = model.rounds }, Cmd.none )
 
@@ -195,7 +195,7 @@ viewCards model =
             div []
                 [ div [ class "pyro" ] [ div [ class "before" ] [], div [ class "after" ] [] ]
                 , section [ class "victory message is-success card game-card" ]
-                    [ div [ class "message-header" ] [ text "Muy bien!" ]
+                    [ div [ class "message-header is-size-3" ] [ text "Muy bien!" ]
                     , div
                         [ class "message-body" ]
                         [ div [ class "columns" ]
@@ -207,7 +207,7 @@ viewCards model =
                             [ div [ class "column" ]
                                 [ button [ class "button", onClick RestartGame ] [ text "Restart Game" ] ]
                             , div [ class "column" ]
-                                [ button [ class "button is-primary", onClick StopGame ] [ text "Play with different settings" ]
+                                [ button [ class "button is-primary", onClick StopGame ] [ text "Change settings" ]
                                 ]
                             ]
                         ]

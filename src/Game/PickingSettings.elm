@@ -276,11 +276,11 @@ view model =
     section [ class "section" ]
         [ div [ class "container" ]
             [ form [ class "panel", onSubmit OnSubmit ]
-                [ div [ class "panel-heading" ] [ h1 [ class "title is-4" ] [ text "New game" ] ]
+                [ div [ class "panel-heading" ] [ text "New game" ]
                 , div [ class "panel-block" ]
                     [ div [ class "control" ]
                         [ label [ class "label" ] [ div [] [ text "Verbs" ], a [ onClick ToggleModal, href "" ] [ text "dont know where to start?" ] ]
-                        , input [ class "input", placeholder "comer, dormir, regresar...", value (inputToString model.form.verbs), onBlur OnBlurVerbs, onInput OnInputVerbs ] []
+                        , div [ class "field has-addons" ] [ div [ class "control" ] [ input [ class "input", placeholder "comer, dormir, regresar...", value (inputToString model.form.verbs), onBlur OnBlurVerbs, onInput OnInputVerbs ] [] ], div [ class "control" ] [ button [ class "button is-primary" ] [ text "play" ] ] ]
                         , viewFormVerbErrors model
                         ]
                     ]
@@ -288,7 +288,7 @@ view model =
                 , div [ class "panel-block" ] [ viewSubmitButton model ]
                 ]
             ]
-        , div [ class ("modal" ++ modalClass model) ] [ div [ class "modal-background", onClick ToggleModal ] [], div [ class "modal-card" ] [ header [ class "modal-card-head" ] [ p [ class "modal-card-title" ] [ text "verbs" ], button [ class "delete", onClick ToggleModal ] [] ], section [ class "modal-card-body" ] [ viewModalPanel model ], footer [ class "modal-card-foot" ] [ button [ class "button is-success", onClick ModalConfirm ] [ text "Pick these verbs" ] ] ] ]
+        , div [ class ("modal" ++ modalClass model) ] [ div [ class "modal-background", onClick ToggleModal ] [], div [ class "modal-card" ] [ header [ class "modal-card-head" ] [ p [ class "modal-card-title" ] [ text "verbs" ], button [ class "delete", onClick ToggleModal ] [] ], section [ class "modal-card-body" ] [ viewModalPanel model ], footer [ class "modal-card-foot" ] [ button [ class "button is-primary", onClick ModalConfirm ] [ text "Pick these verbs" ] ] ] ]
         ]
 
 
@@ -420,9 +420,11 @@ notAvailableVerbErrMsg errors =
 viewConjugationList : Model -> Html Msg
 viewConjugationList model =
     div [ class "field" ]
-        [ span [ class "label" ] [ text "Conjugations" ]
-        , viewConjugationValidation model
-        , ul [] <|
+        [ div [ class "conjugation-title" ]
+            [ span [ class "label" ] [ text "Conjugations" ]
+            , viewConjugationValidation model
+            ]
+        , ul [ class "list" ] <|
             List.map
                 (viewConjugationCheckbox model)
                 model.availableConjugations
@@ -441,7 +443,7 @@ viewConjugationCheckbox model conjugation =
         checked_ =
             isChecked model conjugation
     in
-    li []
+    li [ class "list-item" ]
         [ label [ class "checkbox", for (conjugationToID conjugation) ] [ input [ type_ "checkbox", id id_, checked checked_, onCheck (ToggleConjugation conjugation) ] [], text text_ ]
         ]
 
@@ -466,7 +468,7 @@ viewConjugationValidation model =
             p [ class "help is-danger" ] [ text "Please pick at least one conjugation" ]
 
         _ ->
-            p [] []
+            p [ class "help is-danger is-invisible" ] [ text "Please pick at least one conjugation" ]
 
 
 

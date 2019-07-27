@@ -40,6 +40,7 @@
 
 .home-hero .hero-body {
   padding: 0 $column-gap;
+  max-width: 500px;
 }
 
 .home-hero {
@@ -47,7 +48,8 @@
   justify-content: center;
   align-items: center;
 }
-.hero-body .title {
+
+.home-hero .hero-body .title {
   color: white;
   font-size: 3rem;
   font-weight: 600;
@@ -60,20 +62,20 @@
   opacity: 0;
 }
 
-.hero-body .subtitle a,
-.hero-body .subtitle span,
-.hero-body .button {
+.home-hero .hero-body .subtitle a,
+.home-hero .hero-body .subtitle span,
+.home-hero .hero-body .button {
   @extend .appear-animation;
 }
-.hero-body .subtitle a {
+.home-hero .hero-body .subtitle a {
   animation-delay: 1.3s !important;
 }
 
-.hero-body .subtitle span {
+.home-hero .hero-body .subtitle span {
   animation-delay: 2s;
 }
 
-.hero-body .button {
+.home-hero .hero-body .button {
   animation-delay: 2.7s;
 }
 
@@ -88,7 +90,7 @@
   }
 }
 
-.hero-body .subtitle {
+.home-hero .hero-body .subtitle {
   font-size: 1.2rem;
   color: #ffffffb3;
 
@@ -140,6 +142,27 @@
 
 // GAME PAGE
 
+// picking settings
+.game-page {
+  .panel {
+    background-color: #fff;
+
+    .field.has-addons .control:first-child {
+      flex: 1;
+    }
+    .list-item {
+      padding-left: 0;
+    }
+
+    .conjugation-title {
+      .label {
+        line-height: 1;
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+
 @function paperShadow($depth) {
   $val: 0 0px 1px rgba(0, 0, 0, 0.15);
   @for $i from 1 through $depth {
@@ -154,6 +177,8 @@
   }
   @return $val;
 }
+
+// game per se
 .game-page {
   // a static width needs to be set
   // since the phantom card uses position absolute
@@ -261,5 +286,12 @@
   .victory {
     @extend .animated;
     @extend .zoomIn;
+
+    background-color: #fff;
+
+    .message-header {
+      @extend .is-size-3;
+      @extend .is-family-secondary;
+    }
   }
 }
