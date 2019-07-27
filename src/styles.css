@@ -5258,20 +5258,20 @@ Copyright (c) 2015 Daniel Eden
 body {
   -webkit-backface-visibility: hidden; }
 
-.animated, .wrong {
+.animated, .game-page .game-card.wrong, .game-page .victory {
   -webkit-animation-duration: calc( 1s);
   animation-duration: calc( 1s);
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both; }
-  .animated.infinite, .infinite.wrong {
+  .animated.infinite, .game-page .infinite.game-card.wrong, .game-page .infinite.victory {
     animation-iteration-count: infinite; }
-  .animated.hinge, .hinge.wrong {
+  .animated.hinge, .game-page .hinge.game-card.wrong, .game-page .hinge.victory {
     -webkit-animation-duration: calc( 1s * 2);
     animation-duration: calc( 1s * 2); }
-  .animated.bounceIn, .bounceIn.wrong, .animated.bounceOut, .bounceOut.wrong {
+  .animated.bounceIn, .game-page .bounceIn.game-card.wrong, .game-page .bounceIn.victory, .animated.bounceOut, .game-page .bounceOut.game-card.wrong, .game-page .bounceOut.victory {
     -webkit-animation-duration: calc( 1s * 0.75);
     animation-duration: calc( 1s * 0.75); }
-  .animated.flipOutX, .flipOutX.wrong, .animated.flipOutY, .flipOutY.wrong {
+  .animated.flipOutX, .game-page .flipOutX.game-card.wrong, .game-page .flipOutX.victory, .animated.flipOutY, .game-page .flipOutY.game-card.wrong, .game-page .flipOutY.victory {
     -webkit-animation-duration: calc( 1s * 0.75);
     animation-duration: calc( 1s * 0.75); }
 
@@ -5291,11 +5291,36 @@ body {
   20%, 40%, 60%, 80% {
     transform: translateX(10px); } }
 
-.shake, .wrong {
+.shake, .game-page .game-card.wrong {
   -webkit-animation-name: shake;
   animation-name: shake; }
 
+@-webkit-keyframes zoomIn {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale3d(0.3, 0.3, 0.3); }
+  50% {
+    opacity: 1; } }
+
+@keyframes zoomIn {
+  0% {
+    opacity: 0;
+    transform: scale3d(0.3, 0.3, 0.3); }
+  50% {
+    opacity: 1; } }
+
+.zoomIn, .game-page .victory {
+  -webkit-animation-name: zoomIn;
+  animation-name: zoomIn; }
+
 /* thanks to https://codepen.io/yshlin/pen/ylDEk */
+.pyro {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  left: 0;
+  top: 0; }
+
 .pyro > .before,
 .pyro > .after {
   position: absolute;
@@ -5323,23 +5348,23 @@ body {
 
 @-webkit-keyframes bang {
   to {
-    box-shadow: 194px -154.66667px #009dff, -187px -217.66667px #ffc400, -92px -386.66667px #00ff33, 144px -211.66667px #95ff00, 42px -150.66667px #00ff91, -73px 44.33333px #4800ff, -60px -263.66667px #51ff00, -24px -384.66667px #ff8000, 178px 56.33333px #1500ff, 127px -194.66667px #ff6200, -2px -323.66667px #00ffa2, -150px -10.66667px #00a2ff, 162px -105.66667px #ff007b, 210px -373.66667px #00ff37, -244px -256.66667px #0033ff, -201px -379.66667px #1a00ff, -190px -113.66667px #00ffb3, -164px 83.33333px #ff9500, 129px -90.66667px #9dff00, -59px -316.66667px #9500ff, 31px -192.66667px #ff9d00, -54px -91.66667px #ff00a6, -131px -0.66667px #6200ff, 56px -400.66667px #ff0009, -76px 50.33333px #33ff00, -200px -312.66667px #f200ff, 108px -16.66667px deepskyblue, -64px -235.66667px #ff7300, 4px -110.66667px #bf00ff, 166px -213.66667px #1500ff, -73px -76.66667px #ff0004, 200px -90.66667px #a2ff00, 216px -34.66667px #ff3300, -80px -411.66667px #00ff0d, -112px -247.66667px #009dff, 206px -284.66667px #ffb300, -49px -144.66667px #c800ff, 226px 33.33333px #ff6600, -57px -173.66667px #4d00ff, 224px -254.66667px #ffcc00, 204px -172.66667px #ff9100, 53px 39.33333px #005eff, -112px -279.66667px #00ffc8, 198px -213.66667px #00ff91, -199px -160.66667px #ff00ae, -96px -82.66667px #ff1e00, -132px -9.66667px #91ff00, 201px -44.66667px #001eff, -52px 19.33333px #ff00c4, -159px -64.66667px #ff004d, 115px -395.66667px #ff00d9; } }
+    box-shadow: 50px -319.66667px #ff00a2, -87px 47.33333px #ff004d, 50px 78.33333px #ff0088, -205px -132.66667px #ff00ee, -87px -106.66667px #ff003c, -36px -219.66667px #ff00d9, -38px -357.66667px #2200ff, 83px 17.33333px #ff7300, 59px -193.66667px #5e00ff, 205px -89.66667px #ff0033, -244px 34.33333px #ff0095, 204px -255.66667px #00ffc4, 22px -272.66667px #2bff00, -194px -174.66667px #00ffbf, 25px -394.66667px #a600ff, -187px -199.66667px #002fff, -159px -387.66667px #00bbff, -68px -123.66667px #ff5900, -92px -7.66667px #00ff95, 40px -96.66667px #00ff11, -204px 82.33333px #55ff00, 48px -54.66667px #00ffaa, 94px -252.66667px #00ff77, -69px -265.66667px #001aff, 231px -412.66667px #ff003c, 47px -21.66667px #00ff40, 189px -101.66667px #00ffb7, 149px -356.66667px #a2ff00, -86px -346.66667px #ff0084, 225px -93.66667px #00ff0d, -40px -379.66667px #c4ff00, 143px -153.66667px #ff1a00, 242px 59.33333px deepskyblue, 133px -224.66667px #5900ff, -81px 58.33333px #ff0d00, 73px -256.66667px #00fbff, 47px -112.66667px #0011ff, 82px 81.33333px #00ff04, -206px 12.33333px #ffdd00, -144px -327.66667px #0011ff, 0px 49.33333px #00ff4d, -84px 12.33333px #ff1100, 62px -383.66667px #4400ff, 115px -94.66667px #00ffb7, -200px -348.66667px #ff00ee, -132px 23.33333px #0015ff, 67px -294.66667px #6fff00, -206px 31.33333px red, 140px 35.33333px #00aeff, -99px -50.66667px #00ffbb, 196px -334.66667px #0004ff; } }
 
 @-moz-keyframes bang {
   to {
-    box-shadow: 194px -154.66667px #009dff, -187px -217.66667px #ffc400, -92px -386.66667px #00ff33, 144px -211.66667px #95ff00, 42px -150.66667px #00ff91, -73px 44.33333px #4800ff, -60px -263.66667px #51ff00, -24px -384.66667px #ff8000, 178px 56.33333px #1500ff, 127px -194.66667px #ff6200, -2px -323.66667px #00ffa2, -150px -10.66667px #00a2ff, 162px -105.66667px #ff007b, 210px -373.66667px #00ff37, -244px -256.66667px #0033ff, -201px -379.66667px #1a00ff, -190px -113.66667px #00ffb3, -164px 83.33333px #ff9500, 129px -90.66667px #9dff00, -59px -316.66667px #9500ff, 31px -192.66667px #ff9d00, -54px -91.66667px #ff00a6, -131px -0.66667px #6200ff, 56px -400.66667px #ff0009, -76px 50.33333px #33ff00, -200px -312.66667px #f200ff, 108px -16.66667px deepskyblue, -64px -235.66667px #ff7300, 4px -110.66667px #bf00ff, 166px -213.66667px #1500ff, -73px -76.66667px #ff0004, 200px -90.66667px #a2ff00, 216px -34.66667px #ff3300, -80px -411.66667px #00ff0d, -112px -247.66667px #009dff, 206px -284.66667px #ffb300, -49px -144.66667px #c800ff, 226px 33.33333px #ff6600, -57px -173.66667px #4d00ff, 224px -254.66667px #ffcc00, 204px -172.66667px #ff9100, 53px 39.33333px #005eff, -112px -279.66667px #00ffc8, 198px -213.66667px #00ff91, -199px -160.66667px #ff00ae, -96px -82.66667px #ff1e00, -132px -9.66667px #91ff00, 201px -44.66667px #001eff, -52px 19.33333px #ff00c4, -159px -64.66667px #ff004d, 115px -395.66667px #ff00d9; } }
+    box-shadow: 50px -319.66667px #ff00a2, -87px 47.33333px #ff004d, 50px 78.33333px #ff0088, -205px -132.66667px #ff00ee, -87px -106.66667px #ff003c, -36px -219.66667px #ff00d9, -38px -357.66667px #2200ff, 83px 17.33333px #ff7300, 59px -193.66667px #5e00ff, 205px -89.66667px #ff0033, -244px 34.33333px #ff0095, 204px -255.66667px #00ffc4, 22px -272.66667px #2bff00, -194px -174.66667px #00ffbf, 25px -394.66667px #a600ff, -187px -199.66667px #002fff, -159px -387.66667px #00bbff, -68px -123.66667px #ff5900, -92px -7.66667px #00ff95, 40px -96.66667px #00ff11, -204px 82.33333px #55ff00, 48px -54.66667px #00ffaa, 94px -252.66667px #00ff77, -69px -265.66667px #001aff, 231px -412.66667px #ff003c, 47px -21.66667px #00ff40, 189px -101.66667px #00ffb7, 149px -356.66667px #a2ff00, -86px -346.66667px #ff0084, 225px -93.66667px #00ff0d, -40px -379.66667px #c4ff00, 143px -153.66667px #ff1a00, 242px 59.33333px deepskyblue, 133px -224.66667px #5900ff, -81px 58.33333px #ff0d00, 73px -256.66667px #00fbff, 47px -112.66667px #0011ff, 82px 81.33333px #00ff04, -206px 12.33333px #ffdd00, -144px -327.66667px #0011ff, 0px 49.33333px #00ff4d, -84px 12.33333px #ff1100, 62px -383.66667px #4400ff, 115px -94.66667px #00ffb7, -200px -348.66667px #ff00ee, -132px 23.33333px #0015ff, 67px -294.66667px #6fff00, -206px 31.33333px red, 140px 35.33333px #00aeff, -99px -50.66667px #00ffbb, 196px -334.66667px #0004ff; } }
 
 @-o-keyframes bang {
   to {
-    box-shadow: 194px -154.66667px #009dff, -187px -217.66667px #ffc400, -92px -386.66667px #00ff33, 144px -211.66667px #95ff00, 42px -150.66667px #00ff91, -73px 44.33333px #4800ff, -60px -263.66667px #51ff00, -24px -384.66667px #ff8000, 178px 56.33333px #1500ff, 127px -194.66667px #ff6200, -2px -323.66667px #00ffa2, -150px -10.66667px #00a2ff, 162px -105.66667px #ff007b, 210px -373.66667px #00ff37, -244px -256.66667px #0033ff, -201px -379.66667px #1a00ff, -190px -113.66667px #00ffb3, -164px 83.33333px #ff9500, 129px -90.66667px #9dff00, -59px -316.66667px #9500ff, 31px -192.66667px #ff9d00, -54px -91.66667px #ff00a6, -131px -0.66667px #6200ff, 56px -400.66667px #ff0009, -76px 50.33333px #33ff00, -200px -312.66667px #f200ff, 108px -16.66667px deepskyblue, -64px -235.66667px #ff7300, 4px -110.66667px #bf00ff, 166px -213.66667px #1500ff, -73px -76.66667px #ff0004, 200px -90.66667px #a2ff00, 216px -34.66667px #ff3300, -80px -411.66667px #00ff0d, -112px -247.66667px #009dff, 206px -284.66667px #ffb300, -49px -144.66667px #c800ff, 226px 33.33333px #ff6600, -57px -173.66667px #4d00ff, 224px -254.66667px #ffcc00, 204px -172.66667px #ff9100, 53px 39.33333px #005eff, -112px -279.66667px #00ffc8, 198px -213.66667px #00ff91, -199px -160.66667px #ff00ae, -96px -82.66667px #ff1e00, -132px -9.66667px #91ff00, 201px -44.66667px #001eff, -52px 19.33333px #ff00c4, -159px -64.66667px #ff004d, 115px -395.66667px #ff00d9; } }
+    box-shadow: 50px -319.66667px #ff00a2, -87px 47.33333px #ff004d, 50px 78.33333px #ff0088, -205px -132.66667px #ff00ee, -87px -106.66667px #ff003c, -36px -219.66667px #ff00d9, -38px -357.66667px #2200ff, 83px 17.33333px #ff7300, 59px -193.66667px #5e00ff, 205px -89.66667px #ff0033, -244px 34.33333px #ff0095, 204px -255.66667px #00ffc4, 22px -272.66667px #2bff00, -194px -174.66667px #00ffbf, 25px -394.66667px #a600ff, -187px -199.66667px #002fff, -159px -387.66667px #00bbff, -68px -123.66667px #ff5900, -92px -7.66667px #00ff95, 40px -96.66667px #00ff11, -204px 82.33333px #55ff00, 48px -54.66667px #00ffaa, 94px -252.66667px #00ff77, -69px -265.66667px #001aff, 231px -412.66667px #ff003c, 47px -21.66667px #00ff40, 189px -101.66667px #00ffb7, 149px -356.66667px #a2ff00, -86px -346.66667px #ff0084, 225px -93.66667px #00ff0d, -40px -379.66667px #c4ff00, 143px -153.66667px #ff1a00, 242px 59.33333px deepskyblue, 133px -224.66667px #5900ff, -81px 58.33333px #ff0d00, 73px -256.66667px #00fbff, 47px -112.66667px #0011ff, 82px 81.33333px #00ff04, -206px 12.33333px #ffdd00, -144px -327.66667px #0011ff, 0px 49.33333px #00ff4d, -84px 12.33333px #ff1100, 62px -383.66667px #4400ff, 115px -94.66667px #00ffb7, -200px -348.66667px #ff00ee, -132px 23.33333px #0015ff, 67px -294.66667px #6fff00, -206px 31.33333px red, 140px 35.33333px #00aeff, -99px -50.66667px #00ffbb, 196px -334.66667px #0004ff; } }
 
 @-ms-keyframes bang {
   to {
-    box-shadow: 194px -154.66667px #009dff, -187px -217.66667px #ffc400, -92px -386.66667px #00ff33, 144px -211.66667px #95ff00, 42px -150.66667px #00ff91, -73px 44.33333px #4800ff, -60px -263.66667px #51ff00, -24px -384.66667px #ff8000, 178px 56.33333px #1500ff, 127px -194.66667px #ff6200, -2px -323.66667px #00ffa2, -150px -10.66667px #00a2ff, 162px -105.66667px #ff007b, 210px -373.66667px #00ff37, -244px -256.66667px #0033ff, -201px -379.66667px #1a00ff, -190px -113.66667px #00ffb3, -164px 83.33333px #ff9500, 129px -90.66667px #9dff00, -59px -316.66667px #9500ff, 31px -192.66667px #ff9d00, -54px -91.66667px #ff00a6, -131px -0.66667px #6200ff, 56px -400.66667px #ff0009, -76px 50.33333px #33ff00, -200px -312.66667px #f200ff, 108px -16.66667px deepskyblue, -64px -235.66667px #ff7300, 4px -110.66667px #bf00ff, 166px -213.66667px #1500ff, -73px -76.66667px #ff0004, 200px -90.66667px #a2ff00, 216px -34.66667px #ff3300, -80px -411.66667px #00ff0d, -112px -247.66667px #009dff, 206px -284.66667px #ffb300, -49px -144.66667px #c800ff, 226px 33.33333px #ff6600, -57px -173.66667px #4d00ff, 224px -254.66667px #ffcc00, 204px -172.66667px #ff9100, 53px 39.33333px #005eff, -112px -279.66667px #00ffc8, 198px -213.66667px #00ff91, -199px -160.66667px #ff00ae, -96px -82.66667px #ff1e00, -132px -9.66667px #91ff00, 201px -44.66667px #001eff, -52px 19.33333px #ff00c4, -159px -64.66667px #ff004d, 115px -395.66667px #ff00d9; } }
+    box-shadow: 50px -319.66667px #ff00a2, -87px 47.33333px #ff004d, 50px 78.33333px #ff0088, -205px -132.66667px #ff00ee, -87px -106.66667px #ff003c, -36px -219.66667px #ff00d9, -38px -357.66667px #2200ff, 83px 17.33333px #ff7300, 59px -193.66667px #5e00ff, 205px -89.66667px #ff0033, -244px 34.33333px #ff0095, 204px -255.66667px #00ffc4, 22px -272.66667px #2bff00, -194px -174.66667px #00ffbf, 25px -394.66667px #a600ff, -187px -199.66667px #002fff, -159px -387.66667px #00bbff, -68px -123.66667px #ff5900, -92px -7.66667px #00ff95, 40px -96.66667px #00ff11, -204px 82.33333px #55ff00, 48px -54.66667px #00ffaa, 94px -252.66667px #00ff77, -69px -265.66667px #001aff, 231px -412.66667px #ff003c, 47px -21.66667px #00ff40, 189px -101.66667px #00ffb7, 149px -356.66667px #a2ff00, -86px -346.66667px #ff0084, 225px -93.66667px #00ff0d, -40px -379.66667px #c4ff00, 143px -153.66667px #ff1a00, 242px 59.33333px deepskyblue, 133px -224.66667px #5900ff, -81px 58.33333px #ff0d00, 73px -256.66667px #00fbff, 47px -112.66667px #0011ff, 82px 81.33333px #00ff04, -206px 12.33333px #ffdd00, -144px -327.66667px #0011ff, 0px 49.33333px #00ff4d, -84px 12.33333px #ff1100, 62px -383.66667px #4400ff, 115px -94.66667px #00ffb7, -200px -348.66667px #ff00ee, -132px 23.33333px #0015ff, 67px -294.66667px #6fff00, -206px 31.33333px red, 140px 35.33333px #00aeff, -99px -50.66667px #00ffbb, 196px -334.66667px #0004ff; } }
 
 @keyframes bang {
   to {
-    box-shadow: 194px -154.66667px #009dff, -187px -217.66667px #ffc400, -92px -386.66667px #00ff33, 144px -211.66667px #95ff00, 42px -150.66667px #00ff91, -73px 44.33333px #4800ff, -60px -263.66667px #51ff00, -24px -384.66667px #ff8000, 178px 56.33333px #1500ff, 127px -194.66667px #ff6200, -2px -323.66667px #00ffa2, -150px -10.66667px #00a2ff, 162px -105.66667px #ff007b, 210px -373.66667px #00ff37, -244px -256.66667px #0033ff, -201px -379.66667px #1a00ff, -190px -113.66667px #00ffb3, -164px 83.33333px #ff9500, 129px -90.66667px #9dff00, -59px -316.66667px #9500ff, 31px -192.66667px #ff9d00, -54px -91.66667px #ff00a6, -131px -0.66667px #6200ff, 56px -400.66667px #ff0009, -76px 50.33333px #33ff00, -200px -312.66667px #f200ff, 108px -16.66667px deepskyblue, -64px -235.66667px #ff7300, 4px -110.66667px #bf00ff, 166px -213.66667px #1500ff, -73px -76.66667px #ff0004, 200px -90.66667px #a2ff00, 216px -34.66667px #ff3300, -80px -411.66667px #00ff0d, -112px -247.66667px #009dff, 206px -284.66667px #ffb300, -49px -144.66667px #c800ff, 226px 33.33333px #ff6600, -57px -173.66667px #4d00ff, 224px -254.66667px #ffcc00, 204px -172.66667px #ff9100, 53px 39.33333px #005eff, -112px -279.66667px #00ffc8, 198px -213.66667px #00ff91, -199px -160.66667px #ff00ae, -96px -82.66667px #ff1e00, -132px -9.66667px #91ff00, 201px -44.66667px #001eff, -52px 19.33333px #ff00c4, -159px -64.66667px #ff004d, 115px -395.66667px #ff00d9; } }
+    box-shadow: 50px -319.66667px #ff00a2, -87px 47.33333px #ff004d, 50px 78.33333px #ff0088, -205px -132.66667px #ff00ee, -87px -106.66667px #ff003c, -36px -219.66667px #ff00d9, -38px -357.66667px #2200ff, 83px 17.33333px #ff7300, 59px -193.66667px #5e00ff, 205px -89.66667px #ff0033, -244px 34.33333px #ff0095, 204px -255.66667px #00ffc4, 22px -272.66667px #2bff00, -194px -174.66667px #00ffbf, 25px -394.66667px #a600ff, -187px -199.66667px #002fff, -159px -387.66667px #00bbff, -68px -123.66667px #ff5900, -92px -7.66667px #00ff95, 40px -96.66667px #00ff11, -204px 82.33333px #55ff00, 48px -54.66667px #00ffaa, 94px -252.66667px #00ff77, -69px -265.66667px #001aff, 231px -412.66667px #ff003c, 47px -21.66667px #00ff40, 189px -101.66667px #00ffb7, 149px -356.66667px #a2ff00, -86px -346.66667px #ff0084, 225px -93.66667px #00ff0d, -40px -379.66667px #c4ff00, 143px -153.66667px #ff1a00, 242px 59.33333px deepskyblue, 133px -224.66667px #5900ff, -81px 58.33333px #ff0d00, 73px -256.66667px #00fbff, 47px -112.66667px #0011ff, 82px 81.33333px #00ff04, -206px 12.33333px #ffdd00, -144px -327.66667px #0011ff, 0px 49.33333px #00ff4d, -84px 12.33333px #ff1100, 62px -383.66667px #4400ff, 115px -94.66667px #00ffb7, -200px -348.66667px #ff00ee, -132px 23.33333px #0015ff, 67px -294.66667px #6fff00, -206px 31.33333px red, 140px 35.33333px #00aeff, -99px -50.66667px #00ffbb, 196px -334.66667px #0004ff; } }
 
 @-webkit-keyframes gravity {
   to {
@@ -5504,20 +5529,20 @@ Copyright (c) 2015 Daniel Eden
 body {
   -webkit-backface-visibility: hidden; }
 
-.animated, .wrong {
+.animated, .game-page .game-card.wrong, .game-page .victory {
   -webkit-animation-duration: calc( 1s);
   animation-duration: calc( 1s);
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both; }
-  .animated.infinite, .infinite.wrong {
+  .animated.infinite, .game-page .infinite.game-card.wrong, .game-page .infinite.victory {
     animation-iteration-count: infinite; }
-  .animated.hinge, .hinge.wrong {
+  .animated.hinge, .game-page .hinge.game-card.wrong, .game-page .hinge.victory {
     -webkit-animation-duration: calc( 1s * 2);
     animation-duration: calc( 1s * 2); }
-  .animated.bounceIn, .bounceIn.wrong, .animated.bounceOut, .bounceOut.wrong {
+  .animated.bounceIn, .game-page .bounceIn.game-card.wrong, .game-page .bounceIn.victory, .animated.bounceOut, .game-page .bounceOut.game-card.wrong, .game-page .bounceOut.victory {
     -webkit-animation-duration: calc( 1s * 0.75);
     animation-duration: calc( 1s * 0.75); }
-  .animated.flipOutX, .flipOutX.wrong, .animated.flipOutY, .flipOutY.wrong {
+  .animated.flipOutX, .game-page .flipOutX.game-card.wrong, .game-page .flipOutX.victory, .animated.flipOutY, .game-page .flipOutY.game-card.wrong, .game-page .flipOutY.victory {
     -webkit-animation-duration: calc( 1s * 0.75);
     animation-duration: calc( 1s * 0.75); }
 
@@ -5537,19 +5562,27 @@ body {
   20%, 40%, 60%, 80% {
     transform: translateX(10px); } }
 
-.shake, .wrong {
+.shake, .game-page .game-card.wrong {
   -webkit-animation-name: shake;
   animation-name: shake; }
 
-.card.game-card {
-  max-width: 401px;
-  margin: 0 auto; }
+@-webkit-keyframes zoomIn {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale3d(0.3, 0.3, 0.3); }
+  50% {
+    opacity: 1; } }
 
-.game-card .card-header-title > * {
-  width: 100%; }
+@keyframes zoomIn {
+  0% {
+    opacity: 0;
+    transform: scale3d(0.3, 0.3, 0.3); }
+  50% {
+    opacity: 1; } }
 
-.game-card .field-label {
-  flex-grow: 0; }
+.zoomIn, .game-page .victory {
+  -webkit-animation-name: zoomIn;
+  animation-name: zoomIn; }
 
 .home-hero, .home-hero::before {
   height: calc(100vh - 4rem); }
@@ -5646,3 +5679,44 @@ body {
     opacity: 0; }
   to {
     opacity: 1; } }
+
+.game-page .card.game-card,
+.game-page .cards-wrapper {
+  width: 300px; }
+
+@media (min-width: 450px) {
+  .game-page .card.game-card,
+  .game-page .cards-wrapper {
+    width: 400px; } }
+
+.game-page .cards-wrapper {
+  position: relative;
+  margin: 0 auto; }
+
+.game-page .game-card {
+  margin: 0 auto; }
+  .game-page .game-card .field-label {
+    flex-grow: 0; }
+  .game-page .game-card.stacked-n {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 10px 0 -5px #eee, 0 10px 1px -4px rgba(0, 0, 0, 0.15), 0 20px 0 -10px #eee, 0 20px 1px -9px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0px 1px rgba(0, 0, 0, 0.15), 0 10px 0 -5px #eee, 0 10px 1px -4px rgba(0, 0, 0, 0.15), 0 20px 0 -10px #eee, 0 20px 1px -9px rgba(0, 0, 0, 0.15), 0 30px 0 -15px #eee, 0 30px 1px -14px rgba(0, 0, 0, 0.15), 0 40px 0 -20px #eee, 0 40px 1px -19px rgba(0, 0, 0, 0.15), 0 50px 0 -25px #eee, 0 50px 1px -24px rgba(0, 0, 0, 0.15), 0 60px 0 -30px #eee, 0 60px 1px -29px rgba(0, 0, 0, 0.15); }
+  .game-page .game-card.stacked-2 {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 10px 0 -5px #eee, 0 10px 1px -4px rgba(0, 0, 0, 0.15); }
+  .game-page .game-card.stacked-3 {
+    box-shadow: 0 0px 1px rgba(0, 0, 0, 0.15), 0 10px 0 -5px #eee, 0 10px 1px -4px rgba(0, 0, 0, 0.15), 0 20px 0 -10px #eee, 0 20px 1px -9px rgba(0, 0, 0, 0.15), 0 30px 0 -15px #eee, 0 30px 1px -14px rgba(0, 0, 0, 0.15); }
+  .game-page .game-card.stacked-4 {
+    box-shadow: 0 0px 1px rgba(0, 0, 0, 0.15), 0 10px 0 -5px #eee, 0 10px 1px -4px rgba(0, 0, 0, 0.15), 0 20px 0 -10px #eee, 0 20px 1px -9px rgba(0, 0, 0, 0.15), 0 30px 0 -15px #eee, 0 30px 1px -14px rgba(0, 0, 0, 0.15), 0 40px 0 -20px #eee, 0 40px 1px -19px rgba(0, 0, 0, 0.15); }
+  .game-page .game-card.stacked-5 {
+    box-shadow: 0 0px 1px rgba(0, 0, 0, 0.15), 0 10px 0 -5px #eee, 0 10px 1px -4px rgba(0, 0, 0, 0.15), 0 20px 0 -10px #eee, 0 20px 1px -9px rgba(0, 0, 0, 0.15), 0 30px 0 -15px #eee, 0 30px 1px -14px rgba(0, 0, 0, 0.15), 0 40px 0 -20px #eee, 0 40px 1px -19px rgba(0, 0, 0, 0.15), 0 50px 0 -25px #eee, 0 50px 1px -24px rgba(0, 0, 0, 0.15); }
+  .game-page .game-card.stacked-6 {
+    box-shadow: 0 0px 1px rgba(0, 0, 0, 0.15), 0 10px 0 -5px #eee, 0 10px 1px -4px rgba(0, 0, 0, 0.15), 0 20px 0 -10px #eee, 0 20px 1px -9px rgba(0, 0, 0, 0.15), 0 30px 0 -15px #eee, 0 30px 1px -14px rgba(0, 0, 0, 0.15), 0 40px 0 -20px #eee, 0 40px 1px -19px rgba(0, 0, 0, 0.15), 0 50px 0 -25px #eee, 0 50px 1px -24px rgba(0, 0, 0, 0.15), 0 60px 0 -30px #eee, 0 60px 1px -29px rgba(0, 0, 0, 0.15); }
+
+.game-page .game-card .card-header-title > * {
+  width: 100%; }
+
+.game-page .phantom .game-card {
+  position: absolute;
+  pointer-events: none;
+  width: 100%;
+  height: 100%;
+  z-index: 2; }

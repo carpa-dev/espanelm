@@ -938,3 +938,8 @@ Remember to disable [safe write](https://webpack.js.org/guides/development/#adju
 ## Images
 
 Home page image https://pixabay.com/pt/illustrations/silhueta-ulmeiro-%C3%A1rvore-olmo-1502199/
+
+## Quirks
+
+Had to pull elm-style-animation locally, and move all its imports to under "direct" in elm.json
+https://github.com/mdgriffith/elm-style-animation/issues/67

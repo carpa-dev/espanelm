@@ -2,19 +2,6 @@
 // animations
 @import '../node_modules/animate-sass/animate';
 
-.card.game-card {
-  max-width: 401px;
-  margin: 0 auto;
-}
-
-.game-card .card-header-title > * {
-  width: 100%;
-}
-
-.game-card .field-label {
-  flex-grow: 0;
-}
-
 // hero
 .home-hero {
   &,
@@ -141,6 +128,7 @@
   animation: dummy 0.5s ease-out forwards;
   animation-delay: 1s;
 }
+
 @keyframes dummy {
   from {
     opacity: 0;
@@ -150,7 +138,97 @@
   }
 }
 
-.wrong {
-  @extend .animated;
-  @extend .shake;
+// GAME PAGE
+
+@function paperShadow($depth) {
+  $val: 0 0px 1px rgba(0, 0, 0, 0.15);
+  @for $i from 1 through $depth {
+    $v-offset: 10 * $i;
+    $spread-radius-layer: $v-offset / 2;
+    $spread-radius-shadow: $spread-radius-layer - 1;
+    //Create new layer
+    $val: #{$val}, 0 #{$v-offset}px 0 -#{$spread-radius-layer}px #eee;
+    //Create shadow for layer
+    $val: #{$val},
+      0 #{$v-offset}px 1px -#{$spread-radius-shadow}px rgba(0, 0, 0, 0.15);
+  }
+  @return $val;
+}
+.game-page {
+  // a static width needs to be set
+  // since the phantom card uses position absolute
+  .card.game-card,
+  .cards-wrapper {
+    width: 300px;
+  }
+  @media (min-width: 450px) {
+    .card.game-card,
+    .cards-wrapper {
+      width: 400px;
+    }
+  }
+
+  .cards-wrapper {
+    position: relative;
+    margin: 0 auto;
+  }
+  .game-card {
+    margin: 0 auto;
+
+    &.wrong {
+      @extend .animated;
+      @extend .shake;
+    }
+
+    .field-label {
+      flex-grow: 0;
+    }
+    // https://css-tricks.com/snippets/css/stack-of-paper/
+    // 3 or more cards
+    &.stacked-n {
+      box-shadow:
+    /* The top layer shadow */ 0 1px 1px rgba(0, 0, 0, 0.15),
+        /* The second layer */ 0 10px 0 -5px #eee,
+        /* The second layer shadow */ 0 10px 1px -4px rgba(0, 0, 0, 0.15),
+        /* The third layer */ 0 20px 0 -10px #eee,
+        /* The third layer shadow */ 0 20px 1px -9px rgba(0, 0, 0, 0.15);
+      box-shadow: paperShadow(6);
+    }
+
+    &.stacked-2 {
+      box-shadow:/* The top layer shadow */ 0 1px 1px rgba(0, 0, 0, 0.15),
+        /* The second layer */ 0 10px 0 -5px #eee,
+        /* The second layer shadow */ 0 10px 1px -4px rgba(0, 0, 0, 0.15);
+    }
+
+    &.stacked-3 {
+      box-shadow: paperShadow(3);
+    }
+    &.stacked-4 {
+      box-shadow: paperShadow(4);
+    }
+    &.stacked-5 {
+      box-shadow: paperShadow(5);
+    }
+    &.stacked-6 {
+      box-shadow: paperShadow(6);
+    }
+  }
+
+  .game-card .card-header-title > * {
+    width: 100%;
+  }
+
+  .phantom .game-card {
+    position: absolute;
+    pointer-events: none;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+  }
+
+  .victory {
+    @extend .animated;
+    @extend .zoomIn;
+  }
 }

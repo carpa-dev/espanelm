@@ -164,7 +164,12 @@ withMenuClass baseClasses model =
 
 subscriptions : Model -> Sub Msg
 subscriptions model =
-    Sub.none
+    case model.page of
+        Game ->
+            Sub.map GameMsg (Game.subscriptions model.gameModel)
+
+        _ ->
+            Sub.none
 
 
 

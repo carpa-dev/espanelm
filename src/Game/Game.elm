@@ -1,5 +1,6 @@
-module Game.Game exposing (Model, Msg, init, initCmd, update, view)
+module Game.Game exposing (Model, Msg, init, initCmd, subscriptions, update, view)
 
+import Animation exposing (px)
 import Components.Loading exposing (viewLoading)
 import Debug
 import Game.AvailableVerbs
@@ -209,3 +210,17 @@ viewLoadingAvailableVerbs msg =
 fetchErrorToString : Http.Error -> String
 fetchErrorToString error =
     "Error loading JSON"
+
+
+
+-- subscriptions
+
+
+subscriptions : Model -> Sub Msg
+subscriptions model =
+    case model.page of
+        Playing playModel ->
+            Sub.map PlayMsg (Play.subscriptions playModel)
+
+        _ ->
+            Sub.none

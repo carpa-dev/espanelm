@@ -72,6 +72,14 @@ $box-shadow2: ();
   -ms-transform: $settings;
 }
 
+// cover all screen, no matter where in the dom
+.pyro {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  left: 0;
+  top: 0;
+}
 .pyro > .before,
 .pyro > .after {
   position: absolute;

@@ -1,5 +1,7 @@
-module Game.Play exposing (Model, Msg(..), init, update, view)
+module Game.Play exposing (Model, Msg(..), init, subscriptions, update, view)
 
+import Animation
+import Animation.Messenger
 import Game.GameCommon as GameCommon exposing (Conjugation(..), GameSettings, Person(..), PersonsRec, Verb)
 import Game.Round exposing (Round, generateRounds)
 import Game.VerbData exposing (VerbData)
@@ -16,6 +18,8 @@ type alias Model =
     , roundsLeft : List Round
     , answer : UserAnswer
     , gameSettings : GameSettings
+    , cardAnimation : Animation.Messenger.State Msg
+    , phantomCard : Maybe Round -- represents the last round, used for animation
     }
 
 
@@ -30,6 +34,10 @@ type Msg
     | StopGame
     | VerifyUserAnswer
     | RestartGame
+    | AnimateCardOut Animation.Msg
+    | RunAnimation -- TODO: remove this
+    | StartCardAnimation
+    | ShowNewCard
 
 
 init : GameSettings -> List VerbData -> ( Model, Cmd Msg )
@@ -38,12 +46,24 @@ init gameSettings verbData =
         rounds =
             generateRounds gameSettings verbData
     in
-    ( { gameSettings = gameSettings, answer = Pristine "", rounds = rounds, roundsLeft = rounds }, Cmd.none )
+    ( { gameSettings = gameSettings, answer = Pristine "", rounds = rounds, roundsLeft = rounds, cardAnimation = phantomCardInitialState, phantomCard = Nothing }, Cmd.none )
+
+
+phantomCardInitialState : Animation.Messenger.State msg
+phantomCardInitialState =
+    Animation.style
+        phantomCardHidden
+
+
+phantomCardHidden =
+    [ Animation.top (Animation.px 0.0)
+    , Animation.opacity 1.0
+    ]
 
 
 update : Msg -> Model -> ( Model, Cmd Msg )
 update msg model =
-    case msg of
+    case Debug.log "msg" msg of
         RestartGame ->
             ( { model | answer = Pristine "", roundsLeft = model.rounds }, Cmd.none )
 
@@ -55,20 +75,89 @@ update msg model =
             ( model, Cmd.none )
 
         VerifyUserAnswer ->
-            updateOnSubmit model
+            -- handles the case where
+            -- the user submits before animation finishes
+            -- so card state must be set to initial state
+            -- before animation can start
+            let
+                newStyle =
+                    Animation.interrupt
+                        [ Animation.set
+                            phantomCardHidden
+                        , Animation.Messenger.send StartCardAnimation
+                        ]
+                        model.cardAnimation
+
+                newModel =
+                    updateOnSubmit model
+            in
+            ( { newModel
+                | cardAnimation = newStyle
+              }
+            , Cmd.none
+            )
+
+        StartCardAnimation ->
+            let
+                newStyle =
+                    Animation.interrupt
+                        [ Animation.to
+                            [ Animation.top (Animation.px -300)
+                            , Animation.opacity 0.0
+                            ]
+                        , Animation.Messenger.send ShowNewCard
+                        ]
+                        model.cardAnimation
+            in
+            ( { model
+                | cardAnimation = newStyle
+              }
+            , Cmd.none
+            )
+
+        AnimateCardOut aMsg ->
+            let
+                ( newStyle, cmd ) =
+                    Animation.Messenger.update aMsg model.cardAnimation
+            in
+            ( { model | cardAnimation = newStyle }, cmd )
+
+        ShowNewCard ->
+            ( { model | cardAnimation = phantomCardInitialState, phantomCard = Nothing }, Cmd.none )
+
+        RunAnimation ->
+            let
+                newStyle =
+                    Animation.interrupt
+                        [ Animation.to
+                            [ Animation.top (Animation.px -100)
+                            , Animation.opacity 0.0
+                            ]
+                        , Animation.Messenger.send ShowNewCard
+                        ]
+                        model.cardAnimation
+            in
+            ( { model
+                | cardAnimation = newStyle
+              }
+            , Cmd.none
+            )
 
 
-updateOnSubmit : Model -> ( Model, Cmd Msg )
+updateOnSubmit : Model -> Model
 updateOnSubmit model =
     if isAnswerCorrect (answerToString model.answer) model then
         let
+            previousRound =
+                currentRound model
+
             roundsLeft =
                 Maybe.withDefault [] (List.tail model.roundsLeft)
         in
-        ( { model | roundsLeft = roundsLeft, answer = Pristine "" }, Cmd.none )
+        { model | roundsLeft = roundsLeft, answer = Pristine "", phantomCard = previousRound }
 
     else
-        ( { model | answer = Invalid (answerToString model.answer) }, Cmd.none )
+        { model | answer = Invalid (answerToString model.answer) }
 
 
 
@@ -80,66 +169,27 @@ view model =
     div [ class "container" ]
         [ div [ class "section" ]
             [ div [ class "columns is-centered" ]
-                [ div [ class "column" ] [ viewCard model ]
+                [ div [ class "column" ] [ div [ class "cards-wrapper" ] [ viewCards model ] ]
                 ]
             ]
         ]
 
 
-viewCard : Model -> Html Msg
-viewCard model =
+viewCards : Model -> Html Msg
+viewCards model =
     let
         round =
             currentRound model
     in
     case round of
         Just r ->
-            form [ class ("card game-card" ++ cardClass model), onSubmit VerifyUserAnswer ]
-                [ header [ class "card-header" ]
-                    [ div [ class "card-header-title" ]
-                        [ p
-                            [ class "has-text-centered is-5 title" ]
-                            [ text <| GameCommon.conjugationToString r.conjugation
-                            ]
-                        ]
-                    ]
-                , div [ class "card-content" ]
-                    [ div [ class "content has-text-centered" ]
-                        [ h4 [ class "title is-4" ] [ text r.verb ]
-                        , div []
-                            [ div
-                                [ class "field is-horizontal" ]
-                                [ span
-                                    [ class "field-label is-medium" ]
-                                    [ text <| GameCommon.personToSpanish r.person ]
-                                , div [ class "field-body" ]
-                                    [ div [ class "field" ]
-                                        [ input [ onInput UpdateAnswer, placeholder "type the conjugation", value (answerToString model.answer), class ("input is-medium field-body " ++ inputClass model) ]
-                                            []
-                                        ]
-                                    ]
-                                ]
-                            ]
-                        ]
-                    ]
-                , footer [ class "card-footer" ]
-                    [ div [ class "column" ]
-                        [ button
-                            [ type_ "button", class "button is-white is-fullwidth", onClick StopGame ]
-                            [ text "quit" ]
-                        ]
-                    , div [ class "column" ]
-                        [ button
-                            [ class "button is-primary is-fullwidth" ]
-                            [ text "confirm" ]
-                        ]
-                    ]
-                ]
+            div [] [ viewPhantomCard model, viewCurrentRoundCard model ]
 
         Nothing ->
+            -- game is over
             div []
                 [ div [ class "pyro" ] [ div [ class "before" ] [], div [ class "after" ] [] ]
-                , section [ class "message is-success card game-card" ]
+                , section [ class "victory message is-success card game-card" ]
                     [ div [ class "message-header" ] [ text "Muy bien!" ]
                     , div
                         [ class "message-body" ]
@@ -150,7 +200,7 @@ viewCard model =
                             ]
                         , div [ class "columns" ]
                             [ div [ class "column" ]
-                                [ button [ class "button", onClick RestartGame ] [ text "Play again" ] ]
+                                [ button [ class "button", onClick RestartGame ] [ text "Restart Game" ] ]
                             , div [ class "column" ]
                                 [ button [ class "button is-primary", onClick StopGame ] [ text "Play with different settings" ]
                                 ]
@@ -158,6 +208,82 @@ viewCard model =
                         ]
                     ]
                 ]
+
+
+viewCurrentRoundCard : Model -> Html Msg
+viewCurrentRoundCard model =
+    let
+        round =
+            currentRound model
+    in
+    case round of
+        Just r ->
+            form [ onSubmit VerifyUserAnswer ] [ viewIndividualCard model r ]
+
+        Nothing ->
+            span [] []
+
+
+viewPhantomCard : Model -> Html Msg
+viewPhantomCard model =
+    case model.phantomCard of
+        Just r ->
+            div [ class "phantom" ] [ viewIndividualCard model r ]
+
+        Nothing ->
+            span [] []
+
+
+
+-- This is used to render both phantom and concrete card
+-- therefore the cardAttribute has to be smart
+-- I don't feel good about this, but I believe it's the easiest way to keep
+-- them in sync (visually)
+
+
+viewIndividualCard : Model -> Round -> Html Msg
+viewIndividualCard model round =
+    div (cardAttributes model round)
+        [ header [ class "card-header" ]
+            [ div [ class "card-header-title" ]
+                [ p
+                    [ class "has-text-centered is-5 title" ]
+                    [ text <| GameCommon.conjugationToString round.conjugation
+                    ]
+                ]
+            ]
+        , div [ class "card-content" ]
+            [ div [ class "content has-text-centered" ]
+                [ h4 [ class "title is-4" ] [ text round.verb ]
+                , div []
+                    [ div
+                        [ class "field is-horizontal" ]
+                        [ span
+                            [ class "field-label is-medium" ]
+                            [ text <| GameCommon.personToSpanish round.person ]
+                        , div [ class "field-body" ]
+                            [ div [ class "field" ]
+                                [ input [ onInput UpdateAnswer, placeholder "conjugation", value (answerToString model.answer), class ("input is-medium field-body " ++ inputClass model) ]
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        , footer [ class "card-footer" ]
+            [ div [ class "column" ]
+                [ button
+                    [ type_ "button", class "button is-white is-fullwidth", onClick StopGame ]
+                    [ text "quit" ]
+                ]
+            , div [ class "column" ]
+                [ button
+                    [ class "button is-primary is-fullwidth" ]
+                    [ text "confirm" ]
+                ]
+            ]
+        ]
 
 
 inputClass : Model -> String
@@ -170,14 +296,70 @@ inputClass model =
             ""
 
 
-cardClass : Model -> String
-cardClass model =
-    case model.answer of
-        Invalid _ ->
-            " wrong"
+
+--cardStyles : Model -> Round -> List Html.Attributes
+
+
+cardAttributes model round =
+    if isCurrentRound model round then
+        case model.answer of
+            Invalid _ ->
+                [ class ("card game-card " ++ stackedCardClass model ++ " wrong") ]
+
+            _ ->
+                [ class ("card game-card " ++ stackedCardClass model) ]
+
+    else
+        -- Phantom deck
+        [ class "card game-card" ] ++ List.concat [ Animation.render model.cardAnimation ]
+
+
+isCurrentRound : Model -> Round -> Bool
+isCurrentRound model round =
+    case currentRound model of
+        Nothing ->
+            False
+
+        Just r ->
+            round == r
+
+
+stackedCardClass : Model -> String
+stackedCardClass model =
+    let
+        baseClass =
+            "stacked"
+
+        roundsLeft =
+            List.length model.roundsLeft
+    in
+    case roundsLeft of
+        1 ->
+            baseClass ++ "-1"
+
+        2 ->
+            baseClass ++ "-2"
+
+        3 ->
+            baseClass ++ "-3"
+
+        4 ->
+            baseClass ++ "-4"
+
+        5 ->
+            baseClass ++ "-5"
 
         _ ->
-            ""
+            baseClass ++ "-n"
+
+
+
+-- subscriptions
+
+
+subscriptions : Model -> Sub Msg
+subscriptions model =
+    Animation.subscription AnimateCardOut [ model.cardAnimation ]
 
 
 
@@ -187,6 +369,12 @@ cardClass model =
 currentRound : Model -> Maybe Round
 currentRound model =
     List.head model.roundsLeft
+
+
+nextRound : Model -> Maybe Round
+nextRound model =
+    List.drop 1 model.roundsLeft
+        |> List.head
 
 
 answerToString : UserAnswer -> String
