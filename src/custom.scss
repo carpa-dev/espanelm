@@ -1,3 +1,7 @@
+@import 'variables.scss';
+// animations
+@import '../node_modules/animate-sass/animate';
+
 .card.game-card {
   max-width: 401px;
   margin: 0 auto;
@@ -127,4 +131,26 @@
 // bulma's is-transparent is misleading
 .navbar.is-transparent {
   background-color: transparent;
+}
+
+// in fast connections loading message would look like a flick
+// so we only show if the user has seen it for >1s
+.loading-wrapper {
+  opacity: 0;
+
+  animation: dummy 0.5s ease-out forwards;
+  animation-delay: 1s;
+}
+@keyframes dummy {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.wrong {
+  @extend .animated;
+  @extend .shake;
 }

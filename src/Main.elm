@@ -163,7 +163,7 @@ withMenuClass baseClasses model =
 
 
 subscriptions : Model -> Sub Msg
-subscriptions _ =
+subscriptions model =
     Sub.none
 
 

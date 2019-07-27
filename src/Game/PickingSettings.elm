@@ -3,7 +3,7 @@ module Game.PickingSettings exposing (Model, Msg(..), OutMsg(..), combinedDecode
 import Bool.Extra as BoolExtra
 import Form.Decoder as Decoder exposing (Decoder, Validator, custom)
 import Game.GameCommon as GameCommon exposing (Conjugation, GameSettings, Person, Verb)
-import Html exposing (Html, a, button, div, form, h1, h3, h4, img, input, label, li, p, section, span, text, ul)
+import Html exposing (Html, a, button, div, footer, form, h1, h3, h4, header, img, input, label, li, nav, p, section, span, text, ul)
 import Html.Attributes exposing (checked, class, disabled, for, href, id, placeholder, src, style, type_, value)
 import Html.Events exposing (onBlur, onCheck, onClick, onInput, onSubmit)
 import List.Extra exposing (foldl1)
@@ -16,6 +16,8 @@ type alias Model =
     , availableVerbs : List Verb
     , availablePersons : List Person
     , availableConjugations : List Conjugation
+    , showModal : Bool
+    , modal : List Verb
     }
 
 
@@ -68,6 +70,9 @@ type Msg
     | OnBlurVerbs
     | ToggleConjugation Conjugation Bool
     | OnSubmit
+    | ToggleModal
+    | ModalSelectVerb Verb
+    | ModalConfirm
 
 
 type OutMsg
@@ -81,6 +86,8 @@ init loadedVerbs =
       , availablePersons = GameCommon.allPersons
       , availableVerbs = loadedVerbs
       , form = initForm
+      , showModal = False
+      , modal = []
       }
     , Cmd.none
     )
@@ -128,6 +135,26 @@ update msg model =
 
         OnSubmit ->
             updateOnSubmit model
+
+        ToggleModal ->
+            ( { model | showModal = not model.showModal }, Cmd.none, NoOp )
+
+        ModalConfirm ->
+            let
+                oldForm =
+                    model.form
+
+                newForm =
+                    { oldForm | verbs = VerbValid <| verbsToString model.modal }
+            in
+            ( { model | showModal = not model.showModal, form = newForm, modal = [] }, Cmd.none, NoOp )
+
+        ModalSelectVerb verb ->
+            if List.member verb model.modal then
+                ( { model | modal = List.filter (\v -> verb == v) model.modal }, Cmd.none, NoOp )
+
+            else
+                ( { model | modal = verb :: model.modal }, Cmd.none, NoOp )
 
 
 
@@ -252,7 +279,7 @@ view model =
                 [ div [ class "panel-heading" ] [ h1 [ class "title is-4" ] [ text "New game" ] ]
                 , div [ class "panel-block" ]
                     [ div [ class "control" ]
-                        [ label [ class "label" ] [ text "Verbs" ]
+                        [ label [ class "label" ] [ div [] [ text "Verbs" ], a [ onClick ToggleModal, href "" ] [ text "dont know where to start?" ] ]
                         , input [ class "input", placeholder "comer, dormir, regresar...", value (inputToString model.form.verbs), onBlur OnBlurVerbs, onInput OnInputVerbs ] []
                         , viewFormVerbErrors model
                         ]
@@ -261,7 +288,36 @@ view model =
                 , div [ class "panel-block" ] [ viewSubmitButton model ]
                 ]
             ]
+        , div [ class ("modal" ++ modalClass model) ] [ div [ class "modal-background", onClick ToggleModal ] [], div [ class "modal-card" ] [ header [ class "modal-card-head" ] [ p [ class "modal-card-title" ] [ text "verbs" ], button [ class "delete", onClick ToggleModal ] [] ], section [ class "modal-card-body" ] [ viewModalPanel model ], footer [ class "modal-card-foot" ] [ button [ class "button is-success", onClick ModalConfirm ] [ text "Pick these verbs" ] ] ] ]
         ]
+
+
+modalClass : Model -> String
+modalClass model =
+    if model.showModal then
+        " is-active"
+
+    else
+        ""
+
+
+viewModalPanel : Model -> Html Msg
+viewModalPanel model =
+    nav [ class "panel" ] [ div [ class "panel-tabs" ] [ a [ href "", class "is-active" ] [ text "all" ] ], viewModalVerbs model ]
+
+
+viewModalVerbs : Model -> Html Msg
+viewModalVerbs model =
+    div []
+        (List.map
+            (\v -> label [ class "panel-block" ] [ input [ type_ "checkbox", class "panel-block", onClick (ModalSelectVerb v), checked <| isModalVerbChecked model v ] [], text v ])
+            model.availableVerbs
+        )
+
+
+isModalVerbChecked : Model -> Verb -> Bool
+isModalVerbChecked model verb =
+    List.member verb model.modal
 
 
 verbInputStateClass : Model -> String

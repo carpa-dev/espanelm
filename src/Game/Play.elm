@@ -86,15 +86,6 @@ view model =
         ]
 
 
-
--- Debug purposes
-
-
-viewAllRounds : Model -> Html Msg
-viewAllRounds model =
-    div [] (List.map (\round -> div [] [ text ("( " ++ round.verb ++ ", " ++ GameCommon.conjugationToString round.conjugation ++ ", " ++ GameCommon.personToString round.person ++ ", " ++ round.answer ++ " ) ") ]) model.rounds)
-
-
 viewCard : Model -> Html Msg
 viewCard model =
     let
@@ -103,7 +94,7 @@ viewCard model =
     in
     case round of
         Just r ->
-            form [ class "card game-card", onSubmit VerifyUserAnswer ]
+            form [ class ("card game-card" ++ cardClass model), onSubmit VerifyUserAnswer ]
                 [ header [ class "card-header" ]
                     [ div [ class "card-header-title" ]
                         [ p
@@ -174,6 +165,16 @@ inputClass model =
     case model.answer of
         Invalid _ ->
             "is-danger"
+
+        _ ->
+            ""
+
+
+cardClass : Model -> String
+cardClass model =
+    case model.answer of
+        Invalid _ ->
+            " wrong"
 
         _ ->
             ""

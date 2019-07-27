@@ -1,12 +1,13 @@
 module Game.Game exposing (Model, Msg, init, initCmd, update, view)
 
+import Components.Loading exposing (viewLoading)
 import Debug
 import Game.AvailableVerbs
 import Game.GameCommon exposing (Conjugation, GameSettings, Person, Verb)
 import Game.PickingSettings as PickingSettings exposing (Msg(..), OutMsg(..))
 import Game.Play as Play exposing (Msg(..))
 import Game.VerbData as VerbData exposing (VerbData)
-import Html exposing (Html, a, button, div, h1, h3, h4, img, input, label, li, text, ul)
+import Html exposing (Html, a, button, div, h1, h3, h4, img, input, label, li, progress, text, ul)
 import Html.Attributes exposing (checked, class, disabled, for, href, id, placeholder, src, style, type_, value)
 import Html.Events exposing (onBlur, onClick, onInput)
 import Http
@@ -198,7 +199,7 @@ viewLoadingAvailableVerbs msg =
             div [] [ text "Failed to load verbs :(" ]
 
         Nothing ->
-            div [] [ text "Loading verbs..." ]
+            Components.Loading.viewLoading
 
 
 

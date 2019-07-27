@@ -1,21 +1,26 @@
 $primary: #cbd30e;
-
-//$primary: #787d23;
 $secondary: #95b6e3;
 $primary-invert: #000;
 
-$card-footer-border-top: 0;
 $body-background-color: #fafafa;
 
-$navbar-height: 4rem;
 $family-sans-serif: 'Source Sans Pro', sans-serif;
-//$family-sans-serif: 'Poppins', sans-serif;
+
+$navbar-height: 4rem;
 $navbar-item-color: #fff;
 $navbar-dropdown-background-color: #000;
 $navbar-dropdown-item-active-background-color: #000;
 $navbar-divider-background-color: #000;
 $navbar-background-color: #000;
+$navbar-breakpoint: 0; // since we don't have many items, a hamburguer is not really needed
 
+$progress-border-radius: 0;
+
+$card-footer-border-top: 0;
+
+// custom variables
 $fancy-font: 'Poppins', sans-serif;
+$column-gap: 0.75rem !default;
 
-$navbar-breakpoint: 0;
+// animate-sass
+$use-shake: true;

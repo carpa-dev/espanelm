@@ -10,6 +10,10 @@ load a =
     Http.get { url = "/verbs/list.json", expect = Http.expectJson a decoder }
 
 
+
+--    Http.get { url = " http://deelay.me/20000/verbs/list.json", expect = Http.expectJson a decoder }
+
+
 decoder : Decoder (List String)
 decoder =
     list string

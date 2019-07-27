@@ -2,11 +2,14 @@
 
 @import 'variables.scss';
 
+// bulma
 @import '../node_modules/bulma/sass/utilities/_all.sass';
 @import '../node_modules/bulma/sass/base/_all.sass';
 @import '../node_modules/bulma/sass/elements/button.sass';
 @import '../node_modules/bulma/sass/elements/container.sass';
 @import '../node_modules/bulma/sass/elements/title.sass';
+@import '../node_modules/bulma/sass/elements/progress.sass';
+@import '../node_modules/bulma/sass/elements/other.sass';
 @import '../node_modules/bulma/sass/form/_all.sass';
 
 // components
@@ -14,10 +17,14 @@
 @import '../node_modules/bulma/sass/components/panel.sass';
 @import '../node_modules/bulma/sass/components/card.sass';
 @import '../node_modules/bulma/sass/components/message.sass';
+@import '../node_modules/bulma/sass/components/modal.sass';
 
 // layout
 @import '../node_modules/bulma/sass/layout/section.sass';
 @import '../node_modules/bulma/sass/grid/columns.sass';
 
-@import 'custom.scss';
+// animations
+@import '../node_modules/animate-sass/animate';
+
 @import 'animations.scss';
+@import 'custom.scss';

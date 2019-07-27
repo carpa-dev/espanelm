@@ -1,3 +1,48 @@
+/*!
+Animate.css - http://daneden.me/animate
+Licensed under the MIT license - http://opensource.org/licenses/MIT
+Copyright (c) 2015 Daniel Eden
+*/
+body {
+  -webkit-backface-visibility: hidden; }
+
+.animated, .wrong {
+  -webkit-animation-duration: calc( 1s);
+  animation-duration: calc( 1s);
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both; }
+  .animated.infinite, .infinite.wrong {
+    animation-iteration-count: infinite; }
+  .animated.hinge, .hinge.wrong {
+    -webkit-animation-duration: calc( 1s * 2);
+    animation-duration: calc( 1s * 2); }
+  .animated.bounceIn, .bounceIn.wrong, .animated.bounceOut, .bounceOut.wrong {
+    -webkit-animation-duration: calc( 1s * 0.75);
+    animation-duration: calc( 1s * 0.75); }
+  .animated.flipOutX, .flipOutX.wrong, .animated.flipOutY, .flipOutY.wrong {
+    -webkit-animation-duration: calc( 1s * 0.75);
+    animation-duration: calc( 1s * 0.75); }
+
+@-webkit-keyframes shake {
+  0%, 100% {
+    -webkit-transform: translateX(0); }
+  10%, 30%, 50%, 70%, 90% {
+    -webkit-transform: translateX(-10px); }
+  20%, 40%, 60%, 80% {
+    -webkit-transform: translateX(10px); } }
+
+@keyframes shake {
+  0%, 100% {
+    transform: translateX(0); }
+  10%, 30%, 50%, 70%, 90% {
+    transform: translateX(-10px); }
+  20%, 40%, 60%, 80% {
+    transform: translateX(10px); } }
+
+.shake, .wrong {
+  -webkit-animation-name: shake;
+  animation-name: shake; }
+
 .card.game-card {
   max-width: 401px;
   margin: 0 auto; }
@@ -8,23 +53,34 @@
 .game-card .field-label {
   flex-grow: 0; }
 
+.home-hero, .home-hero::before {
+  height: calc(100vh - 4rem); }
+
 .home-hero {
-  height: calc(100vh - 52px);
   background-color: #95b6e3; }
 
 .home-hero::before {
   content: '';
-  height: calc(100vh - 52px);
   display: block;
   position: absolute;
   width: 100%;
-  background: url("/silhoute_green_cropped.png") no-repeat;
+  background: url("/silhouette.png") no-repeat;
   background-size: cover;
   background-position: center top;
-  filter: brightness(60%); }
+  filter: brightness(60%);
+  animation: fade-slide-up 1s 0s cubic-bezier(0.09, 1.02, 0.66, 0.83) forwards;
+  opacity: 0; }
+
+@keyframes fade-slide-up {
+  0% {
+    opacity: 0;
+    transform: translateY(2rem); }
+  100% {
+    opacity: 1;
+    transform: none; } }
 
 .home-hero .hero-body {
-  position: relative; }
+  padding: 0 0.75rem; }
 
 .home-hero {
   display: flex;
@@ -35,8 +91,60 @@
   color: white;
   font-size: 3rem;
   font-weight: 600;
-  margin-bottom: 0; }
+  text-transform: lowercase; }
+
+.appear-animation, .hero-body .title, .hero-body .subtitle a,
+.hero-body .subtitle span,
+.hero-body .button {
+  animation: pop-in 0.5s 0.5s ease-out forwards;
+  opacity: 0; }
+
+.hero-body .subtitle a {
+  animation-delay: 1.3s !important; }
+
+.hero-body .subtitle span {
+  animation-delay: 2s; }
+
+.hero-body .button {
+  animation-delay: 2.7s; }
+
+@keyframes pop-in {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1;
+    transform: none; } }
+
+.hero-body .subtitle {
+  font-size: 1.2rem;
+  color: #ffffffb3; }
+  .hero-body .subtitle a {
+    text-decoration: underline; }
+
+.home-page {
+  background-color: #95b6e3; }
 
 .home-page .navbar {
-  background-color: transparent;
   box-shadow: none !important; }
+
+.navbar,
+.home-hero .title {
+  font-family: "Poppins", sans-serif; }
+
+.navbar {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem; }
+
+.navbar.is-transparent {
+  background-color: transparent; }
+
+.loading-wrapper {
+  opacity: 0;
+  animation: dummy 0.5s ease-out forwards;
+  animation-delay: 1s; }
+
+@keyframes dummy {
+  from {
+    opacity: 0; }
+  to {
+    opacity: 1; } }
