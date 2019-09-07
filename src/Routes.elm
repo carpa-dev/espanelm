@@ -7,6 +7,7 @@ import Url.Parser as Parser exposing (Parser)
 type Route
     = Home
     | Play
+    | Translate
 
 
 match : Url -> Maybe Route
@@ -19,6 +20,7 @@ routes =
     Parser.oneOf
         [ Parser.map Home Parser.top
         , Parser.map Play (Parser.s "play")
+        , Parser.map Translate (Parser.s "translate")
         ]
 
 
@@ -31,3 +33,5 @@ toUrl route =
         Play ->
             "/play"
 
+        Translate ->
+            "/translate"

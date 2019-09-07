@@ -9,6 +9,7 @@ import Html.Attributes exposing (class, href)
 import Html.Events exposing (onClick)
 import NotFound
 import Routes
+import Translate
 import Url exposing (Url)
 
 
@@ -20,6 +21,7 @@ type Page
     = Home
     | Game
     | NotFound
+    | Translate
 
 
 type alias Model =
@@ -27,6 +29,7 @@ type alias Model =
     , key : Nav.Key
     , isMenuOpen : Bool
     , gameModel : Game.Model
+    , translateModel : Translate.Model
     }
 
 
@@ -36,6 +39,7 @@ initialModel navigationKey =
     , key = navigationKey
     , isMenuOpen = False
     , gameModel = Game.init
+    , translateModel = Translate.init
     }
 
 
@@ -52,6 +56,7 @@ type Msg
     = LinkClicked Browser.UrlRequest
     | UrlChanged (Maybe Routes.Route)
     | GameMsg Game.Msg
+    | TranslateMsg Translate.Msg
     | ToggleMenu
 
 
@@ -63,6 +68,9 @@ setNewPage maybeRoute model =
 
         Just Routes.Play ->
             ( { model | page = Game }, Cmd.map GameMsg (Game.initCmd model.gameModel) )
+
+        Just Routes.Translate ->
+            ( { model | page = Translate }, Cmd.map TranslateMsg Translate.initCmd )
 
         Nothing ->
             ( { model | page = NotFound }, Cmd.none )
@@ -89,6 +97,13 @@ update msg model =
             in
             ( { model | page = Game, gameModel = pageModel }, Cmd.map GameMsg pageCmd )
 
+        ( TranslateMsg translateMsg, _ ) ->
+            let
+                ( pageModel, pageCmd ) =
+                    Translate.update translateMsg model.translateModel
+            in
+            ( { model | page = Translate, translateModel = pageModel }, Cmd.none )
+
         ( ToggleMenu, _ ) ->
             ( { model | isMenuOpen = not model.isMenuOpen }, Cmd.none )
 
@@ -108,6 +123,9 @@ viewContent model =
 
         NotFound ->
             NotFound.view
+
+        Translate ->
+            Translate.view model.translateModel |> Html.map TranslateMsg
 
 
 view : Model -> Browser.Document Msg
@@ -199,6 +217,9 @@ pageToClass page =
 
         NotFound ->
             "not-found-page"
+
+        Translate ->
+            "translate-page"
 
 
 navbarClass : Page -> String
