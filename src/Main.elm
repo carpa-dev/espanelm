@@ -146,13 +146,12 @@ viewNavbar model =
         [ div [ class "container" ]
             [ div [ class "navbar-brand" ]
                 [ a [ class "navbar-item", href <| Routes.toUrl Routes.Home ] [ text "espanelm" ]
-
-                -- , viewMenuButton model
                 ]
             , div [ class (withMenuClass "navbar-menu" model) ]
                 [ div [ class "navbar-end" ]
                     [ a [ class (navbarItemClass model isHomePage), href <| Routes.toUrl Routes.Home ] [ text "Home" ]
                     , a [ class (navbarItemClass model isGamePage), href <| Routes.toUrl Routes.Play ] [ text "Play" ]
+                    , a [ class (navbarItemClass model isGamePage), href <| Routes.toUrl Routes.Translate ] [ text "Translate" ]
                     ]
                 ]
             ]

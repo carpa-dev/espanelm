@@ -295,3 +295,18 @@
     }
   }
 }
+
+.finished-translation {
+  .box {
+    position: relative;
+  }
+  .tag {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  p {
+    margin-bottom: 2rem;
+  }
+}
