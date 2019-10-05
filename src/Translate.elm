@@ -1,7 +1,7 @@
 module Translate exposing (Model, Msg, init, initCmd, update, view)
 
-import Html exposing (Html, a, button, div, h1, input, li, p, section, span, text, textarea, ul)
-import Html.Attributes exposing (class, disabled, href, placeholder, value)
+import Html exposing (Html, a, button, div, figure, footer, h1, h4, header, img, input, li, p, section, span, text, textarea, ul)
+import Html.Attributes exposing (class, disabled, href, placeholder, src, value)
 import Html.Events exposing (onClick, onInput)
 import Http
 import Json.Decode as Decode exposing (Decoder, float, int, list, nullable, string)
@@ -17,7 +17,9 @@ type alias Article =
 
 
 type alias Articles =
-    { ptbr : Article
+    { publishedAt : Int
+    , image : String
+    , ptbr : Article
     , es : Article
     }
 
@@ -26,9 +28,14 @@ type alias ArticlesList =
     List Articles
 
 
+type TranslationType
+    = EsToPtbr
+    | PtBrToEs
+
+
 type alias Translation =
-    { spanishArticle : Article
-    , portugueseArticle : Article
+    { originalArticle : Article
+    , translatedArticle : Article
     , currentIndex : Int
     , answer : String
     , answers : List String
@@ -72,7 +79,7 @@ init =
 
 type Msg
     = GotNews (Result Http.Error ArticlesList)
-    | ClickedTitle Articles
+    | ClickedStartTranslation Articles TranslationType
     | TypedTranslation String
     | ReviewAnswer Translation
     | Continue Translation
@@ -84,10 +91,11 @@ initCmd =
     load GotNews
 
 
-initTranslation : Articles -> Translation
-initTranslation articles =
-    { spanishArticle = articles.es
-    , portugueseArticle = articles.ptbr
+initTranslation : Articles -> TranslationType -> Translation
+initTranslation articles translationType =
+    -- original -> translated are flipped here
+    { originalArticle = getOriginalArticle translationType articles
+    , translatedArticle = getTargetArticle translationType articles
 
     -- TODO:
     -- Technically the array will never be empty
@@ -108,8 +116,8 @@ update msg model =
                 Err a ->
                     ( { model | data = LoadError }, Cmd.none )
 
-        ClickedTitle article ->
-            ( { model | translation = Started (initTranslation article) }, Cmd.none )
+        ClickedStartTranslation article translationType ->
+            ( { model | translation = Started (initTranslation article translationType) }, Cmd.none )
 
         TypedTranslation typed ->
             case model.translation of
@@ -147,7 +155,7 @@ update msg model =
 
 hasFinished : Translation -> Bool
 hasFinished t =
-    List.length t.spanishArticle.body <= t.currentIndex
+    List.length t.originalArticle.body <= t.currentIndex
 
 
 
@@ -157,7 +165,7 @@ hasFinished t =
 view : Model -> Html Msg
 view model =
     section [ class "section" ]
-        [ div [ class "container" ]
+        [ div [ class "container full-height" ]
             [ case model.data of
                 LoadError ->
                     viewLoadError model
@@ -166,7 +174,7 @@ view model =
                     viewMain model a
 
                 NotLoaded ->
-                    div [] [ text "Loading..." ]
+                    div [] []
             ]
         ]
 
@@ -217,10 +225,10 @@ viewCurrentTranslation : Translation -> Html Msg
 viewCurrentTranslation t =
     let
         paragraph =
-            valueAtOrDefault "Nothing else left" t.currentIndex t.spanishArticle.body
+            valueAtOrDefault "Nothing else left" t.currentIndex t.originalArticle.body
 
         totalParagraph =
-            List.length t.spanishArticle.body |> String.fromInt
+            List.length t.originalArticle.body |> String.fromInt
 
         currentParagraph =
             String.fromInt <| t.currentIndex + 1
@@ -237,7 +245,7 @@ getReference playingStatus translation =
             ""
 
         PSReviewing ->
-            valueAtOrDefault "Nothing else left" translation.currentIndex translation.portugueseArticle.body
+            valueAtOrDefault "Nothing else left" translation.currentIndex translation.translatedArticle.body
 
 
 getActionButton : PlayingStatus -> Translation -> Html Msg
@@ -259,8 +267,9 @@ viewTranslationGame playingStatus translation =
         actionButton =
             getActionButton playingStatus translation
     in
-    div []
-        [ viewCurrentTranslation translation
+    div [ class "full-height translations-wrapper" ]
+        [ h1 [ class "title" ] [ text translation.originalArticle.title ]
+        , viewCurrentTranslation translation
         , div [ class "columns" ]
             [ div [ class "column" ]
                 [ div [ class "field" ]
@@ -302,7 +311,7 @@ viewFinishedTranslation finishedTranslation =
                 [ div [ class "box" ]
                     [ span [ class "tag is-primary" ] [ text "Reference" ]
                     , div []
-                        (List.map (\t -> p [] [ text t ]) finishedTranslation.portugueseArticle.body)
+                        (List.map (\t -> p [] [ text t ]) finishedTranslation.translatedArticle.body)
                     ]
                 ]
             ]
@@ -312,18 +321,66 @@ viewFinishedTranslation finishedTranslation =
 
 viewArticlesList : ArticlesList -> Html Msg
 viewArticlesList articlesList =
-    ul [ class "list is-hoverable" ]
-        (List.map
-            (\articles ->
-                a [ class "list-item", href "#", onClick (ClickedTitle articles) ] [ text (articles.es.title ++ " (" ++ (String.fromInt <| List.length articles.es.body) ++ " paragraphs)") ]
-            )
-            articlesList
-        )
+    div [ class "article-list" ]
+        [ h4 [ class "title" ] [ text "Brazilian Portuguese to Spanish" ]
+        , ul [ class "list is-hoverable" ]
+            [ div [ class "columns is-multiline" ]
+                (List.map
+                    (viewArticleInList PtBrToEs)
+                    articlesList
+                )
+            ]
+        ]
+
+
+viewArticleInList : TranslationType -> Articles -> Html Msg
+viewArticleInList translationType articles =
+    div [ class "column is-one-third" ]
+        [ div [ class "card article-card" ]
+            [ div [ class "card-image" ]
+                [ figure [ class "image is-4by3" ]
+                    [ img [ src articles.image ] []
+                    ]
+                ]
+            , div [ class "card-content" ]
+                [ p [ class "title is-6" ] [ text (getOriginalArticle translationType articles).title ]
+                , viewHowManyParagraphs (getOriginalArticle translationType articles)
+                ]
+            , footer [ class "card-footer" ]
+                [ button [ class "button is-primary is-fullwidth is-medium", onClick (ClickedStartTranslation articles translationType) ] [ text "START" ]
+                ]
+            ]
+        ]
+
+
+viewHowManyParagraphs : Article -> Html Msg
+viewHowManyParagraphs article =
+    p [ class "subtitle is-6" ] [ text ((String.fromInt <| List.length article.body) ++ " paragraph(s)") ]
 
 
 viewLoadError : Model -> Html Msg
 viewLoadError model =
     h1 [] [ text "Failed to load data" ]
+
+
+getOriginalArticle : TranslationType -> Articles -> Article
+getOriginalArticle translationType articles =
+    case translationType of
+        PtBrToEs ->
+            articles.ptbr
+
+        EsToPtbr ->
+            articles.es
+
+
+getTargetArticle : TranslationType -> Articles -> Article
+getTargetArticle translationType articles =
+    case translationType of
+        PtBrToEs ->
+            articles.es
+
+        EsToPtbr ->
+            articles.ptbr
 
 
 
@@ -354,6 +411,8 @@ individualArticleDec =
 articlesDecoder : Decoder Articles
 articlesDecoder =
     Decode.succeed Articles
+        |> required "publishedAt" int
+        |> required "image" string
         |> required "ptbr"
             individualArticleDec
         |> required "es"

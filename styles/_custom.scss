@@ -310,3 +310,61 @@
     margin-bottom: 2rem;
   }
 }
+
+// article page
+.translate-page {
+  main {
+    // use all available height
+    min-height: calc(100vh - 4rem);
+    display: flex;
+  }
+
+  .column {
+    padding: 2rem;
+  }
+
+  // make all cards have the same height
+  .article-list .column {
+    display: flex;
+  }
+  .article-card {
+    width: 360px;
+  }
+
+  /* make footer be at the bottom */
+  .article-card {
+    display: flex;
+    flex-direction: column;
+
+    .card-content {
+      flex: 1;
+    }
+  }
+
+  .article-card button {
+    border-radius: 0;
+    padding: 10px 0;
+    height: auto;
+  }
+
+  .full-height {
+    height: 100%;
+  }
+
+  // trnaslation boxes spam to all available height in screen
+  // this needs a refactor
+  .translations-wrapper {
+    display: flex;
+    flex-direction: column;
+
+    .columns {
+      flex: 1;
+
+      .field,
+      .control,
+      textarea {
+        height: 100%;
+      }
+    }
+  }
+}
