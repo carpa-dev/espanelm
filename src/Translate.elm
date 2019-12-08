@@ -82,6 +82,7 @@ type Msg
     | ClickedStartTranslation Articles TranslationType
     | TypedTranslation String
     | ReviewAnswer Translation
+    | RedoAnswer Translation
     | Continue Translation
     | ClickedBackToList
 
@@ -138,6 +139,14 @@ update msg model =
             in
             ( { model | translation = newTranslation }, Cmd.none )
 
+        RedoAnswer t ->
+            -- rollback last answer
+            let
+                newTranslation =
+                    Started { t | answers = removeLast t.answers, answer = "" }
+            in
+            ( { model | translation = newTranslation }, Cmd.none )
+
         Continue t ->
             let
                 newTranslation =
@@ -156,6 +165,20 @@ update msg model =
 hasFinished : Translation -> Bool
 hasFinished t =
     List.length t.originalArticle.body <= t.currentIndex
+
+
+removeLast : List string -> List string
+removeLast t =
+    let
+        reversed =
+            List.reverse t
+    in
+    case reversed of
+        [] ->
+            []
+
+        h :: tail ->
+            List.reverse tail
 
 
 
@@ -252,10 +275,20 @@ getActionButton : PlayingStatus -> Translation -> Html Msg
 getActionButton playingStatus translation =
     case playingStatus of
         PSPlaying ->
-            button [ class "button is-primary", onClick <| ReviewAnswer translation ] [ text "Compare answer" ]
+            div [ class "field is-grouped" ]
+                [ div [ class "control" ] [ button [ disabled True, class "button", onClick <| RedoAnswer translation ] [ text "Try again" ] ]
+                , div [ class "control is-fullwidth is-expanded" ]
+                    [ button [ class "button is-primary is-fullwidth", onClick <| ReviewAnswer translation ] [ text "Compare Answer" ]
+                    ]
+                ]
 
         PSReviewing ->
-            button [ class "button is-primary", onClick <| Continue translation ] [ text "Next paragraph" ]
+            div [ class "field is-grouped" ]
+                [ div [ class "control" ] [ button [ class "button", onClick <| RedoAnswer translation ] [ text "Try again" ] ]
+                , div [ class "control is-fullwidth is-expanded" ]
+                    [ button [ class "button is-primary is-fullwidth", onClick <| Continue translation ] [ text "Next paragraph" ]
+                    ]
+                ]
 
 
 viewTranslationGame : PlayingStatus -> Translation -> Html Msg
