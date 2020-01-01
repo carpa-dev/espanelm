@@ -2,9 +2,8 @@
 
 set -euo pipefail
 
-SCRIPT_DIR="$(dirname "$(readlink -f "$0")")"
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 ROOT_DIR="$(realpath $SCRIPT_DIR/..)"
-
 
 init() {
 	if [ -z "$ESPANELM_DEPLOY_USER_ID" ]; then
