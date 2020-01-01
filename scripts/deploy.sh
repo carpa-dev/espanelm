@@ -21,9 +21,6 @@ init() {
 main() {
 	init
 
-	npm run build --prefix="$ROOT_DIR"
-
-	set -x
 	export AWS_ACCESS_KEY_ID="$ESPANELM_DEPLOY_USER_ID"
 	export AWS_SECRET_ACCESS_KEY="$ESPANELM_DEPLOY_SECRET"
 

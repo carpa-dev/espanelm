@@ -1,0 +1,17 @@
+name: espanelm-app
+on:
+  push:
+    branches:
+      - master
+      - infrastructure # TODO: just for testing
+
+jobs:
+  build:
+    name: espanelm-app
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: ./
+        env:
+          ESPANELM_DEPLOY_SECRET: ${{ secrets.ESPANELM_DEPLOY_SECRET }}
+          ESPANELM_DEPLOY_USER_ID: ${{ secrets.ESPANELM_DEPLOY_USER_ID }}
