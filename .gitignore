@@ -15,3 +15,10 @@ node_modules
 
 styles/*.css
 public/news.json
+
+# terraform
+.terraform
+*.tfstate*
+
+
+.envrc

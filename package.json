@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "build": "elm-app build",
+    "build": "npm run build-css && elm-app build",
     "build-css": "node-sass-chokidar styles/ -o styles/",
     "watch-css": "npm run build-css && node-sass-chokidar styles/ -o styles/ --watch --recursive",
     "dev": "concurrently 'npm run watch-css' 'elm-app start'"
