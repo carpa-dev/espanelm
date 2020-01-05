@@ -1,5 +1,6 @@
 module Translate exposing (Model, Msg, init, initCmd, update, view)
 
+import Date exposing (format, fromPosix)
 import Html exposing (Html, a, button, div, figure, footer, h1, h4, header, img, input, li, p, section, span, text, textarea, ul)
 import Html.Attributes exposing (class, disabled, href, placeholder, src, value)
 import Html.Events exposing (onClick, onInput)
@@ -7,6 +8,7 @@ import Http
 import Json.Decode as Decode exposing (Decoder, float, int, list, nullable, string)
 import Json.Decode.Pipeline exposing (hardcoded, optional, required)
 import List.Extra
+import Time exposing (millisToPosix, utc)
 
 
 type alias Article =
@@ -17,7 +19,7 @@ type alias Article =
 
 
 type alias Articles =
-    { publishedAt : Int
+    { publishedAt : PosixSeconds
     , image : String
     , ptbr : Article
     , es : Article
@@ -26,6 +28,10 @@ type alias Articles =
 
 type alias ArticlesList =
     List Articles
+
+
+type PosixSeconds
+    = PosixSeconds Int
 
 
 type TranslationType
@@ -112,7 +118,11 @@ update msg model =
         GotNews r ->
             case r of
                 Ok a ->
-                    ( { model | data = Loaded a }, Cmd.none )
+                    let
+                        sorted =
+                            List.sortWith sortByDateDesc a
+                    in
+                    ( { model | data = Loaded sorted }, Cmd.none )
 
                 Err a ->
                     ( { model | data = LoadError }, Cmd.none )
@@ -377,6 +387,7 @@ viewArticleInList translationType articles =
                 ]
             , div [ class "card-content" ]
                 [ p [ class "title is-6" ] [ text (getOriginalArticle translationType articles).title ]
+                , viewDate articles
                 , viewHowManyParagraphs (getOriginalArticle translationType articles)
                 ]
             , footer [ class "card-footer" ]
@@ -384,6 +395,15 @@ viewArticleInList translationType articles =
                 ]
             ]
         ]
+
+
+viewDate : Articles -> Html Msg
+viewDate article =
+    let
+        date =
+            article.publishedAt |> Debug.log "ms" |> posixSecondsToMs |> millisToPosix |> Debug.log "posix" |> Time.toYear utc |> Debug.log "year"
+    in
+    p [ class "subtitle is-6" ] [ text (article.publishedAt |> posixSecondsToMs |> millisToPosix |> fromPosix utc |> format "EEEE, d MMMM y") ]
 
 
 viewHowManyParagraphs : Article -> Html Msg
@@ -433,6 +453,11 @@ decoder =
     list string
 
 
+posixSecondsDecoder : Decoder PosixSeconds
+posixSecondsDecoder =
+    Decode.map PosixSeconds int
+
+
 individualArticleDec : Decoder Article
 individualArticleDec =
     Decode.succeed Article
@@ -444,7 +469,7 @@ individualArticleDec =
 articlesDecoder : Decoder Articles
 articlesDecoder =
     Decode.succeed Articles
-        |> required "publishedAt" int
+        |> required "publishedAt" posixSecondsDecoder
         |> required "image" string
         |> required "ptbr"
             individualArticleDec
@@ -455,3 +480,18 @@ articlesDecoder =
 listArticlesDecoder : Decoder (List Articles)
 listArticlesDecoder =
     Decode.list articlesDecoder
+
+
+sortByDateDesc : Articles -> Articles -> Order
+sortByDateDesc a b =
+    compare (posixSecondsToInt b.publishedAt) (posixSecondsToInt a.publishedAt)
+
+
+posixSecondsToInt : PosixSeconds -> Int
+posixSecondsToInt (PosixSeconds s) =
+    s
+
+
+posixSecondsToMs : PosixSeconds -> Int
+posixSecondsToMs (PosixSeconds s) =
+    s * 1000
