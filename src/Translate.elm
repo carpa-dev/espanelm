@@ -401,7 +401,7 @@ viewDate : Articles -> Html Msg
 viewDate article =
     let
         date =
-            article.publishedAt |> Debug.log "ms" |> posixSecondsToMs |> millisToPosix |> Debug.log "posix" |> Time.toYear utc |> Debug.log "year"
+            article.publishedAt |> posixSecondsToMs |> millisToPosix |> Time.toYear utc
     in
     p [ class "subtitle is-6" ] [ text (article.publishedAt |> posixSecondsToMs |> millisToPosix |> fromPosix utc |> format "EEEE, d MMMM y") ]
 
