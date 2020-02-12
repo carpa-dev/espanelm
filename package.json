@@ -10,7 +10,8 @@
     "build": "npm run build-css && elm-app build",
     "build-css": "node-sass-chokidar styles/ -o styles/",
     "watch-css": "npm run build-css && node-sass-chokidar styles/ -o styles/ --watch --recursive",
-    "dev": "concurrently 'npm run watch-css' 'elm-app start'"
+    "dev": "concurrently 'npm run watch-css' 'elm-app start'",
+    "test": "elm-test"
   },
   "repository": {
     "type": "git",
@@ -33,6 +34,7 @@
     "animate-sass": "^0.8.2",
     "concurrent": "^0.3.2",
     "concurrently": "^4.1.1",
-    "create-elm-app": "^3.2.1"
+    "create-elm-app": "^4.2.1",
+    "elm-test": "^0.19.1-revision2"
   }
 }
