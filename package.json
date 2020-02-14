@@ -12,6 +12,7 @@
     "watch-css": "npm run build-css && node-sass-chokidar styles/ -o styles/ --watch --recursive",
     "dev": "concurrently 'npm run watch-css' 'elm-app start'",
     "test": "elm-test",
+    "elm": "elm",
     "test:watch": "elm-test --watch"
   },
   "repository": {

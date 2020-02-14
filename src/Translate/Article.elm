@@ -1,4 +1,4 @@
-module Translate.Article exposing (Article, Articles, decode, decodeList, individualArticleDec)
+module Translate.Article exposing (Article, Articles, decode, decodeList, individualArticleDec, sortByDateDesc)
 
 import Date exposing (format, fromPosix)
 import Json.Decode as Decode exposing (Decoder, float, int, list, nullable, string)

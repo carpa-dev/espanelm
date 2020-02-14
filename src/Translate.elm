@@ -1,4 +1,4 @@
-module Translate exposing (Model, Msg, foobar, init, initCmd, update, view)
+module Translate exposing (Model, Msg, init, initCmd, update, view)
 
 import Date exposing (format, fromPosix)
 import Html exposing (Html, a, button, div, figure, footer, h1, h4, header, img, input, li, p, section, span, text, textarea, ul)
@@ -9,15 +9,8 @@ import Json.Decode as Decode exposing (Decoder, float, int, list, nullable, stri
 import Json.Decode.Pipeline exposing (hardcoded, optional, required)
 import List.Extra
 import Time exposing (millisToPosix, utc)
-import Translate.Article exposing (Article)
-
-
-type alias Articles =
-    { publishedAt : PosixSeconds
-    , image : String
-    , ptbr : Article
-    , es : Article
-    }
+import Translate.Article as Article exposing (Article, Articles, sortByDateDesc)
+import Translate.Paragraph as Paragraph
 
 
 type alias ArticlesList =
@@ -70,6 +63,11 @@ type DataStatus
     | Loaded ArticlesList
 
 
+type Difficulty
+    = Normal
+    | Hard
+
+
 init : Model
 init =
     { data = NotLoaded
@@ -79,7 +77,7 @@ init =
 
 type Msg
     = GotNews (Result Http.Error ArticlesList)
-    | ClickedStartTranslation Articles TranslationType
+    | ClickedStartTranslation Difficulty Articles TranslationType
     | TypedTranslation String
     | ReviewAnswer Translation
     | RedoAnswer Translation
@@ -92,11 +90,11 @@ initCmd =
     load GotNews
 
 
-initTranslation : Articles -> TranslationType -> Translation
-initTranslation articles translationType =
+initTranslation : Difficulty -> Articles -> TranslationType -> Translation
+initTranslation difficulty articles translationType =
     -- original -> translated are flipped here
-    { originalArticle = getOriginalArticle translationType articles
-    , translatedArticle = getTargetArticle translationType articles
+    { originalArticle = getOriginalArticle translationType articles |> adaptToDifficulty difficulty
+    , translatedArticle = getTargetArticle translationType articles |> adaptToDifficulty difficulty
 
     -- TODO:
     -- Technically the array will never be empty
@@ -121,8 +119,8 @@ update msg model =
                 Err a ->
                     ( { model | data = LoadError }, Cmd.none )
 
-        ClickedStartTranslation article translationType ->
-            ( { model | translation = Started (initTranslation article translationType) }, Cmd.none )
+        ClickedStartTranslation difficulty article translationType ->
+            ( { model | translation = Started (initTranslation difficulty article translationType) }, Cmd.none )
 
         TypedTranslation typed ->
             case model.translation of
@@ -191,7 +189,7 @@ removeLast t =
 
 view : Model -> Html Msg
 view model =
-    section [ class "section" ]
+    section [ class "container section" ]
         [ div [ class "container full-height" ]
             [ case model.data of
                 LoadError ->
@@ -385,24 +383,47 @@ viewArticleInList translationType articles =
                 , viewHowManyParagraphs (getOriginalArticle translationType articles)
                 ]
             , footer [ class "card-footer" ]
-                [ button [ class "button is-primary is-fullwidth is-medium", onClick (ClickedStartTranslation articles translationType) ] [ text "START" ]
+                [ button [ class "button is-fullwidth is-medium", onClick (ClickedStartTranslation Hard articles translationType) ] [ text "Hard" ]
+                , button [ class "button is-primary is-fullwidth is-medium", onClick (ClickedStartTranslation Normal articles translationType) ] [ text "Normal" ]
                 ]
             ]
         ]
+
+
+viewPlayButtons : Articles -> TranslationType -> Html Msg
+viewPlayButtons a translationType =
+    let
+        hasNormalMode =
+            Paragraph.areArticleBodyEquivalent a.ptbr.body a.es.body
+
+        hardButton =
+            button [ class "button is-fullwidth is-medium", onClick (ClickedStartTranslation Hard a translationType) ] [ text "Hard" ]
+
+        normalButton =
+            button [ class "button is-primary is-fullwidth is-medium", onClick (ClickedStartTranslation Normal a translationType) ] [ text "Normal" ]
+    in
+    if hasNormalMode then
+        div [] [ hardButton, normalButton ]
+
+    else
+        div [] [ hardButton ]
 
 
 viewDate : Articles -> Html Msg
 viewDate article =
     let
         date =
-            article.publishedAt |> posixSecondsToMs |> millisToPosix |> Time.toYear utc
+            article.publishedAt |> Time.toYear utc
     in
-    p [ class "subtitle is-6" ] [ text (article.publishedAt |> posixSecondsToMs |> millisToPosix |> fromPosix utc |> format "EEEE, d MMMM y") ]
+    p [ class "subtitle is-6" ] [ text (article.publishedAt |> fromPosix utc |> format "EEEE, d MMMM y") ]
 
 
 viewHowManyParagraphs : Article -> Html Msg
 viewHowManyParagraphs article =
-    p [ class "subtitle is-6" ] [ text ((String.fromInt <| List.length article.body) ++ " paragraph(s)") ]
+    div []
+        [ p [ class "subtitle is-6" ] [ text ((String.fromInt <| List.length <| Paragraph.breakArticleBody article.body) ++ " phrase(s)") ]
+        , p [ class "subtitle is-6" ] [ text ((String.fromInt <| List.length article.body) ++ " paragraph(s)") ]
+        ]
 
 
 viewLoadError : Model -> Html Msg
@@ -430,6 +451,16 @@ getTargetArticle translationType articles =
             articles.ptbr
 
 
+adaptToDifficulty : Difficulty -> Article -> Article
+adaptToDifficulty difficulty article =
+    case difficulty of
+        Hard ->
+            article
+
+        Normal ->
+            { article | body = Paragraph.breakArticleBody article.body }
+
+
 
 -- Http loading
 
@@ -438,65 +469,5 @@ load : (Result Http.Error (List Articles) -> msg) -> Cmd msg
 load a =
     Http.get
         { url = "/news.json"
-        , expect = Http.expectJson a listArticlesDecoder
+        , expect = Http.expectJson a Article.decodeList
         }
-
-
-decoder : Decoder (List String)
-decoder =
-    list string
-
-
-posixSecondsDecoder : Decoder PosixSeconds
-posixSecondsDecoder =
-    Decode.map PosixSeconds int
-
-
-individualArticleDec : Decoder Article
-individualArticleDec =
-    Decode.succeed Article
-        |> required "lang" string
-        |> required "title" string
-        |> required "body" (list string)
-
-
-articlesDecoder : Decoder Articles
-articlesDecoder =
-    Decode.succeed Articles
-        |> required "publishedAt" posixSecondsDecoder
-        |> required "image" string
-        |> required "ptbr"
-            individualArticleDec
-        |> required "es"
-            individualArticleDec
-
-
-listArticlesDecoder : Decoder (List Articles)
-listArticlesDecoder =
-    Decode.list articlesDecoder
-
-
-sortByDateDesc : Articles -> Articles -> Order
-sortByDateDesc a b =
-    compare (posixSecondsToInt b.publishedAt) (posixSecondsToInt a.publishedAt)
-
-
-posixSecondsToInt : PosixSeconds -> Int
-posixSecondsToInt (PosixSeconds s) =
-    s
-
-
-posixSecondsToMs : PosixSeconds -> Int
-posixSecondsToMs (PosixSeconds s) =
-    s * 1000
-
-
-areParagraphsEquivalent : Articles -> Articles -> Bool
-areParagraphsEquivalent a b =
-    -- after breaking into periods, do they have the same length?
-    True
-
-
-foobar : Bool
-foobar =
-    True

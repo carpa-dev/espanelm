@@ -19,7 +19,7 @@ type alias ArticleBody =
 toLines : Paragraph -> List Phrase
 toLines s =
     -- remove last '. '
-    s |> sanitize |> String.split ". " |> List.filter (\a -> String.length a > 0)
+    s |> sanitize |> String.split ". " |> List.filter (\a -> String.length a > 1)
 
 
 sanitize : String -> String
@@ -46,4 +46,4 @@ areArticleBodyEquivalent a1 a2 =
 
 breakArticleBody : ArticleBody -> List Phrase
 breakArticleBody a1 =
-    List.map toLines a1 |> List.foldl (++) []
+    List.map toLines a1 |> List.foldr (++) []
