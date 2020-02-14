@@ -189,8 +189,8 @@ removeLast t =
 
 view : Model -> Html Msg
 view model =
-    section [ class "container section" ]
-        [ div [ class "container full-height" ]
+    section [ class "translate-page container section" ]
+        [ div [ class "full-height" ]
             [ case model.data of
                 LoadError ->
                     viewLoadError model
@@ -303,7 +303,7 @@ viewTranslationGame playingStatus translation =
             getActionButton playingStatus translation
     in
     div [ class "full-height translations-wrapper" ]
-        [ h1 [ class "title" ] [ text translation.originalArticle.title ]
+        [ h1 [ class "title is-3 is-size-6-mobile" ] [ text translation.originalArticle.title ]
         , viewCurrentTranslation translation
         , div [ class "columns" ]
             [ div [ class "column" ]
