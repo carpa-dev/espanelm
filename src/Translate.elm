@@ -1,4 +1,4 @@
-module Translate exposing (Model, Msg, init, initCmd, update, view)
+module Translate exposing (Model, Msg, foobar, init, initCmd, update, view)
 
 import Date exposing (format, fromPosix)
 import Html exposing (Html, a, button, div, figure, footer, h1, h4, header, img, input, li, p, section, span, text, textarea, ul)
@@ -9,13 +9,7 @@ import Json.Decode as Decode exposing (Decoder, float, int, list, nullable, stri
 import Json.Decode.Pipeline exposing (hardcoded, optional, required)
 import List.Extra
 import Time exposing (millisToPosix, utc)
-
-
-type alias Article =
-    { lang : String
-    , title : String
-    , body : List String
-    }
+import Translate.Article exposing (Article)
 
 
 type alias Articles =
@@ -495,3 +489,14 @@ posixSecondsToInt (PosixSeconds s) =
 posixSecondsToMs : PosixSeconds -> Int
 posixSecondsToMs (PosixSeconds s) =
     s * 1000
+
+
+areParagraphsEquivalent : Articles -> Articles -> Bool
+areParagraphsEquivalent a b =
+    -- after breaking into periods, do they have the same length?
+    True
+
+
+foobar : Bool
+foobar =
+    True
