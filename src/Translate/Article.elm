@@ -38,7 +38,7 @@ decode : Decoder Articles
 decode =
     Decode.succeed Articles
         |> required "publishedAt" posixSecondsDecoder
-        |> required "image" string
+        |> optional "image" string "/placeholder.png"
         |> required "ptbr"
             individualArticleDec
         |> required "es"
